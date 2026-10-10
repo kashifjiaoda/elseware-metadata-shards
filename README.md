@@ -27,17 +27,25 @@ For each app, verify two things from primary sources and emit one CSV row per fi
 - `field=license` → the correct license badge (see taxonomy below)
 - `field=platforms` → the correct platform list (Windows, macOS, Linux, Android, iOS, Web)
 
-## Step 2 — THE TWO-HOUR RULE (strict, no exceptions)
+## Step 2 — PACE AND HEARTBEAT
 
-**A push MUST land in `shards/shard-N/` every 2 hours. No matter what happens.**
+**Speed: as fast as quality allows.** Verify as many batches as you can without
+compromising the result — max 50 apps per batch, push each batch when it is done.
+The 2-hour window is a heartbeat, not a speed limit.
 
-- Normal window: 50 apps verified → push the batch CSV.
-- Short window (rate limits, blocks, outages): push the rows you DID verify, and
+**Heartbeat (strict, no exceptions): a push MUST land in `shards/shard-N/`
+at least every 2 hours. No matter what happens.**
+
+- Batch finished → push the batch CSV.
+- No batch finished in the window → commit a `status-YYYY-MM-DD-HHMM.txt` in your
+  folder explaining where you are. The commit itself is your heartbeat.
+- Short batch (rate limits, blocks, outages): push the rows you DID verify, and
   report the shortfall to the coordinator. **Never invent rows to reach 50.**
-- Zero verified (total outage): commit a `status-YYYY-MM-DD-HHMM.txt` in your folder
-  explaining why. The commit itself is your heartbeat.
 - Silence is the only failure. A shard with no commit in 2.5 hours is flagged
   **STALE** and the coordinator is alerted to nudge you.
+
+**Rate limits:** if a source starts returning 429/403, back off — do not burn your
+hourly budget chasing speed. Switch to other sources or apps and retry later.
 
 ## Step 3 — THE GROUNDING RULE (strict, most important)
 
@@ -129,7 +137,7 @@ N = your shard number · date = Asia/Karachi (UTC+5) · M = your batch counter f
 ```bash
 git clone https://<YOUR_TOKEN>@github.com/kashifjiaoda/elseware-metadata-shards.git
 cd elseware-metadata-shards
-# every 2 hours:
+# before each push:
 git pull --rebase
 # write your CSV to shards/shard-N/elseware-metadata-corrections-shardN-YYYY-MM-DD-batchM.csv
 git add shards/shard-N/
