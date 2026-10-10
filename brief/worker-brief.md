@@ -20,7 +20,7 @@ The central repository is the single drop point. Push your CSV there; the team l
 (Pepper) pulls every 2 hours, validates, merges into the consolidated master, and
 tracks attendance from commit history.
 
-- Repo: (URL given separately — public GitHub repo `elseware-metadata-shards`)
+- Repo: https://github.com/kashifjiaoda/elseware-metadata-shards (public)
 - Push to YOUR folder only: `shards/shard-N/`
 - File name: `elseware-metadata-corrections-shardN-YYYY-MM-DD-batchM.csv`
   (N = your shard number, date = Asia/Karachi, M = your batch counter from 1)
