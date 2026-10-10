@@ -6,10 +6,13 @@ report. Your shard file lists ONLY the apps you verify — never touch another s
 This is how redundancy is avoided: disjoint shards, no shared queue.
 
 ## Your assignment
-1. Open your shard file (`metadata-correction-shard-Nof4.md`) — those apps, in order.
+1. Read your app list in the repo: `shards/shard-N/apps.md` (N = your shard number)
+   — those apps, in order. Also read `brief/worker-brief.md` (this file) for the rules.
 2. Verify each app's license badge + platforms from PRIMARY SOURCES ONLY.
-3. Work through your shard continuously. If the user is offline, keep working and
-   accumulate completed batches — never sit idle when you can continue.
+3. Work through your shard continuously, 50 apps per batch. Batch M covers apps
+   ((M-1)*50+1) through (M*50) of your list — no separate progress file needed.
+4. If the user is offline, keep working and accumulate completed batches — never sit
+   idle when you can continue.
 
 ## Batch cadence
 - **50 apps per batch**, one batch every **2 hours** (12 batches/day — same pace as the team lead's pipeline).
