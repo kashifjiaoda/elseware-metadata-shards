@@ -75,7 +75,7 @@ Beyond Compare,license,,Proprietary — paid,Perpetual per-user license; Standar
 Beyond Compare,platforms,,,,"Windows, macOS, Linux",http://www.scootersoftware.com/shop/pricing,live,Same official page: available for Windows; macOS; and several Linux distributions
 Meld,license,,Open source,GPL-2.0-or-later,,https://github.com/GNOME/meld,live,Canonical repo is gitlab.gnome.org/GNOME/meld; GitHub mirror README states licensed under GPL v2 or later
 Meld,platforms,,,,"Windows, macOS, Linux",https://meldmerge.org/,live,Official site: Linux packages and Flathub; Windows installer; macOS not yet officially supported but available via semi-official Homebrew/MacPorts builds
-KDiff3,license,,Open source,GPL-2.0-or-later,,https://sourceforge.net/projects/kdiff3/,live,KDE Invent repo blocked to direct fetch this run; GPL confirmed via project SourceForge listing plus Open Hub repo analysis (GPL v2.0 or later)
+KDiff3,license,,Open source,GPL-2.0-or-later,,https://github.com/KDE/kdiff3,live,"Source upgraded 2026-10-11: canonical KDE repo (GitHub mirror of invent.kde.org, which the README names as the repo home) fetched; sidebar detects GPL-2.0 and the README License section quotes the GPL 'version 2 or any later version' grant — GPL-2.0-or-later confirmed"
 KDiff3,platforms,,,,"Windows, macOS, Linux",https://download.kde.org/stable/kdiff3/,live,Official KDE download directory lists Windows exe; macOS dmg; Linux flatpak and source tarballs
 Kaleidoscope,license,,Proprietary — paid subscription,Subscription required; US$96/year for individuals (Kaleidoscope 5),,https://kaleidoscope.app/press,live,Official Leitmotif press page; older v3 was one-time purchase but current version is subscription-only
 Kaleidoscope,platforms,,,,macOS,https://kaleidoscope.app/press,live,Mac-only tool for Mac developers; requires macOS Ventura 13 or later per official press page
@@ -87,7 +87,7 @@ tig,license,,Open source,GPL-2.0-or-later,,https://github.com/jonas/tig,live,Git
 tig,platforms,,,,"Windows, macOS, Linux",https://github.com/jonas/tig/blob/master/INSTALL.adoc,live,Repo INSTALL.adoc covers macOS via Homebrew; Linux distro packages; Windows via Git for Windows bundle or Cygwin
 GitHub CLI,license,,Open source,MIT,,https://github.com/cli/cli/blob/trunk/LICENSE,live,Canonical cli/cli LICENSE file fetched; standard MIT License text
 GitHub CLI,platforms,,,,"Windows, macOS, Linux",https://github.com/cli/cli#installation,live,Repo README installation sections cover macOS; Linux and Unix; and Windows
-pre-commit,license,,Open source,MIT,,https://github.com/pre-commit/pre-commit,live,Direct repo page fetch timed out this run; MIT attribution for pre-commit/pre-commit confirmed on fetched repo-catalog mirrors of that repository
+pre-commit,license,,Open source,MIT,,https://github.com/pre-commit/pre-commit,live,Source upgraded 2026-10-11: canonical repo fetched directly; sidebar detects MIT License (MIT) and a LICENSE file sits in the repo root
 pre-commit,platforms,,,,"Windows, macOS, Linux",https://pre-commit.com/,live,Official docs site fetched; Python CLI installed via pip or as a zero-dependency zipapp
 Husky,license,,Open source,MIT,,https://github.com/typicode/husky,live,GitHub repo details for typicode/husky list MIT License (MIT); LICENSE file in repo root
 Husky,platforms,,,,"Windows, macOS, Linux",https://github.com/typicode/husky,live,Repo README Features section states support for macOS; Linux; and Windows
