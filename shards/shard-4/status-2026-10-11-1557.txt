@@ -1,0 +1,9 @@
+Shard 4 Phase-2 batch 21 COMPLETE (Shard 2 takeover).
+Pushed: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch21.csv (72 rows).
+41 of 50 apps verified (39 license-verified, 30 platform-verified across 5 chunks).
+9 skipped with reason: Chorma (delisted, App Store 404), FarFaria (official site unreachable, no whitelisted store URL),
+ST Math (licensing model ambiguous), unGlue (pricing only on aggregators), Anaqua (no pricing disclosed),
+Hub Family Calendar (no exact-name match on whitelisted sources), Justpoint + Lead Docket (conflicting third-party pricing, no official page).
+Assembly fix: dropped ComplyRight Windows platforms row (Windows grounded only on non-whitelisted sources, not official site/repo/app store).
+Schema-validated: 72 rows x 9 cols, valid badges, all live, platforms column empty on every row, zero aggregator/banned sources, no Open source claims this batch.
+Next: batch 22 (apps.md lines 1057-1106).
