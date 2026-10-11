@@ -1,0 +1,14 @@
+Shard 2 status — 2026-10-11 22:52 PKT (doing SHARD 4's Phase-2 expansion work)
+
+Batch 67 COMPLETE (apps.md lines 3307-3356):
+- 92 rows pushed (46 license + 46 platforms), 47 of 50 apps verified
+- 3 skipped: Vue Music Player (JS web-component repo only, not an installable app), C-Access (identity unresolvable, conflicting candidates), Panda Wiki (no exact store match, unresolvable)
+- License badges: 34 Proprietary — free, 8 freemium, 2 paid subscription, 2 Open source
+- Sources: Play (49 rows), App Store/iTunes (36), GitHub (3), official sites wynk.in, pomodo.id
+- Assembler spot-checks (2 OSS claims independently re-verified against raw license text — all confirmed, 0 corrections):
+  * SPlayer Next AGPL-3.0-only CONFIRMED — raw LICENSE on SPlayer-Dev/SPlayer-Next is verbatim AGPL v3; "or later" absent from raw text; README has no grant statement → conservative -only
+  * Flowerss Bot MIT CONFIRMED — raw LICENSE on indes/flowerss-bot master: standard MIT, Copyright (c) 2019 indes
+- Notable catches: Conexão Política license dropped (unofficial third-party app, brand-owner mismatch); Flowerss Bot = self-hosted Telegram RSS bot, no store listing; Marinha do Brasil freemium grounded on Play IAP markers (publisher is BR gov digital-services entity, not Navy directly); Bike Itaú iOS seller M2 Soluções (Tembici vendor) brand-owner mismatch; Jagran seller mismatch (Play Jagran Prakashan Ltd vs iOS MMI Online Pvt Ltd); MetrotvXtend iOS seller mismatch; Spoke = Circuit rebrand grounded in Play text; Pomodo.id = web platform, no mobile listings (platforms-only Web)
+- Commit: shard4 expansion batch67 - Shard 2 (92 insertions, on origin/main)
+
+NEXT: batch 68 (apps.md lines 3357-3406)
