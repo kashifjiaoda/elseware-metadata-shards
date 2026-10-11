@@ -1,0 +1,68 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Wesnoth 1.18,license,,Open source,GPL-2.0,,https://github.com/wesnoth/wesnoth,live,GitHub API spdx_id GPL-2.0 on wesnoth/wesnoth
+Wind Comic,license,,Open source,MIT,,https://github.com/ChrisChen667788/wind-comic,live,GitHub API spdx_id MIT on ChrisChen667788/wind-comic
+Wind Comic,platforms,,Web,,,https://github.com/ChrisChen667788/wind-comic,live,Next.js App Router web app per repo description
+Woof Doom,license,,Open source,GPL-2.0,,https://github.com/fabiangreffrath/woof,live,GitHub API spdx_id GPL-2.0 on fabiangreffrath/woof; continuation of Boom/MBF Doom source port line
+Xenia,license,,Open source,BSD-3-Clause,,https://raw.githubusercontent.com/xenia-project/xenia/master/LICENSE,live,raw LICENSE verified as BSD-3-Clause text (Copyright Ben Vanik; GitHub API returned NOASSERTION)
+Xterm,license,,Open source,MIT,,https://raw.githubusercontent.com/ThomasDickey/xterm-snapshots/master/COPYING,live,raw COPYING verified as MIT license text (Thomas E. Dickey / X Consortium)
+Yet Another Anime Game Launcher,license,,Open source,MIT,,https://github.com/yaagl/yet-another-anime-game-launcher,live,GitHub API spdx_id MIT on yaagl/yet-another-anime-game-launcher
+youtube-dl,license,,Open source,Unlicense,,https://github.com/ytdl-org/youtube-dl,live,GitHub API spdx_id Unlicense; archived upstream (yt-dlp is active fork)
+youtube-dl,platforms,,"Windows, macOS, Linux",,,https://github.com/ytdl-org/youtube-dl,live,Python CLI; install docs cover Windows/macOS/Linux
+スポナビ 野球速報,license,,Proprietary — free,Yahoo Japan Corporation; 無料 (free),,https://apps.apple.com/jp/app/id720087913,live,App Store JP listing; seller Yahoo Japan Corporation
+スポナビ 野球速報,platforms,,iOS,,,https://apps.apple.com/jp/app/id720087913,live,App Store JP listing
+디지털온누리,license,,Proprietary — free,KOMSCO; 무료 (free),,https://apps.apple.com/kr/app/id6738372450,live,App Store KR listing; seller KOMSCO (Korea Minting and Security Printing Corp)
+디지털온누리,platforms,,iOS,,,https://apps.apple.com/kr/app/id6738372450,live,App Store KR listing
+스마트스코어,license,,Proprietary — free,Smartscore Co. Ltd.; 무료 (free),,https://apps.apple.com/kr/app/id969887573,live,App Store KR listing; golf score app
+스마트스코어,platforms,,iOS,,,https://apps.apple.com/kr/app/id969887573,live,App Store KR listing
+카카오페이,license,,Proprietary — free,"Kakao Pay Co., Ltd.; 무료 (free)",,https://apps.apple.com/kr/app/id1464496236,live,App Store KR listing
+카카오페이,platforms,,iOS,,,https://apps.apple.com/kr/app/id1464496236,live,App Store KR listing
+"하나은행, 새로워진 하나원큐를 경험해 보세요",license,,Proprietary — free,HANA BANK; 무료 (free),,https://apps.apple.com/kr/app/id6743190232,live,App Store KR listing
+"하나은행, 새로워진 하나원큐를 경험해 보세요",platforms,,iOS,,,https://apps.apple.com/kr/app/id6743190232,live,App Store KR listing
+Altcoin Prices,license,,Open source,GPL-3.0,,https://github.com/pecktech/altcoin-prices,live,README: entirely open source licensed under GPLv3; F-Droid eu.uwot.fabio.altcoinprices
+Altcoin Prices,platforms,,Android,,,https://github.com/pecktech/altcoin-prices,live,Android app; F-Droid listing
+Autometer,license,,Open source,GPL-3.0,,https://github.com/tkraus13/vtrack/blob/HEAD/CLAUDE.md,live,VTrack renamed to Autometer Aug 2026; GPL-3.0 license added; F-Droid submitted
+Autometer,platforms,,Android,,,https://github.com/tkraus13/vtrack/blob/HEAD/CLAUDE.md,live,Android vehicle fuel/maintenance tracker
+Bagels,license,,Open source,GPL-3.0,,https://github.com/EnhancedJax/Bagels/,live,GitHub API spdx_id GPL-3.0; terminal expense tracker
+Bagels,platforms,,"Windows, macOS, Linux",,,https://github.com/EnhancedJax/Bagels/,live,Install via uv on macOS/Linux/Windows; also brew/pipx/conda
+Birchflow,license,,Open source,GPL-3.0-or-later,,https://flathub.org/en/apps/io.github.toCase.Birchflow,live,Flathub io.github.toCase.Birchflow project license GPL-3.0-or-later
+Birchflow,platforms,,Linux,,,https://flathub.org/en/apps/io.github.toCase.Birchflow,live,Flathub Linux app; document and contract management
+Bitcoin Core,license,,Open source,MIT,,https://github.com/bitcoin/bitcoin,live,GitHub API spdx_id MIT
+Bitcoin Core,platforms,,"Windows, macOS, Linux",,,https://github.com/bitcoin/bitcoin,live,README: runs on Linux Windows macOS
+Bitcoin-Safe,license,,Open source,GPL-3.0,,https://github.com/andreasgriffin/bitcoin-safe,live,GitHub API spdx_id GPL-3.0; README license badge GPL v3
+Bitcoin-Safe,platforms,,"Windows, macOS, Linux",,,https://github.com/andreasgriffin/bitcoin-safe,live,Desktop cold-storage multisig wallet; official site lists Windows macOS Linux downloads
+Blockstream,license,,Open source,GPL-3.0,,https://github.com/blockstream/green_android,live,Blockstream Green wallet apps green_android/green_ios spdx_id GPL-3.0; green_qt desktop also GPL-3.0
+Blockstream,platforms,,"Android, iOS",,,https://github.com/blockstream/green_android,live,Blockstream Green mobile wallet; desktop via green_qt
+Brume Wallet,license,,Open source,MIT,,https://github.com/brume256/wallet,live,brumeproject/wallet moved to brume256/wallet; GitHub API spdx_id MIT
+Brume Wallet,platforms,,"Web, Android, iOS",,,https://github.com/brume256/wallet,live,README: website browser extension and mobile app (Android apk iOS ipa); private Ethereum wallet with Tor
+Budget Tracker Tui,license,,Open source,GPL-3.0,,https://github.com/Feromond/budget-tracker-tui,live,GitHub API spdx_id GPL-3.0; Rust Ratatui terminal budget tracker
+Budget Tracker Tui,platforms,,"Windows, macOS, Linux",,,https://github.com/Feromond/budget-tracker-tui,live,README: runs on Windows macOS and Linux
+CajuScan,license,,Open source,MIT,Android,https://github.com/marotoweb/cajuscan_app,live,GitHub API spdx_id MIT; repo description: Android app for scanning QR codes (ATCUD) on Portuguese invoices
+CajuScan,platforms,,Android,,,https://github.com/marotoweb/cajuscan_app,live,Repo description states Android application
+Cardabase,license,,Open source,MIT,Android,https://github.com/GeorgeYT9769/cardabase-app,live,GitHub API spdx_id MIT; repo description: Android app for saving loyalty cards
+Cardabase,platforms,,Android,,,https://github.com/GeorgeYT9769/cardabase-app,live,Repo description states Android app
+Catima — Loyalty Card Wallet,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/en/packages/me.hackerchick.catima/,live,F-Droid listing: GNU General Public License v3.0 or later
+Catima — Loyalty Card Wallet,platforms,,Android,,,https://f-droid.org/en/packages/me.hackerchick.catima/,live,F-Droid Android app listing
+Clench Wallet,license,,Open source,MIT,Android,https://github.com/clenchwallet/clench-wallet,live,GitHub API spdx_id MIT; README confirms non-custodial Bitcoin wallet
+Clench Wallet,platforms,,Android,,,https://github.com/clenchwallet/clench-wallet,live,README: Bitcoin-only non-custodial on-chain wallet for Android
+Contasimple Desktop,license,,Proprietary — freemium,,Windows; Linux; macOS,https://snapcraft.io/install/contasimple/ubuntu,live,Snap Store: free plan plus paid plans from 7.95 EUR/month; packagestore lists License Type: Commercial
+Contasimple Desktop,platforms,,Windows; Linux; macOS,,,https://snapcraft.io/install/contasimple/ubuntu,live,Desktop client applications for Windows Linux or Mac OS
+Crescent Cash,license,,Open source,MIT,Android,http://f-droid.org/packages/app.crescentcash.src/,live,F-Droid listing: License MIT; non-custodial Bitcoin Cash wallet
+Crescent Cash,platforms,,Android,,,http://f-droid.org/packages/app.crescentcash.src/,live,F-Droid Android app listing
+cryptowatch-myl0g,license,,Open source,MIT,Linux,https://snapcraft.io/install/cryptowatch-myl0g/fedora,live,Snap Store details: License MIT; CLI for tracking crypto prices and balances
+cryptowatch-myl0g,platforms,,Linux,,,https://snapcraft.io/install/cryptowatch-myl0g/fedora,live,Snap package installable on Linux distributions
+Dime App,license,,Open source,GPL-3.0,iOS,https://github.com/rafsoh/dimeApp,live,GitHub API spdx_id GPL-3.0; README: 100% free open-source personal finance tracker
+Dime App,platforms,,iOS,,,https://github.com/rafsoh/dimeApp,live,README links App Store download; built with iOS design guidelines
+emercoin-tpaw,license,,Open source,MIT,,https://snapcraft.io/emercoin-tpaw,live,License: MIT per Snap Store; Emercoin blockchain services snap
+emercoin-tpaw,platforms,,Linux,,,https://snapcraft.io/emercoin-tpaw,live,Snap package for Linux distros
+Eqonomize,license,,Open source,GPL-3.0,,https://github.com/eqonomize/eqonomize,live,GitHub license API spdx_id GPL-3.0; personal accounting (cross-platform Qt)
+Eqonomize,platforms,,Windows;Linux;macOS,,,https://github.com/eqonomize/eqonomize,live,Cross-platform Qt app; README build instructions cover Windows (nmake) and Unix (make install)
+Fava,license,,Open source,MIT,,https://github.com/beancount/fava,live,GitHub license API spdx_id MIT; web interface for Beancount
+Fava,platforms,,Web,,,https://github.com/beancount/fava,live,Web interface for Beancount (self-hosted)
+Fishing Funds,license,,Open source,GPL-3.0,,https://github.com/1zilc/fishing-funds,live,GitHub license API spdx_id GPL-3.0; Chinese fund/stock/crypto menubar ticker (Electron)
+Fishing Funds,platforms,,macOS;Windows;Linux,,,https://github.com/1zilc/fishing-funds,live,Snap Store description: supports macOS / Windows / Linux clients
+Freetime Maker Shop,license,,Open source,Apache-2.0,,https://github.com/FreetimeMaker/Freetime-Maker-Shop,live,GitHub license API spdx_id Apache-2.0; Snap Store freetimemaker-fms also Apache-2.0
+Freetime Maker Shop,platforms,,Linux;Web,,,https://github.com/FreetimeMaker/Freetime-Maker-Shop,live,Linux snap (freetimemaker-fms); shop runs as web storefront
+Gas Prices,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/org.woheller69.spritpreise/,live,F-Droid org.woheller69.spritpreise: GNU General Public License v3.0 only
+Gas Prices,platforms,,Android,,,https://f-droid.org/en/packages/org.woheller69.spritpreise/,live,F-Droid listed Android app (German gas station prices)
+Ghostfolio,license,,Open source,AGPL-3.0,,https://github.com/ghostfolio/ghostfolio,live,GitHub license API spdx_id AGPL-3.0; open source wealth management software
+Ghostfolio,platforms,,Web,,,https://github.com/ghostfolio/ghostfolio,live,Self-hosted web app (Angular + NestJS)
