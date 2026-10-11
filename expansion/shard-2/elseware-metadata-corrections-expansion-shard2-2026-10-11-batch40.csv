@@ -1,0 +1,98 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+QuorumPony,license,,Open source,Apache-2.0,"Windows, macOS, Linux",https://github.com/norsehorse-dev/QuorumPonyDesktop,live,Desktop member of QuorumPony suite (norsehorse-dev/QuorumPonyDesktop); README builds dmg/deb/exe
+QuorumPony,platforms,,"Windows, macOS, Linux",,,https://github.com/norsehorse-dev/QuorumPonyDesktop,live,"README: packageDmg (macOS), packageDeb (Linux), Windows exe with quorumpony-cli.exe"
+Setup Ipsec VPN,license,,Open source,CC-BY-SA-3.0,Linux,https://github.com/hwdsl2/setup-ipsec-vpn,live,README License section + raw LICENSE.md: Creative Commons Attribution-ShareAlike 3.0 Unported
+Setup Ipsec VPN,platforms,,Linux,,,https://github.com/hwdsl2/setup-ipsec-vpn,live,Shell scripts that set up an IPsec VPN server; Linux server-side
+Steam Desktop Authenticator,license,,Open source,MIT,Windows,https://github.com/Jessecar96/SteamDesktopAuthenticator,live,GitHub API spdx_id MIT; README: desktop implementation of Steam mobile authenticator
+Steam Desktop Authenticator,platforms,,Windows,,,https://github.com/Jessecar96/SteamDesktopAuthenticator,live,README: Supports Windows 10 and up
+Team Pass,license,,Open source,GPL-3.0,Web,https://github.com/nilsteampassnet/TeamPass,live,GitHub API spdx_id GPL-3.0; collaborative passwords manager
+Team Pass,platforms,,Web,,,https://github.com/nilsteampassnet/TeamPass,live,Self-hosted PHP/MySQL app with Docker image; runs on own server
+Vaultwarden,license,,Open source,AGPL-3.0,Web,https://github.com/dani-garcia/vaultwarden,live,GitHub API spdx_id AGPL-3.0; unofficial Bitwarden-compatible server in Rust
+Vaultwarden,platforms,,Web,,,https://github.com/dani-garcia/vaultwarden,live,Self-hosted server via Docker; accessed through web clients
+Windows Security,license,,Proprietary — free,,Windows,https://learn.microsoft.com/en-us/windows/security/,live,Built-in Windows security app; no separate purchase
+Windows Security,platforms,,Windows,,,https://learn.microsoft.com/en-us/windows/security/,live,Pre-installed on Windows
+XKCD Password Generator,license,,Open source,BSD-3-Clause,Web,https://github.com/redacted/XKCD-password-generator,live,GitHub API spdx_id BSD-3-Clause; multiword passphrase generator inspired by XKCD
+XKCD Password Generator,platforms,,Web,,,https://github.com/redacted/XKCD-password-generator,live,Static web tool; runs in browser
+Zxcvbn4j,license,,Open source,MIT,,https://github.com/nulab/zxcvbn4j,live,GitHub API spdx_id MIT; Java port of zxcvbn password-strength estimator
+Boohoo,license,,Proprietary — free,,"iOS, Android",https://www.boohoo.com,live,Official site links App Store (id1018236462) and Google Play apps; free shopping app
+Boohoo,platforms,,"iOS, Android",,,https://www.boohoo.com,live,Official site: apps.apple.com + play.google.com store links
+DealSeek,license,,Proprietary — free,Free download,,https://www.dealseek.com,live,DealSeek LLC coupon app; free; official site lists Android App Store and Google Play apps
+DealSeek,platforms,,"iOS, Android",,,https://www.dealseek.com,live,Official site references Android App Store and Google Play apps
+Flipp,license,,Proprietary — free,Free download,,https://flipp.com,live,Flipp Corporation grocery deals app; free; official site lists App Store and Google Play
+Flipp,platforms,,"iOS, Android",,,https://flipp.com,live,Official site references App Store and Google Play apps
+Joom,license,,Proprietary — free,Free download,,https://play.google.com/store/apps/details?id=com.joom&hl=en-gb&gl=kh,live,Joom marketplace app; Play Store listing: download for free; iOS listing: Joom. Shopping for every day by Joom free
+Joom,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.joom&hl=en-gb&gl=kh,live,Google Play listing com.joom; Apple App Store listing for iOS
+Nike,license,,Proprietary — free,Free download,,https://play.google.com/store/apps/details?hl=en&id=com.nike.omega&referrer=singular_click_id=e45f37a9-ad14-49fc-8bb5-ed6078de51b6&utm_source=Organic+Banner,live,Nike Inc shopping app; free on Google Play and Apple App Store
+Nike,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?hl=en&id=com.nike.omega&referrer=singular_click_id=e45f37a9-ad14-49fc-8bb5-ed6078de51b6&utm_source=Organic+Banner,live,Google Play listing com.nike.omega by Nike Inc; Apple App Store listing for iOS
+Quince,license,,Proprietary — free,Free download,,https://www.quince.com,live,Lastbrand Inc luxury essentials shopping app; free; official site references Android and iOS apps
+Quince,platforms,,"iOS, Android",,,https://www.quince.com,live,Official site references Android and iOS apps
+しまむらパーク,license,,Proprietary — free,Free download,,https://play.google.com/store/apps/details?id=biz.shopup.shimamura,live,SHIMAMURA CO. LTD. official shopping app; free on Google Play and Japan App Store
+しまむらパーク,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=biz.shopup.shimamura,live,Google Play listing biz.shopup.shimamura; Apple App Store Japan exact-name listing
+淘宝-万能的淘宝！,license,,Proprietary — free,Free download,,https://play.google.com/store/apps/details?id=com.taobao.taobao&hl=en_GB,live,Alibaba Taobao marketplace app; free on Google Play; China App Store exact-name listing by Zhejiang Taobao Network Co. Ltd free
+淘宝-万能的淘宝！,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.taobao.taobao&hl=en_GB,live,Google Play listing com.taobao.taobao; Apple App Store China exact-name listing
+온라인 패션 스토어 무신사,license,,Proprietary — free,Free download,,https://play.google.com/store/apps/details?id=com.musinsa.store&hl=en_IE,live,MUSINSA Co. Ltd fashion shopping app; free on Google Play and Apple App Store
+온라인 패션 스토어 무신사,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.musinsa.store&hl=en_IE,live,Google Play exact-name listing com.musinsa.store; Apple App Store MUSINSA listing
+A. O. Smith,license,,Proprietary — free,Free download,,https://play.google.com/store/apps/details?id=com.aosmith.icomm&hl=en_US,live,A. O. Smith iCOMM water heater app; free on Google Play and Apple App Store
+A. O. Smith,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.aosmith.icomm&hl=en_US,live,Google Play listing com.aosmith.icomm; Apple App Store iCOMM Connectivity by A. O. Smith
+AiDot,license,,Proprietary — free,Free download,,https://play.google.com/store/apps/details?id=com.iotsolution.aidot&hl=en-US,live,AiDot Inc smart home app; free on Google Play and Apple App Store; official aidotapp.com: free app from App Store or Google Play
+AiDot,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.iotsolution.aidot&hl=en-US,live,Google Play listing com.iotsolution.aidot; Apple App Store AiDot by AiDot Inc; official site confirms both stores
+Aladdin Connect,license,,Proprietary — free,Free download; proprietary company app,,https://apps.apple.com/us/app/aladdin-connect/id1024722275,live,"Overhead Door Corporation garage-door companion app; App Store listing 'Aladdin Connect', Free"
+Aladdin Connect,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/aladdin-connect/id1024722275,live,App Store listing + Google Play listing verified
+Anova,license,,Proprietary — free,Free download; proprietary company app,,https://apps.apple.com/us/app/anova-culinary/id959638683,live,"Anova Culinary LLC sous-vide companion app; App Store listing 'Anova Culinary', Free"
+Anova,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/anova-culinary/id959638683,live,App Store listing + Google Play listing verified
+Awair,license,,Proprietary — free,Free download; proprietary company app,,https://apps.apple.com/us/app/awair-home-breathe-easy/id1034660006,live,"Bitfinder Inc. air-quality companion app; App Store listing 'Awair Home - Breathe Easy', Free"
+Awair,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/awair-home-breathe-easy/id1034660006,live,App Store listing + Google Play listing verified
+Blueair,license,,Proprietary — free,Free download; proprietary company app,,https://apps.apple.com/us/app/blueair/id1016299342,live,"Blueair AB purifier companion app; App Store listing 'Blueair', Free"
+Blueair,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/blueair/id1016299342,live,App Store listing + Google Play listing verified
+Cielo Home,license,,Proprietary — free,Free download; proprietary company app,,https://apps.apple.com/us/app/cielo-home/id1030282555,live,"Cielo WiGle Inc smart-thermostat companion app; App Store listing 'Cielo Home', Free"
+Cielo Home,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/cielo-home/id1030282555,live,App Store listing + Google Play listing verified
+Crestron,license,,Proprietary — free,Free download; proprietary company app,,https://apps.apple.com/us/app/crestron-home/id1466827669,live,"Crestron Electronics flagship home-automation app; App Store listing 'Crestron Home', Free; crestron.com leads with Crestron Home"
+Crestron,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/crestron-home/id1466827669,live,App Store listing + Google Play listing verified
+Dreamehome,license,,Proprietary — free,Free download; proprietary company app,,https://apps.apple.com/us/app/dreamehome/id1564419343,live,"Dreame Innovation Technology robot-vacuum companion app; App Store listing 'Dreamehome', Free"
+Dreamehome,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/dreamehome/id1564419343,live,App Store listing + Google Play listing verified
+Fi,license,,Proprietary — free,Free download; proprietary company app,,https://apps.apple.com/us/app/fi-gps-dog-tracker/id1438036784,live,"Barking Labs Corp. GPS dog-tracker companion app; App Store listing 'Fi - GPS Dog Tracker', Free"
+Fi,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/fi-gps-dog-tracker/id1438036784,live,App Store listing + Google Play listing verified
+Foscam,license,,Proprietary — free,Free download; proprietary company app,,https://apps.apple.com/us/app/foscam/id924381688,live,"Official Foscam camera companion app; foscam.com instructs users to search 'Foscam App' which returns this exact-name App Store listing, Free"
+Foscam,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/foscam/id924381688,live,App Store listing + Google Play listing verified
+Haiku Home,license,,Proprietary — free,Free download; proprietary company app,,https://apps.apple.com/us/app/haiku-by-baf-retired/id902021647,live,"Delta T LLC (Big Ass Fans) Haiku fan companion app; App Store listing 'Haiku by BAF (Retired)', Free; listing states it was replaced by the 'Big Ass Fans' app"
+Haiku Home,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/haiku-by-baf-retired/id902021647,live,App Store listing + Google Play listing verified
+Hydrawise,license,,Proprietary — free,Companion app for Hunter irrigation controllers; free download,"iOS, Android",https://apps.apple.com/us/app/hydrawise/id1618847331?uo=4,live,App Store price $0.00; Android com.hunterindustries.hydrawise on Play Store
+Hydrawise,platforms,,"iOS, Android",,,https://hydrawise.com,live,Official site links both App Store and Play Store
+INKBIRD,license,,Proprietary — free,Companion app for Inkbird thermometers/hygrometers; free download,"iOS, Android",https://apps.apple.com/us/app/inkbird/id1589369968?uo=4,live,App Store price $0.00 by Shenzhen Inkbird Technology Co. Ltd.; Android com.inkbird.inkbirdapp on Play Store
+INKBIRD,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/inkbird/id1589369968?uo=4,live,App Store listing + Play Store com.inkbird.inkbirdapp
+JascoPro Series,license,,Proprietary — free,Companion app for Jasco smart home products; free download,"iOS, Android",https://apps.apple.com/us/app/jascopro-series/id1602400684?uo=4,live,App Store price $0.00 by Jasco Products company LLC; Android com.jascopro.smart on Play Store
+JascoPro Series,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/jascopro-series/id1602400684?uo=4,live,App Store listing + Play Store com.jascopro.smart
+La Marzocco Home,license,,Proprietary — free,Companion app for La Marzocco espresso machines; free download,"iOS, Android",https://apps.apple.com/us/app/la-marzocco/id6502044448?uo=4,live,"App Store name 'La Marzocco' by La Marzocco s.r.l., price $0.00; Android com.lamarzocco.app on Play Store"
+La Marzocco Home,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/la-marzocco/id6502044448?uo=4,live,App Store listing + Play Store com.lamarzocco.app
+Level Home,license,,Proprietary — free,Companion app for Level smart locks; free download,"iOS, Android",https://apps.apple.com/us/app/level-home/id1490027518?uo=4,live,App Store price $0.00 by Level Home Inc.; Android co.level.app on Play Store
+Level Home,platforms,,"iOS, Android",,,https://level.co,live,Official site links App Store and Play Store (co.level.app)
+MEATER,license,,Proprietary — free,Companion app for MEATER smart meat thermometers; free download,"iOS, Android",https://apps.apple.com/us/app/id1157416022?uo=4,live,"App Store name 'MEATER Smart Meat Thermometer' by Apption Labs Limited, price $0.00; Android com.apptionlabs.meater_app on Play Store"
+MEATER,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/id1157416022?uo=4,live,App Store listing + Play Store com.apptionlabs.meater_app
+My Leviton,license,,Proprietary — free,Companion app for Leviton smart home products; free download,"iOS, Android",https://apps.apple.com/us/app/my-leviton/id1133724539?uo=4,live,App Store price $0.00 by Leviton Manufacturing Co. Inc.; Android com.leviton.home on Play Store
+My Leviton,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/my-leviton/id1133724539?uo=4,live,App Store listing + Play Store com.leviton.home
+myQ,license,,Proprietary — free,Companion app for Chamberlain/LiftMaster garage doors; free download,"iOS, Android",https://apps.apple.com/us/app/myq-garage-access-control/id456282559?uo=4,live,"App Store name 'myQ Garage & Access Control' by The Chamberlain Group Inc., price $0.00; Android com.chamberlain.android.liftmaster.myq on Play Store"
+myQ,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/myq-garage-access-control/id456282559?uo=4,live,App Store listing + Play Store com.chamberlain.android.liftmaster.myq
+Nuki Smart Lock,license,,Proprietary — free,Companion app for Nuki smart locks; free download,"iOS, Android",https://apps.apple.com/us/app/nuki-smart-lock/id1044998081?uo=4,live,App Store price $0.00 by Nuki Home Solutions GmbH; Android io.nuki on Play Store
+Nuki Smart Lock,platforms,,"iOS, Android",,,https://nuki.io,live,Official site links App Store and Play Store (io.nuki)
+Pentair ScreenLogic,license,,Proprietary — free,Companion app for Pentair pool/spa equipment; free download,"iOS, Android",https://apps.apple.com/us/app/screenlogic-connect/id661530011?uo=4,live,"App Store name 'ScreenLogic Connect' by Pentair Water Pool and Spa Inc, price $0.00; Android com.pentair.pentairhome on Play Store"
+Pentair ScreenLogic,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/screenlogic-connect/id661530011?uo=4,live,App Store listing + Play Store com.pentair.pentairhome
+PurpleAir,license,,Proprietary — free,,,https://www.purpleair.com,live,No official mobile app (per PurpleAir community forum); official interface is the free web map PWA
+PurpleAir,platforms,,Web,,,https://www.purpleair.com,live,Web map at map.purpleair.com; no official mobile app
+Rain Bird,license,,Proprietary — free,,,https://apps.apple.com/us/app/rain-bird/id1060727082?uo=4,live,Free download; requires Rain Bird controller hardware
+Rain Bird,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/rain-bird/id1060727082?uo=4,live,Play Store package com.rainbird
+Schlage Home,license,,Proprietary — free,,,https://apps.apple.com/us/app/schlage-home/id1038212933?uo=4,live,Free download; requires Schlage smart lock hardware
+Schlage Home,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/schlage-home/id1038212933?uo=4,live,Play Store package com.allegion.leopard (Allegion is Schlage parent)
+SensorPush,license,,Proprietary — free,,,https://apps.apple.com/us/app/sensorpush/id1079618265?uo=4,live,Free download; requires SensorPush sensors
+SensorPush,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/sensorpush/id1079618265?uo=4,live,Play Store package com.cousins_sears.beaconthermometer
+SimpliSafe,license,,Proprietary — freemium,,,https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051?uo=4,live,Free self-monitoring tier; paid monitoring plans from $22.99/mo
+SimpliSafe,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051?uo=4,live,Play Store package com.simplisafe
+SmartTub,license,,Proprietary — free,,,https://apps.apple.com/us/app/smarttub/id1318260634?uo=4,live,Free download; requires SmartTub module (Jacuzzi)
+SmartTub,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/smarttub/id1318260634?uo=4,live,Play Store package com.jacuzzi.smarttub
+ThermoWorks,license,,Proprietary — free,,,https://apps.apple.com/us/app/thermoworks/id1503955408?uo=4,live,Free download; requires ThermoWorks devices
+ThermoWorks,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/thermoworks/id1503955408?uo=4,live,Play Store package com.thermoworks.thermoworks
+Tractive,license,,Proprietary — paid subscription,,,https://help.tractive.com/hc/en-us/articles/360001234649-Can-I-add-more-than-one-GPS-tracker-to-the-same-subscription-plan,live,Each tracker must be activated with its own subscription plan; plans from $5/mo
+Tractive,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/tractive-gps-for-dogs-and-cats/id921588809?uo=4,live,Play Store package com.tractive
+uHoo,license,,Proprietary — free,,,https://apps.apple.com/us/app/uhoo/id1084953997?uo=4,live,Free download; requires uHoo air quality monitor
+uHoo,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/uhoo/id1084953997?uo=4,live,Play Store package com.uhoo
+Vivint,license,,Proprietary — paid subscription,,,https://apps.apple.com/us/app/vivint/id734547946?uo=4,live,Requires active Vivint monitoring plan (from ~$25/mo); no free self-monitoring tier
+Vivint,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/vivint/id734547946?uo=4,live,Play Store package com.vivint.vivint
