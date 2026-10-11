@@ -1,0 +1,9 @@
+Shard 2 — Phase 1 COMPLETE
+Date: 2026-10-11
+App list: shards/shard-2/apps.md (1,286 apps)
+Batches pushed: 26 (batch1 through batch26)
+Unique apps verified: 1,144
+Total CSV rows: 2,246
+Skipped: ~142 apps (unverifiable from whitelisted sources, rate-limited, retired, or wrong product — skipped per accuracy directive, never guessed)
+Source rule compliance: batches 20-26 validated zero aggregator sources
+All batch files: shards/shard-2/elseware-metadata-corrections-shard2-2026-10-11-batchN.csv
