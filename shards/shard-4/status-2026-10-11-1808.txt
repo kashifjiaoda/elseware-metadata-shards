@@ -1,0 +1,9 @@
+Shard 4 Phase-2 batch 36 COMPLETE (Shard 2 takeover).
+Pushed: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch36.csv (58 rows).
+Apps verified: 33 of 50 (27 license-verified, 31 platform-verified, across 5 chunks).
+Skipped with reason (17): identity ambiguity — Guppy, Hebrew Calendar, Horizon Calendar, Hunyuan OCR (k2); Gemma 4, GLM OCR, Grove (k1); Interval Timer, Jarvis, Jottr, Kclock (k3); LLM Aided Ocr, Lumo, Many Notes, Mark Note, MainTask (k5); non-app entity — Hands On AI Engineering (curated repo, k2).
+Thin-grounding drops at assembly (1): Kod Explorer license row (README-only GPLv3+ claim vs GitHub NOASSERTION + dead license.txt 404); platforms row kept.
+Verifiers self-dropped: Ganxet, Giant Stopwatch, GoldenDict (README-vs-NOASSERTION conflict), Kunkun, Lawnchair (dual splits).
+Schema validation: 58 rows x 9 cols, 0 issues, valid badges, all live, platforms column empty on every row, whitelisted sources only.
+Notable: Habitica Android GPL-3.0-only (no or-later grant); I MCP MIT; Markor Apache-2.0 raw (was GPL); Mass Code AGPL-3.0-only; Kiwix GPL-3.0-or-later; Gnote GPL-3.0-or-later; Life Up Proprietary-paid (closed source since 2019); Namida flagged Source-available lineage precedent continues.
+Next: batch 37 (apps.md lines 1807-1856).
