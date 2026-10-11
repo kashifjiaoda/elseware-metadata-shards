@@ -1,0 +1,53 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Pixiv Source,platforms,,Android,,,https://github.com/windyhusky/pixivsource,live,"BookSource plugin for the Legado Android reader app; repo declares no license, so no license row"
+Pocket Storage Cleaner,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.pocket.storage.cleaner.sffps,live,Free with In-App Purchases marker and Contains ads
+Pocket Storage Cleaner,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.pocket.storage.cleaner.sffps,live,
+Pretub - Block ads on videos,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=redmix.browser,live,"Store title is Pretube - Block ads on videos; free with ads, no In-App Purchases"
+Pretub - Block ads on videos,platforms,,Android,,,https://play.google.com/store/apps/details?id=redmix.browser,live,
+Public Image Mirror,license,,Open source,Apache License 2.0,,https://github.com/DaoCloud/public-image-mirror,live,Container image mirror service; no end-user OS platform declared
+Resultado Eleições Politique,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=io.registraurna.app,live,Closed source election-results app using TSE public data; free with no IAP markers on Play Store
+Resultado Eleições Politique,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=io.registraurna.app,live,Play package io.registraurna.app; App Store id 1438157402 by Andre Mota (Free)
+RG Digital São Paulo,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=br.com.vidaas.sp,live,Official digital identity app of São Paulo Civil Police; free with no IAP markers on Play Store
+RG Digital São Paulo,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=br.com.vidaas.sp,live,"Play package br.com.vidaas.sp; iOS store title variant ""RG Digital SP - São Paulo"" id 1483279653"
+Rx FFmpeg,platforms,,Android,,,https://github.com/microshow/RxFFmpeg,live,Android audio-video processing framework based on FFmpeg 4.0; repo declares no license so no license row
+Sameer India's AQI,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.cpcb,live,Official CPCB National Air Quality Index app; free with no IAP markers on Play Store
+Sameer India's AQI,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.cpcb,live,Play package com.cpcb by Central Pollution Control Board; App Store id 1186664744 (Free)
+Scriptcat,license,,Open source,GPL-3.0,,https://github.com/scriptscat/scriptcat,live,Raw LICENSE is GNU General Public License Version 3 text; self-audited against primary source
+Scriptcat,platforms,,Web,,,https://github.com/scriptscat/scriptcat,live,Browser extension that executes userscripts (scriptscat/scriptcat)
+SelvaApp,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.gugarauj07.selvaapp,live,Amazon air-quality and fire monitoring app; free with no IAP markers on Play Store
+SelvaApp,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.gugarauj07.selvaapp,live,Play package com.gugarauj07.selvaapp; no exact-name iOS listing
+Shorin Arch Linux Guide,license,,Open source,CC-BY-SA-4.0,,https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide,live,Raw LICENSE is Creative Commons Attribution-ShareAlike 4.0 International; self-audited; documentation wiki with no end-user platform
+Smart Salik,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.salik.smartsalik,live,Official RTA Salik toll account app; Play Store shows In-App Purchases marker (app-info badge not ESRB descriptor)
+Smart Salik,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.salik.smartsalik,live,Play package com.salik.smartsalik; App Store id 912158362 by TRANSCORE LP (DUBAI BR) (Free)
+Sooq Cars - سوق كارز,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.royalworldtech.sooq_cars,live,GCC car marketplace by Royal World Technology SPC; free with no IAP markers on Play Store
+Sooq Cars - سوق كارز,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.royalworldtech.sooq_cars,live,Play package com.royalworldtech.sooq_cars; App Store id 6443697457 (Free)
+Sunlitt: Sun Tracker & Seeker,license,,Proprietary — freemium,App Store In-App Purchases section shows Yes,iOS,https://apps.apple.com/us/app/sunlitt-sun-tracker-seeker/id1628751457,live,Exact title match id 1628751457 by Flipping Hues Srls; no exact-name Android listing on Play
+Sunlitt: Sun Tracker & Seeker,platforms,,iOS,,,https://apps.apple.com/us/app/sunlitt-sun-tracker-seeker/id1628751457,live,No exact-name Play Store listing found
+Super Video Player,license,,Proprietary — free,Free price with no In-App Purchases section on App Store page,iOS,https://apps.apple.com/us/app/id1518161511,live,Exact title match id 1518161511 by Lionscope OU
+Super Video Player,platforms,,iOS,,,https://apps.apple.com/us/app/id1518161511,live,No exact-name Play Store listing found
+Storyboard Copilot,platforms,,Windows; macOS,,,https://github.com/henjicc/Storyboard-Copilot,live,README download instructions: Windows users download .exe and macOS users download .dmg (Tauri app); repo declares no license so no license row
+Tevi,license,,Proprietary — freemium,Play Store listing shows In-app purchases and Contains ads markers,Android; iOS,https://play.google.com/store/search?q=%22Tevi%22&c=apps,live,Play exact-title match by Tevi Corporation USA; iOS id 1613448814 by TEVI Corporation
+Tevi,platforms,,Android; iOS,,,https://play.google.com/store/search?q=%22Tevi%22&c=apps,live,Play exact-title match; iOS id 1613448814
+TikTokDownloader,license,,Open source,GPL-3.0,Windows; macOS,https://github.com/JoeanAmier/TikTokDownloader,live,Raw license file is GNU GPL v3 text; GitHub API reports GPL-3.0; README offers compiled releases for Mac OS and Windows 10 and above
+TikTokDownloader,platforms,,Windows; macOS,,,https://github.com/JoeanAmier/TikTokDownloader,live,README: compiled program downloads for Mac OS and Windows 10 and above
+Toast Fish,license,,Open source,MIT License,Windows,https://github.com/Uahh/ToastFish,live,Raw LICENSE is MIT text by Uahh; README shows license-MIT badge
+Toast Fish,platforms,,Windows,,,https://github.com/Uahh/ToastFish,live,README: Windows notification-area vocabulary app (.NET desktop)
+Trime,license,,Open source,GNU General Public License v3.0,Android,https://github.com/osfans/trime,live,Raw LICENSE text is GPL v3; Rime IME for Android (F-Droid + Google Play badges)
+Trime,platforms,,Android,,,https://github.com/osfans/trime,live,README download section lists F-Droid and Google Play (Android); no iOS/desktop builds
+UAE Wx,license,,Proprietary — free,,iOS,https://itunes.apple.com/search?term=UAE%20Wx&country=ae&media=software&limit=5,live,App Store id 6448694529 by National Center of Meteorology & Seismology; Free; features iosUniversal only (no IAP)
+UAE Wx,platforms,,iOS,,,https://itunes.apple.com/search?term=UAE%20Wx&country=ae&media=software&limit=5,live,App Store listing shows iPhone/iPad (iosUniversal); no Android package from whitelisted sources
+Universal Video View,license,,Open source,Apache License 2.0,,https://raw.githubusercontent.com/linsea/UniversalVideoView/master/README.md,live,README License section states Apache-2.0; no LICENSE file (GitHub API NOASSERTION); Android dev widget/library; not an end-user app — license-only row
+Virgin Mobile UAE,license,,Proprietary — free,,"Android, iOS",https://play.google.com/store/apps/details?id=com.virginmobile.uae&hl=en_ZA,live,Official telco app on Google Play (com.virginmobile.uae); App Store id 1198503948 by Virgin Mobile MEA; Free; no IAP features
+Virgin Mobile UAE,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.virginmobile.uae&hl=en_ZA,live,Play Store listing (Android) and App Store listing id 1198503948 (iOS) confirmed via iTunes lookup API
+Weather Frog: Local Forecast,license,,Proprietary — freemium,In-app purchases marker on Play Store listing,Android,https://play.google.com/store/apps/details?id=com.digitalchemy.weather.forecast.live.radar.free&hl=en_US,live,Developer Digitalchemy LLC
+Weather Frog: Local Forecast,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.digitalchemy.weather.forecast.live.radar.free&hl=en_US,live,Play Store details page
+Wind Input,license,,Open source,MIT License,Windows,https://github.com/huanfeng/WindInput,live,Repo README: source code under MIT license; Windows 10/11 and macOS 12+ downloads
+Wind Input,platforms,,Windows,,,https://github.com/huanfeng/WindInput,live,README install section: Windows 10/11 (64-bit) and macOS 12+ .pkg
+Wubi Lex,license,,Open source,MIT License,Windows,https://github.com/aardio/wubi-lex,live,Raw LICENSE text is MIT License Copyright (c) 2019 aardio
+Wubi Lex,platforms,,Windows,,,https://github.com/aardio/wubi-lex,live,WIN10/11 Microsoft Wubi code-table management tool
+Xime,license,,Open source,GPL-3.0,Android,https://github.com/ximeiorg/Xime,live,Raw LICENSE text is GNU General Public License Version 3
+Xime,platforms,,Android,,,https://github.com/ximeiorg/Xime,live,Android IME built on Rime engine per README
+Yr,license,,Proprietary — free,,Android,https://play.google.com/store/apps/details?id=no.nrk.yr&hl=en_US,live,Free download; no In-app purchases or Contains ads markers on Play listing
+Yr,platforms,,Android,,,https://play.google.com/store/apps/details?id=no.nrk.yr&hl=en_US,live,App Store id 490989206 (store title variant Yr.no) by Norsk Rikskringkasting As
+Zaply: IPTV Player Live TV,license,,Proprietary — free,,Android,https://play.google.com/store/apps/details?id=com.iptv.player.playlist.live.tv&hl=en_US,live,Contains ads marker; no In-app purchases marker on Play listing
+Zaply: IPTV Player Live TV,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.iptv.player.playlist.live.tv&hl=en_US,live,Play Store details page
