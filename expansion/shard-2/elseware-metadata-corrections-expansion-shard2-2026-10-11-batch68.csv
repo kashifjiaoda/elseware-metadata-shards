@@ -1,0 +1,41 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+"BiliBili -HD Anime, Videos",license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.bilibili.app.in,live,Closed-source official Bilibili app by BILIBILI SINGAPORE PTE. LTD.; Play listing shows In-App Purchases marker; price 0
+"BiliBili -HD Anime, Videos",platforms,,"Android, iOS",,,https://apps.apple.com/app/id1517062289,live,"Play com.bilibili.app.in (store title variant ""bilibili - Anime · Video HD"") + App Store id 1517062289 (Free)"
+Birthday Video Maker With Song,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=birthdayvideomakerwithsong.birthday.videomaker,live,Closed-source video maker; Play listing shows In-App Purchases marker; price 0; contains ads
+Birthday Video Maker With Song,platforms,,Android,,,https://play.google.com/store/apps/details?id=birthdayvideomakerwithsong.birthday.videomaker,live,Android only — no exact-name iOS listing found on App Store
+Drama Bloom,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.xygoopt.dramabloom,live,"Closed-source short drama app; Play exact-title listing price 0, no In-App Purchases marker; contains ads"
+Drama Bloom,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.xygoopt.dramabloom,live,Android only — no exact-name iOS listing found on App Store
+HXPhoto Picker,license,,Open source,MIT License (raw LICENSE text governs),iOS,https://raw.githubusercontent.com/SilenceLove/HXPhotoPicker/master/LICENSE,live,Open-source iOS photo picker library; GitHub API license field MIT confirmed against raw LICENSE text
+Intelbras ISIC Lite,license,,Proprietary — free,,,https://apps.apple.com/br/app/intelbras-isic-lite/id1323192678,live,"Closed-source security camera app by Intelbras S.A.; App Store BR price R$0.00,  no IAP keywords in listing"
+Intelbras ISIC Lite,platforms,,iOS,,,https://apps.apple.com/br/app/intelbras-isic-lite/id1323192678,live,iOS only — no exact-name Android listing found on Play Store
+Keyflow - mobile editing app,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.angkin.keyflow,live,Free download; Play listing shows In-app purchases marker
+Keyflow - mobile editing app,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.angkin.keyflow,live,Android (Play com.angkin.keyflow); no exact-name iOS listing found
+Kwikpic - Smart Photo Sharing,license,,Proprietary — free,,,https://apps.apple.com/us/app/kwikpic-smart-photo-sharing/id1635944378,live,"Closed-source by Kwikpic Ai Solutions Private Limited; App Store price $0.00,  no IAP keywords"
+Kwikpic - Smart Photo Sharing,platforms,,iOS,,,https://apps.apple.com/us/app/kwikpic-smart-photo-sharing/id1635944378,live,iOS only — no exact-name Android listing found on Play Store
+Live Photo Camera:Motion Photo,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.bitdance.livephoto.camera,live,Free download; Play listing shows In-app purchases + Contains ads markers
+Live Photo Camera:Motion Photo,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.bitdance.livephoto.camera,live,Android (Play com.bitdance.livephoto.camera); no exact-name iOS listing found
+mAst Lite Video Editor & Maker,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.mast.lite.video.editor,live,Free download; Play listing shows no In-app purchases marker (Contains ads only)
+mAst Lite Video Editor & Maker,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.mast.lite.video.editor,live,Android (Play com.mast.lite.video.editor); no exact-name iOS listing found
+Micam,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=it.fieramilano.micam,live,Free closed-source app by Fiera Milano; Play listing shows no In-app purchases or Contains ads markers
+Micam,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6741161533,live,"Android (Play it.fieramilano.micam) + iOS (App Store id 6741161533 ""Micam 2026"" by FIERA MILANO SPA, Free)"
+Scary Smile Live Wallpaper,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.funsmile.wallpaper.scary,live,Free closed-source app; Play listing shows no In-app purchases markers (Contains ads only)
+Scary Smile Live Wallpaper,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6771274255,live,"Android (Play com.funsmile.wallpaper.scary) + iOS (App Store id 6771274255 by Khanh Thong Le, Free, no IAP features); platform versions published by different developers, noted"
+Umi OCR,license,,Open source,MIT License,,https://github.com/hiroi-sora/Umi-OCR,live,GitHub repo shows License: MIT License (MIT); README states all code open-source and free
+Umi OCR,platforms,,"Windows, Linux",,,https://github.com/hiroi-sora/Umi-OCR,live,README: Windows 7 x64 and above; Linux x64
+Video Downloader Deploy,platforms,,Windows,,,https://github.com/LussacZheng/video-downloader-deploy,live,One-click deployment batch script (Deploy.bat) for Windows; no license declared for the script itself so license row omitted
+Vue Fabric Editor,license,,Open source,MIT License,,https://github.com/dbdxwb/vue-fabric-editor,live,GitHub repo shows License: MIT License (MIT); README: Licensed under the MIT License
+Vue Fabric Editor,platforms,,Web,,,https://github.com/dbdxwb/vue-fabric-editor,live,Web-based image editor (live preview at ikuaitu.github.io); open-source version is front-end only with a paid Enterprise edition
+Ykdl,platforms,,"Windows, macOS, Linux",,,https://github.com/LifeActor/ykdl,live,Python video downloader (YouKuDownLoader); install via pip/Homebrew/APT/Chocolatey; license not declared (GitHub NOASSERTION) so license row omitted
+Adblock4limbo,license,,Open source,MIT License,,https://github.com/limbopro/Adblock4limbo,live,GitHub repo shows License: MIT License (MIT)
+Adblock4limbo,platforms,,"iOS, Windows, macOS, Linux",,,https://github.com/limbopro/Adblock4limbo,live,Userscript + filter rules for iOS proxy apps (Quantumult X/Surge/Shadowrocket/Loon/Stash) and desktop browsers via Tampermonkey
+AI Chat - Ask your AI Chatbot,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.syct.chatbot.assistant,live,Exact-title Play Store listing by Syphnosys Apps; free download; IAP status unverified from primary source so license row omitted
+AirTouch: Gesture Control,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.bluetag.airtouch,live,Play Store listing by BLUETAG shows Contains ads + In-app purchases markers
+AirTouch: Gesture Control,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.bluetag.airtouch,live,Android app by BLUETAG (com.bluetag.airtouch)
+Ddddocr,license,,Open source,MIT License,,https://github.com/sml2h3/ddddocr,live,GitHub API license field = MIT; Python OCR/captcha-recognition library (license-only row)
+Captcha Trainer,license,,Open source,Apache License 2.0,,https://github.com/kerlomz/captcha_trainer,live,GitHub API license field = Apache-2.0; captcha-recognition training pipeline (license-only row)
+Chinese Days,license,,Open source,MIT License,,https://github.com/vsme/chinese-days,live,GitHub API license field = MIT; Chinese holidays/solar terms JS library + iCal feed (license-only row)
+Color Txt,license,,Open source,Mozilla Public License 2.0,,https://github.com/ssnangua/ColorTxt,live,GitHub API license field = MPL-2.0; Electron novel reader
+Color Txt,platforms,,"Windows, macOS, Linux",,,https://github.com/ssnangua/ColorTxt,live,README platform badge: PC Windows|macOS|Linux (Electron app)
+Dola: Formerly Cici,license,,Proprietary — freemium,,,https://apps.apple.com/app/id6451431247,live,Free on App Store (SPRING SG PTE. LTD.); store description lists paid Plus/Pro/Max subscription plans
+Dola: Formerly Cici,platforms,,iOS,,,https://apps.apple.com/app/id6451431247,live,"iOS (App Store GB lookup iosUniversal); store title variant ""Dola: Smart AI Assistant""; region-locked — not in US store"
+Calendar Exaple,platforms,,Android,,,https://github.com/codbking/CalendarExaple,live,Android calendar widget demo code (platforms-only; repo declares no license)
