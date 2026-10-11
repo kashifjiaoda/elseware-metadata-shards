@@ -1,0 +1,7 @@
+Shard 4 Phase-2 batch 31 COMPLETE (Shard 2 takeover) — pushed to expansion/shard-4/.
+- Rows pushed: 80 (elseware-metadata-corrections-expansion-shard4-2026-10-11-batch31.csv, apps.md lines 1507-1556, no dupes)
+- Apps verified: 43 of 50 (40 license-verified, 40 platform-verified, 5 verifier chunks)
+- Skipped with reason (7): Make8BitArt (README-claims-MIT vs no-LICENSE-file conflict), Mazwai (original CC site dead, now Freepik Magnific), Media Downloader (identity ambiguous), Metadata Remover (3 same-named products), Obfuscate (unidentifiable), OCR (generic name), OTOS Camera Manager (Play 404, site down)
+- Validation: 80 rows x 9 cols, 0 issues, all live, whitelisted sources only, both dirs byte-identical
+- Self-audits: LeoCAD GPL-2.0-only (docs/COPYING.txt), LibreCAD GPL-2.0-only, Linwood Butterfly Nightly AGPL-3.0-only, Namida Source-available (raw EULA contradicts third-party "open source" claims), MediathekView GPL-3.0-only (Arch or-later claim overruled), MediaConch BSD-2-Clause (overrules old GPL/MPL claims), Openswitcher GPL-3.0-only (+LGPL-3.0 pyatem lib), Nokhwa Apache-2.0 (library, flagged)
+- Next: batch 32 (apps.md lines 1557-1606)
