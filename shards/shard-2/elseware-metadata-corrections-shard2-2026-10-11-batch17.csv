@@ -1,0 +1,77 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Relativity,license,,Proprietary — paid subscription,Enterprise e-discovery SaaS platform; demo/quote-led pricing,Web,https://www.relativity.com/,live,"Official: AI-powered legal data software; e-Discovery for law firms, corporations, government; commercial enterprise platform"
+Relativity,platforms,,Web,,,https://www.relativity.com/,live,Cloud-based legal data platform; web-based e-Discovery
+DISCO,license,,Proprietary — paid subscription,Enterprise e-discovery SaaS; demo-led sales,Web,https://www.csdisco.com/,live,Official: AI-powered eDiscovery software & services; cloud-native platform for legal teams
+DISCO,platforms,,Web,,,https://www.csdisco.com/,live,Cloud-native eDiscovery software; web-based platform
+Amazon,license,,Proprietary — free,Free to browse and shop; Amazon Prime is a separate optional subscription,Web,https://www.amazon.com/,live,"Official: Amazon.com online marketplace; free shopping, no subscription required to browse or buy"
+Amazon,platforms,,Web,,,https://www.amazon.com/,live,Official website; web-based marketplace
+OLX,license,,Proprietary — free,Free classifieds marketplace; buy and sell in local communities,Web,https://olx.com/,live,Official: Join the millions who buy and sell from each other everyday in local communities around the world
+OLX,platforms,,Web,,,https://olx.com/,live,Official website; web-based classifieds platform
+Allegro,license,,Proprietary — free,Free to browse and shop; Polish e-commerce marketplace,Web,https://allegro.pl/,live,Official: Allegro Polish e-commerce marketplace homepage; free shopping
+Allegro,platforms,,Web,,,https://allegro.pl/,live,Official website; web-based marketplace
+Lazada,license,,Proprietary — free,Free to browse and shop; Southeast Asian e-commerce marketplace,Web,https://www.lazada.com/,live,Official: Lazada Group e-commerce platform for Southeast Asia; free shopping experience
+Lazada,platforms,,Web,,,https://www.lazada.com/,live,Official website; web-based e-commerce platform
+Jumia,license,,Proprietary — free,Free to browse and shop; African e-commerce marketplace,Web,https://jumia.com/,live,Official: Jumia Group leading e-commerce platform in Africa; marketplace with proprietary logistics
+Jumia,platforms,,Web,,,https://jumia.com/,live,Official website; web-based e-commerce marketplace
+Namshi,license,,Proprietary — free,Free to browse and shop; Middle Eastern fashion e-commerce,Web,https://www.namshi.com/,live,"Official: Namshi online shopping for clothes, dresses, shoes & bags; free shopping"
+Namshi,platforms,,Web,,,https://www.namshi.com/,live,Official website; web-based fashion retail platform
+Zalando,license,,Proprietary — free,Free to browse and shop; European fashion e-commerce,Web,https://www.zalando.com/,live,Official: Zalando shoes and fashion online; available across European countries
+Zalando,platforms,,Web,,,https://www.zalando.com/,live,Official website; web-based fashion e-commerce platform
+Shein,license,,Proprietary — free,Free shopping app; no subscription or paid tier,"iOS, macOS",https://apps.apple.com/us/app/shein-shopping-online/id878577184,live,App Store: Free by ROADGET BUSINESS PTE. LTD.; no in-app purchases listed
+Shein,platforms,,"iOS, macOS",,,https://apps.apple.com/us/app/shein-shopping-online/id878577184,live,"Compatibility: iPhone, iPad, Mac (M1+), Apple Vision"
+Wish,license,,Proprietary — free,Free shopping app; no subscription or paid tier,iOS,https://apps.apple.com/us/app/wish-shopping-made-fun/id530621395,live,App Store: Free by ContextLogic Inc.; no in-app purchases listed
+Wish,platforms,,iOS,,,https://apps.apple.com/us/app/wish-shopping-made-fun/id530621395,live,"Compatibility: iPhone, iPad, iPod touch"
+DHgate,license,,Proprietary — free,Free wholesale marketplace app; no subscription or paid tier,iOS,https://apps.apple.com/us/app/dhgate-online-wholesale-stores/id905869418,live,App Store: Free by Digital Trading Science & Technology (Beijing) Co. Ltd.
+DHgate,platforms,,iOS,,,https://apps.apple.com/us/app/dhgate-online-wholesale-stores/id905869418,live,"Compatibility: iPhone, iPad, iPod touch"
+LightInTheBox,license,,Proprietary — free,Free shopping app; no subscription or paid tier,"iOS, macOS",https://apps.apple.com/al/app/lightinthebox/id438474115,live,App Store: Price Free by Light In The Box Limited
+LightInTheBox,platforms,,"iOS, macOS",,,https://apps.apple.com/al/app/lightinthebox/id438474115,live,"Compatibility: iPhone, iPad, iPod touch, Mac (M1+), Apple Vision"
+IKEA,license,,Proprietary — free,Free shopping app; no subscription or paid tier,"iOS, macOS",https://apps.apple.com/us/app/ikea/id1452164827,live,App Store: Free by Inter IKEA Systems B.V.
+IKEA,platforms,,"iOS, macOS",,,https://apps.apple.com/us/app/ikea/id1452164827,live,"Compatibility: iPhone, iPad, Mac (M1+), Apple Vision"
+Walmart,license,,Proprietary — free,Free shopping app; no subscription or paid tier,Android,https://play.google.com/store/apps/details?id=com.walmart.android&hl=en,live,Play Store: Walmart shopping app; free to install and shop (Walmart+ is an optional separate membership)
+Walmart,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.walmart.android&hl=en,live,Play Store listing: Android app
+Costco,license,,Proprietary — free,Free app for members; no subscription or paid tier,iOS,https://apps.apple.com/us/app/costco/id535509415?uo=4,live,Apple iTunes API: trackName Costco by Costco Wholesale Corporation; formattedPrice Free; price 0.00
+Costco,platforms,,iOS,,,https://apps.apple.com/us/app/costco/id535509415?uo=4,live,"Apple iTunes API supportedDevices: iPhone, iPad"
+Back Market,license,,Proprietary — free,Free marketplace for refurbished tech; app free to download,,https://apps.apple.com/us/app/back-market-buy-sell/id1458344336?uo=4,live,"App Store: Free by Back Market; marketplace free for buyers, revenue from seller side"
+Back Market,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/back-market-buy-sell/id1458344336?uo=4,live,App Store: iOS app (iPhone/iPad); web marketplace at backmarket.com
+Swappa,license,,Proprietary — free,Free to list devices; buyers pay small fee added to asking price,,https://apps.apple.com/us/app/swappa-marketplace/id1572540049?uo=4,live,"App Store: Free by Swappa LLC; always free to list, buyer fee at purchase"
+Swappa,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/swappa-marketplace/id1572540049?uo=4,live,App Store: iOS app (iPhone/iPad); web marketplace at swappa.com
+Vestiaire Collective,license,,Proprietary — free,Free marketplace for pre-loved luxury fashion; platform monetizes via seller commissions,,https://faq.vestiairecollective.com/hc/en-us/articles/12827179204753-The-Vestiaire-Collective-app,live,Official help center: free app to buy and sell pre-loved luxury fashion
+Vestiaire Collective,platforms,,"iOS, Android, Web",,,https://faq.vestiairecollective.com/hc/en-us/articles/12827179204753-The-Vestiaire-Collective-app,live,Official help center: app available on iOS and Android; web at vestiairecollective.com
+John Lewis,license,,Proprietary — free,Free shopping app; no subscription or paid tier,,https://apps.apple.com/gb/app/john-lewis-partners/id486502369?uo=4,live,App Store: Free by John Lewis Partnership; no in-app purchases listed
+John Lewis,platforms,,"iOS, Web",,,https://apps.apple.com/gb/app/john-lewis-partners/id486502369?uo=4,live,App Store: iOS app (iPhone/iPad); web store at johnlewis.com
+Apple News,license,,Proprietary — freemium,Apple News always free; Apple News+ $12.99/mo subscription,,https://www.apple.com/apple-news/,live,Official: Apple News always free; News+ $12.99/mo after free trial unlocks premium content
+Apple News,platforms,,iOS,,,https://www.apple.com/apple-news/,live,"Official: iPhone, iPad, Apple Watch, CarPlay; also available on Mac (macOS)"
+Feedly,license,,Proprietary — freemium,"Free app; Feedly Pro paid tier unlocks keyword tracking,  search,  and integrations",,https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556?uo=4,live,App Store: Free by Feedly Inc.; description states Feedly Pro unlocks more features
+Feedly,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556?uo=4,live,App Store: iOS app (iPhone/iPad); web reader at feedly.com
+NewsBlur,license,,Open source,MIT license; fully open source,,https://www.newsblur.com/,live,Official: fully open source under the MIT license; self-hostable via Docker
+NewsBlur,platforms,,"Web, iOS, Android",,,https://www.newsblur.com/,live,"Official: free on the web, iPad, iPhone, and Android; premium subscription unlocks limits"
+Beehiiv,license,,Proprietary — freemium,Free plan $0 forever; Lite $49/mo; Pro $95/mo; Enterprise custom,Web,https://www.beehiiv.com/,live,"Official pricing: Free forever plan plus paid Lite, Pro, and Enterprise tiers"
+Beehiiv,platforms,,Web,,,https://www.beehiiv.com/,live,Web-based newsletter platform
+Morning Brew,license,,Proprietary — free,Free daily business newsletter; no paid tier on site,Web,https://www.morningbrew.com/,live,Official site: free subscribe with no pricing; ad-supported newsletter
+Morning Brew,platforms,,Web,,,https://www.morningbrew.com/,live,Web-based newsletter and podcast
+1440,license,,Proprietary — free,100% free daily digest; no paid tier,Web,https://join1440.com/,live,"Official: No clickbait, 100% free, unsubscribe anytime"
+1440,platforms,,Web,,,https://join1440.com/,live,Web-based newsletter; podcast and video on external platforms
+Ground News,license,,Proprietary — freemium,Free; Pro/Premium/Vantage subscriptions via in-app purchase,iOS,https://apps.apple.com/gb/app/ground-news/id1324203419,live,"App Store: Free by Snapwise Inc.; in-app purchases for Pro, Premium, Vantage tiers"
+Ground News,platforms,,iOS,,,https://apps.apple.com/gb/app/ground-news/id1324203419,live,"App Store: iPhone, iPad, iPod touch, Mac, Apple Vision"
+AllSides,license,,Proprietary — free,Free app; price $0.00 with no in-app purchases,iOS,https://apps.apple.com/us/app/allsides-balanced-news/id1535521873?uo=4,live,"iTunes API: formattedPrice Free, price 0.00; by AllSides, LLC"
+AllSides,platforms,,iOS,,,https://apps.apple.com/us/app/allsides-balanced-news/id1535521873?uo=4,live,iTunes API: iosUniversal; iPhone and iPad supported devices
+BBC News,license,,Proprietary — freemium,"Free; paid subscription for documentaries,  live channel,  early podcast access",iOS,https://apps.apple.com/us/app/bbc-world-news-stories/id364147881?uo=4,live,App Store: Free by BBC Studios Distribution Ltd.; in-app purchase required for documentaries; subscription details listed
+BBC News,platforms,,iOS,,,https://apps.apple.com/us/app/bbc-world-news-stories/id364147881?uo=4,live,iTunes API: iosUniversal; iPhone and iPad supported devices
+SmartNews,license,,Proprietary — free,Free app; price $0.00 with no in-app purchases,iOS,https://apps.apple.com/us/app/smartnews-breaking-news/id579581125?uo=4,live,"iTunes API: formattedPrice Free, price 0.00; by SmartNews, Inc."
+SmartNews,platforms,,iOS,,,https://apps.apple.com/us/app/smartnews-breaking-news/id579581125?uo=4,live,iTunes API: iosUniversal; iPhone and iPad supported devices
+NewsBreak,license,,Proprietary — free,Free app; price $0.00 with no in-app purchases listed,iOS,https://apps.apple.com/us/app/newsbreak-local-news-alerts/id1132762804?uo=4,live,"iTunes API: formattedPrice Free, price 0.00; by Particle Media Inc."
+NewsBreak,platforms,,iOS,,,https://apps.apple.com/us/app/newsbreak-local-news-alerts/id1132762804?uo=4,live,iTunes API: iosUniversal; iPhone and iPad supported devices
+Haystack News,license,,Proprietary — freemium,Free advertiser-supported; optional Haystack News Premium subscription removes ads,iOS,https://apps.apple.com/us/app/local-news-weather-haystack/id829825445?uo=4,live,App Store: Free by Haystack TV; Haystack News Premium is an optional auto-renewing subscription
+Haystack News,platforms,,iOS,,,https://apps.apple.com/us/app/local-news-weather-haystack/id829825445?uo=4,live,iTunes API: iosUniversal; iPhone and iPad supported devices
+The Weather Channel,license,,Proprietary — freemium,Free; The Weather Channel Premium subscription for ad-free and advanced features,iOS,https://apps.apple.com/us/app/the-weather-channel-radar/id295646461?uo=4,live,App Store: Free by The Weather Channel Interactive; Premium subscription via App Store auto-renew
+The Weather Channel,platforms,,iOS,,,https://apps.apple.com/us/app/the-weather-channel-radar/id295646461?uo=4,live,iTunes API: iosUniversal; iPhone and iPad supported devices
+WeatherBug,license,,Proprietary — freemium,Free app; Ad-Free subscription available,iOS,https://apps.apple.com/us/app/weatherbug-weather-forecast/id281940292?uo=4,live,App Store: Free; description advertises Ad-Free Subscription options
+WeatherBug,platforms,,iOS,,,https://apps.apple.com/us/app/weatherbug-weather-forecast/id281940292?uo=4,live,"App Store supportedDevices: iPhone, iPad, Apple Watch"
+Windy,license,,Proprietary — freemium,Free app; Windy Premium subscription for pro forecast features,iOS,https://apps.apple.com/us/app/windy-com/id1161387262?uo=4,live,App Store: Free by Windyty SE; description includes WINDY PREMIUM tier
+Windy,platforms,,iOS,,,https://apps.apple.com/us/app/windy-com/id1161387262?uo=4,live,"App Store supportedDevices: iPhone, iPad, Apple Watch"
+Hello Weather,license,,Proprietary — freemium,"Free app; Pro upgrade for widgets, notifications, more data sources",iOS,https://apps.apple.com/us/app/hello-weather/id978393692?uo=4,live,App Store: Free by Electric Dream Machine LLC; description details Pro upgrade
+Hello Weather,platforms,,iOS,,,https://apps.apple.com/us/app/hello-weather/id978393692?uo=4,live,"App Store supportedDevices: iPhone, iPad, Apple Watch"
+Overdrop,license,,Proprietary — freemium,"Free app; In-App Purchases: One Month $1.99,  One Year $9.99,  Overdrop Pro $17.99,  Lifetime $99.99",iOS,https://apps.apple.com/us/app/overdrop-weather-widgets/id1459855011,live,App Store: Free with In-App Purchases; multiple subscription tiers and Lifetime Purchase listed
+Overdrop,platforms,,"iOS, macOS",,,https://apps.apple.com/us/app/overdrop-weather-widgets/id1459855011,live,"App Store: iPhone, iPad, Mac (M1+), Apple Vision"
+Today Weather,license,,Proprietary — freemium,"Free app; Premium subscription (remove ads, unlock radar, unlimited icon sets)",iOS,https://apps.apple.com/us/app/today-weather-radar-alerts/id1214962662?uo=4,live,App Store: Free by Tho Tran; description details Premium subscription
+Today Weather,platforms,,iOS,,,https://apps.apple.com/us/app/today-weather-radar-alerts/id1214962662?uo=4,live,"App Store supportedDevices: iPhone, iPad, Apple Watch"
