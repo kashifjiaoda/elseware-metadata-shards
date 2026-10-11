@@ -1,0 +1,45 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Notepadng,license,,Open source,GNU GPL v3.0,,https://raw.githubusercontent.com/kravich/notepadng/master/COPYING,live,COPYING file is GNU GPL Version 3 text; AUR package metadata lists GPL-3.0-only
+Nutify,license,,Open source,MIT License,,https://raw.githubusercontent.com/dartsteven/nutify/main/LICENSE,live,raw LICENSE is MIT License text; GitHub API license field agrees
+Nutify,platforms,,Web,,,https://github.com/dartsteven/nutify,live,modern web interface; Docker-ready deployment
+OONI Probe,license,,Open source,BSD 2-Clause,,https://f-droid.org/packages/org.openobservatory.ooniprobe/,live,F-Droid lists BSD 2-Clause Simplified License; ooni.org describes it as free and open source software
+OONI Probe,platforms,,Android; iOS; Windows; macOS; Linux,,,https://OONI.org/post/2025-launch-ooniprobe-multiplatform-app/,live,"official OONI post: available for Android, F-Droid, iOS, Windows, macOS, Linux"
+Ora,license,,Proprietary — freemium,,,https://ora.pm/pricing,live,Basic plan FREE FOREVER (up to 10 users); Professional $5.99/user/month billed annually or $10 monthly; Enterprise $27.99/$30
+Ora,platforms,,Web; Android; iOS,,,https://ora.pm/pricing,live,"official pricing page lists Web, desktop, iOS, and Android apps; desktop OS unspecified so recorded as Web, Android, iOS"
+PowerShell,license,,Open source,MIT License,"Windows, macOS, Linux",https://github.com/PowerShell/PowerShell,live,License from GitHub API on PowerShell/PowerShell
+PowerShell,platforms,,"Windows, macOS, Linux",,,https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell?view=powershell-7.6,live,MS Learn install page: Install PowerShell on Windows Linux and macOS
+Proxmox VE,license,,Open source,GNU Affero General Public License v3.0,Linux,https://pve.proxmox.com/wiki/FAQ,live,Official FAQ: Proxmox VE code is licensed under the GNU Affero General Public License version 3
+Proxmox VE,platforms,,Linux,,,https://pve.proxmox.com/wiki/FAQ,live,Official FAQ: based on Debian GNU/Linux; bare-metal installer for 64-bit servers
+QGit,license,,Open source,GNU General Public License v2.0,,https://github.com/tibirna/qgit,live,Raw COPYING.rtf is GPL Version 2 June 1991 text; official QGit git repository mirror
+Qui,license,,Open source,GNU General Public License v2.0,"Windows, macOS, Linux",https://github.com/autobrr/qui,live,Raw LICENSE is GPL Version 2 text; autobrr qBittorrent web UI
+Qui,platforms,,"Windows, macOS, Linux, Web",,,https://github.com/autobrr/qui,live,README documents Linux macOS Windows binaries and Docker; single-binary web UI is self-hosted
+Regex Crossword,platforms,,Web,,,https://github.com/Jimbly/regex-crossword,live,Playable web crossword game; repo declares no license so no license row
+ros2-cli,license,,Open source,Apache License 2.0,"Windows, macOS, Linux",https://raw.githubusercontent.com/ros2/ros2cli/rolling/LICENSE,live,Raw LICENSE text is Apache License 2.0; canonical repo ros2/ros2cli
+ros2-cli,platforms,,"Windows, macOS, Linux",,,https://docs.ros.org/en/rolling/Releases.html,live,CLI tools ship with ROS 2; official docs list Ubuntu/Windows/macOS install targets
+SAP NetWeaver Server Adapter for Eclipse,license,,Open source,Eclipse Public License,"Windows, macOS, Linux",https://community.sap.com:443/t5/additional-blog-posts-by-members/the-sap-eclipse-server-adapter-goes-open-source-on-sourceforge/ba-p/12891552,live,SAP official community post confirms project is open source under the Eclipse Public License
+SAP NetWeaver Server Adapter for Eclipse,platforms,,"Windows, macOS, Linux",,,https://community.sap.com:443/t5/additional-blog-posts-by-members/the-sap-eclipse-server-adapter-goes-open-source-on-sourceforge/ba-p/12891552,live,Eclipse IDE plugin; runs wherever the Eclipse IDE runs
+Sheet Able,license,,Open source,GNU Affero General Public License v3.0,Web,https://raw.githubusercontent.com/SheetAble/SheetAble/main/LICENSE,live,Raw LICENSE text is GNU AFFERO GENERAL PUBLIC LICENSE Version 3
+Sheet Able,platforms,,Web,,,https://github.com/SheetAble/SheetAble,live,Self-hosted music sheet organizing software; accessed via browser
+Spoolman,license,,Open source,MIT License,Web,https://raw.githubusercontent.com/Donkie/Spoolman/master/LICENSE,live,Raw LICENSE text is MIT License; Copyright (c) 2023 Daniel Hultgren
+Spoolman,platforms,,Web,,,https://github.com/Donkie/Spoolman,live,README: self-hosted web service with built-in web client
+Ssdb,license,,Open source,BSD 3-Clause (New BSD),"Linux, macOS, Windows",https://raw.githubusercontent.com/ideawu/ssdb/master/LICENSE,live,Raw LICENSE is BSD New BSD text; Copyright (c) 2013 SSDB Authors; canonical repo ideawu/ssdb
+Ssdb,platforms,,"Linux, macOS, Windows",,,https://github.com/ideawu/ssdb,live,README platform badge lists Linux/BSD/OS X/Windows
+SuperTux,license,,Open source,GNU General Public License v3.0,"Windows, macOS, Linux, Android",https://raw.githubusercontent.com/SuperTux/supertux/master/LICENSE.txt,live,Raw LICENSE.txt is GNU GPL v3 text; GitHub API SPDX GPL-3.0 on canonical SuperTux/supertux
+SuperTux,platforms,,"Windows, macOS, Linux, Android",,,https://www.supertux.org/download.html,live,"Official download page lists Windows, macOS and Linux builds plus an Android APK (0.6.3.23 build)"
+TeleportHQ,license,,Proprietary — freemium,Closed-source visual front-end builder; Free Plan plus paid Professional plans,Web,https://teleporthq.io/pricing,live,Official pricing page: Free Plan offered alongside paid Professional plans; projects free for 7 days then Pro or slot
+TeleportHQ,platforms,,Web,,,https://teleporthq.io/,live,Web-based visual front-end design and development platform
+Testcontainers Java,license,,Open source,MIT License,,https://raw.githubusercontent.com/testcontainers/testcontainers-java/main/LICENSE,live,"Raw LICENSE is MIT License, Copyright (c) 2015-2019 Richard North; Java library for Docker-based integration tests"
+Thonny,license,,Open source,MIT License,"Windows, macOS, Linux",https://raw.githubusercontent.com/thonny/thonny/master/LICENSE.txt,live,"Raw LICENSE.txt is MIT License, Copyright (c) 2024 Aivar Annamaa; canonical thonny/thonny"
+Thonny,platforms,,"Windows, macOS, Linux",,,https://thonny.org/,live,"Official site offers downloads for Windows, Mac and Linux"
+Transfer Sh,license,,Open source,MIT License,Web,https://raw.githubusercontent.com/dutchcoders/transfer.sh/main/LICENSE,live,Raw LICENSE is MIT License; canonical dutchcoders/transfer.sh file-sharing service
+Transfer Sh,platforms,,Web,,,https://github.com/dutchcoders/transfer.sh,live,Web-based file sharing service with command-line client
+Visual Alchemist,license,,Open source,GNU General Public License v3.0,Web,https://raw.githubusercontent.com/prahladyeri/visualalchemist/master/LICENSE,live,Raw LICENSE is GNU GPL v3 text on canonical repo prahladyeri/visualalchemist; forks exist (e.g. ebottabi/valchemist) but canonical repo used
+Visual Alchemist,platforms,,Web,,,https://github.com/prahladyeri/visualalchemist,live,Web app to create sqlalchemy models by dragging/dropping objects in a browser canvas
+Winmerge,license,,Open source,GNU General Public License v2.0,,https://raw.githubusercontent.com/WinMerge/winmerge/master/LICENSE.md,live,raw LICENSE.md is GPL v2 text; open-source diff tool
+Winmerge,platforms,,Windows,,,https://github.com/WinMerge/winmerge,live,README: open-source differencing and merging tool for Windows
+Wwwsqldesigner,license,,Open source,BSD 3-Clause License,,https://raw.githubusercontent.com/ondras/wwwsqldesigner/master/license.txt,live,raw license.txt is BSD text; README also states distributed under New BSD license
+Wwwsqldesigner,platforms,,Web,,,https://github.com/ondras/wwwsqldesigner,live,README: draw database schemas directly in browser; catalog name is case variant of WWW SQL Designer
+Xcdiff,license,,Open source,Apache License 2.0,,https://raw.githubusercontent.com/bloomberg/xcdiff/main/LICENSE.txt,live,raw LICENSE.txt is Apache 2.0 text
+Xcdiff,platforms,,macOS,,,https://github.com/bloomberg/xcdiff,live,Swift CLI for diffing Xcode projects; Homebrew install; README references macOS project
+Xiterm+thai,platforms,,Linux,,,https://github.com/tlwg/xiterm-thai,live,X11/X-Windows Thai terminal emulator per README.thai; repo declares no license so no license row
+OpenGarage,license,,Open source,GNU General Public License v3.0,,https://raw.githubusercontent.com/OpenGarage/OpenGarage-Firmware/master/LICENSE.md,live,raw LICENSE.md is GPL v3 text; embedded ESP8266/ESP32 firmware with no end-user OS platform
