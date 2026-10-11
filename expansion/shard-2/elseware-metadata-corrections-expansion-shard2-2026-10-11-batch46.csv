@@ -1,0 +1,64 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Dicio assistant,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/en/packages/org.stypox.dicio/,live,"F-Droid metadata License: GPL-3.0-only; F-Droid listing name 'Dicio' (org.stypox.dicio), an offline-capable Android voice assistant"
+Dicio assistant,platforms,,Android,,,https://f-droid.org/en/packages/org.stypox.dicio/,live,F-Droid Android app
+Diodon,license,,Open source,GPL-2.0,Linux,https://github.com/diodon-dev/diodon,live,GitHub API SPDX GPL-2.0; clipboard manager for the Unity/Linux desktop
+Diodon,platforms,,Linux,,,https://github.com/diodon-dev/diodon,live,Linux clipboard manager
+Disaster Radio,license,,Open source,GPL-3.0/AGPL-3.0 dual,,https://github.com/sudomesh/disaster-radio,live,"README License section: firmware/ dual licensed GPLv3+AGPLv3, web/ AGPLv3; ESP32 mesh-network firmware project, license row only"
+Discover Overlay,license,,Open source,GPL-3.0,Linux,https://github.com/trigg/Discover,live,GitHub API SPDX GPL-3.0; Discord overlay for Linux (Flathub io.github.trigg.discover_overlay)
+Discover Overlay,platforms,,Linux,,,https://github.com/trigg/Discover,live,"Linux Discord overlay (Flathub, X11/Wayland)"
+Disroot app,license,,Open source,LGPL-3.0-only,Android,https://f-droid.org/en/packages/org.disroot.disrootapp/,live,F-Droid metadata License: GNU Lesser General Public License v3.0 only
+Disroot app,platforms,,Android,,,https://f-droid.org/en/packages/org.disroot.disrootapp/,live,F-Droid Android app
+Django Fobi,license,,Open source,GPL-2.0-only OR LGPL-2.1-or-later,,https://github.com/barseghyanartur/django-fobi,live,"README License section: GPL-2.0-only OR LGPL-2.1-or-later; Django form-builder library, license row only"
+DL Librescore,license,,Open source,GPL-3.0,Web,https://github.com/librescore/librescore,live,GitHub API SPDX GPL-3.0; serverless IPFS-based offline-first web app (librescore.org)
+DL Librescore,platforms,,Web,,,https://github.com/librescore/librescore,live,Web app
+DoliDroid ERM CRM,license,,Open source,GPL-3.0,,https://github.com/dolicloud/dolidroid,live,README states licence GPLv3; GitHub API SPDX GPL-3.0
+DoliDroid ERM CRM,platforms,,Android,,,https://github.com/dolicloud/dolidroid,live,Android front-end client for hosted Dolibarr ERP CRM
+Dooble,license,,Open source,BSD-3-Clause,,https://github.com/textbrowser/dooble,live,raw LICENSE verified as BSD-style license text by Alexis Megas
+Dooble,platforms,,"Windows, macOS, Linux",,,https://dooble.sourceforge.io/,live,official site lists FreeBSD Linux Mac OS X Windows
+Dosbox Pure Unleashed,license,,Open source,GPL-2.0,,https://github.com/schellingb/dosbox-pure-unleashed,live,GitHub API SPDX GPL-2.0; standalone desktop build of DOSBox Pure
+Dosbox Pure Unleashed,platforms,,"Windows, macOS, Linux",,,https://github.com/schellingb/dosbox-pure-unleashed,live,README download section; free on itch.io for Windows Mac Linux
+Doublecmd,license,,Open source,GPL-2.0,,https://github.com/doublecmd/doublecmd,live,GitHub API SPDX GPL-2.0
+Doublecmd,platforms,,"Windows, macOS, Linux",,,https://github.com/doublecmd/doublecmd,live,release assets include exe msi dmg and Linux tarballs
+Dragon Launcher,license,,Open source,GPL-3.0,,https://f-droid.org/packages/org.elnix.dragonlauncher/,live,GitHub API SPDX GPL-3.0 on Elnix90/Dragon-Launcher
+Dragon Launcher,platforms,,Android,,,https://f-droid.org/packages/org.elnix.dragonlauncher/,live,F-Droid Android launcher
+Droid Pad,license,,Open source,GPL-3.0-only,,https://F-droid.org/en/packages/com.github.umer0586.droidpad/,live,F-Droid lists GNU General Public License v3.0 only
+Droid Pad,platforms,,Android,,,https://F-droid.org/en/packages/com.github.umer0586.droidpad/,live,F-Droid Android control-pad app by UmerCodez
+DroidOS Trackpad,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/com.katsuyamaki.DroidOSFOSSKeyboardTrackpad/,live,F-Droid package page lists GNU GPL v3.0 only
+DroidOS Trackpad,platforms,,Android,,,https://f-droid.org/en/packages/com.katsuyamaki.DroidOSFOSSKeyboardTrackpad/,live,phone-as-trackpad and keyboard overlay for DroidOS
+DungeonJournal,license,,Open source,GPL-3.0,,https://github.com/tryton-vanmeer/dungeonjournal,live,raw LICENSE verified as GNU GPL v3; 5e character manager
+DungeonJournal,platforms,,Linux,,,https://github.com/tryton-vanmeer/dungeonjournal,live,GNOME app distributed via Flathub
+DuressKeyboard,license,,Open source,The Unlicense,,https://f-droid.org/en/packages/duress.keyboard/,live,F-Droid package page lists The Unlicense
+DuressKeyboard,platforms,,Android,,,https://f-droid.org/en/packages/duress.keyboard/,live,F-Droid keyboard that reacts to triggers and performs security actions
+Dwv,license,,Open source,GPL-3.0,,https://github.com/ivmartel/dwv,live,Zero-footprint DICOM web viewer JS library
+Easy Launcher - Minimal launcher,license,,Open source,GPL-3.0,,https://github.com/codeworkscreativehub/easylauncher,live,Minimalist Android launcher
+Easy Launcher - Minimal launcher,platforms,,Android,,,https://f-droid.org/en/packages/app.easy.launcher/,live,F-Droid package app.easy.launcher
+EBT New Note,license,,Open source,GPL-2.0-only,,https://f-droid.org/en/packages/com.marv42.ebt.newnote/,live,F-Droid lists GNU General Public License v2.0 only; EuroBillTracker bill submission app
+EBT New Note,platforms,,Android,,,https://f-droid.org/en/packages/com.marv42.ebt.newnote/,live,Android only
+Edifier RC10D1,license,,Open source,GPL-3.0-or-later,,https://github.com/norbicki/Edifier-RC10D1,live,README: GPL v3 or any later version; IR remote for Edifier R2730DB speakers
+Edifier RC10D1,platforms,,Android,,,https://f-droid.org/packages/ir.remote.edifier.rc10d1,live,F-Droid package ir.remote.edifier.rc10d1
+Eiciel,license,,Open source,GPL-2.0,,https://github.com/rofirrim/eiciel,live,Nautilus plugin to graphically edit ACL and extended attributes
+Eiciel,platforms,,Linux,,,https://github.com/rofirrim/eiciel,live,Nautilus desktop extension
+El Finder,license,,Open source,BSD-3-Clause,,https://github.com/Studio-42/elFinder,live,LICENSE.md: 3-clauses BSD license
+El Finder,platforms,,Web,,,https://github.com/Studio-42/elFinder,live,Browser-based web file manager
+Electron Builder,license,,Open source,MIT,,https://github.com/electron-userland/electron-builder,live,Packaging tool for Electron apps
+Electron Toolkit,license,,Open source,MIT,,https://github.com/alex8088/electron-toolkit,live,Developer toolkit for Electron apps
+Ender3 V2 S1,license,,Open source,GPL-3.0 (Marlin-based firmware; repo LICENSE references Marlin's GPL license),,https://github.com/mriscoc/Ender3V2S1,live,Optimized firmware for Ender 3 V2/S1 3D printers
+Enhanced Music Controller Lite,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/en/packages/com.mkulesh.onpc,live,Free version of mkulesh/onpc AV receiver controller (Premium version also exists)
+Enhanced Music Controller Lite,platforms,,Android,,,https://f-droid.org/en/packages/com.mkulesh.onpc,live,Android app (package com.mkulesh.onpc)
+Er ríkið opið?,license,,Open source,MIT,,https://f-droid.org/en/packages/is.binary.alcoholnow/,live,"Icelandic alcohol-store opening-hours app (AlcoholNow, binary-is/alcoholnow)"
+Er ríkið opið?,platforms,,Android,,,https://f-droid.org/en/packages/is.binary.alcoholnow/,live,Android app (package is.binary.alcoholnow)
+Escape Launcher,license,,Open source,MIT,,https://f-droid.org/en/packages/com.geecee.escapelauncher/,live,Minimalist Android launcher (GeorgeClensy/Escape-Launcher)
+Escape Launcher,platforms,,Android,,,https://f-droid.org/en/packages/com.geecee.escapelauncher/,live,Android app (package com.geecee.escapelauncher)
+ESP32 Bit Pirate,license,,Open source,MIT,,https://github.com/geo-tp/ESP32-Bit-Pirate,live,Hardware hacking tool firmware for ESP32 with web-based CLI
+Esperanto for AnySoftKeyboard,license,,Open source,Apache License 2.0,,https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.esperanto/,live,Keyboard language pack for AnySoftKeyboard (F-Droid)
+Esperanto for AnySoftKeyboard,platforms,,Android,,,https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.esperanto/,live,Android keyboard language pack
+EternalModManager,license,,Open source,GPL-3.0,,https://github.com/brunoanc/EternalModManager,live,Mod manager for DOOM Eternal
+EternalModManager,platforms,,"Windows, Linux",,,https://github.com/brunoanc/EternalModManager,live,README downloads: Windows and Linux (Flathub)
+Every Door,license,,Open source,GPL-3.0,,https://github.com/Zverik/every_door,live,Repo LICENSE is GNU GPL v3 (governs over F-Droid package metadata which lists ISC)
+Every Door,platforms,,Android,,,https://f-droid.org/en/packages/info.zverev.ilya.every_door/,live,OpenStreetMap POI collection app (F-Droid)
+EweSticker,license,,Open source,MIT,,https://f-droid.org/en/packages/com.fredhappyface.ewesticker/,live,F-Droid lists MIT License
+EweSticker,platforms,,Android,,,https://github.com/FredHappyface/Android.EweSticker,live,Android sticker keyboard application
+F-Droid Nearby,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/en/packages/org.fdroid.nearby/,live,F-Droid lists GNU GPL v3.0 or later
+F-Droid Nearby,platforms,,Android,,,https://f-droid.org/en/packages/org.fdroid.nearby/,live,Local app exchange for Android devices (F-Droid)
+Facetimehd,license,,Open source,GPL-2.0,,https://github.com/patjak/facetimehd,live,Reverse engineered Linux driver for the FacetimeHD (Broadcom 1570) PCIe webcam
+Facetimehd,platforms,,Linux,,,https://github.com/patjak/facetimehd,live,Linux kernel driver (no end-user app UI)
