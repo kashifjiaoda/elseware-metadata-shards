@@ -2,7 +2,7 @@
 
 ![Elseware logo](assets/elseware-logo.png)
 
-**Verification data pipeline for [Elseware](https://elseware.tools)** — the software-alternatives directory, and its sister project [manuscriptOS.io](https://manuscriptos.io).
+**Verification data pipeline for [Elseware](https://elseware.app)** — the software-alternatives directory, and its sister project [manuscriptOS.io](https://manuscriptos.io).
 
 **If you are a Shard worker, this README is your complete instruction manual. You need nothing else — no separate brief, no extra onboarding.**
 
@@ -273,4 +273,4 @@ pushed — validation rejects it before it ever reaches the master.
 
 ---
 
-*Verification data pipeline for [Elseware](https://elseware.tools) — the software-alternatives directory — and its sister project [manuscriptOS.io](https://manuscriptos.io).*
+*Verification data pipeline for [Elseware](https://elseware.app) — the software-alternatives directory — and its sister project [manuscriptOS.io](https://manuscriptos.io).*
