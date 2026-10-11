@@ -1,0 +1,79 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Gerbv,license,,Open source,GPL-2.0,Linux,https://github.com/gerbv/gerbv,live,GitHub API SPDX GPL-2.0; README About: native Linux application
+Gerbv,platforms,,Linux,,,https://github.com/gerbv/gerbv,live,README About: Gerbv is a native Linux application
+Gfx Card Status,license,,Open source,BSD-2-Clause,macOS,https://github.com/codykrieger/gfxCardStatus,live,Raw LICENSE is BSD 2-clause text (no endorsement clause)
+Gfx Card Status,platforms,,macOS,,,https://github.com/codykrieger/gfxCardStatus,live,README: open-source menu bar application for OS X
+Ghost Text,license,,Open source,MIT,Web,https://github.com/fregante/GhostText,live,GitHub API SPDX MIT
+Ghost Text,platforms,,Web,,,https://github.com/fregante/GhostText,live,Browser extension distributed via Chrome Web Store and Mozilla Add-ons
+Git FTP,license,,Open source,GPL-3.0,,https://github.com/Git-ftp/git-ftp,live,GitHub API SPDX GPL-3.0; shell-script FTP deployment tool
+Gitnuro,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/JetpackDuba/Gitnuro,live,GitHub API SPDX GPL-3.0; old fabiozumbi12 repo moved to JetpackDuba
+Gitnuro,platforms,,"Windows, macOS, Linux",,,https://github.com/JetpackDuba/Gitnuro,live,"README Download/Install sections list Linux, Windows and MacOS"
+Glazewm,license,,Open source,GPL-3.0,"Windows, macOS",https://github.com/glzr-io/glazewm,live,GitHub API SPDX GPL-3.0
+Glazewm,platforms,,"Windows, macOS",,,https://github.com/glzr-io/glazewm,live,Repo description: tiling window manager for macOS and Windows
+Gmqtt,license,,Open source,MIT,,https://github.com/DrmagicE/gmqtt,live,GitHub API SPDX MIT; Go MQTT broker library
+GNOME Boxes,license,,Open source,LGPL-2.0-or-later,Linux,https://gitlab.gnome.org/GNOME/gnome-boxes,live,debian/copyright: Files * licensed LGPL-2+
+GNOME Boxes,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/gnome-boxes,live,GNOME virtualization app distributed via Flathub org.gnome.Boxes
+GNOME Commander,license,,Open source,GPL-3.0-or-later,Linux,https://gnome.pages.gitlab.gnome.org/gnome-commander/,live,Official site: this project is licensed as GPL-3.0-or-later
+GNOME Commander,platforms,,Linux,,,https://gnome.pages.gitlab.gnome.org/gnome-commander/,live,Site: packaged for most Linux distributions
+GNOME Disk Utility,license,,Open source,GPL-2.0,Linux,https://gitlab.gnome.org/GNOME/gnome-disk-utility,live,Upstream COPYING is GNU GPL Version 2; GitHub mirror API also GPL-2.0
+GNOME Disk Utility,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/gnome-disk-utility,live,GNOME core app (GNOME Disks)
+GNOME Metronome,license,,Open source,GNU General Public License v3.0 (COPYING on GNOME GitLab),,https://gitlab.gnome.org/World/metronome,live,"GNOME metronome app, Keep the tempo"
+GNOME Metronome,platforms,,Linux,,,https://gitlab.gnome.org/World/metronome,live,GNOME desktop app; Linux only per accuracy directive
+GNOME Packagekit,license,,Open source,GNU General Public License v2.0 (COPYING on GNOME GitLab),,https://gitlab.gnome.org/GNOME/gnome-packagekit,live,gnome-packagekit package management frontend
+GNOME Packagekit,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/gnome-packagekit,live,GNOME desktop package manager frontend
+GNOME Shell Extension Gsconnect,license,,Open source,GNU General Public License v2.0 (GitHub API spdx_id),,https://github.com/GSConnect/gnome-shell-extension-gsconnect,live,GSConnect org canonical repo; KDE Connect implementation for GNOME
+GNOME Shell Extension Gsconnect,platforms,,Linux,,,https://github.com/GSConnect/gnome-shell-extension-gsconnect,live,GNOME Shell extension; Linux only
+Gnome Shell System Monitor Applet,license,,Open source,GNU General Public License v3.0 (GitHub API spdx_id),,https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet,live,Displays system info in GNOME Shell status bar
+Gnome Shell System Monitor Applet,platforms,,Linux,,,https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet,live,GNOME Shell applet; Linux only
+GNOME Text Editor,license,,Open source,GNU General Public License v3.0 (COPYING on GNOME GitLab),,https://gitlab.gnome.org/GNOME/gnome-text-editor,live,GNOME core text editor
+GNOME Text Editor,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/gnome-text-editor,live,GNOME desktop app; Linux only per accuracy directive
+Gnomint,license,,Open source,GNU General Public License v3.0 (SourceForge project page),,https://sourceforge.net/projects/gnomint/,live,Project name gnoMint; easy CA management tool for graphical and command line environments
+Gnomint,platforms,,Linux,,,https://sourceforge.net/projects/gnomint/,live,Graphical and command line CA tool; Linux only per accuracy directive
+Gnusim8085,license,,Open source,GNU General Public License v2.0 (COPYING verified; GitHub API spdx_id),,https://github.com/GNUSim8085/GNUSim8085,live,Graphical simulator assembler and debugger for Intel 8085
+Gnusim8085,platforms,,Linux,,,https://github.com/GNUSim8085/GNUSim8085,live,"README describes cross-platform; only Linux packages documented, Linux kept per accuracy directive"
+Go For It,license,,Open source,GNU General Public License v3.0 (GitHub API spdx_id),,https://github.com/JMoerman/Go-For-It,live,Stylish to-do list with built-in productivity timer
+Go For It,platforms,,Linux,,,https://github.com/JMoerman/Go-For-It,live,README download section lists GNU/Linux packages only
+Go Spew,license,,Open source,ISC License (GitHub API spdx_id),,https://github.com/davecgh/go-spew,live,"Deep pretty printer for Go data structures; Go library, no end-user platforms"
+Godump,license,,Open source,MIT License (LICENSE verified),,https://github.com/goforj/godump,live,"goforj/godump canonical repo (1,768 stars); minimal developer-friendly pretty-printer and debug dumper for Go; Go library, no end-user platforms"
+Google,license,,Proprietary — free,Free download by Google LLC,,https://apps.apple.com/us/app/google/id284815942?uo=4,live,App Store listing by Google LLC free; Play Store com.google.android.googlequicksearchbox also free
+Google,platforms,,iOS — Android,,,https://apps.apple.com/us/app/google/id284815942?uo=4,live,App Store iOS listing; Play Store Android package verified
+GOV.UK One Login,license,,Proprietary — free,Free download by Government Digital Service,,https://apps.apple.com/gb/app/gov-uk-one-login/id6737119425?uo=4,live,App Store exact match by Government Digital Service free; Play Store uk.gov.onelogin also free
+GOV.UK One Login,platforms,,iOS — Android,,,https://apps.apple.com/gb/app/gov-uk-one-login/id6737119425?uo=4,live,App Store iOS listing; Play Store Android package verified
+Gpredict,license,,Open source,GPL-2.0,,https://github.com/csete/gpredict,live,GitHub API SPDX GPL-2.0; official site confirms GNU GPL
+Gpredict,platforms,,Linux,,,https://github.com/csete/gpredict,live,GTK satellite tracking app distributed as source plus third-party binaries
+GPU-Viewer,license,,Open source,GPL-3.0,,https://github.com/arunsivaramanneo/GPU-Viewer,live,GitHub API SPDX GPL-3.0
+GPU-Viewer,platforms,,Linux,,,https://github.com/arunsivaramanneo/GPU-Viewer,live,Front-end to glxinfo/vulkaninfo/clinfo; Linux only per repo description
+Graphic Walker,license,,Open source,Apache-2.0,,https://github.com/Kanaries/graphic-walker,live,GitHub API SPDX Apache-2.0 on Kanaries/graphic-walker
+Greater WMS,license,,Open source,Apache-2.0,,https://github.com/GreaterWMS/GreaterWMS,live,GitHub API SPDX Apache-2.0 on GreaterWMS/GreaterWMS
+Greater WMS,platforms,,Web,,,https://github.com/GreaterWMS/GreaterWMS,live,Self-hosted warehouse management web system; mobile app is a separate repo
+Gromit,license,,Open source,GPL-2.0,,https://github.com/bk138/gromit-mpx,live,GitHub API SPDX GPL-2.0 on bk138/gromit-mpx
+Gromit,platforms,,Linux,,,https://github.com/bk138/gromit-mpx,live,On-screen annotation tool for X11 and Wayland Unix desktops; Flathub
+Gtamsanalyzer.app,license,,Open source,GPL-2.0-or-later,,https://packages.debian.org/unstable/gtamsanalyzer.app,live,Debian copyright: License GPL-2+ (Matthew Weinstein 1994-2004; Fred Kiefer 2000); GNUstep port of TAMS Analyzer
+Gtamsanalyzer.app,platforms,,Linux,,,https://packages.debian.org/unstable/gtamsanalyzer.app,live,Debian GNUstep package gtamsanalyzer.app
+Gtkhash,license,,Open source,GPL-2.0,,https://github.com/gtkhash/gtkhash,live,Repo COPYING verified as GNU GPL Version 2
+Gtkhash,platforms,,"Windows, Linux",,,https://github.com/gtkhash/gtkhash,live,README: Windows (msys2) + Linux (Snap) build badges; cross-platform hash utility
+Gtranslator,license,,Open source,GPL-3.0,,https://github.com/GNOME/gtranslator,live,GitHub mirror of gitlab.gnome.org/GNOME/gtranslator; license detection GPL-3.0
+Gtranslator,platforms,,Linux,,,https://github.com/GNOME/gtranslator,live,GNOME desktop app; Flathub org.gnome.Gtranslator
+GuessIron,license,,Open source,Apache-2.0,,https://f-droid.org/packages/de.indie42.guessiron,live,F-Droid lists Apache License 2.0
+GuessIron,platforms,,Android,,,https://f-droid.org/packages/de.indie42.guessiron,live,F-Droid + Play Store; phone-as-ruler app
+Guitar,license,,Open source,GPL-2.0,,https://github.com/soramimi/Guitar,live,GitHub license detection GPL-2.0; Git GUI client
+Guitar,platforms,,"Windows, macOS, Linux",,,https://github.com/soramimi/Guitar,live,"README: graphical Git interface for Windows, macOS, and Linux"
+Gworkspace.app,license,,Open source,GPL-2.0,,https://github.com/gnustep/apps-gworkspace,live,Raw COPYING verified as GNU GPL Version 2; GNUstep workspace manager
+Gworkspace.app,platforms,,Linux,,,https://github.com/gnustep/apps-gworkspace,live,GNUstep desktop app (Debian gworkspace.app)
+HACS,license,,Open source,MIT,,https://github.com/hacs/integration,live,"MIT; Home Assistant Community Store custom integration, not a standalone OS app"
+Hamlib,license,,Open source,LGPL-2.1,,https://github.com/Hamlib/Hamlib,live,Raw COPYING.LIB verified as GNU LGPL Version 2.1; ham radio control library
+Harbor,license,,Open source,Apache-2.0,,https://github.com/goharbor/harbor,live,GitHub API spdx_id Apache-2.0 on goharbor/harbor
+Harbor,platforms,,Web,,,https://github.com/goharbor/harbor,live,self-hosted cloud native container registry server
+Hasleo Backup Suite Free,license,,Proprietary — free,,,https://www.easyuefi.com/backup-software/backup-suite-free.html,live,official page: free edition / freeware backup software
+Hasleo Backup Suite Free,platforms,,Windows,,,https://www.easyuefi.com/backup-software/backup-suite-free.html,live,official page: Windows 11/10/8/7
+Hbmqtt,license,,Open source,MIT,,https://github.com/njouanin/hbmqtt,live,GitHub API spdx_id MIT on njouanin/hbmqtt (original author repo)
+Heaptrack GUI,license,,Open source,LGPL-2.1-or-later,,https://github.com/KDE/heaptrack,live,SPDX-License-Identifier LGPL-2.1-or-later in source file headers on KDE/heaptrack
+Heaptrack GUI,platforms,,Linux,,,https://github.com/KDE/heaptrack,live,heap memory profiler for Linux
+Helix,license,,Open source,MPL-2.0,,https://github.com/helix-editor/helix,live,GitHub API spdx_id MPL-2.0 on helix-editor/helix
+Helix,platforms,,"Windows, macOS, Linux",,,https://github.com/helix-editor/helix,live,"latest release assets include x86_64-linux, x86_64-macos and x86_64-windows builds"
+Hfs,license,,Open source,GPL-3.0,,https://github.com/rejetto/hfs,live,GitHub API spdx_id GPL-3.0 on rejetto/hfs (HFS v3 HTTP File Server)
+Hfs,platforms,,"Windows, macOS, Linux",,,https://github.com/rejetto/hfs,live,"README: Runs on Windows, Linux, macOS (FreeBSD and Android also listed)"
+Hiddify App,license,,Source-available,Hiddify Extended GPL v3 — NonCommercial use only,,https://github.com/hiddify/hiddify-app,live,LICENSE.md is Hiddify Extended GPL v3 with additional conditions incl. NonCommercial Use Only -> Source-available per playbook
+Hiddify App,platforms,,"Android, iOS, Windows, macOS, Linux",,,https://github.com/hiddify/hiddify-app,live,"README: Multi-platform Android, iOS, Windows, macOS and Linux"
+Hivemq Mqtt Web Client,license,,Open source,Apache-2.0,,https://github.com/hivemq/hivemq-mqtt-web-client,live,GitHub API spdx_id Apache-2.0 on hivemq/hivemq-mqtt-web-client
+Hivemq Mqtt Web Client,platforms,,Web,,,https://github.com/hivemq/hivemq-mqtt-web-client,live,websockets based MQTT client that runs in the browser
