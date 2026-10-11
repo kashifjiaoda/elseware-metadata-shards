@@ -1,0 +1,68 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Puja Book पूजा बुक,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.pddpr.pujabook,live,Exact Play Store title match; price 0; no in-app purchases marker
+Puja Book पूजा बुक,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.pddpr.pujabook,live,
+QuarterFull - Read & Create,license,,Proprietary — free,,,https://apps.apple.com/us/app/quarterfull-read-create/id6469601198,live,Exact App Store title match by QuarterFull Inc.; price $0.00; no IAP marker
+QuarterFull - Read & Create,platforms,,iOS,,,https://apps.apple.com/us/app/quarterfull-read-create/id6469601198,live,No exact-name Android listing found from whitelisted source; kept iOS-only
+"Quran 360: English, Recitation",license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=app.assistant.quran,live,"Play listing shows ""In-app purchases"" and ""Contains ads""; store titles vary: Play ""Quran 360: English, Audio"", App Store ""Quran 360: AlQuran English"" (same developer Assistant App Teknoloji)"
+"Quran 360: English, Recitation",platforms,,Android,,,https://play.google.com/store/apps/details?id=app.assistant.quran,live,iOS: App Store id 1613305778 by same developer
+Quran Tadabbur,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.bekalislam.qurantadabbur,live,Exact Play Store title match; price 0; no in-app purchases marker
+Quran Tadabbur,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.bekalislam.qurantadabbur,live,
+Reel Cinemas: Movie Tickets,license,,Proprietary — free,,,https://apps.apple.com/us/app/reel-cinemas-movie-tickets/id432316358,live,Exact App Store title match by Emaar Technologies LLC; price $0.00; no IAP marker
+Reel Cinemas: Movie Tickets,platforms,,iOS,,,https://apps.apple.com/us/app/reel-cinemas-movie-tickets/id432316358,live,"Android: Play Store com.reelCinema.Screens (""Reel Cinemas:Book Movie Ticket"" by Emaar Technologies), price 0, no IAP"
+Rojgar With Ankit (RWA),license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.appx.rojgar_with_ankit,live,Exact Play Store title match; price 0; no in-app purchases marker
+Rojgar With Ankit (RWA),platforms,,Android,,,https://play.google.com/store/apps/details?id=com.appx.rojgar_with_ankit,live,
+ShortDiShow,license,,Proprietary — free,,,https://apps.apple.com/app/id6795870509,live,Exact-name App Store match by Susumu Takeda Free no IAP marker
+ShortDiShow,platforms,,iOS,,,https://apps.apple.com/app/id6795870509,live,Interactive short-drama adventure app
+"Skuling - UTBK, TKA, Kedinasan",license,,Proprietary — free,,,https://apps.apple.com/app/id6590622391,live,App Store listing titled Skuling: Tryout UTBK & TKA by PT. CERDASKAN PENERUS BANGSA Free no IAP marker
+"Skuling - UTBK, TKA, Kedinasan",platforms,,iOS,,,https://apps.apple.com/app/id6590622391,live,UTBK and TKA exam tryout app
+SpeakX: Learn Spoken English,license,,Proprietary — free,,,https://apps.apple.com/app/id6756059415,live,App Store listing titled SpeakX: English Speaking App by Ivypods Technology Private Limited Free no IAP marker
+SpeakX: Learn Spoken English,platforms,,iOS,,,https://apps.apple.com/app/id6756059415,live,English speaking practice app
+Star Tracker Lite-Live Sky Map,license,,Proprietary — free,,,https://apps.apple.com/app/id780172278,live,Exact-name App Store match by Shenji Pan Free no IAP marker
+Star Tracker Lite-Live Sky Map,platforms,,iOS,,,https://apps.apple.com/app/id780172278,live,Live sky map app
+Sun NXT - Live TV & Movies,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.suntv.sunnxt,live,Free app with paid subscription plans for content monthly Rs 50 India
+Sun NXT - Live TV & Movies,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1244757492,live,Sun TV Network OTT streaming app also on Play Store
+TalentNext,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.merittrac.talentnext_app,live,Exact-title Play Store match by MeritTrac no IAP
+TalentNext,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6805399559,live,App Store listing titled TalentNext Mobile by MERITTRAC SERVICES PRIVATE LIMITED
+thmanyah,license,,Proprietary — free,,,https://apps.apple.com/app/id6746764325,live,Exact-name App Store match by Thmanyah LLC Free no IAP marker
+thmanyah,platforms,,iOS,,,https://apps.apple.com/app/id6746764325,live,Saudi podcast and media company app
+Timezone Fun App,license,,Proprietary — free,,Android; iOS,https://www.timezonegames.com/en-au/play/app/,live,Official site: free download; iOS 11+/Android 7.0+
+Timezone Fun App,platforms,,Android; iOS,,,https://www.timezonegames.com/en-au/play/app/,live,Official support page lists iOS 11+ and Android 7.0+
+Umingle - Video Chat Studio,license,,Proprietary — freemium,,iOS,https://apps.apple.com/ph/app/umingle-video-chat-studio/id6791878334,live,App Store description offers auto-renewing weekly/monthly/yearly subscription for ad-free full features
+Umingle - Video Chat Studio,platforms,,iOS,,,https://apps.apple.com/ph/app/umingle-video-chat-studio/id6791878334,live,App Store listing only; no Play Store listing found
+Velora Spin,license,,Proprietary — freemium,,iOS,https://apps.apple.com/us/app/velora-spin/id6777918003,live,Free app with in-app purchases per App Store listing; social casino (no real-money gambling)
+Velora Spin,platforms,,iOS,,,https://apps.apple.com/us/app/velora-spin/id6777918003,live,App Store listing by BI Manufacturing LLC; iPhone
+Vi Movies & TV - 20 OTTs in 1,license,,Proprietary — freemium,,Android; iOS,https://apps.apple.com/in/app/vi-movies-tv-20-otts-in-1/id1099427256?uo=4,live,Free app by Vodafone Idea with in-app purchases; full OTT bundles via paid Vi subscription packs
+Vi Movies & TV - 20 OTTs in 1,platforms,,Android; iOS,,,https://play.google.com/store/apps/details?id=com.vimtv&hl=en_IN,live,Play Store + App Store listings; smart TVs/web also supported per myvi.in
+Viu -Stream TV Shows & Series,license,,Proprietary — freemium,,Android; iOS,https://play.google.com/store/apps/details?id=com.vuclip.viu&hl=en_US&gl=DK,live,Play listing shows In-App Purchases; Viu Premium subscription unlocks full catalog
+Viu -Stream TV Shows & Series,platforms,,Android; iOS,,,https://apps.apple.com/sg/app/viu/id1036095179?uo=4,live,App Store (PCCW OTT) + Play Store listings
+WeTV Asian & Local Dramas,license,,Proprietary — freemium,,Android; iOS,https://play.google.com/store/apps/details?id=com.tencent.qqlivei18n,live,Free with ads; VIP subscription for full catalog (In-App Purchases on listing)
+WeTV Asian & Local Dramas,platforms,,Android; iOS,,,https://play.google.com/store/apps/details?id=com.tencent.qqlivei18n,live,Play Store + App Store listings; web version at wetv.vip
+Xhat - AI without Boundaries,license,,Proprietary — free,,Android; iOS,https://play.google.com/store/apps/details?id=ge.deploy.chatai&hl=en_US,live,Free download by Patryk Nowak; no ads or IAP on Play listing; very low user ratings noted
+Xhat - AI without Boundaries,platforms,,Android; iOS,,,https://apps.apple.com/us/app/xhat-ai-without-boundaries/id6743545891?uo=4,live,Play Store + App Store listings
+Yasin dan Tahlil NU Lengkap,license,,Proprietary — free,,Android,https://play.google.com/store/apps/details?id=com.mungmedia.tahlil,live,Free; contains ads; Auto-Scroll Murottal Premium feature mentioned; premium tier unconfirmed
+Yasin dan Tahlil NU Lengkap,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.mungmedia.tahlil,live,Play Store listing by Mung Media; no exact-name iOS listing
+أبجد: كتب - روايات - قصص عربية,license,,Proprietary — freemium,,Android; iOS,https://apps.apple.com/ar/app/%D8%A3%D8%A8%D8%AC%D8%AF-%D9%83%D8%AA%D8%A8-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%82%D8%B5%D8%B5-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/id976628194,live,Free download with in-app purchases; أبجد بلا حدود paid subscription for full library
+أبجد: كتب - روايات - قصص عربية,platforms,,Android; iOS,,,https://play.google.com/store/apps/details?id=com.abjjad.app&hl=ar,live,App Store + Play Store (com.abjjad.app) listings
+네이버 - NAVER,license,,Proprietary — free,,,https://apps.apple.com/app/id393499958,live,Free app by NAVER Corp.
+네이버 - NAVER,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.nhn.android.search,live,price 0 on Play Store; App Store id 393499958
+ACKO Insurance,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.acko.android,live,price 0 on Play Store
+ACKO Insurance,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1621244359,live,Free on App Store by Acko Technology & Services Private Limited
+Amemv Crawler,license,,Open source,MIT License (raw LICENSE verified),,https://github.com/loadchange/amemv-crawler,live,"loadchange/amemv-crawler; license row only (Python CLI tool, no end-user OS platforms)"
+AnyShort,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.anyshort.tvb,live,price 0 on Play Store
+AnyShort,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.anyshort.tvb,live,no exact-name iOS listing found
+"Banco Itaú: Conta, Cartão e +",license,,Proprietary — free,,,https://apps.apple.com/br/app/id474505665,live,Grátis by Banco Itau S.A.
+"Banco Itaú: Conta, Cartão e +",platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.itau,live,price 0 on Play Store com.itau
+BantuSaku- Pinjaman Daring,license,,Proprietary — free,,,https://apps.apple.com/id/app/id1619483828,live,App Store listing id 1619483828 by PT. Smartec Teknologi Indonesia; price Free with no In-App Purchases
+BantuSaku- Pinjaman Daring,platforms,,iOS,,,https://apps.apple.com/id/app/id1619483828,live,App Store iOS listing only; Android package not confirmed from whitelisted source
+Bili Bili Manga Downloader,license,,Open source,AGPL-3.0,,https://github.com/Zeal-L/BiliBili-Manga-Downloader,live,"Raw LICENSE verified as GNU Affero GPL v3 text (governs over GitHub API); Zeal-L/BiliBili-Manga-Downloader,  1247 stars,  exact-name match"
+Bili Bili Manga Downloader,platforms,,Windows; macOS; Linux,,,https://github.com/Zeal-L/BiliBili-Manga-Downloader,live,README platform badge: Windows | macOS | Linux
+Bili Ticket Rush,license,,Open source,GPL-3.0,,https://github.com/Violiate/bili_ticket_rush,live,"Raw LICENSE verified as GNU GPL v3 text; Violiate/bili_ticket_rush,  exact-name match (bilibili会员购 auto ticket-snatching tool)"
+Bili Ticket Rush,platforms,,Windows; macOS; Linux,,,https://github.com/Violiate/bili_ticket_rush,live,"Release assets: BiliTicketRush-v6.6.6-Windows.exe,  -macOS,  -Linux (cross-platform Rust GUI per README)"
+Bilibili Subtitle,license,,Open source,MIT,,https://github.com/IndieKKY/bilibili-subtitle,live,"Raw LICENSE verified as MIT License text (IndieKKY 2023); IndieKKY/bilibili-subtitle,  exact-name match"
+Bilibili Subtitle,platforms,,Web,,,https://github.com/IndieKKY/bilibili-subtitle,live,Browser extension (哔哔君 bilibili subtitle list browser extension per README)
+Biliup,license,,Open source,MIT,,https://github.com/biliup/biliup,live,"Raw LICENSE verified as MIT License text (ForgQi 2019); biliup/biliup,  5487 stars,  exact-name match (bilibili upload/download CLI tool)"
+Biliup,platforms,,Windows; macOS; Linux,,,https://github.com/biliup/biliup,live,"Release assets: Windows exe/msi,  macOS x86_64/aarch64,  Linux x86_64/aarch64/arm tarballs"
+Brasileirão Pro 2026 Série A B,license,,Proprietary — free,,,https://apps.apple.com/br/app/id892898886,live,App Store listing id 892898886 by Seven Digital Apps LTDA; price Free with no In-App Purchases
+Brasileirão Pro 2026 Série A B,platforms,,iOS,,,https://apps.apple.com/br/app/id892898886,live,App Store iOS listing only; no exact-name Android listing found from whitelisted source
+bob World New,license,,Proprietary — free,,,https://apps.apple.com/in/app/id6753942579,live,App Store listing id 6753942579 by Bank of Baroda; price Free with no In-App Purchases
+bob World New,platforms,,iOS,,,https://apps.apple.com/in/app/id6753942579,live,App Store iOS listing only; official mobile banking app
