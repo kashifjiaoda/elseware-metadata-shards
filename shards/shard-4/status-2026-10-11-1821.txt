@@ -1,0 +1,1 @@
+shard4 expansion batch38 pushed (Shard 2): 73 rows (38 license-verified, 35 platform-verified), apps.md lines 1857-1906. 12 skipped with reason (Ptask, RPA, ScaloSign, Sense Voice, Spago, stackit, theGist, Todo App, Tessdata-nonapp, Typora Issues-nonapp, Unlimited OCR, Usermode). 0 schema issues; whitelisted sources only. Next: batch 39 (lines 1907-1956).
