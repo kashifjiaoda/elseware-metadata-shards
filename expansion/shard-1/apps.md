@@ -3,7 +3,6 @@
 Total apps: 3831. ONE app per line. First app on line 6.
 Batch M = lines 6+((M-1)*50) through 55+((M-1)*50) (50 lines = 50 apps).
 WARNING: app names may contain "|" characters — ONE line = ONE app. NEVER split a line on "|".
-
 Acquire
 Anara
 Avocado AI
