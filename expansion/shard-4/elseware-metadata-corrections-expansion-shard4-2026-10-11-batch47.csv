@@ -1,0 +1,74 @@
+Fauxx - Privacy Through Deception,license,,Open source,AGPL-3.0-only,,https://github.com/digital-grease/fauxx,live,"Raw LICENSE is AGPL v3 text; no 'or later' grant found in repo → AGPL-3.0-only; canonical repo digital-grease/fauxx (not a fork)"
+Fauxx - Privacy Through Deception,platforms,,Android,,,https://github.com/digital-grease/fauxx,live,"Android privacy tool (API 26+); ships via F-Droid + GitHub Releases, Play build discontinued; alpha Rust/Iced desktop companion in repo"
+FFShare,license,,Open source,GPL-3.0-only,,https://github.com/caydey/ffshare,live,"Raw LICENSE is GPL v3 text; F-Droid lists 'GNU General Public License v3.0 only'; canonical repo caydey/ffshare"
+FFShare,platforms,,Android,,,https://f-droid.org/en/packages/com.caydey.ffshare/,live,"Android share-target app: re-encodes image/video/audio via ffmpeg before sharing"
+Fedinspect,license,,Open source,MIT,,https://codeberg.org/andypiper/fedinspect-gtk,live,"Canonical repo README badges MIT and License section links MIT; raw LICENSE file not directly rendered"
+Fedinspect,platforms,,Linux,,,https://flathub.org/en/apps/org.andypiper.Fedinspect,live,"Flathub flatpak for Linux; GNOME/GTK4 Python app analysing fediverse servers via NodeInfo/WebFinger/ActivityPub"
+Ferret Vis,platforms,,Web,,,https://github.com/visdesignlab/Ferret,live,"Web app at ferret.sci.utah.edu (Netlify): visualization tool reviewing tabular datasets for manipulation; repo has no LICENSE file → license row dropped"
+Figma Linux,platforms,,Linux,,,https://github.com/Figma-Linux/figma-linux,live,"Unofficial Electron wrapper for Figma; Linux-only (Snap/AppImage/deb/rpm/AUR); license row dropped per unofficial-variant rule; sibling clients exist (fig-linux, figlinux, figmix)"
+FDroid List Repository,license,,Open source,The Unlicense,,https://github.com/userkilled/FDroid-List-Repository,live,"GitHub license detection on canonical repo: The Unlicense; static registry (links.md, droidify_repos.json) of known F-Droid repos — not an end-user app, license-only"
+File Navigator,license,,Open source,GPL-3.0-only,,https://github.com/w2sv/FileNavigator,live,"GitHub detects GPL-3.0 on LICENSE file; README states GPL v3.0 with no or-later grant → GPL-3.0-only; canonical repo w2sv/FileNavigator"
+File Navigator,platforms,,Android,,,https://github.com/w2sv/FileNavigator,live,"Android 11+ app; on Play, F-Droid, IzzyOnDroid; watches shared storage and auto-routes files to folders"
+Filebrowser,license,,Open source,Apache-2.0,,https://github.com/filebrowser/filebrowser,live,Archived 2026-09-01; repo read-only; no further releases or security fixes
+Filebrowser,platforms,,Web (self-hosted),,,https://github.com/filebrowser/filebrowser,live,Single-binary self-hosted web server
+FileManagerSphere,license,,Open source,GPL-3.0-or-later,,https://github.com/Ruan625Br/FileManagerSphere,live,README grants v3 or any later version; on F-Droid and Amazon Appstore
+FileManagerSphere,platforms,,Android,,,https://github.com/Ruan625Br/FileManagerSphere,live,Android file manager
+Filestash,license,,Open source,AGPL-3.0-only,,https://github.com/mickael-kerjean/filestash,live,Self-hosted edition; vendor sells commercial support
+Filestash,platforms,,Web · Windows · macOS · Linux · Android · iOS,,,https://github.com/mickael-kerjean/filestash,live,
+Final2x,license,,Open source,BSD-3-Clause,,https://github.com/EutropicAI/Final2x,live,moved from Tohrusky/Final2x to EutropicAI org
+Final2x,platforms,,Windows · macOS · Linux,,,https://github.com/EutropicAI/Final2x,live,
+FingerList,license,,Open source,MIT,,https://github.com/sirjofri/fingerlist,live,GitHub-detected MIT + LICENSE.txt; on F-Droid
+FingerList,platforms,,Android,,,https://github.com/sirjofri/fingerlist,live,
+Firefox Quantum,license,,Open source,MPL-2.0,,https://mozilla.org/MPL/2.0/,live,Quantum is the release codename for Mozilla Firefox 57 (Nov 14 2017); not a standalone product; source carries MPL-2.0 headers
+Firefox Quantum,platforms,,Windows · macOS · Linux · Android · iOS,,,https://www.firefox.com/en-GB/thanks/,live,Official download page lists desktop + mobile builds
+FixupXer - URL Enhancer,license,,Open source,GPL-3.0-or-later,,https://github.com/neatcode-labs/fixupxer,live,Repo description + README badge declare GPL-3.0-or-later; REUSE.toml + LICENSES dir present
+FixupXer - URL Enhancer,platforms,,Android,,,https://github.com/neatcode-labs/fixupxer,live,
+Flamerobin,license,,Open source,MIT,,https://github.com/mariuz/flamerobin,live,IBPP library under IBPP license; some icons LGPL
+Flamerobin,platforms,,Windows · macOS · Linux · FreeBSD,,,https://github.com/mariuz/flamerobin,live,Cross-platform per repo description
+Flashy Alarm,license,,Open source,GPL-3.0-only,,https://github.com/yahyatinani/flashy-alarm,live,"Raw LICENSE is GPL-3.0 with no or-later grant; F-Droid claims or-later (packager claim overruled)"
+Flashy Alarm,platforms,,Android,,,https://github.com/yahyatinani/flashy-alarm,live,
+Flexsearch,license,,Open source,Apache-2.0,,https://raw.githubusercontent.com/nextapps-de/flexsearch/master/LICENSE,live,"JS full-text search library (npm package), not an end-user app; license-only; LICENSE audited on canonical repo nextapps-de/flexsearch"
+Floating Mute,license,,Open source,GPL-3.0-only,,https://raw.githubusercontent.com/mkalmousli/FloatingMute/master/LICENSE,live,"GPL v3 text audited on canonical repo; no or-later grant found in source headers (MainActivity.kt has no license header); F-Droid also records v3.0 only"
+Floating Mute,platforms,,Android,,,https://f-droid.org/en/packages/com.github.mkalmousli.floating_mute/,live,"F-Droid Android app"
+FlorisBoard,license,,Open source,Apache-2.0,,https://raw.githubusercontent.com/florisboard/florisboard/main/LICENSE,live,"LICENSE audited on canonical repo florisboard/florisboard; Copyright 2020-2026 The FlorisBoard Contributors"
+FlorisBoard,platforms,,Android,,,https://f-droid.org/en/packages/dev.patrickgold.florisboard/,live,"Android keyboard; F-Droid listing, Android 8.0+"
+Fluid,license,,"Proprietary — freemium","Free download; $5 Fluid License unlocks status-bar pin, userscripts/userstyles, fullscreen",,https://fluidapp.com/,live,"macOS site-specific browser"
+Fluid,platforms,,macOS,,,https://fluidapp.com/,live,"Mac only (OS X)"
+Flutter Colorpicker,license,,Open source,MIT,,https://raw.githubusercontent.com/mchome/flutter_colorpicker/master/LICENSE,live,"Flutter/Dart package (library), not an end-user app; license-only; LICENSE audited on canonical repo mchome/flutter_colorpicker"
+Focal,license,,Open source,"GPL (version unspecified)",,https://github.com/xplodwild/android_packages_apps_Focal,live,"Android build marker MODULE_LICENSE_GPL on canonical repo (XplodWild, app creator); author stated GPL; no version grant found; standalone beta 2013, appears abandoned"
+Focal,platforms,,Android,,,https://github.com/xplodwild/android_packages_apps_Focal,live,"Android camera app (Android.mk + AndroidManifest.xml on canonical repo)"
+Folderlogs,license,,Open source,GPL-3.0-or-later,,https://raw.githubusercontent.com/seoulcodingcafe/Folderlogs/master/LICENSE,live,"GPL v3 text audited on canonical repo seoulcodingcafe/Folderlogs; repo README claims GPL 3.0 or later, F-Droid agrees"
+Folderlogs,platforms,,Android,,,https://f-droid.org/en/packages/io.github.folderlogs/,live,"Android 5.0+"
+Foqos,license,,Open source,MIT,,https://raw.githubusercontent.com/awaseem/foqos/main/LICENSE,live,"MIT License, Copyright (c) 2024 Ali Waseem; audited on canonical repo awaseem/foqos"
+Foqos,platforms,,iOS,,,https://www.foqos.app/,live,"free iOS app blocker, no IAP/subscription"
+Flip a coin,platforms,,"iOS, Android (direct APK)",,,https://flipacoin.com/,live,"skill-based real-money game by flipacoin.com; free download; iOS via App Store, Android APK direct from official site; name is generic so other coin-flip apps exist"
+Formsy React,license,,Open source,MIT,,https://github.com/formsy/formsy-react,live,"JS/React form-input library, not an app (license-only); MIT per raw LICENSE on canonical repo formsy/formsy-react"
+FOSS Browser,license,,Open source,AGPL-3.0-or-later,,https://f-droid.org/packages/de.baumann.browser/,live,"Canonical repo moved from GitHub scoute-dich/browser (account deleted) to codeberg.org/Gaukler_Faun/FOSS_Browser; raw LICENSE.md grants AGPL v3 'or (at your option) any later version'"
+FOSS Browser,platforms,,Android,,,https://f-droid.org/packages/de.baumann.browser/,live,Android WebView browser; F-Droid package de.baumann.browser
+Fossify Voice Recorder Beta,license,,Open source,GPL-3.0-only,,https://github.com/FossifyOrg/Voice-Recorder,live,"Raw LICENSE is bare GPL-3.0 text with unfilled how-to-apply boilerplate; recorded conservative GPL-3.0-only"
+Fossify Voice Recorder Beta,platforms,,Android,,,https://play.google.com/store/apps/details?id=org.fossify.voicerecorder&hl=en_NZ,live,"Play Beta listing is the beta track of Fossify Voice Recorder (package org.fossify.voicerecorder); stable channel also on F-Droid"
+Fragments,license,,Open source,GPL-3.0-only,,https://gitlab.gnome.org/haecker-felix/Fragments,live,"COPYING.md is unfilled GPL-3.0 boilerplate; recorded conservative GPL-3.0-only; GNOME Circle app, canonical repo on GNOME GitLab (moved from GitHub)"
+Fragments,platforms,,Linux,,,https://flathub.org/apps/details/de.haeckerfelix.Fragments,live,Distributed as Flatpak via Flathub per canonical README
+FREE Browser,platforms,,"Android, Windows, Mac, Linux",,,https://freebrowser.org,live,"FreeBrowser by GreatFire.org; official site offers Android/Windows/Mac/Linux builds free forever; no license stated on official site"
+Fresco Image Viewer,license,,Open source,Apache-2.0,,https://github.com/stfalcon-studio/FrescoImageViewer,live,"Android library for the Fresco image pipeline, not a standalone app (license-only); no LICENSE file in repo, Apache-2.0 grant stated in README license section (Copyright 2017 stfalcon.com); project archived per README"
+Fulguris Web Browser,license,,Open source,MPL-2.0 / CPAL-1.0 (per-file split),,https://github.com/Slion/Fulguris,live,"Raw LICENSE: files under sole copyright licensed CPAL-1.0, all other files MPL-2.0; Play build shows optional yearly-subscription nudge after 20 tabs"
+Fulguris Web Browser,platforms,,Android,,,https://play.google.com/store/apps/details?id=net.slions.fulguris.full.playstore,live,"Android; Play package net.slions.fulguris.full.playstore; F-Droid build net.slions.fulguris.full.fdroid"
+Fusion Icon,license,,Open source,GPL-2.0-or-later,,https://github.com/compiz-reloaded/fusion-icon,live,"Canonical repo compiz-reloaded/fusion-icon; source headers grant v2 or any later version"
+Fusion Icon,platforms,,Linux,,,https://github.com/compiz-reloaded/fusion-icon,live,Compiz 0.8.x tray applet; Linux-only
+G Switch,license,,Proprietary — free,Free download with ads; no open-source license published,,https://play.google.com/store/apps/details?id=com.vascof.GSwitch,live,"G-Switch gravity runner by Serius Games (com.vascof.GSwitch); distinct from the browser original"
+G Switch,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.vascof.GSwitch,live,"Free; contains ads"
+Gajim,license,,Open source,GPL-3.0-only,,https://dev.gajim.org/gajim/gajim,live,"REUSE/SPDX-annotated sources carry GPL-3.0-only; icons MIT, data CC0"
+Gajim,platforms,,"Windows, macOS, Linux",,,https://gajim.org/,live,"Official site: runs on Windows, macOS, and Linux"
+GameMaster Dice,license,,Open source,GPL-2.0-or-later,,https://github.com/ge0rg/gamemasterdice,live,"Headers grant v2 or any later version; author Georg Lukas"
+GameMaster Dice,platforms,,Android,,,https://play.google.com/store/apps/details?id=de.duenndns.gmdice,live,
+Gantt,license,,Open source,GPL-3.0-or-later,,https://github.com/bardsoftware/ganttproject,live,"Assumed = GanttProject (bardsoftware); headers grant v3 or any later version; distinct from DHTMLX Gantt JS library"
+Gantt,platforms,,"Windows, macOS, Linux",,,https://www.ganttproject.biz/download,live,
+Gardine,license,,Open source,GPL-3.0-only,,https://github.com/yauhen-l/gardine,live,"GPLv3 text, no or-later headers found; repo inactive since 2020"
+Gardine,platforms,,Android,,,https://github.com/yauhen-l/gardine,live,"Minimalistic app switcher for Android"
+Gbonds,platforms,,Linux,,,https://launchpad.net/gbonds,live,"GNOME savings-bond tracker; upstream inactive since 2008; license row dropped (conflicting labels, upstream on banned SourceForge)"
+Gdebi,license,,Open source,GPL-2.0-or-later,,https://git.launchpad.net/gdebi,live,"Canonical upstream is Launchpad git; raw header grants v2 or any later version"
+Gdebi,platforms,,Linux,,,https://launchpad.net/gdebi,live,Tool to install local deb files; Debian/Ubuntu APT-based distros
+gedit,license,,Open source,GPL-2.0-or-later,,https://gitlab.gnome.org/GNOME/gedit,live,"Canonical upstream on GNOME GitLab (no GitHub mirror); headers grant v2 or any later version"
+gedit,platforms,,"Linux, macOS, Windows",,,https://gedit-text-editor.org/install.html,live,
+Georgian for AnySoftKeyboard,license,,Open source,Apache-2.0,,https://github.com/AnySoftKeyboard/LanguagePack,live,"Pack source in languages/georgian/ of the Apache-2.0 monorepo"
+Georgian for AnySoftKeyboard,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.anysoftkeyboard.languagepack.georgian,live,Free on Play Store
