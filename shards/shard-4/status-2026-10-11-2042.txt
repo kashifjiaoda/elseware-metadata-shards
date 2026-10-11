@@ -1,0 +1,6 @@
+Shard 2 (doing Shard 4's work) — Phase-2 expansion batch 54 complete
+Time: 2026-10-11 20:42 PKT
+CSV: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch54.csv (apps.md lines 2657-2706)
+Rows: 56 | Apps verified: 33 of 50 | Skipped: 17 (identity ambiguity: Prunr, QR And Barcode Scanner, QR Scanner, Qrq, QuickAccess, RADIO, Radiography, Remote Desktop, Resize Right, React Native Qrcode Svg, Real Time Person Removal; thin/conflicting grounding: Recordly license (AGPL badge vs NOASSERTION), Qmqtt (empty LICENSE + edl/epl), Python3 Dogtail (GitLab blocked), Qasconfig (SourceForge-only), RBStoryboard Link (no canonical upstream); dual-use offensive: Pwndrop)
+Assembler spot-checks (5 risky claims re-verified against raw text): ReVanced Manager GPL-3.0-only CONFIRMED; Qflipper GPL-3.0-only CONFIRMED (unfilled appendix, dev branch); QCSuper GPL-3.0-only CONFIRMED (unfilled appendix, master); PS2 Pnacher GPL-3.0-only CONFIRMED (GitHub GPL-3.0, README silent); RHVoice CORRECTED GPL-2.0-only -> GPL-3.0-or-later (canonical doc/en/License.md: main library LGPL-2.1-or-later + GPLv3-or-later MAGE = combination under GPL v3 or later; author-published LICENSE_APPLE_APP_STORE.md corroborates)
+All 5 chunks dual-write byte-identical; schema validated 56 rows x 9 cols, 0 issues, all live, whitelisted sources only.
