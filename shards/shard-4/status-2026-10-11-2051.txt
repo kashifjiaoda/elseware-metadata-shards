@@ -1,0 +1,9 @@
+Shard 4 status 2026-10-11-2051 PKT (Shard 2 takeover)
+
+PHASE-2 EXPANSION BATCH 55 COMPLETE - pushed to expansion/shard-4/
+- Rows pushed: 61 (elseware-metadata-corrections-expansion-shard4-2026-10-11-batch55.csv, apps.md lines 2707-2756)
+- Apps verified: 37 of 50
+- Skipped with reason (13): Scanner, Security Center, Send, sFTP Client, Shell, Simple Clock, Six Speed, Sound Redux, Squire, Stonks, store-admin, Stubb, Switch (all identity ambiguity / unresolvable)
+- Assembler normalizations (2): Shiru + Sovol SV06 Firmware "GPL-3.0" -> GPL-3.0-only (unfilled FSF appendix / no or-later grant -> conservative)
+- Assembler spot-checks (5): Rtl Sdr GPL-2.0-or-later CONFIRMED (real header grant); Sideband Source-available CONFIRMED (CC BY-NC-SA 4.0); Stemroller Public-domain CONFIRMED (dual Unlicense/MIT-0); Shiru GPL-3.0-only CONFIRMED (unfilled appendix); Speedtest CLI Source-available (Ookla EULA: personal non-commercial, no redistribution)
+- Notable: Stockfish canonical = official-stockfish/Stockfish (not stockfishchess); Sshwifty canonical = nirui/sshwifty (AGPL-3.0-or-later); Scrcpy iOS = unofficial port -> platforms-only; System Bus Radio kept as legitimate security research; invent.kde.org REUSED for Smb4k (GPL-2.0-or-later)
