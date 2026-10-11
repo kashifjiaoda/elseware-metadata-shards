@@ -1,0 +1,53 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+"Nubank: Conta, Cartão e mais",license,,Proprietary — free,,,https://apps.apple.com/br/app/id814456780,live,"App Store BR: exact title by NU PAGAMENTOS S/A, Grátis, no In-App Purchases"
+"Nubank: Conta, Cartão e mais",platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.nu.production,live,"Play Store (title variant ""Nu: Everyday mobile banking"", same Nu product)"
+Overlay Translator,license,,Open source,Apache-2.0,,https://github.com/ciddwd/overlay-translator,live,GitHub: SPDX Apache-2.0; raw LICENSE verified as Apache License 2.0 text
+Overlay Translator,platforms,,Android,,,https://github.com/ciddwd/overlay-translator,live,README: Android screen-translation app (Android 屏幕实时翻译)
+Pastemangax,license,,Open source,Apache-2.0,,https://github.com/crowforkotlin/pastemangax,live,GitHub: SPDX Apache-2.0; raw LICENSE verified as Apache License 2.0 text
+Pastemangax,platforms,,Android,,,https://github.com/crowforkotlin/pastemangax,live,Android manga reader app
+Persebaya Selamanya,license,,Proprietary — free,,,https://apps.apple.com/id/app/id1406696314,live,"App Store ID: by PERSEBAYA INDONESIA, PT, Free, no In-App Purchases"
+Persebaya Selamanya,platforms,,iOS,,,https://apps.apple.com/id/app/id1406696314,live,App Store ID listing only (no exact-name Play Store listing found)
+"PhonePe UPI, Payment, Recharge",license,,Proprietary — free,,,https://apps.apple.com/in/app/id1170055821,live,"App Store IN: exact title by PHONEPE PRIVATE LIMITED, Free, no In-App Purchases"
+"PhonePe UPI, Payment, Recharge",platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.phonepe.app,live,"Play title variant ""PhonePe UPI, Personal Loan App"" (same PhonePe Private Limited product)"
+"PicPay: Conta, Cartão e Pix",license,,Proprietary — free,,,https://apps.apple.com/br/app/id561524792,live,"App Store BR: exact title by PICPAY SERVICOS LTDA-ME, Grátis, no In-App Purchases"
+"PicPay: Conta, Cartão e Pix",platforms,,iOS,,,https://apps.apple.com/br/app/id561524792,live,Android listing not verifiable from whitelisted source (Play fetch blocked)
+PTV Live Sports Cricket TV,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.livecricketfotbaal.pttvlivesport,live,"Play Store listing by GoNext Technologies LLC, free download, no IAP marker"
+PTV Live Sports Cricket TV,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.livecricketfotbaal.pttvlivesport,live,"Play title variant ""PTV Live Cricket"" noted"
+RBL MyBank,license,,Proprietary — free,"Closed-source mobile banking app; App Store by RBL Bank Ltd, Free; Play listing has no IAP/ads markers","Android, iOS",https://apps.apple.com/us/app/rbl-mybank/id916461662?uo=4,live,"App Store id 916461662 exact-name match; Android package com.rblbank.mobank titled ""RBL MyBank"""
+RBL MyBank,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.rblbank.mobank,live,"Exact Play title ""RBL MyBank""; iOS App Store listing confirmed"
+Scapia: A card for travellers,license,,Proprietary — free,"Closed-source; App Store by Scapia Technology Private Limited, Free; Play listing has no IAP/ads markers","Android, iOS",https://apps.apple.com/us/app/scapia-a-card-for-travellers/id1625270866?uo=4,live,"App Store id 1625270866 exact-name match; Android package cards.scapia.android titled ""Scapia: A card for travellers"""
+Scapia: A card for travellers,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=cards.scapia.android,live,Exact Play title + iOS App Store listing confirmed
+Scoreboard - Track Score,license,,Proprietary — free,"Closed-source; App Store by ANDREAROSARIO CENSABELLA, Free; description has no premium/IAP/subscription keywords",iOS,https://apps.apple.com/us/app/scoreboard-track-score/id6473011550?uo=4,live,Exact-name App Store match id 6473011550; no exact-name Android listing found
+Scoreboard - Track Score,platforms,,iOS,,,https://apps.apple.com/us/app/scoreboard-track-score/id6473011550?uo=4,live,
+Singapore GP,license,,Proprietary — free,"Closed-source official event app; App Store by Singapore GP Pte Ltd, Free; official site links Android app","Android, iOS",https://apps.apple.com/us/app/singapore-gp/id518276170?uo=4,live,App Store id 518276170 exact-name match; singaporegp.sg links Play package com.singaporegp
+Singapore GP,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.singaporegp,live,Official site download page links Android app
+SpoRush: Live Cricket Scores,license,,Proprietary — freemium,In-App Purchases marker on Play Store listing (by TZAP MARKETING (OPC) PRIVATE LIMITED),Android,https://play.google.com/store/apps/details?id=com.sporush,live,Exact-title Play Store match (com.sporush)
+SpoRush: Live Cricket Scores,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.sporush,live,Play Store listing; no exact-name iOS listing found
+Super App do Galo,license,,Proprietary — free,"App Store: Free, no in-app purchases (by ARENA VENCER COMPLEXO ESPORTIVO MULTIUSO SPE LTDA)","Android, iOS",https://apps.apple.com/us/app/id1671629815,live,Exact-name match on App Store and Play Store
+Super App do Galo,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=br.com.atletico.app,live,Play Store exact-title match (br.com.atletico.app)
+Ticket Sports,license,,Proprietary — free,"App Store: Free, no in-app purchases (by Ticket Agora LTDA)",iOS,https://apps.apple.com/us/app/id1601902207,live,Exact-name App Store match; no exact-name Android listing found
+Ticket Sports,platforms,,iOS,,,https://apps.apple.com/us/app/id1601902207,live,App Store listing; Android equivalent not found from whitelisted sources
+Tring! by Pegadaian,license,,Proprietary — free,"App Store: Free, no in-app purchases (by PEGADAIAN (PERSERO), PT)",iOS,https://apps.apple.com/us/app/id1350501409,live,Exact-name App Store match; no exact-name Android listing found
+Tring! by Pegadaian,platforms,,iOS,,,https://apps.apple.com/us/app/id1350501409,live,App Store listing; Android listing not found from whitelisted sources
+TyC Sports,license,,Proprietary — free,"App Store: Free, no in-app purchases (by Tele Red Imagen S.A.)",iOS,https://apps.apple.com/us/app/id887613794,live,Exact-name App Store match; Android has only 'TyC Sports Play' variant (different title)
+TyC Sports,platforms,,iOS,,,https://apps.apple.com/us/app/id887613794,live,App Store listing
+Union ease - Mobile Banking,license,,Proprietary — free,"App Store: Free, no in-app purchases (by Union Bank of India); Play Store listing shows no IAP","Android, iOS",https://apps.apple.com/us/app/id1446060299,live,Exact-name match on App Store and Play Store (com.infrasoft.uboi)
+Union ease - Mobile Banking,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.infrasoft.uboi,live,Play Store exact-title match (com.infrasoft.uboi); App Store iOS confirmed
+Age of Origins:Tower Defense,license,,Proprietary — freemium,Free with in-app purchases confirmed on Play Store listing,"Android, iOS",https://apps.apple.com/app/id1376515087,live,App Store exact-title match id 1376515087 by Hong Kong Ke Mo software Co. Limited price Free; Play Store com.camelgames.aoz shows In-app purchases so freemium badge
+Age of Origins:Tower Defense,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1376515087,live,Play Store com.camelgames.aoz title Age of Origins confirms Android; App Store listing confirms iOS
+Arrow Puzzle - Arrows Game,license,,Proprietary — free,Price $0.00 no IAP marker on App Store lookup,iOS,https://apps.apple.com/app/id6785830071,live,App Store exact-title match id 6785830071 by SCIENEXT INDIA PRIVATE LIMITED price $0.00; no in-app purchase marker found
+Arrow Puzzle - Arrows Game,platforms,,iOS,,,https://apps.apple.com/app/id6785830071,live,App Store listing confirms iOS; Android listing not confirmed from whitelisted sources
+bale by BTN,license,,Proprietary — free,Price $0.00 no IAP marker,iOS,https://apps.apple.com/app/id6443466424,live,App Store exact-title match id 6443466424 by BANK TABUNGAN NEGARA price $0.00
+bale by BTN,platforms,,iOS,,,https://apps.apple.com/app/id6443466424,live,App Store listing confirms iOS; exact-name Play Store listing not confirmed from whitelisted sources
+得物 - 得到美好事物,license,,Proprietary — free,Price $0.00 CN storefront,iOS,https://apps.apple.com/cn/app/id1012871328,live,App Store CN exact-title match id 1012871328 by Shanghai Dewu Information Group price $0.00; no IAP marker found
+得物 - 得到美好事物,platforms,,iOS,,,https://apps.apple.com/cn/app/id1012871328,live,App Store CN listing confirms iOS; no whitelisted-source Android listing found
+"BharatPe UPI Payment, Loan App",license,,Proprietary — free,Free on App Store by RESILIENT INNOVATIONS PRIVATE LIMITED,,https://apps.apple.com/in/app/id1586002156,live,exact-name App Store match; no exact-name Play listing found
+"BharatPe UPI Payment, Loan App",platforms,,iOS,,,https://apps.apple.com/in/app/id1586002156,live,Android not confirmed from whitelisted sources
+Carrom Pool: Disc Game,license,,Proprietary — freemium,price 0 + In-app purchases on Play Store,,https://play.google.com/store/apps/details?id=com.miniclip.carrom,live,exact Play title match
+Carrom Pool: Disc Game,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.miniclip.carrom,live,App Store id 1420551478 by Miniclip SA
+EA SPORTS FC™ Football Mobile,license,,Proprietary — freemium,price 0 + In-app purchases on Play Store,,https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile,live,Play title is EA SPORTS FC Soccer Mobile 27 same product
+EA SPORTS FC™ Football Mobile,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile,live,App Store id 1094930513 by EA Swiss Sarl
+FamApp by Trio: UPI & Card,license,,Proprietary — free,price 0 no in-app purchases on Play Store,,https://play.google.com/store/apps/details?id=com.fampay.in,live,exact Play title match com.fampay.in
+FamApp by Trio: UPI & Card,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.fampay.in,live,App Store id 1499806454 by Tri O Tech solutions
+Homescapes,license,,Proprietary — freemium,price 0 + In-app purchases on Play Store,,https://play.google.com/store/apps/details?id=com.playrix.homescapes,live,exact Play title match
+Homescapes,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.playrix.homescapes,live,App Store id 1195621598 by PLR Worldwide Sales
