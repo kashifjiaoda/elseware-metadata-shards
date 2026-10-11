@@ -1,0 +1,86 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Prabhat Khabar - Hindi News,license,,Proprietary — free,,,https://apps.apple.com/app/id792398884,live,Free on App Store by NEUTRAL PUBLISHING HOUSE LIMITED; Play listing shows no In-app purchases marker
+Prabhat Khabar - Hindi News,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.readwhere.whitelabel.prabhatkhabar,live,Android (Play com.readwhere.whitelabel.prabhatkhabar; Hindi-script title variant of same newspaper) + iOS (App Store id 792398884)
+RadiosNet,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=br.com.radios.radiosmobile.radiosnet,live,Play listing shows In-app purchases marker; closed-source radio app
+RadiosNet,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1089290449,live,Android (Play br.com.radios.radiosmobile.radiosnet) + iOS (App Store id 1089290449 by Willians Spineli Venga e Cia Ltda ME)
+Sisternet,license,,Proprietary — free,,,https://apps.apple.com/app/id1502525395,live,Free on App Store by PT XL Axiata Tbk; no IAP indicators in listing
+Sisternet,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=id.co.xl.sisternet,live,Android (Play id.co.xl.sisternet by PT XL Axiata Tbk) + iOS (App Store id 1502525395)
+Tech in Asia: News & Analysis,license,,Proprietary — free,,,https://apps.apple.com/app/id1575387418,live,Free on App Store by Tech in Asia Pte Ltd; no subscription/IAP terms in listing description
+Tech in Asia: News & Analysis,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.techinasia.newsapp,live,Android (Play com.techinasia.newsapp exact title) + iOS (App Store id 1575387418)
+The Jakarta Post,license,,Proprietary — paid subscription,,,https://apps.apple.com/app/id1321863437,live,App Store listing describes subscription-based service with monthly fee and Apple ID auto-renewal management
+The Jakarta Post,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.thejakartapost.ndroid,live,Android (Play com.thejakartapost.ndroid exact title) + iOS (App Store id 1321863437 by BINA MEDIA TENGGARA PT)
+VEJA,license,,Proprietary — free,,,https://apps.apple.com/app/id385529352,live,Free on App Store by ABRIL COMUNICACOES S.A; no subscription terms in listing description
+VEJA,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=br.com.abril.revvejanoandroid3,live,Android (Play br.com.abril.revvejanoandroid3 by Abril Comunicacoes S/A) + iOS (App Store id 385529352)
+Way2News - Short News App,license,,Proprietary — free,,,https://apps.apple.com/app/id1021537384,live,Free on App Store by Way2Online Interactive India Private Limited; no IAP indicators in listing
+Way2News - Short News App,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=sun.way2sms.hyd.com,live,Android (Play sun.way2sms.hyd.com by Way2Online) + iOS (App Store id 1021537384)
+نبض Nabd - اخبار العالم ، عاجل,license,,Proprietary — freemium,,,https://apps.apple.com/app/id569532697,live,App Store listing mentions paid Nabd Gold subscription tier for ad-free experience
+نبض Nabd - اخبار العالم ، عاجل,platforms,,iOS,,,https://apps.apple.com/app/id569532697,live,iOS only — Android results are differently-titled/different-product apps (medical/banking); no exact-name Nabd news app verifiable
+Aaro Ananda - যা কিছু বাঙালির,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.abp.aroanandaapp,live,Play listing shows In-app purchases marker; ABP Group Bengali culture app
+Aaro Ananda - যা কিছু বাঙালির,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1576922858,live,Android (Play com.abp.aroanandaapp) + iOS (App Store id 1576922858 by ABP PRIVATE LIMITED)
+Auto Bangumi,license,,Open source,MIT License,,https://github.com/EstrellaXD/Auto_Bangumi,live,GitHub repo license field is MIT License; docs confirm MIT
+Auto Bangumi,platforms,,"Windows, macOS, Linux",,,https://github.com/EstrellaXD/Auto_Bangumi,live,Python app with Docker and local deployment documented; no mobile app
+CHARGE+,license,,Proprietary — free,,,https://apps.apple.com/app/id1481750244,live,Free on App Store by ChargePlus Pte Ltd; no In-app purchases features on store page
+CHARGE+,platforms,,iOS,,,https://apps.apple.com/app/id1481750244,live,iOS only — Play Store listing unconfirmed from whitelisted sources
+ChargeZone: EV Charging India,license,,Proprietary — free,,,https://apps.apple.com/app/id1627426498,live,Free on App Store by Tecso Charge Zone Private Limited; no In-app purchases features on store page
+ChargeZone: EV Charging India,platforms,,iOS,,,https://apps.apple.com/app/id1627426498,live,iOS only — Play Store listing unconfirmed from whitelisted sources
+CNN Brasil,license,,Proprietary — free,,,https://apps.apple.com/app/id1500801429,live,Free on App Store by Novus Midia SA; no In-app purchases features on store page
+CNN Brasil,platforms,,iOS,,,https://apps.apple.com/app/id1500801429,live,iOS only — Play Store listing unconfirmed from whitelisted sources
+Darbi,license,,Proprietary — free,,,https://apps.apple.com/app/id840100351,live,Free on App Store by Abu Dhabi Integrated Transport Centre; no In-app purchases features on store page
+Darbi,platforms,,iOS,,,https://apps.apple.com/app/id840100351,live,iOS only — Play Store listing unconfirmed from whitelisted sources
+Find My Device- GPS Tracking,license,,Proprietary — free,,,https://apps.apple.com/app/id6480391184,live,Free on App Store by Shraddha Limbasiya; no In-app purchases features on store page
+Find My Device- GPS Tracking,platforms,,iOS,,,https://apps.apple.com/app/id6480391184,live,iOS only — Play Store listing unconfirmed from whitelisted sources
+G1 Portal de Notícias da Globo,license,,Proprietary — free,,,https://apps.apple.com/app/id413333281,live,Free on App Store by GLOBO COM. E PART. S/A; no In-app purchases features on store page
+G1 Portal de Notícias da Globo,platforms,,iOS,,,https://apps.apple.com/app/id413333281,live,iOS only — Play Store listing unconfirmed from whitelisted sources
+GoRead - Revistas Digitais,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=br.com.goread.android,live,Closed-source magazine reader by Abril Comunicacoes; Play listing shows In-app purchases marker
+GoRead - Revistas Digitais,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1168710564,live,"Android (Play br.com.goread.android) + iOS (App Store id 1168710564 by ABRIL COMUNICACOES S.A, Free)"
+GPS Maps Camera,license,,Proprietary — free,,,https://apps.apple.com/app/id6547852354,live,Free on App Store by KRUTAGNA INFOTECH; no In-App Purchases on store page
+GPS Maps Camera,platforms,,iOS,,,https://apps.apple.com/app/id6547852354,live,iOS only — no exact-name Play Store listing found
+GPX viewer - map,license,,Proprietary — free,,,https://apps.apple.com/app/id6453594386,live,Free on App Store by Lucas den Otter; no In-App Purchases on store page
+GPX viewer - map,platforms,,iOS,,,https://apps.apple.com/app/id6453594386,live,iOS only — no exact-name Play Store listing found
+Hindi News by Dainik Bhaskar,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.ak.ta.dainikbhaskar.activity,live,Free app with Contains ads marker and no In-app purchases marker on Play Store
+Hindi News by Dainik Bhaskar,platforms,,"Android, iOS",,,https://apps.apple.com/app/id782321678,live,"Android (Play com.ak.ta.dainikbhaskar.activity) + iOS (App Store id 782321678 by D. B. Corp. Ltd, Free)"
+Honda RoadSync,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.honda.ms.dm.sab,live,Free app with no In-app purchases or Contains ads markers on Play Store
+Honda RoadSync,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1575345943,live,"Android (Play com.honda.ms.dm.sab) + iOS (App Store id 1575345943 by Honda Motor Co. Ltd., Free)"
+Indigo Neo,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.parkindigo.ca,live,Free app with no In-app purchases or Contains ads markers on Play Store
+Indigo Neo,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1295670493,live,"Android (Play com.parkindigo.ca, store title variant ""Indigo Neo - Your Parking App"") + iOS (App Store id 1295670493 by Park Indigo, Free)"
+Kompas TV - Live Streaming,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=tv.kompas.kompastv,live,Free app with no In-app purchases or Contains ads markers on Play Store
+Kompas TV - Live Streaming,platforms,,"Android, iOS",,,https://apps.apple.com/app/id539944871,live,"Android (Play tv.kompas.kompastv) + iOS (App Store id 539944871 by CIPTA MEGASWARA TELEVISI PT, Free)"
+LocateX – Real Phone Tracker,license,,Proprietary — free,,,https://apps.apple.com/app/id6746230747,live,Free on App Store by Guangzhou Dingxilong Network Technology Co. Ltd.; no In-App Purchases on store page
+LocateX – Real Phone Tracker,platforms,,iOS,,,https://apps.apple.com/app/id6746230747,live,iOS only — no exact-name Play Store listing found
+Majalah HSI,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.majalah.hsi.reader,live,Free app with no In-app purchases or Contains ads markers on Play Store
+Majalah HSI,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.majalah.hsi.reader,live,Android only — no exact-name iOS listing found
+Maps 4u,license,,Proprietary — free,,,https://apps.apple.com/app/id6758897552,live,Free on App Store by Ghorpade Sandip; no In-App Purchases on store page
+Maps 4u,platforms,,iOS,,,https://apps.apple.com/app/id6758897552,live,iOS only — no exact-name Play Store listing found
+Metro Jabar Trans,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=ngi.muchi.mjt,live,Closed-source by PT. Nusantara Global Inovasi; Play listing free with no In-app purchases or Contains ads markers
+Metro Jabar Trans,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6749563731,live,"Android (Play ngi.muchi.mjt) + iOS (App Store id 6749563731, Free, no IAP features)"
+MitraDarat,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=ngi.muchi.hubdat,live,Closed-source by Direktorat Jenderal Perhubungan Darat; Play listing free with no In-app purchases or Contains ads markers
+MitraDarat,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6445860885,live,"Android (Play ngi.muchi.hubdat) + iOS (App Store id 6445860885, Free, no IAP features)"
+NaviMaps: 3D GPS Navigation,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.mmi.navimaps,live,Closed-source by MapmyIndia (CE Info Systems); Play listing free with In-App Purchases marker
+NaviMaps: 3D GPS Navigation,platforms,,"Android, iOS",,,https://apps.apple.com/app/id892737063,live,"Android (Play com.mmi.navimaps) + iOS (App Store id 892737063, Free; freemium grounded by Play IAP)"
+Need24 News,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=in.need24.news,live,Closed-source; Play listing free with no In-app purchases or Contains ads markers
+Need24 News,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6805873254,live,"Android (Play in.need24.news) + iOS (App Store id 6805873254 by Mukesh Giri, Free, no IAP features)"
+Offline Map Navigation,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.virtualmaze.offlinemapnavigationtracker,live,Closed-source by VirtualMaze; Play listing free with In-App Purchases and Contains ads markers
+Offline Map Navigation,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1030267088,live,"Android (Play com.virtualmaze.offlinemapnavigationtracker) + iOS (App Store id 1030267088, Free; freemium grounded by Play IAP)"
+Pelican: Automotive assistant,license,,Proprietary — free,,,https://apps.apple.com/app/id1663683832,live,"Closed-source by Fearless design, LLC; App Store Free with no In-app purchases features"
+Pelican: Automotive assistant,platforms,,iOS,,,https://apps.apple.com/app/id1663683832,live,iOS only — no exact-name Play Store listing found (Play candidates are differently-titled products)
+Qibla Compass (Kaaba Locator),license,,Proprietary — free,,,https://apps.apple.com/app/id824927276,live,Closed-source by FATIMA OMER APPS LLC; App Store Free with no In-app purchases features
+Qibla Compass (Kaaba Locator),platforms,,iOS,,,https://apps.apple.com/app/id824927276,live,iOS only — no exact-name Play Store listing found (Play candidates are differently-titled qibla apps)
+Radarbot: Speed Camera Alerts,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.vialsoft.radarbot_free,live,"Closed-source by Iteration Mobile (Vialsoft); Play listing free with In-App Purchases marker; Play title variant ""Radarbot: Radar Detector, GPS"" noted"
+Radarbot: Speed Camera Alerts,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1099797635,live,"Android (Play com.vialsoft.radarbot_free) + iOS (App Store id 1099797635 title variant ""Radarbot: Speed Camera GPS App"" by Iteration Mobile S.L.)"
+Rádio CBN,license,,Proprietary — free,,,https://apps.apple.com/app/id493022230,live,Closed-source by Radio Globo S/A; App Store Free with no In-app purchases features
+Rádio CBN,platforms,,iOS,,,https://apps.apple.com/app/id493022230,live,iOS only — no exact-name Play Store listing found (Play candidates are regional affiliate or differently-titled CBN apps)
+Statiq: EV Charging Stations,license,,Proprietary — free,,,https://apps.apple.com/app/id1520534378,live,Closed-source EV charging app by SHARIFY SERVICES PRIVATE LIMITED; Free on App Store; Play com.statiq exact-title shows no In-app purchases or Contains ads markers
+Statiq: EV Charging Stations,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.statiq,live,Android (Play) + iOS (App Store id 1520534378)
+tembici.,license,,Proprietary — free,,,https://apps.apple.com/app/id1298652619,live,Closed-source bike-sharing app by M2 Solucoes em Engenharia Ltda; Free on App Store
+tembici.,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=pbsc.cyclefinder.tembicinosponsor,live,"Android (Play ""Tembici: Bike Sharing"") + iOS (App Store id 1298652619); store title variant noted"
+Trans Jogja,license,,Proprietary — free,,,https://apps.apple.com/app/id1495791016,live,Free on App Store by PT. Nusantara Global Inovasi; closed-source transit app
+Trans Jogja,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=ngi.transjogja.apppublic,live,"Android (Play exact title, Contains ads) + iOS (App Store id 1495791016)"
+Trans Sulsel,license,,Proprietary — free,,,https://apps.apple.com/app/id6784513431,live,Free on App Store by PERUSAHAAN UMUM DAMRI; closed-source transit app
+Trans Sulsel,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=id.co.damri.transsulsel,live,Android (Play exact-title search result) + iOS (App Store id 6784513431)
+Tupi Recarga,license,,Proprietary — free,,,https://apps.apple.com/app/id1499575119,live,Free on App Store by TUPINAMBA ENERGIA E PUBLICIDADE LTDA; no exact-name Play listing
+Tupi Recarga,platforms,,iOS,,,https://apps.apple.com/app/id1499575119,live,iOS only — no exact-name Android listing found on Play Store
+Velocímetro GPS HUD: SpeedAce,license,,Proprietary — free,,,https://apps.apple.com/app/id6737472826,live,"Free on App Store by Changsha Liangchao Technology Co., Ltd.; store title variant ""GPS Speedometer HUD: SpeedAce"" noted"
+Velocímetro GPS HUD: SpeedAce,platforms,,iOS,,,https://apps.apple.com/app/id6737472826,live,iOS only — no exact-name Android listing found on Play Store
+Yango Maps,license,,Proprietary — free,,,https://apps.apple.com/app/id1665672451,live,Free on App Store by DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC
+Yango Maps,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.yango.maps.android,live,"Android (Play exact title, Contains ads) + iOS (App Store id 1665672451)"
+Go Fastdfs,license,,Open source,The Unlicense (public domain),,https://raw.githubusercontent.com/sjqzhang/go-fastdfs/master/LICENSE,live,sjqzhang/go-fastdfs distributed file system written in Go; raw LICENSE is the Unlicense public-domain text (license-only row)
