@@ -1,0 +1,88 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Whistle,license,,Open source,MIT,,https://raw.githubusercontent.com/avwo/whistle/master/LICENSE,live,Node.js web debugging proxy (npm package); no end-user platforms stated
+Yale Home,license,,Proprietary — free,Closed source smart-lock companion app,,https://apps.apple.com/gb/app/yale-home/id1670570711?uo=4,live,"App Store listing by Assa Abloy Ltd, Free"
+Yale Home,platforms,,iOS,,,https://apps.apple.com/gb/app/yale-home/id1670570711?uo=4,live,App Store GB listing; Android not confirmed from whitelisted sources
+YoLink,license,,Proprietary — free,Closed source smart-home companion app,,https://apps.apple.com/us/app/yolink/id1457639983?uo=4,live,"App Store listing by YoSmart Inc., Free"
+YoLink,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/yolink/id1457639983?uo=4,live,App Store YoSmart Inc.; Play Store package com.yosmart.yolink exists
+Bienvenido a Internet,license,,Open source,GPL-3.0,,https://f-droid.org/packages/org.bienvenidoainternet.app/,live,F-Droid lists GNU General Public License v3.0 only
+Bienvenido a Internet,platforms,,Android,,,https://f-droid.org/packages/org.bienvenidoainternet.app/,live,F-Droid package org.bienvenidoainternet.app
+Briar (Unofficial),license,,Open source,GPL-3.0,,https://snapcraft.io/briar-tsugu,live,Snap Store declares GPL-3.0 for briar-tsugu unofficial snap
+Briar (Unofficial),platforms,,Linux,,,https://snapcraft.io/briar-tsugu,live,Distributed as snap (briar-tsugu)
+Chatterino (Unofficial),license,,Open source,MIT,,https://snapcraft.io/chatterino-tsugu,live,Snap Store declares MIT for chatterino-tsugu unofficial snap
+Chatterino (Unofficial),platforms,,Linux,,,https://snapcraft.io/chatterino-tsugu,live,Distributed as snap (chatterino-tsugu)
+Cyph,license,,Source-available,CYPH Reference Source License (CYPH-RSL),,https://raw.githubusercontent.com/cyph/cyph/master/LICENSE,live,"Custom restrictive license: reference use only, no distribution rights"
+Cyph,platforms,,Web,,,https://raw.githubusercontent.com/cyph/cyph/master/LICENSE,live,Web service at cyph.com
+Discuz Hub,license,,Open source,MIT,,https://raw.githubusercontent.com/davidshiang/discuzhub/master/LICENSE,live,"Raw LICENSE verified as MIT License, copyright Kido Zhang"
+Discuz Hub,platforms,,Android,,,https://raw.githubusercontent.com/davidshiang/discuzhub/master/LICENSE,live,Discuz X Android client; F-Droid package com.kidozh.discuzhub.fdroid
+Enclavd,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/Slime-jkl/enclavd-android-source/master/LICENSE,live,Raw LICENSE verified as GNU GPL v3; official client source
+Enclavd,platforms,,Android,,,https://raw.githubusercontent.com/Slime-jkl/enclavd-android-source/master/LICENSE,live,Personality social network; Slime-jkl/enclavd-android-source
+Fediplan,license,,Open source,GPL-3.0,,https://github.com/goofy-mdn/FediPlan,live,PHP web app to schedule Mastodon/Pleroma posts; LICENSE file verified as GNU GPL v3
+Fediplan,platforms,,Web,,,https://github.com/goofy-mdn/FediPlan,live,Self-hosted web app (composer install); official instance at plan.fedilab.app
+Fluxer (Unofficial),license,,Open source,MIT,,https://github.com/byaldon/unofficial-fluxer-client,live,FluxCap - unofficial community desktop client for the Fluxer network; raw LICENSE verified as MIT License
+Fluxer (Unofficial),platforms,,Windows,,,https://github.com/byaldon/unofficial-fluxer-client,live,Electron desktop app with dedicated Windows installer
+Geddit,license,,Open source,GPL-3.0,,https://github.com/kaangiray26/geddit-app,live,GitHub API spdx_id GPL-3.0; README carries F-Droid badge
+Geddit,platforms,,Android,,,https://github.com/kaangiray26/geddit-app,live,Open-source Reddit client for Android; F-Droid badge in README
+hnterm,license,,Open source,MIT,,https://github.com/ggerganov/hnterm,live,README MIT License badge; GitHub API spdx_id MIT
+hnterm,platforms,,"Linux, macOS",,,https://github.com/ggerganov/hnterm,live,Terminal Hacker News client; installed via snap on Linux and Homebrew on macOS
+Ice Cubes App,license,,Open source,AGPL-3.0,,https://github.com/Dimillian/IceCubesApp,live,GitHub API spdx_id AGPL-3.0 on Dimillian/IceCubesApp
+Ice Cubes App,platforms,,"iOS, macOS",,,https://github.com/Dimillian/IceCubesApp,live,SwiftUI Mastodon client; App Store listing 'Ice Cubes for Mastodon' by Thomas Ricouard supports iPhone iPad and Mac
+Jerboa,license,,Open source,AGPL-3.0-only,,https://f-droid.org/packages/com.jerboa/,live,F-Droid package com.jerboa lists GNU Affero General Public License v3.0 only
+Jerboa,platforms,,Android,,,https://f-droid.org/packages/com.jerboa/,live,Native Android app for Lemmy
+konversation,license,,Open source,GPL-2.0-or-later,,https://github.com/KDE/konversation,live,KDE IRC client; SPDX-License-Identifier GPL-2.0-or-later in source file headers
+konversation,platforms,,"Linux, Windows",,,https://konversation.kde.org/,live,Official site lists Linux Windows and FreeBSD downloads
+Melia,license,,Proprietary — free,,,https://github.com/buxjr311/melia-app,live,Modern email client for Linux; README license badge is proprietary; download page states free for one account with all features and no subscription
+Melia,platforms,,Linux,,,https://github.com/buxjr311/melia-app,live,README platform badge Linux x86-64; distributed as AppImage .deb .rpm Flatpak Snap
+Nomad - Hubzilla for Android,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/com.dfa.hubzilla_android/,live,F-Droid lists GNU General Public License v3.0 or later; page title 'Nomad - Hubzilla for Android'
+Nomad - Hubzilla for Android,platforms,,Android,,,https://f-droid.org/packages/com.dfa.hubzilla_android/,live,Hubzilla client distributed via F-Droid
+OpenVK Legacy,license,,Open source,AGPL-3.0,Android,https://github.com/openvk/mobile-android-legacy,live,GitHub API spdx_id AGPL-3.0; legacy Android client for OpenVK
+OpenVK Legacy,platforms,,Android,,,https://github.com/openvk/mobile-android-legacy,live,Repo description: mobile client for Android >2.1
+Phoenix Firestorm,license,,Open source,LGPL-2.1,"Windows, macOS, Linux",https://github.com/FirestormViewer/phoenix-firestorm,live,GitHub API spdx_id LGPL-2.1 on official Firestorm viewer source repository
+Phoenix Firestorm,platforms,,"Windows, macOS, Linux",,,https://github.com/FirestormViewer/phoenix-firestorm,live,"README: pre-built releases for Windows, Mac and Linux from firestormviewer.org"
+Quadrix,license,,Open source,GPL-3.0-or-later,"Windows, macOS, Linux",https://github.com/flathub/chat.quadrix.Quadrix,live,Flathub metainfo.xml declares project_license GPL-3.0-or-later
+Quadrix,platforms,,"Windows, macOS, Linux",,,https://github.com/alariej/quadrix,live,"README: Electron apps for Windows, MacOS, and Linux (amd64, arm64, armhf)"
+RedReader,license,,Open source,GPL-3.0,Android,https://github.com/QuantumBadger/RedReader,live,GitHub API spdx_id GPL-3.0; unofficial open source Android app for Reddit
+RedReader,platforms,,Android,,,https://github.com/QuantumBadger/RedReader,live,Android app for Reddit (F-Droid and Play Store distribution)
+Transporter,license,,Open source,GPL-3.0,Android,https://github.com/grote/Transportr,live,GitHub API spdx_id GPL-3.0; canonical name is Transportr - free public transport assistant
+Transporter,platforms,,Android,,,https://github.com/grote/Transportr,live,Android app distributed via F-Droid
+Userwill,license,,Proprietary — free,Proprietary,Linux,https://snapcraft.io/userwill,live,Snap Store lists License: Proprietary; free to install; digital-legacy service at userwill.com
+Userwill,platforms,,Linux,,,https://snapcraft.io/userwill,live,Distributed as Linux snap
+whatee,license,,Open source,MIT,Linux,https://github.com/heliherrera/whatee,live,GitHub API spdx_id MIT; unofficial WhatsApp desktop client for Linux
+whatee,platforms,,Linux,,,https://github.com/heliherrera/whatee,live,Snap and .deb packages for Linux
+whatsdev,license,,Open source,MIT,Linux,https://github.com/riturajprofile/Whatsdev,live,GitHub API spdx_id MIT; Snap Store also lists MIT; WhatsApp desktop client for Linux
+whatsdev,platforms,,Linux,,,https://github.com/riturajprofile/Whatsdev,live,Snap package and AppImage for Linux
+당근,license,,Proprietary — free,Closed source free download,"iOS, Android",https://play.google.com/store/apps/details?id=com.towneers.www,live,Danggeun Market Inc Karrot app free download
+당근,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.towneers.www,live,
+Adresilo,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/en/packages/com.adresilo.android/,live,F-Droid lists GNU General Public License v3.0 or later
+Adresilo,platforms,,Android,,,https://f-droid.org/en/packages/com.adresilo.android/,live,
+AmSprung,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/en/packages/at.h4x.amsprung/,live,F-Droid lists GNU General Public License v3.0 or later
+AmSprung,platforms,,Android,,,https://f-droid.org/en/packages/at.h4x.amsprung/,live,
+Bangle.js Gadgetbridge,license,,Open source,AGPL-3.0-only,Android,https://f-droid.org/en/packages/com.espruino.gadgetbridge.banglejs/,live,F-Droid lists GNU Affero General Public License v3.0 only
+Bangle.js Gadgetbridge,platforms,,Android,,,https://f-droid.org/en/packages/com.espruino.gadgetbridge.banglejs/,live,
+BikeTrackd,license,,Open source,MIT,Android,https://f-droid.org/en/packages/com.biketrackd.app/,live,F-Droid lists MIT license
+BikeTrackd,platforms,,Android,,,https://f-droid.org/en/packages/com.biketrackd.app/,live,
+BRouter,license,,Open source,MIT,Android,https://f-droid.org/en/packages/btools.routingapp/,live,F-Droid lists MIT; GitHub abrensch/brouter confirms MIT
+BRouter,platforms,,Android,,,https://f-droid.org/en/packages/btools.routingapp/,live,
+Clauncher,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/en/packages/app.clauncher/,live,F-Droid lists GNU General Public License v3.0 only
+Clauncher,platforms,,Android,,,https://f-droid.org/en/packages/app.clauncher/,live,
+CountryCount,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/en/packages/de.sipa.countrycount/,live,F-Droid lists GNU General Public License v3.0 or later
+CountryCount,platforms,,Android,,,https://f-droid.org/en/packages/de.sipa.countrycount/,live,
+Ddrescueview,license,,Open source,GPL-3.0,"Windows, Linux, macOS",https://sourceforge.net/projects/ddrescueview/,live,SourceForge project page lists GPLv3 license; Lazarus/Object Pascal GUI for ddrescue mapfiles
+Ddrescueview,platforms,,"Windows, Linux, macOS",,,https://sourceforge.net/projects/ddrescueview/,live,Project ships binaries for Windows GNU/Linux and macOS
+E6B Flight Computer,license,,Open source,The Unlicense,Android,https://f-droid.org/packages/com.jstappdev.e6bflightcomputer/,live,F-Droid lists The Unlicense; GitHub j05t/e6b confirms Unlicense SPDX
+E6B Flight Computer,platforms,,Android,,,https://f-droid.org/packages/com.jstappdev.e6bflightcomputer/,live,Android simulation of the E6B flight computer
+Ethic Compass,license,,Open source,GPL-3.0-or-later,Android,https://github.com/jpi59/ethic-compass,live,LICENSE is GPLv3 text; NOTICE.md grants version 3 or any later version
+Ethic Compass,platforms,,Android,,,https://github.com/jpi59/ethic-compass,live,Offline magnetic compass Android app; F-Droid submission pending
+FindMyBus,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/com.jakubhlavacek.gtfsrealtimemap/,live,F-Droid lists GPL-3.0 only; real-time public transport map app
+FindMyBus,platforms,,Android,,,https://f-droid.org/packages/com.jakubhlavacek.gtfsrealtimemap/,live,Android app using GTFS Realtime feeds
+Flighty,license,,Proprietary — freemium,,iOS,https://apps.apple.com/tw/app/flighty-live-flight-tracker/id1358823008,live,Free download with Flighty Pro subscription from 59.99 USD per year
+Flighty,platforms,,iOS,,,https://apps.apple.com/tw/app/flighty-live-flight-tracker/id1358823008,live,iOS flight tracker by Flighty LLC; also on iPadOS macOS and watchOS
+Gadgetbridge,license,,Open source,AGPL-3.0-only,Android,https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/,live,F-Droid lists AGPL-3.0 only; smartwatch companion app
+Gadgetbridge,platforms,,Android,,,https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/,live,Android app for Bluetooth wearables without vendor cloud
+GeoJoystick,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/com.k2040.geojoystick/,live,F-Droid lists GPL-3.0 only; mock-location joystick for testing
+GeoJoystick,platforms,,Android,,,https://f-droid.org/packages/com.k2040.geojoystick/,live,Android mock-location utility; requires Android 8.1 or newer
+GetBack GPS,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/packages/com.github.ruleant.getback_gps/,live,F-Droid lists GPL-3.0 or later; find-your-way-back GPS app
+GetBack GPS,platforms,,Android,,,https://f-droid.org/packages/com.github.ruleant.getback_gps/,live,Android navigation aid by ruleant
+GPS Cockpit,license,,Open source,AGPL-3.0-or-later,Android,https://f-droid.org/packages/org.woheller69.gpscockpit/,live,F-Droid lists AGPL-3.0 or later; cockpit-style GPS data display
+GPS Cockpit,platforms,,Android,,,https://f-droid.org/packages/org.woheller69.gpscockpit/,live,Android GPS cockpit and head-up display
+Gpsprune,license,,Open source,GPL-2.0,"Windows, macOS, Linux",https://github.com/activityworkshop/GpsPrune,live,GitHub SPDX GPL-2.0; official site confirms released under the GNU GPL
+Gpsprune,platforms,,"Windows, macOS, Linux",,,https://activityworkshop.net/software/gpsprune/,live,Java app tested on Windows Linux and macOS per official site
