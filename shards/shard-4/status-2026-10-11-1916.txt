@@ -1,0 +1,6 @@
+Shard 4 expansion batch45 done (~2026-10-11-1916 PKT, Shard 2).
+73 rows pushed to expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch45.csv (apps.md lines 2207-2256).
+38 apps verified, 12 skipped with documented reasons (identity ambiguity: CoreTime, Currency Converter, Dasher, Debug, Custom URL Scheme, Devhub, CorePDF; non-app entities: CoreImage framework, d-apt APT repo).
+Pre-push drops: Desktop CC GUI license (fork mirrors, canonical unauditable).
+Assembler spot-checks: re-verified 4 risky claims against raw license text — all verifiers' readings confirmed, 0 corrections (Dezoomify/Cloudreve GPL-3.0-only hold: boilerplate placeholders unfilled, no project-level or-later grant; DEfO ECH Apps GPL-3.0-only: bare GPLv3 text, F-Droid -or-later claim overruled; Cppcheck GUI GPL-3.0-or-later: real grant in gui/mainwindow.h).
+Notable: Connectbot Apache-2.0 (Android), Confclerk GPL-2.0-or-later (manpage grant), Dawarich AGPL-3.0-only, De-Bloater GPL-3.0-or-later (README grant), DhwaniControl Apache-2.0 (Pro Features has no paid tier).
