@@ -1,0 +1,78 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Bing-r,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/vireshwali/bing-r/main/LICENSE,live,raw LICENSE verified as GNU GPL v3 (Section 7 additional permissions); README badge claims MIT but LICENSE file governs
+Bing-r,platforms,,Linux,,,https://github.com/vireshwali/bing-r,live,Linux-first; AppImage/Flatpak/Snap; Windows and macOS builds planned
+Blue Recorder,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/xlmnxp/blue-recorder/master/README.md,live,README License section: GNU General Public License version 3
+Blue Recorder,platforms,,Windows; Linux; FreeBSD,,,https://raw.githubusercontent.com/xlmnxp/blue-recorder/master/README.md,live,README: recording on Windows and almost all Linux and FreeBSD interfaces
+Boof CV,license,,Open source,Apache-2.0,,https://boofcv.org/index.php?title=Main_Page,live,"official site: Apache 2.0 license for both academic and commercial; Java library, license row only"
+Brasero,license,,Open source,GPL-2.0,,https://api.github.com/repos/GNOME/brasero,live,GitHub API spdx_id on GNOME/brasero
+Brasero,platforms,,Linux,,,https://github.com/GNOME/brasero,live,GNOME CD/DVD burner
+BWF MetaEdit,license,,Open source,Public domain,,https://raw.githubusercontent.com/MediaArea/BWFMetaEdit/master/README.md,live,README: public domain for the code developed by MediaArea
+BWF MetaEdit,platforms,,Windows; macOS; Linux,,,https://mediaarea.net/BWFMetaEdit,live,official download page
+Cam Phish,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/techchipnet/CamPhish/master/LICENSE,live,raw LICENSE is GNU GPL v3 text; identity: TechChip CamPhish
+Cam Phish,platforms,,Linux; macOS; Windows; Android,,,https://raw.githubusercontent.com/techchipnet/CamPhish/master/README.md,live,"README lists Kali Linux, Termux, MacOS, Ubuntu, Windows (WSL)"
+CameraFileCopy,license,,Open source,MIT,,https://f-droid.org/en/packages/org.cimbar.camerafilecopy/,live,F-Droid package page lists MIT License
+CameraFileCopy,platforms,,Android,,,https://f-droid.org/en/packages/org.cimbar.camerafilecopy/,live,F-Droid Android app
+Captura,license,,Open source,MIT,,https://api.github.com/repos/MathewSachin/Captura,live,GitHub API spdx_id
+Captura,platforms,,Windows,,,https://github.com/MathewSachin/Captura,live,screen-capture tool
+CBconvert,license,,Open source,GPL-3.0,,https://api.github.com/repos/gen2brain/cbconvert,live,
+CBconvert,platforms,,Windows; macOS; Linux,,,https://github.com/gen2brain/cbconvert,live,GitHub releases; Flathub io.github.gen2brain.cbconvert
+Chemtool,license,,Open source,GPL-2.0,,https://directory.fsf.org/wiki/Chemtool,live,FSF Directory lists GPLv2; MacPorts corroborates GPL-2+
+Chemtool,platforms,,Linux; macOS,,,https://directory.fsf.org/wiki/Chemtool,live,X11/MacPorts
+Chitralaya CloudGallery App,license,,Open source,Apache-2.0,,https://f-droid.org/packages/com.akslabs.cloudgallery/,live,F-Droid package page lists Apache License 2.0
+Chitralaya CloudGallery App,platforms,,Android,,,https://f-droid.org/packages/com.akslabs.cloudgallery/,live,F-Droid listing
+Cinecred,license,,Open source,GPL-3.0-or-later,,https://github.com/LoadingByte/cinecred,live,README: licensed under GNU GPL Version 3 or any later version; canonical repo moved from cinecred/cinecred
+Cinecred,platforms,,Windows; macOS; Linux,,,https://cinecred.cinecred.io/,live,official download page
+ClayModeller,license,,Open source,MIT,,https://api.github.com/repos/mretallack/claymodeller,live,
+ClayModeller,platforms,,Android,,,https://github.com/mretallack/claymodeller,live,Android clay modeling app
+Cloudcompare,license,,Open source,GPL-3.0,,https://github.com/cloudcompare/cloudcompare,live,README: this project is under the GPL license (gpl-3.0)
+Cloudcompare,platforms,,Windows; macOS; Linux,,,https://www.danielgm.net/cc/,live,official site
+Colorhug Client,license,,Open source,GPL-2.0,,https://api.github.com/repos/hughski/colorhug-client,live,
+Colorhug Client,platforms,,Linux,,,https://github.com/hughski/colorhug-client,live,
+colors-ai,license,,Open source,MIT,,https://api.github.com/repos/cacere-s/colorsAI,live,
+colors-ai,platforms,,Web,,,https://github.com/cacere-s/colorsAI,live,web-based color palette generator
+Colorwaver,license,,Source-available,Custom restrictive license: source available for educational purposes only; resale/redistribution forbidden,,https://raw.githubusercontent.com/mrousavy/Colorwaver/main/LICENSE,live,LICENSE text verified; not Open source per playbook
+Colorwaver,platforms,,iOS; Android,,,https://github.com/mrousavy/Colorwaver,live,React Native color palette app
+ComicReaderUltimate,license,,Source-available,CC-BY-NC-ND-4.0,,https://raw.githubusercontent.com/electronstudio/ComicReaderUltimate/master/LICENSE.txt,live,raw LICENSE verified as CC Attribution-NonCommercial-NoDerivatives 4.0; NC+ND per playbook
+ComicReaderUltimate,platforms,,Windows; macOS; Linux,,,https://github.com/electronstudio/ComicReaderUltimate,live,Electron CBZ viewer; Flathub uk.co.electronstudio.ComicReaderUltimate
+Conjure,license,,Open source,ImageMagick License (Apache-2.0-derived),"Windows, macOS, Linux",https://imagemagick.org/license/,live,ImageMagick CLI component (Magick Scripting Language); official license page is permissive Apache-style terms
+Conjure,platforms,,"Windows, macOS, Linux",,,https://github.com/ImageMagick/ImageMagick,live,"repo README documents Windows, macOS, Linux builds"
+Converseen,license,,Open source,GPL-3.0,"Windows, Linux, FreeBSD",https://github.com/Faster3ck/Converseen,live,GitHub API spdx_id GPL-3.0; batch image converter
+Converseen,platforms,,"Windows, Linux, FreeBSD",,,https://github.com/Faster3ck/Converseen,live,README download section
+CorePaint,license,,Open source,GPL-3.0,Linux,https://gitlab.com/cubocore/coreapps/corepaint,live,raw LICENSE verified as GNU GPL v3 text; CuboCore paint app
+CorePaint,platforms,,Linux,,,https://flathub.org/apps/org.cubocore.CorePaint,live,Flathub app page lists CorePaint
+Craftwork Design,license,,Proprietary — freemium,Free tier + Craftwork Pro subscription,Web,https://craftwork.design/pricing,live,Free $0 forever tier (5 premium assets/mo); Pro $12.42/mo billed yearly
+Craftwork Design,platforms,,Web,,,https://craftwork.design/pricing,live,online design-asset platform
+Curv,license,,Open source,Apache-2.0,"Windows, macOS, Linux",https://github.com/curv3d/curv,live,raw LICENSE verified as Apache License 2.0; F-Rep art/modeling language
+Curv,platforms,,"Windows, macOS, Linux",,,https://github.com/curv3d/curv,live,"README build docs cover Windows, MacOS, Linux"
+DarkRadiant,license,,Open source,GPL-2.0,"Windows, macOS, Linux",https://github.com/codereader/DarkRadiant,live,README License section: source published under GNU GPL 2.0
+DarkRadiant,platforms,,"Windows, macOS, Linux",,,https://github.com/codereader/DarkRadiant,live,"repo topics: windows, macos, osx, linux; Doom 3 level editor"
+Dav1d,license,,Open source,BSD-2-Clause,"Windows, macOS, Linux, Android",https://github.com/videolan/dav1d,live,GitHub API spdx_id BSD-2-Clause; VideoLAN AV1 decoder
+Dav1d,platforms,,"Windows, macOS, Linux, Android",,,https://www.videolan.org/projects/dav1d.html,live,official project page
+dilyn-immich,license,,Source-available,CC-BY-NC-SA-4.0 AND AGPL-3.0 (Snap Store declared license; NC restriction),Linux (snap),https://snapcraft.io/dilyn-immich,live,Unofficial Immich snap by dilyn-corner; unaffiliated with upstream immich.app
+dilyn-immich,platforms,,Linux (snap),,,https://snapcraft.io/dilyn-immich,live,Unofficial Immich snap by dilyn-corner; unaffiliated with upstream immich.app
+Djview4,license,,Open source,GPL-2.0-or-later,"Windows, macOS, Linux",https://djvu.sourceforge.net/djview4.html,live,DjVu viewer by Leon Bottou; GPL v2 or later
+Djview4,platforms,,"Windows, macOS, Linux",,,https://djvu.sourceforge.net/djview4.html,live,DjVu viewer by Leon Bottou; GPL v2 or later
+Drawing,license,,Open source,GPL-3.0-or-later,Linux,https://github.com/maoschanz/drawing,live,Simple image editor for Linux; appdata project_license GPL-3.0-or-later
+Drawing,platforms,,Linux,,,https://github.com/maoschanz/drawing,live,Simple image editor for Linux; appdata project_license GPL-3.0-or-later
+Drone Bridge,license,,Open source,"Apache-2.0 (modules); GPL-2.0 (WifiBroadcast legacy code, kernel drivers)","Linux (Raspberry Pi), Android",https://github.com/DroneBridge/DroneBridge,live,Mixed license per repo README licenses section
+Drone Bridge,platforms,,"Linux (Raspberry Pi), Android",,,https://github.com/DroneBridge/DroneBridge,live,Mixed license per repo README licenses section
+Dune 3D,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/dune3d/dune3d,live,Parametric 3D CAD application
+Dune 3D,platforms,,"Windows, macOS, Linux",,,https://github.com/dune3d/dune3d,live,Parametric 3D CAD application
+DYNOMapper,license,,Proprietary — paid subscription,Paid tiers $39/$49/$99/$360 billed annually; free trial only,Web,https://dynomapper.com/pricing,live,Visual sitemap / content audit / accessibility testing SaaS
+DYNOMapper,platforms,,Web,,,https://dynomapper.com/pricing,live,Visual sitemap / content audit / accessibility testing SaaS
+Editly,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/mifi/editly,live,Declarative command-line video editing library/tool
+Editly,platforms,,"Windows, macOS, Linux",,,https://github.com/mifi/editly,live,Declarative command-line video editing library/tool
+Endoscope,license,,Open source,GPL-3.0-only,Android,https://github.com/hypeapps/Endoscope,live,RTSP live video streamer between Android devices; raw LICENSE verified as GNU GPL v3 text
+Endoscope,platforms,,Android,,,https://github.com/hypeapps/Endoscope,live,F-Droid fdid pl.hypeapp.endoscope
+Exatorrent,license,,Open source,GPL-3.0,"Linux, Windows",https://github.com/varbhat/exatorrent,live,raw LICENSE verified as GNU GPL v3 text; self-hosted torrent client
+Exatorrent,platforms,,"Linux, Windows",,,https://github.com/varbhat/exatorrent,live,README badges show Linux + Windows; responsive web client (Svelte) accessed via browser; Docker image available
+Extract Otp Secrets,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/scito/extract_otp_secrets,live,Python tool extracting OTP secrets from 2FA app export QR codes; GitHub API spdx_id GPL-3.0
+Extract Otp Secrets,platforms,,"Windows, macOS, Linux",,,https://github.com/scito/extract_otp_secrets,live,README shows Linux/Windows/macOS OS badges; executables per platform on releases page
+Fad Cam,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/com.fadcam,live,"Privacy-focused Android multimedia suite (background recording, dashcam, screen recorder); F-Droid metadata license GPL-3.0-only"
+Fad Cam,platforms,,Android,,,https://f-droid.org/packages/com.fadcam,live,F-Droid package com.fadcam
+Fanplayer,license,,Open source,LGPL-3.0,"Windows, Android",https://github.com/rockcarry/fanplayer,live,portable ffmpeg-based video player; GitHub API spdx_id LGPL-3.0
+Fanplayer,platforms,,"Windows, Android",,,https://github.com/rockcarry/fanplayer,live,README: portable video player based on ffmpeg for windows and android platform
+FeinstaubWidget,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/bo/packages/de.kaffeemitkoffein.feinstaubwidget/,live,fine-particulate-matter sensor data widgets (luftdaten.info network); F-Droid lists GNU GPL v3.0 or later
+FeinstaubWidget,platforms,,Android,,,https://f-droid.org/bo/packages/de.kaffeemitkoffein.feinstaubwidget/,live,F-Droid package de.kaffeemitkoffein.feinstaubwidget
+Flinto,license,,Proprietary — paid,,macOS,https://www.flinto.com/,live,interactive UI prototyping tool for macOS; $99 per license
+Flinto,platforms,,macOS,,,https://www.flinto.com/,live,macOS application (Intel + Apple Silicon)
