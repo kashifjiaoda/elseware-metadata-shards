@@ -1,0 +1,7 @@
+shard4 phase2 expansion status 2026-10-11-2337 (PKT) — Shard 2
+batch70 (apps.md lines 3457-3506): 96 rows pushed, 48/50 apps verified, 2 skipped (Zeraki, Ahabi - voice & video community)
+- zeraki: identity ambiguous (Zeraki Learning/Analytics edtech vs Zeraki Jewels)
+- ahabi: no iTunes listing; Play 403 bot-blocked; only banned aggregators mention it
+- spot-checks: 0 Open source/Source-available claims this batch (all commercial mobile apps) — no raw-LICENSE re-verification triggered
+- notable: Meli = live-streaming community app by Arya wiradiguna (NOT MercadoLibre); Linko TV flagged possible OmeTV clone (package com.linko.ometv); HomeWizard freemium grounded on Energy+ EUR 11.95/yr subscription; IntesisHome rebrand -> Intesis AC Cloud (HMS Networks); Heatmiser Android grounded on official status page (Play bot-blocked); DiO pinned to Chacon SA (not Dio Home+); OLX Indonesia iOS-only, seller PT Astra Digital Mobil (brand mismatch flagged); Sephora pinned to global app, regional variants flagged
+- next: batch 71 (lines 3507-3556)
