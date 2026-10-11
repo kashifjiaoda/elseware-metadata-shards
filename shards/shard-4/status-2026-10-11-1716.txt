@@ -1,0 +1,7 @@
+Shard 4 Phase-2 expansion batch 28 complete (Shard 2).
+57 rows pushed to expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch28.csv
+(apps.md lines 1357-1406). 31 of 50 apps verified; 18 skipped with documented reasons.
+Schema-validated: 9 cols/row, valid badges, all live, whitelisted sources only.
+Pre-push drop: PDF Mix Tool license row (thin grounding: fork license-file detection + Fedora
+packaging metadata, no verified raw grant). Assembler note: schema 0 issues, all 5 chunks
+byte-identical persistent+/tmp, no dual-write loss, no convention drift.
