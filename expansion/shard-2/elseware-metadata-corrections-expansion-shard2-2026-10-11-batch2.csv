@@ -1,0 +1,67 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Botkit,license,,Open source,"MIT license, ",,https://github.com/howdyai/botkit,live,GitHub license API spdx_id MIT
+Botkit,platforms,,"Windows, macOS, Linux",,,https://github.com/howdyai/botkit,live,Node.js framework for chat bots
+CallScope,license,,Open source,"GPL-3.0, ",,https://github.com/clintmoyer/callscope,live,GitHub GPL v3
+CallScope,platforms,,Android,,,https://github.com/clintmoyer/callscope,live,Android app
+Carrion,license,,Proprietary — paid,"Commercial game, ",,https://www.carrion.game/,live,Official site purchase
+Carrion,platforms,,"Windows, Android, iOS",,,https://www.carrion.game/,live,Steam/GOG/Play/App Store
+ChatLaunch for WhatsApp,license,,Open source,"MIT License, ",,http://f-droid.org/ja/packages/dev.theolm.wwc/,live,F-Droid MIT
+ChatLaunch for WhatsApp,platforms,,Android,,,http://f-droid.org/ja/packages/dev.theolm.wwc/,live,F-Droid Android
+Cinny Desktop,license,,Open source,"AGPL-3.0, ",,https://github.com/cinnyapp/cinny-desktop,live,GitHub AGPL-3.0
+Cinny Desktop,platforms,,"Windows, macOS, Linux",,,https://github.com/cinnyapp/cinny-desktop,live,Desktop Matrix client
+Connect You,license,,Open source,"GNU General Public License v3.0 only (GPL-3.0), ",,https://f-droid.org/packages/com.bnyro.contacts/,live,F-Droid: Connect You contacts/SMS app by Bnyro (you-apps/ConnectYou); GPL-3.0-only; Android app
+Connect You,platforms,,Android,,,https://f-droid.org/packages/com.bnyro.contacts/,live,F-Droid Android app listing com.bnyro.contacts
+DankChat,license,,Open source,"MIT License, ",,https://api.github.com/repos/flex3r/DankChat/license,live,GitHub API: flex3r/DankChat LICENSE is MIT; Twitch chat client for Android; also on F-Droid and Google Play
+DankChat,platforms,,Android,,,https://f-droid.org/packages/com.flxrs.dankchat,live,F-Droid listing com.flxrs.dankchat; official repo README links F-Droid and Play Store
+Datcord,license,,Open source,"GNU General Public License v3.0 (GPL-3.0), ",,https://api.github.com/repos/gamingdoom/datcord/license,live,GitHub API: gamingdoom/datcord spdx GPL-3.0; open-source Discord client built on Firefox/Neutron
+Datcord,platforms,,"Windows, Linux",,,https://github.com/gamingdoom/datcord,live,"Official README install section: Linux (Flatpak, AUR, .deb, AppImage, tarball) and Windows installers; no macOS build listed"
+Deku SMS,license,,Open source,"GNU General Public License v3.0 or later (GPL-3.0), ",,https://f-droid.org/packages/com.afkanerd.deku/,live,F-Droid: Deku SMS E2EE SMS app; license GPL-3.0 or later; source at deku-messaging/Deku-SMS-Android
+Deku SMS,platforms,,Android,,,https://f-droid.org/packages/com.afkanerd.deku/,live,F-Droid Android app listing com.afkanerd.deku
+Device Connect,license,,Open source,"MIT License, ",,https://f-droid.org/en/packages/net.dcnnt/,live,F-Droid: Device Connect by cyanomiko (github.com/cyanomiko/dcnnt-android); MIT License; KDE Connect-like phone-desktop tool
+Device Connect,platforms,,Android,,,https://f-droid.org/en/packages/net.dcnnt/,live,F-Droid Android app listing net.dcnnt
+Easy-phone,license,,Open source,"GNU General Public License v3.0 only (GPL-3.0), ",,https://f-droid.org/packages/com.hos_dvk.easyphone.full/,live,F-Droid: Easy-phone accessibility app for elderly/visually impaired; GPL-3.0-only
+Easy-phone,platforms,,Android,,,https://f-droid.org/packages/com.hos_dvk.easyphone.full/,live,F-Droid Android app listing com.hos_dvk.easyphone.full
+Element Android,license,,Open source,"GNU Affero General Public License v3.0 (AGPL-3.0), ",,https://api.github.com/repos/element-hq/element-android/license,live,GitHub API: element-hq/element-android spdx AGPL-3.0; F-Droid im.vector.app confirms GNU AGPL v3.0 or later
+Element Android,platforms,,Android,,,https://f-droid.org/en/packages/im.vector.app/,live,F-Droid Android app listing im.vector.app (Element Classic)
+Element X - Secure Chat & Call,license,,Open source,AGPL-3.0,"Android, iOS",https://api.github.com/repos/element-hq/element-x-android/license,live,GitHub API AGPL-3.0
+Element X - Secure Chat & Call,platforms,,"Android, iOS",,,https://github.com/element-hq/element-x-android,live,Android and iOS clients
+Epistolaire,license,,Open source,The Unlicense,Android,https://f-droid.org/packages/re.indigo.epistolaire/,live,F-Droid Unlicense
+Epistolaire,platforms,,Android,,,https://f-droid.org/packages/re.indigo.epistolaire/,live,F-Droid Android SMS backup
+Ethic One Call,license,,Open source,GPL-3.0-or-later,Android,https://github.com/jpi59/ethic-one-call,live,Repo README GPL-3.0-or-later
+Ethic One Call,platforms,,Android,,,https://github.com/jpi59/ethic-one-call,live,Android single-call dialer
+Fastdfs,license,,Open source,GPL-3.0,Linux,https://api.github.com/repos/happyfish100/fastdfs/license,live,GitHub API GPL-3.0
+Fastdfs,platforms,,Linux,,,https://github.com/happyfish100/fastdfs,live,Linux distributed file system
+Fit Notifications,license,,Open source,Apache-2.0,Android,https://f-droid.org/packages/com.abhijitvalluri.android.fitnotifications/,live,F-Droid Apache-2.0
+Fit Notifications,platforms,,Android,,,https://f-droid.org/packages/com.abhijitvalluri.android.fitnotifications/,live,F-Droid Android Fitbit notifier
+FluffyChat,license,,Open source,AGPL-3.0,Android,https://api.github.com/repos/krille-chan/fluffychat/license,live,GitHub API AGPL-3.0
+FluffyChat,platforms,,Android,,,https://f-droid.org/packages/chat.fluffy.fluffychat/,live,F-Droid Android Matrix client
+FocusPodcast,license,,Open source,GPL-3.0,Android,https://api.github.com/repos/allentown521/FocusPodcast/license,live,GitHub API GPL-3.0
+FocusPodcast,platforms,,Android,,,https://f-droid.org/packages/allen.town.focus.podcast/,live,F-Droid Android podcast app
+Fossify Messages,license,,Open source,GPL-3.0,Android,https://api.github.com/repos/FossifyOrg/Messages/license,live,GitHub API GPL-3.0
+Fossify Messages,platforms,,Android,,,https://github.com/FossifyOrg/Messages,live,Fossify Android SMS app
+Fractal,license,,Open source,GPLv3,Linux,https://gitlab.gnome.org/World/Fractal,live,GNOME GitLab GPLv3
+Fractal,platforms,,Linux,,,https://gitlab.gnome.org/World/Fractal,live,GNOME Matrix client Linux
+Global Send,license,,Open source,GPL-3.0,Android,https://codeberg.org/quandang/global_send,live,Codeberg GPL-3.0
+Global Send,platforms,,Android,,,https://f-droid.org/api/v1/packages/com.peer.topeer.global_send,live,F-Droid Android P2P messenger
+37C3 Wifi Setup,license,,Open source,"Apache-2.0, ",,https://f-droid.org/packages/nl.eventinfra.wifisetup/,live,F-Droid Apache-2.0
+37C3 Wifi Setup,platforms,,Android,,,https://f-droid.org/packages/nl.eventinfra.wifisetup/,live,F-Droid Android
+AI Marketing Claude,license,,Open source,"MIT, ",,https://api.github.com/repos/mrlonghn/ai-marketing-claude/license,live,GitHub MIT
+AirMessage,license,,Open source,"Apache-2.0, ",,https://api.github.com/repos/airmessage/airmessage-android/license,live,GitHub Apache-2.0
+AirMessage,platforms,,"Android, Web",,,https://airmessage.org/blog/airmessage-is-now-open-source,live,Official Android and web
+Aliasvault,license,,Open source,"AGPL-3.0, ",,https://api.github.com/repos/aliasvault/aliasvault/license,live,GitHub AGPL-3.0
+Aliasvault,platforms,,"Web, Android, iOS",,,https://github.com/aliasvault,live,Web and mobile apps
+AN2Linux,license,,Open source,"GPL-3.0, ",,https://api.github.com/repos/rootkiwi/an2linuxclient/license,live,GitHub GPL-3.0
+AN2Linux,platforms,,"Android, Linux",,,https://github.com/rootkiwi/an2linuxclient,live,Android client Linux server
+AndrOBD SensorProvider,license,,Open source,"GPL-3.0, ",,https://api.github.com/repos/fr3ts0n/androbd-plugin/license,live,GitHub GPL-3.0
+AndrOBD SensorProvider,platforms,,Android,,,https://api.github.com/repos/fr3ts0n/androbd-plugin/license,live,Android plugin
+Recruit Agent,license,,Proprietary — free,,Android,https://play.google.com/store/apps/details?id=jp.co.recruit.rag,live,Play Store free
+Recruit Agent,platforms,,Android,,,https://play.google.com/store/apps/details?id=jp.co.recruit.rag,live,Play Store Android
+NICE iPIN,license,,Proprietary — free,,Android,https://play.google.com/store/apps/details?id=com.niceid.nicemypin,live,Play Store free
+NICE iPIN,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.niceid.nicemypin,live,Play Store Android
+Smart WeTax,license,,Proprietary — free,,"Android, iOS",https://apps.apple.com/kr/app/id888585740,live,App Store free
+Smart WeTax,platforms,,"Android, iOS",,,https://apps.apple.com/kr/app/id888585740,live,App Store and Play Store
+JobKorea,license,,Proprietary — free,,"Android, iOS",https://apps.apple.com/kr/app/id569092652,live,App Store free
+JobKorea,platforms,,"Android, iOS",,,https://apps.apple.com/kr/app/id569092652,live,iOS and Android
+Android SMS Gateway,license,,Open source,MIT License,Android,https://github.com/bogkonstantin/android_income_sms_gateway_webhook,live,GitHub MIT
+Android SMS Gateway,platforms,,Android,,,https://f-droid.org/packages/tech.bogomolov.incomingsmsgateway/,live,F-Droid Android
+Anonomi Messenger,license,,Open source,GPL-3.0-or-later,Android,https://github.com/anonomi-org/anonomi-android,live,GitHub
