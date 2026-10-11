@@ -1,0 +1,65 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Thorium Reader,license,,Open source,BSD-3-Clause,,https://api.github.com/repos/edrlab/thorium-reader,live,GitHub API BSD-3-Clause
+Thorium Reader,platforms,,"Windows, macOS, Linux",,,https://github.com/edrlab/thorium-reader,live,Cross-platform desktop reading app per repo description
+tuxtyping,license,,Open source,GPL-2.0,,https://api.github.com/repos/tux4kids/tuxtype,live,GitHub API GPL-2.0
+voxcraft-viz,license,,Open source,CC0-1.0,,https://api.github.com/repos/voxcraft/voxcraft-viz,live,GitHub API CC0-1.0
+Zegrapher,license,,Open source,GNU General Public License v3.0 (GPL-3.0),,https://sourceforge.net/projects/zegrapher/,live,SourceForge: free and open source; License GPLv3
+Zegrapher,platforms,,"Windows, macOS, Linux",,,https://sourceforge.net/projects/zegrapher/,live,Desktop plotting software
+めちゃコミック,license,,Proprietary — freemium,,"Android, iOS",https://apps.apple.com/jp/app/%E3%82%81%E3%81%A1%E3%82%83%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF/id1407165119?uo=4,live,App Store: AMUTUS CORPORATION; free with in-app purchases
+めちゃコミック,platforms,,"Android, iOS",,,https://apps.apple.com/jp/app/%E3%82%81%E3%81%A1%E3%82%83%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF/id1407165119?uo=4,live,Manga service on iOS and Android
+スカイ・ガイド,license,,Proprietary — freemium,,iOS,https://apps.apple.com/jp/app/%E3%82%B9%E3%82%AB%E3%82%A4-%E3%82%AC%E3%82%A4%E3%83%89/id576588894,live,App Store: Fifth Star Labs LLC; free with in-app purchases
+スカイ・ガイド,platforms,,iOS,,,https://apps.apple.com/jp/app/%E3%82%B9%E3%82%AB%E3%82%A4-%E3%82%AC%E3%82%A4%E3%83%89/id576588894,live,iPhone and iPad universal app
+ピッコマ,license,,Proprietary — freemium,,"Android, iOS, Web",https://apps.apple.com/jp/app/%E3%83%94%E3%83%83%E3%82%B3%E3%83%9E/id1091496983?uo=4,live,App Store: Kakao piccoma Corp.; free with in-app purchases
+ピッコマ,platforms,,"Android, iOS, Web",,,https://apps.apple.com/jp/app/%E3%83%94%E3%83%83%E3%82%B3%E3%83%9E/id1091496983?uo=4,live,iOS Android and web manga service
+佛學大辭典,license,,Proprietary — free,,iOS,https://apps.apple.com/tw/app/%E4%BD%9B%E5%AD%B8%E5%A4%A7%E8%BE%AD%E5%85%B8/id6443910034?uo=4,live,App Store: Meng-Yuan Huang; free Buddhist dictionary
+佛學大辭典,platforms,,iOS,,,https://apps.apple.com/tw/app/%E4%BD%9B%E5%AD%B8%E5%A4%A7%E8%BE%AD%E5%85%B8/id6443910034?uo=4,live,iOS app
+네이버 웹툰 - Naver Webtoon,license,,Proprietary — free,,"Android, iOS, Web",https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%9B%B9%ED%88%B0-naver-webtoon/id315795555?uo=4,live,App Store: NAVER WEBTOON Ltd.; free
+네이버 웹툰 - Naver Webtoon,platforms,,"Android, iOS, Web",,,https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%9B%B9%ED%88%B0-naver-webtoon/id315795555?uo=4,live,Webtoon platform on mobile and web
+롯데월드 어드벤처,license,,Proprietary — free,,"Android, iOS",https://apps.apple.com/kr/app/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744043800?uo=4,live,App Store: Hotel Lotte Co. Ltd.; free theme park app
+롯데월드 어드벤처,platforms,,"Android, iOS",,,https://apps.apple.com/kr/app/%EB%A1%AF%EB%8D%B0%EC%9B%94%EB%93%9C-%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/id6744043800?uo=4,live,Official Lotte World mobile app
+오피지지,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=gg.op.lol.android,live,Play Store listing shows Contains ads and In-app purchases
+오피지지,platforms,,"Android, iOS",,,https://apps.apple.com/kr/app/오피지지/id605722237?uo=4,live,App Store confirms iOS; Play Store listing confirms Android
+플링 - 여성향 AI 채팅 & 오디오드라마,license,,Proprietary — freemium,,,https://apps.apple.com/kr/app/플링-여성향-ai-채팅-오디오드라마/id1497832962?uo=4,live,App Store: Free with In-App Purchases (Pling currency packs); provider PLINGCAST co. ltd
+플링 - 여성향 AI 채팅 & 오디오드라마,platforms,,iOS,,,https://apps.apple.com/kr/app/플링-여성향-ai-채팅-오디오드라마/id1497832962?uo=4,live,App Store listing for iPhone
+2 Player Battle,license,,Open source,GPL-3.0-or-later,,https://search.f-droid.org/?q=2+player+battle,live,F-Droid listing: Destroy enemy base GPL-3.0-or-later
+2 Player Battle,platforms,,Android,,,https://search.f-droid.org/?q=2+player+battle,live,F-Droid catalog is Android-only
+2048 Open Fun Game,license,,Open source,Apache-2.0,,https://search.f-droid.org/?q=2048+open+fun+game,live,F-Droid listing: Open Source no ads Apache-2.0
+2048 Open Fun Game,platforms,,Android,,,https://search.f-droid.org/?q=2048+open+fun+game,live,F-Droid catalog is Android-only
+500 - Multiplayer card game,license,,Open source,GPL-3.0-or-later,,https://search.f-droid.org/?q=500+multiplayer+card+game,live,F-Droid listing: Australian trick-taking card game GPL-3.0-or-later
+500 - Multiplayer card game,platforms,,Android,,,https://search.f-droid.org/?q=500+multiplayer+card+game,live,F-Droid catalog is Android-only
+99Managers Futsal,license,,Open source,AGPL-3.0-or-later,,https://github.com/dulvui/99managers-futsal-edition,live,GitHub API license AGPL-3.0; repo archived and moved to codeberg.org/dulvui/99managers
+99Managers Futsal,platforms,,Android,,,https://search.f-droid.org/?q=99managers,live,F-Droid listing: 99Managers Futsal Edition futsal management game
+Advanced Strategic Command,license,,Open source,GPL-2.0,,https://github.com/ValHaris/asc-hq,live,GitHub API license GPL-2.0; turn based strategy game
+Advanced Strategic Command,platforms,,"Windows, Linux",,,https://github.com/ValHaris/asc-hq,live,README documents Linux and Windows builds
+AEON Pay-スマホ決済でWAON POINTがたまる,license,,Proprietary — free,,"Android, iOS",https://play.google.com/store/apps/details?id=jp.co.aeon.credit.android.wallet&hl=en_GB,live,AEON Financial Service; free barcode payment app
+AEON Pay-スマホ決済でWAON POINTがたまる,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=jp.co.aeon.credit.android.wallet&hl=en_GB,live,Play Store listing
+Airsonic,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/airsonic-advanced/airsonic-advanced,live,GitHub license API GPL-3.0
+Airsonic,platforms,,"Windows, macOS, Linux",,,https://github.com/airsonic-advanced/airsonic-advanced,live,Self-hosted Java music server
+Alex vs Bus: The Race,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/bo/packages/com.github.m374lx.alexvsbus/,live,F-Droid lists GPL-3.0-or-later; cross-platform via GitHub releases
+Alex vs Bus: The Race,platforms,,Android,,,https://f-droid.org/bo/packages/com.github.m374lx.alexvsbus/,live,F-Droid listing
+Allure,license,,Open source,Apache-2.0,"Windows, macOS, Linux",https://github.com/allure-framework/allure2,live,Allure Framework test reports; license API Apache-2.0
+Allure,platforms,,"Windows, macOS, Linux",,,https://github.com/allure-framework/allure2,live,JVM-based; runs on desktop OSes
+Amog OS,license,,Source-available,LSD License v1.1 (custom),Linux,https://raw.githubusercontent.com/Amog-OS/AmogOS/main/LICENSE,live,Among-Us parody distro; custom license with BSD advertising clause not OSI-approved
+Amog OS,platforms,,Linux,,,https://raw.githubusercontent.com/Amog-OS/AmogOS/main/LICENSE,live,Raspberry Pi and x86_64 builds
+An Anime Game Launcher,license,,Open source,GPL-3.0,Linux,https://github.com/an-anime-team/an-anime-game-launcher,live,GitHub license API GPL-3.0
+An Anime Game Launcher,platforms,,Linux,,,https://github.com/an-anime-team/an-anime-game-launcher,live,Linux game launcher
+Andor's Trail,license,,Open source,GPL-2.0,Android,https://play.google.com/store/apps/details?id=com.gpl.rpg.AndorsTrail&hl=en,live,Play Store: open-source GPL v2; sources at AndorsTrailRelease/andors-trail
+Andor's Trail,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.gpl.rpg.AndorsTrail&hl=en,live,Play Store and F-Droid
+AnimeOne,license,,Open source,MIT,Android,https://github.com/hqanime/animeone,live,License API MIT; F-Droid org.github.henryquan.animeone
+AnimeOne,platforms,,Android,,,https://github.com/hqanime/animeone,live,F-Droid listing
+AntWare,license,,Open source,GPL-3.0,Linux,https://github.com/YamanQD/AntWare,live,GitHub API spdx_id GPL-3.0; Flathub Linux
+AntWare,platforms,,Linux,,,https://flathub.org/apps/io.github.yamanqd.antware,live,Flathub listing io.github.yamanqd.antware
+APM,license,,Open source,AGPL-3.0-only,Android,https://f-droid.org/packages/com.noxplay.noxplayer/,live,F-Droid Azusa Player Mobile AGPL-3.0-only
+APM,platforms,,Android,,,https://f-droid.org/packages/com.noxplay.noxplayer/,live,F-Droid Android listing
+Arx Libertatis,license,,Open source,GPL-3.0,,https://github.com/arx/ArxLibertatis,live,GitHub API spdx_id GPL-3.0
+Arx Libertatis,platforms,,"Windows, Linux",,,https://arx-libertatis.org/download,live,Official download page Windows and Linux
+AssaultCube,license,,Open source,zlib-like open source license,,https://raw.githubusercontent.com/assaultcube/AC/master/README.md,live,README: source code available under a zlib-like open source license
+AssaultCube,platforms,,"Windows, Linux, Mac",,,https://raw.githubusercontent.com/assaultcube/AC/master/README.md,live,README download links for Windows Mac Linux
+Asteroids Revenge,license,,Open source,GPL-3.0,,https://github.com/mlm-games/asteroids-revenge,live,GitHub license API GPL-3.0; F-Droid agrees GPL-3.0-only
+Asteroids Revenge,platforms,,"Android, Web",,,https://f-droid.org/packages/com.game.asteroids_revenge/,live,F-Droid Android; itch.io web version
+Atanks,license,,Open source,GPL-2.0-or-later,,https://packages.fedoraproject.org/pkgs/atanks/atanks/,live,Fedora GPL-2.0-or-later
+Atanks,platforms,,"Windows, macOS, Linux",,,https://atanks.sourceforge.io/,live,Official site lists Windows Mac Linux
+Atomic Tanks,license,,Open source,GPL-2.0-or-later,,https://sourceforge.net/projects/atanks,live,SourceForge GPLv2; same game as atanks
+Atomic Tanks,platforms,,"Windows, macOS, Linux",,,https://atanks.sourceforge.io/,live,Official site lists Windows Mac Linux
+Audio Visualizer,license,,Open source,MIT,,https://github.com/Rino-program/Audio-Visualizer,live,GitHub license API MIT
+Audio Visualizer,platforms,,Android,,,https://f-droid.org/categories/multimedia/6/,live,F-Droid Multimedia listing
