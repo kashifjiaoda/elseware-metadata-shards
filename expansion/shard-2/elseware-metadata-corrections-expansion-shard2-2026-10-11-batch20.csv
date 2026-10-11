@@ -1,0 +1,73 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Perceived Stress Scale,license,,Open source,MIT,,https://github.com/vbresan/PerceivedStressScale,live,"GitHub API spdx_id MIT; ""An Android app. Find out how stressed you are."""
+Perceived Stress Scale,platforms,,Android,,,https://github.com/vbresan/PerceivedStressScale,live,Repo description: Android app
+Pilldroid,license,,Open source,BSD-3-Clause,,https://github.com/Altonss/Pilldroid,live,Raw LICENSE verified as BSD-3-Clause text (develop branch); GitHub API NOASSERTION
+Pilldroid,platforms,,Android,,,https://github.com/Altonss/Pilldroid,live,"Android app (app/ directory, fastlane); medication stock management"
+Portio,license,,Open source,MIT,,https://github.com/Portio-in/Portio,live,GitHub API spdx_id MIT
+Portio,platforms,,Web,,,https://github.com/Portio-in/Portio,live,Open-source portfolio platform; web-based
+Xsensors,license,,Open source,GPL-2.0,,https://github.com/Mystro256/xsensors,live,GitHub API spdx_id GPL-2.0; fork of Xsensors hardware health monitor
+Xsensors,platforms,,Linux,,,https://github.com/Mystro256/xsensors,live,GTK3 hardware sensor GUI for Linux
+ルナルナ｜生理日・体調・妊活・基礎体温・ピル服薬管理も！,license,,Proprietary — free,,,https://apps.apple.com/jp/app/%E3%83%AB%E3%83%8A%E3%83%AB%E3%83%8A-%E7%94%9F%E7%90%86%E6%97%A5-%E4%BD%93%E8%AA%BF-%E5%A6%8A%E6%B4%BB-%E5%9F%BA%E7%A4%8E%E4%BD%93%E6%B8%A9-%E3%83%94%E3%83%AB%E6%9C%8D%E8%96%AC%E7%AE%A1%E7%90%86%E3%82%82/id368724832?uo=4,live,"App Store JP: MTI Ltd., free (無料); no open-source license stated"
+ルナルナ｜生理日・体調・妊活・基礎体温・ピル服薬管理も！,platforms,,iOS,,,https://apps.apple.com/jp/app/%E3%83%AB%E3%83%8A%E3%83%AB%E3%83%8A-%E7%94%9F%E7%90%86%E6%97%A5-%E4%BD%93%E8%AA%BF-%E5%A6%8A%E6%B4%BB-%E5%9F%BA%E7%A4%8E%E4%BD%93%E6%B8%A9-%E3%83%94%E3%83%AB%E6%9C%8D%E8%96%AC%E7%AE%A1%E7%90%86%E3%82%82/id368724832?uo=4,live,App Store JP listing
+마이모리 - 마음을 돌보는 일기,license,,Proprietary — free,,,https://apps.apple.com/kr/app/%EB%A7%88%EC%9D%B4%EB%AA%A8%EB%A6%AC-%EB%A7%88%EC%9D%8C%EC%9D%84-%EB%8F%8C%EB%B3%B4%EB%8A%94-%EC%9D%BC%EA%B8%B0/id6503250569?uo=4,live,"App Store KR: Nuttycode Inc., free (무료); no open-source license stated"
+마이모리 - 마음을 돌보는 일기,platforms,,iOS,,,https://apps.apple.com/kr/app/%EB%A7%88%EC%9D%B4%EB%AA%A8%EB%A6%AC-%EB%A7%88%EC%9D%8C%EC%9D%84-%EB%8F%8C%EB%B3%B4%EB%8A%94-%EC%9D%BC%EA%B8%B0/id6503250569?uo=4,live,App Store KR listing
+"인아웃 - 다이어트 코치 & 식단, 운동, 체중 기록",license,,Proprietary — free,,,https://apps.apple.com/kr/app/%EC%9D%B8%EC%95%84%EC%9B%83-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-%EC%BD%94%EC%B9%98-%EC%8B%9D%EB%8B%A8-%EC%9A%B4%EB%8F%99-%EC%B2%B4%EC%A4%91-%EA%B8%B0%EB%A1%9D/id1599210729?uo=4,live,App Store KR: seller Mynormal Company; price 0.0 KRW (free); Health & Fitness
+"인아웃 - 다이어트 코치 & 식단, 운동, 체중 기록",platforms,,iOS,,,https://apps.apple.com/kr/app/%EC%9D%B8%EC%95%84%EC%9B%83-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-%EC%BD%94%EC%B9%98-%EC%8B%9D%EB%8B%A8-%EC%9A%B4%EB%8F%99-%EC%B2%B4%EC%A4%91-%EA%B8%B0%EB%A1%9D/id1599210729?uo=4,live,App Store KR listing (exact catalog name match)
+AlliedTravelCareers,license,,Proprietary — free,,,https://alliedtravelcareers.com,live,Official site: travel healthcare staffing; free for job seekers
+AlliedTravelCareers,platforms,,Web,,,https://alliedtravelcareers.com,live,Official site
+BCG Attorney Search,license,,Proprietary — free,,,https://www.bcgattorneysearch.com,live,Official site: legal recruiting; free for candidates
+BCG Attorney Search,platforms,,Web,,,https://www.bcgattorneysearch.com,live,Official site
+Bluecrew,license,,Proprietary — free,,,https://apps.apple.com/us/app/bluecrew-find-flexible-work/id1033694488?uo=4,live,App Store: BlueCrew Inc; free workforce app
+Bluecrew,platforms,,iOS,,,https://apps.apple.com/us/app/bluecrew-find-flexible-work/id1033694488?uo=4,live,App Store listing (web platform at bluecrewjobs.com not separately rowed)
+Careerjet,license,,Proprietary — free,,,https://www.careerjet.com,live,Official site: job search engine; free for job seekers
+Careerjet,platforms,,Web,,,https://www.careerjet.com,live,Official site
+CreativeCircle,license,,Proprietary — free,,,https://www.creativecircle.com,live,Official site: creative staffing (Everforth Creative Circle); free for candidates
+CreativeCircle,platforms,,Web,,,https://www.creativecircle.com,live,Official site
+DevInterview.AI,license,,Proprietary — paid subscription,,,https://devinterview.ai/pricing,live,"Pricing page: ""One subscription. Unlimited mock interviews"""
+DevInterview.AI,platforms,,Web,,,https://devinterview.ai,live,Official site: AI mock interviews for software engineers
+Evolia,license,,Proprietary — paid subscription,,,https://evolia.com/pricing,live,"Pricing page: workforce management SaaS (""How much does it cost?"")"
+Evolia,platforms,,Web,,,https://evolia.com,live,Official site: Workforce Management Software
+Foundation List,license,,Proprietary — paid,"Employers pay per posting: $119/30 days, $149/45 days, $199/60 days; no free tier",,https://www.foundationlist.org/job-posting-plans-pricing/,live,Official pricing page; national nonprofit job board
+Foundation List,platforms,,Web,,,https://www.foundationlist.org/,live,Web-based job board
+Handshake,license,,Proprietary — freemium,Free for students and schools; employers have free and premium/Pro plans,,https://joinhandshake.com/employers/pricing/,live,Official employer pricing page lists free and premium plans
+Handshake,platforms,,Web,,,https://joinhandshake.com/,live,Web platform
+Hubstaff Talent,license,,Proprietary — free,Free talent marketplace; Post a job (FREE),,https://hubstafftalent.net/,live,Official site states posting jobs is free
+Hubstaff Talent,platforms,,Web,,,https://hubstafftalent.net/,live,Web platform
+Instawork,license,,Proprietary — freemium,Free for workers to sign up; businesses pay only when booking shifts,,https://www.instawork.com/temporary-workers,live,"Official business page: free to sign up and browse, pay on booking"
+Instawork,platforms,,Web,,,https://www.instawork.com/,live,Web platform
+interviewing.io,license,,Proprietary — freemium,Free peer practice and free AI Interviewer; premium human mock sessions from $179; employers $500/month,,https://interviewing.io/blog/interviewing-io-is-out-of-beta-anonymous-technical-interview-practice-for-all,live,Official blog confirms free peer-practice tier; employer FAQ confirms paid employer plans
+interviewing.io,platforms,,Web,,,https://interviewing.io/,live,Web platform
+Jobright AI,license,,Proprietary — freemium,Free tier for job seekers with paid upgrade options (Turbo plans),,https://jobright.ai/,live,Official site offers free access with upgrade path
+Jobright AI,platforms,,Web,,,https://jobright.ai/,live,Web platform
+Kinitro,license,,Proprietary — paid subscription,B2B SaaS pricing,,https://www.kinitro.com/blog/best-compensation-market-analysis-tools-2026/,live,Incentive compensation automation platform for sales/service teams; official site
+Kinitro,platforms,,Web,,,https://www.kinitro.com/blog/best-compensation-market-analysis-tools-2026/,live,Cloud SaaS platform
+Malt,license,,Proprietary — free,Free to join; commission/service fees on projects,,https://en.malt.fr/c/maltstrategy/consultants,live,Freelance marketplace; 850k+ freelancers per official site
+Malt,platforms,,Web,,,https://en.malt.fr/c/maltstrategy/consultants,live,Web platform
+MoAIJobs,license,,Proprietary — free,Free for job seekers; employers pay per posting,,https://www.moaijobs.com/?page=60,live,AI jobs job board; free to browse/search/apply per official FAQ
+MoAIJobs,platforms,,Web,,,https://www.moaijobs.com/?page=60,live,Web job board
+MyPerfectCoverLetter,license,,Proprietary — paid subscription,14-day trial auto-renews at full price; annual access available,,https://www.myperfectcoverletter.com/faq,live,Official FAQ: free plain-text download; Full Access requires subscription
+MyPerfectCoverLetter,platforms,,Web,,,https://www.myperfectcoverletter.com/faq,live,Online cover letter generator
+Novoresume,license,,Proprietary — freemium,Free Basic plan; Premium passes paid once (no auto-renewal),,https://novoresume.com/resume-templates,live,Resume builder; free one-page Basic plan per official pricing
+Novoresume,platforms,,Web,,,https://novoresume.com/resume-templates,live,Online resume builder
+One Wire,license,,Proprietary — free,Free for finance candidates; employer-paid SaaS recruiting platform,,https://www.onewire.com,live,SaaS recruiting platform for financial services; official site
+One Wire,platforms,,Web,,,https://www.onewire.com,live,Web recruiting platform
+PracHub,license,,Proprietary — freemium,Free starting point with optional Premium,,https://prachub.com/resources/7-best-ai-mock-interview-platforms-in-2026-ranked-by-real-engineers,live,Interview question bank and practice platform per official site
+PracHub,platforms,,Web,,,https://prachub.com/resources/7-best-ai-mock-interview-platforms-in-2026-ranked-by-real-engineers,live,Web practice platform
+Remotecrew,license,,Proprietary — free,Applying for jobs is 100% free; no fees,,https://www.remotecrew.io/find-a-job,live,Remote developer job board; free applications per official site
+Remotecrew,platforms,,Web,,,https://www.remotecrew.io/find-a-job,live,Web job board
+Resume Optimizer Pro,license,,Proprietary — freemium,Free ATS checker; full optimization requires Pro subscription,,https://resumeoptimizerpro.com/tailor-resume,live,AI ATS resume optimizer per official FAQ
+Resume Optimizer Pro,platforms,,Web,,,https://resumeoptimizerpro.com/tailor-resume,live,Web app
+ResumeYard,license,,Proprietary — paid,,,https://resumeyard.qollabe.com/builder,live,Professional resume writing service; paid packages
+ResumeYard,platforms,,Web,,,https://resumeyard.qollabe.com/builder,live,Online resume builder and writing service
+Roadtechs,license,,Proprietary — free,,,https://www.roadtechs.com/search/search.php?search3=t1160&area=&city=&state=&region=&country=&corp9=&pglo=20,live,Job board free for job seekers; employers pay per posting
+Roadtechs,platforms,,Web,,,https://www.roadtechs.com/search/search.php?search3=t1160&area=&city=&state=&region=&country=&corp9=&pglo=20,live,Web-based engineering/technical job board
+SchoolSpring,license,,Proprietary — free,,,https://www.schoolspring.com/jobdetail?jobId=5540449,live,"K-12 education job board; free for candidates, employers purchase postings"
+SchoolSpring,platforms,,Web,,,https://www.schoolspring.com/jobdetail?jobId=5540449,live,Web-based education job search engine
+Tough Tongue AI,license,,Proprietary — freemium,,,https://www.toughtongueai.com/blog/best-ai-mock-interview-platforms-2026,live,"Free 25 min/mo tier; Standard $12/mo, Premium $20/mo"
+Tough Tongue AI,platforms,,Web,,,https://www.toughtongueai.com/blog/best-ai-mock-interview-platforms-2026,live,Web app AI communication coach
+Veryable,license,,Proprietary — free,,,https://www.veryableops.com/legal/terms-of-service-business,live,"On-demand labor marketplace; operator app free, businesses pay"
+Veryable,platforms,,Web,,,https://www.veryableops.com/legal/terms-of-service-business,live,Online platform/portal via website
+Wall Street Oasis,license,,Proprietary — freemium,,,https://www.WallStreetOasis.com/courses/financial-modeling-certification/microsoft-copilot-for-finance,live,"Free forum community; courses $97-$997 one-time, Academy tuition extra"
+Wall Street Oasis,platforms,,Web,,,https://www.WallStreetOasis.com/courses/financial-modeling-certification/microsoft-copilot-for-finance,live,Web-based finance careers community and courses
+Wishup,license,,Proprietary — paid subscription,,,https://www.wishup.co/blog/wing-virtual-assistant-vs-wishup-virtual-assistant/,live,"VA subscription: $1,299/mo part-time, $1,999/mo full-time"
+Wishup,platforms,,Web,,,https://www.wishup.co/blog/wing-virtual-assistant-vs-wishup-virtual-assistant/,live,Web-based managed virtual assistant service
