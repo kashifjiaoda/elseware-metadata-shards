@@ -1,0 +1,78 @@
+Streamline,license,,Proprietary — freemium,Free Starter tier; paid plans from $19/mo,,https://home.streamlinehq.com/pricing,live,Identified as Streamline icon library (streamlinehq.com); not Adobe Streamline (discontinued 2003). Free Starter per official pricing page.
+Streamline,platforms,,"Web, macOS",,,https://home.streamlinehq.com/pricing,live,Pricing page: 'Access via Streamline app' and 'App for Mac'; Figma plugin also offered.
+T Rec Rs,license,,Open source,GPL-3.0,,https://github.com/sassman/t-rec-rs,live,GitHub license detection reads repo LICENSE file as GPL-3.0; README badge says 'License: GPL v3'. Canonical upstream is sassman/t-rec-rs (forks exist).
+T Rec Rs,platforms,,"Windows, macOS, Linux, NetBSD",,,https://github.com/sassman/t-rec-rs,live,"README: 'Runs on Windows, MacOS, Linux and NetBSD'; Windows support is pre-release preview (v0.9.0-preview1)."
+TdhCad,license,,Proprietary — free,Free for non-commercial use,,https://www.tdhcad.com,live,"Official site: 'Free (for non-commercial use): No Ads, No Junkware, No Limits, No Cost'. GitHub repo stephen877/TDHCAD looks unofficial (4 commits, NOASSERTION) and was not used."
+TdhCad,platforms,,"Windows, Linux",,,https://www.tdhcad.com,live,Official site: 'For MS Windows and Linux'.
+Therion,license,,Open source,GPL-2.0-only,,https://github.com/therion/therion,live,"GitHub detects GPL-2.0 from repo COPYING; official site says 'GNU GPL' without version; no or-later grant found in fetched sources, so recorded conservative."
+Therion,platforms,,"Linux, Windows, macOS",,,https://therion.speleo.sk,live,"Official site: 'runs on wide variety of platforms: Linux, Windows, Mac OS X'."
+Timg,license,,Open source,GPL-2.0-only,,https://github.com/hzeller/timg/,live,README badge 'License: GPL v2' links to repo LICENSE file; package metadata confirms GPL-2.0; no or-later grant visible.
+Timg,platforms,,"Linux, macOS",,,https://github.com/hzeller/timg/,live,"README installation covers Debian/NixOS/Fedora Linux, macOS (brew), and AppImage."
+Tui Image Editor,license,,Open source,MIT,,https://github.com/nhn/tui.image-editor,live,"JS library (HTML5 canvas component), not an end-user app; repo archived by NHN. GitHub detects MIT from LICENSE file; README links 'MIT LICENSE'."
+Tux Paint,license,,Open source,GPL-2.0-or-later,,http://www.tuxpaint.org/,live,"Official site states 'GNU General Public License' without version; project's shipped manpage header grants 'either version 2 of the License, or (at your option) any later version'."
+Tux Paint,platforms,,"Windows, macOS, Linux, Android, Haiku",,,http://www.tuxpaint.org/,live,"Official site: Windows 8 and later, macOS 10.10 and later, Linux, Android (phones/tablets/ChromeOS), Haiku, and more."
+Typewolf,platforms,,Web,,,https://www.typewolf.com,live,typography resource website by Jeremiah Shoaf; license/pricing tier not verified on whitelisted source — license row withheld
+Umlet,license,,Open source,GPL-3.0-only,,https://www.umlet.com,live,official site links GNU GPL 3.0; no LICENSE file found in github.com/umlet/umlet repo — no or-later grant stated so recorded as GPL-3.0-only
+Umlet,platforms,,"Windows, macOS, Linux",,,https://www.umlet.com,live,also available as Eclipse plugin and web version (umletino)
+ustreamer,license,,Open source,GPL-3.0-or-later,,https://github.com/pikvm/ustreamer,live,README license section grants version 3 or (at your option) any later version
+ustreamer,platforms,,Linux,,,https://github.com/pikvm/ustreamer,live,MJPEG-HTTP camera streamer for Raspberry Pi / Linux (Arch Linux package referenced in README)
+vdr-server,license,,Open source,GPL-2.0-only,,https://snapcraft.io/install/vdr-server/ubuntu,live,Snap Store lists license GPL-2.0-only for the ogra1 vdr-server snap (Video Disk Recorder); same name also used by lapicidae/vdr-server Docker-image project — different product; this row refers to the snap
+vdr-server,platforms,,Linux,,,https://snapcraft.io/install/vdr-server/ubuntu,live,snap package; runs on Linux distributions
+Veusz,license,,Open source,GPL-2.0-or-later,,https://github.com/jeremysanders/veusz,live,README states licensed under the GPL version 2 or greater; raw COPYING is the GPL-2.0 license text
+Veusz,platforms,,"Windows, macOS, Linux",,,https://veusz.github.io/download/,live,official download page offers macOS/Windows/Linux binaries
+Video React,license,,Open source,MIT,,https://github.com/video-react/video-react,live,raw LICENSE text is the MIT license (Copyright (c) 2016 video-react)
+Video React,platforms,,Web,,,https://github.com/video-react/video-react,live,React web video-player component library — not a standalone app; repo in security-only maintenance
+Vime,license,,Open source,MIT,,https://github.com/vime-js/vime,live,raw LICENSE text is the MIT license (Copyright (c) 2020); repo archived
+Vime,platforms,,Web,,,https://github.com/vime-js/vime,live,web-component video player library — not a standalone app; no longer maintained (archived); successor is Vidstack
+Void Image Viewer,license,,Open source,MIT,,https://github.com/voidtools/voidImageViewer,live,raw LICENSE text is the MIT license (Copyright 2025 voidtools / David Carpenter)
+Void Image Viewer,platforms,,Windows,,,https://github.com/voidtools/voidImageViewer,live,official README: lightweight image viewer for Windows
+Webcamoid,license,,Open source,GPL-3.0-or-later,,https://github.com/webcamoid/webcamoid,live,README license section grants version 3 or (at your option) any later version; raw COPYING is GPL-3.0 text
+Webcamoid,platforms,,"Linux, macOS, Windows, Android, FreeBSD",,,https://github.com/webcamoid/webcamoid,live,README states availability on GNU/Linux / Mac / Windows / Android / FreeBSD
+Wire Tapper,license,,Source-available,CC BY-NC 4.0,,https://github.com/h9zdev/WireTapper/blob/main/README.md,live,README licenses project under CC BY-NC 4.0 (non-commercial); GitHub reports NOASSERTION. Task name matched to repo WireTapper (no space).
+Wire Tapper,platforms,,Windows; macOS; Linux; Android,,,https://github.com/h9zdev/WireTapper/blob/main/README.md,live,"README install guides list Linux, macOS, Windows, Android and PyPI; release notes mention standalone Windows EXE."
+Woxel,license,,Open source,MIT,,https://github.com/woxels/woxel,live,GitHub detects MIT from root LICENSE file; raw blob fetch failed (503) so claim rests on GitHub detection.
+Woxel,platforms,,Linux; Web,,,https://github.com/woxels/woxel,live,"Native Linux/SDL2 editor; downloads: Flatpak, Snap, Ubuntu releases (Linux) and WebGL web."
+Xaos,license,,Open source,GPL-2.0-or-later,,https://github.com/xaos-project/XaoS,live,README license section grants 'either version 2 ... or (at your option) any later version'; GitHub badge GPL-2.0 overruled by text.
+Xaos,platforms,,Windows; macOS; Linux; Web,,,https://github.com/xaos-project/XaoS,live,"README: tested on Windows, Mac and Linux; web app at xaos.app since v4.3."
+Xfce4 Screenshooter,license,,Open source,GPL-2.0,,https://github.com/xfce-mirror/xfce4-screenshooter,live,GitHub detects GPL-2.0 from COPYING in upstream GitLab mirror; README badge 'GPL v2'; per-file or-later headers not inspected - version recorded as detected.
+Yorick Cubeview,license,,Open source,GPL-2.0-or-later,,https://github.com/paumard/yorick-cubeview,live,"Upstream README: 'either version 2 of the License, or (at your option) any later version'."
+Zoner Photo Studio,license,,Proprietary — paid subscription,Subscription; 7-day free trial,,https://www.zoner.com,live,Official site: subscription required for use; product now branded 'Zoner Studio' (renamed from Zoner Photo Studio X).
+Zoner Photo Studio,platforms,,Windows,,,https://www.zoner.com,live,Official site FAQ: 'Zoner Studio runs on Windows 10 and 11'.
+モザイク　ぼかし & モザイク加工アプリ,license,,Proprietary — free,Free download (price 0.00),,https://apps.apple.com/jp/app/%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF-%E3%81%BC%E3%81%8B%E3%81%97-%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%82%A2%E3%83%97%E3%83%AA/id964220645?uo=4,live,"iTunes lookup API (JP): exact name match; seller Yu Abe; bundleId com.yuabe.mosaic. Separate ad-free paid version exists (360 yen, not distributed) - verify right product. Ad/IAP status not confirmed from whitelisted source."
+モザイク　ぼかし & モザイク加工アプリ,platforms,,iOS,,,https://apps.apple.com/jp/app/%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF-%E3%81%BC%E3%81%8B%E3%81%97-%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF%E5%8A%A0%E5%B7%A5%E3%82%A2%E3%83%97%E3%83%AA/id964220645?uo=4,live,iTunes lookup API: iPhone/iPad universal (iosUniversal); Play Store lookup of com.yuabe.mosaic returned 404 - appears iOS-only.
+5G Proxy Pro,license,,Open source,MIT,,https://github.com/tokyoxpa3/5G-Proxy-Pro,live,GitHub detects MIT from root LICENSE; README license section: released under MIT License; also listed on F-Droid.
+5G Proxy Pro,platforms,,Android,,,https://github.com/tokyoxpa3/5G-Proxy-Pro,live,Repo describes 'Android app'; README requires Android 8.0 (API 26); package com.tokyoxpa3.androidproxy; on F-Droid.
+Aer - Fork of Anemo,license,,Open source,GPL-3.0-only,,https://github.com/nain-F49FF806/anemo-aeolus,live,"Unofficial fork of 2bllw8/anemo; license verified against raw COPYING (GPL v3, no or-later grant)"
+Aer - Fork of Anemo,platforms,,Android,,,https://github.com/nain-F49FF806/anemo-aeolus,live,Android app (APK via GitHub releases); unofficial fork of 2bllw8/anemo
+Amneziawg Installer,license,,Open source,MIT,,https://github.com/wiresock/amneziawg-install,live,"License verified against raw LICENSE (MIT, copyright 2024 Markus Varckin)"
+Amneziawg Installer,platforms,,Linux (server),,,https://github.com/wiresock/amneziawg-install,live,Bash installer for AmneziaWG obfuscated VPN on supported Linux servers; includes optional web panel
+Anemo,license,,Open source,GPL-3.0-only,,https://github.com/2bllw8/anemo,live,"License verified against raw COPYING (GPL v3, no or-later grant)"
+Anemo,platforms,,Android,,,https://github.com/2bllw8/anemo,live,APK via GitHub releases; also on F-Droid (exe.bbllw8.anemo)
+Banana Split,license,,Open source,GPL-3.0-only,,https://github.com/mezinster/banana_split,live,"Fork of paritytech/banana_split; license verified against raw LICENSE (GPL v3, no or-later grant)"
+Banana Split,platforms,,"Android, Windows, Web (iOS: build from source)",,,https://github.com/mezinster/banana_split,live,Same-name collision: mercury308/banana-split is a different bill-splitting app; this entry is the Shamir secret-sharing app
+Blocker,license,,Open source,Apache-2.0,,https://github.com/lihenggui/blocker,live,License verified against raw LICENSE (Apache License 2.0)
+Blocker,platforms,,Android,,,https://github.com/lihenggui/blocker,live,On F-Droid (com.merxury.blocker) and Google Play
+Calyx VPN,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/org.calyxinstitute.vpn/,live,F-Droid lists 'GNU General Public License v3.0 only'; app describes client and server as 100% free and open source
+Calyx VPN,platforms,,Android,,,https://f-droid.org/en/packages/org.calyxinstitute.vpn/,live,"Requires Android 5.0+; free VPN service by The Calyx Institute, based on Bitmask"
+Coraza,license,,Open source,Apache-2.0,,https://github.com/corazawaf/coraza,live,License verified against raw LICENSE (Apache License 2.0)
+Coraza,platforms,,Server-side: Go module; Python/Java (native) and Node.js (WASM) bindings,,,https://github.com/corazawaf/coraza-bindings,live,Not an end-user app: OWASP Coraza is a server-side WAF library/framework
+DNS Hero,license,,Open source,GPL-3.0-only,,https://github.com/devgianlu/DNSHero,live,"License verified against raw LICENSE (GPL v3, no or-later grant); F-Droid lists GPL-3.0-only"
+DNS Hero,platforms,,Android,,,https://f-droid.org/packages/com.gianlu.dnshero/,live,On F-Droid and Google Play (com.gianlu.dnshero); F-Droid flags NonFreeNet anti-feature (depends on zone.vision API by DNSimple)
+DNSNet,license,,Open source,GPL-3.0-only,,https://github.com/neudrino/dnsnet,live,"License verified against raw COPYING (GPL v3, no or-later grant); DNS66 successor"
+DNSNet,platforms,,Android,,,https://github.com/neudrino/dnsnet,live,"On F-Droid, Google Play and Accrescent (dev.clombardo.dnsnet); same-name collision: straticus1/dnsscience-dnsnet is an unrelated enterprise DNS/DHCP CLI toolkit"
+DroidCrypt,license,,Open source,MIT,,https://fdroid.gitlab.io/jekyll-fdroid/en/packages/com.nemesis.droidcrypt/index.html,live,F-Droid lists MIT License. Same-name forks exist (umutcamliyurt/nikolas-trey/pahlevikun library); F-Droid builds com.nemesis.droidcrypt variant
+DroidCrypt,platforms,,Android,,,https://fdroid.gitlab.io/jekyll-fdroid/en/packages/com.nemesis.droidcrypt/index.html,live,Android app; requires Android 4.4 or newer
+Ente Locker,license,,Open source,AGPL-3.0,,https://github.com/ente-io/ente,live,GitHub license detection on official monorepo: AGPL-3.0. Hosted service is freemium (free up to 100 items; 1000 with Ente Photos subscription)
+Ente Locker,platforms,,"iOS, Android",,,https://github.com/ente-io/ente,live,README: Ente Locker available for iOS and Android
+Exodus Privacy,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/,live,F-Droid lists GNU General Public License v3.0 only; source at github.com/Exodus-Privacy/exodus-android-app
+Exodus Privacy,platforms,,Android,,,https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/,live,Android app; requires Android 6.0 or newer; also on Google Play
+Intra,license,,Open source,Apache-2.0,,https://github.com/jigsaw-code/intra,live,GitHub license detection: Apache License 2.0; repo AGENTS.md requires Apache 2.0 headers on all new files
+Intra,platforms,,Android,,,https://github.com/jigsaw-code/intra,live,Android app (package app.intra) by Jigsaw; available on Google Play Store
+JetBird,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/dev.bg.jetbird,live,F-Droid lists GNU General Public License v3.0 or later. Unofficial NetBird Android client by bg443 (source on Codeberg); not the 2009 Twitter client of the same name
+JetBird,platforms,,Android,,,https://f-droid.org/packages/dev.bg.jetbird,live,Android app; requires Android 7.0 or newer; includes Android TV support
+KryptEY,license,,Open source,GPL-3.0-only,,https://github.com/amnesica/KryptEY,live,F-Droid lists GNU General Public License v3.0 only; GitHub detects GPL-3.0
+KryptEY,platforms,,Android,,,https://github.com/amnesica/KryptEY,live,Android keyboard app; requires Android 8.0 or newer; on F-Droid
+Lavabit Encrypted Proxy,license,,Open source,GPL-3.0-only,,https://f-droid.org/he/packages/com.lavabit.pahoehoe/,live,F-Droid lists GNU General Public License v3.0 only; upstream README says released under the GPL (version unspecified) and repo LICENSE file is GPL v3 text
+Lavabit Encrypted Proxy,platforms,,Android,,,https://f-droid.org/he/packages/com.lavabit.pahoehoe/,live,Android app (package com.lavabit.pahoehoe); also on Google Play; app tied to Lavabit-operated VPN servers
+Mellow,license,,Open source,Apache-2.0,,https://github.com/malinskiy/mellow,live,GitHub license detection: Apache License 2.0; README confirms. Same-name projects exist (mellowdrama81/narrator jack60485/mellow); this is malinskiy/mellow Jellyfin client
+Mellow,platforms,,Android,,,https://github.com/malinskiy/mellow,live,Offline-first Jellyfin music player for Android with Android Auto support
