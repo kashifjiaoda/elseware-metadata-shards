@@ -1,0 +1,60 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+MagicSetEditor,license,,Open source,GPL-2.0,,https://magicseteditor.sourceforge.net/,live,COPYING is GPL v2 text (verified via repo mirror raw)
+MagicSetEditor,platforms,,Windows,,,https://magicseteditor.sourceforge.net/,live,Official site ships Windows builds
+Make Them Fall,license,,Open source,GPL-3.0,,https://github.com/sugarlabs/make-them-fall,live,Raw COPYING is GPL v3 text
+Make Them Fall,platforms,,Linux,,,https://github.com/sugarlabs/make-them-fall,live,Sugar Labs activity; Flathub org.sugarlabs.MakeThemFall
+Manga Ocr,license,,Open source,Apache-2.0,,https://github.com/kha-white/manga-ocr,live,GitHub API spdx_id Apache-2.0
+Manga Ocr,platforms,,"Windows, Linux, macOS",,,https://github.com/kha-white/manga-ocr,live,Python pip package; cross-platform
+Manic EMU,license,,Open source,AGPL-3.0,,https://github.com/Manic-EMU/ManicEMU,live,Raw LICENSE is AGPL v3 text; README badge confirms AGPL v3
+Manic EMU,platforms,,"iOS, iPadOS",,,https://github.com/Manic-EMU/ManicEMU,live,README: iOS 15+ and iPadOS; distributed via App Store StikStore SideStore
+Mediaelement,license,,Open source,MIT,,https://github.com/mediaelement/mediaelement,live,Raw LICENSE is MIT text; README states MIT license
+Mediaelement,platforms,,Web,,,https://github.com/mediaelement/mediaelement,live,HTML5 audio/video JavaScript library
+Megaglest Data,license,,Open source,CC-BY-SA-3.0,,https://store.steampowered.com/app/578870/MegaGlest/,live,Game data released under CC-BY-SA 3.0 Unported per Steam page
+Megaglest Data,platforms,,"Windows, Linux",,,https://store.steampowered.com/app/578870/MegaGlest/,live,Steam system requirements list Windows and SteamOS/Linux
+Memo Game (Privacy Friendly),license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/org.secuso.privacyfriendlymemory/,live,fdroiddata metadata License GPL-3.0-only; SECUSO app
+Memo Game (Privacy Friendly),platforms,,Android,,,https://f-droid.org/packages/org.secuso.privacyfriendlymemory/,live,F-Droid Android package
+Metro - A music player for Android,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/io.github.muntashirakon.Music/,live,fdroiddata License GPL-3.0-only; MuntashirAkon Metro
+Metro - A music player for Android,platforms,,Android,,,https://f-droid.org/packages/io.github.muntashirakon.Music/,live,F-Droid Android package
+MHGU Database,license,,Open source,MIT,,https://f-droid.org/packages/com.ghstudios.android.mhgendatabase/,live,fdroiddata License MIT; Gathering Hall Studios
+MHGU Database,platforms,,Android,,,https://f-droid.org/packages/com.ghstudios.android.mhgendatabase/,live,F-Droid Android package
+Micropolis,license,,Open source,GPL-3.0,,https://github.com/SimHacker/micropolis,live,Open-source SimCity Classic release under GPL (OLPC initiative)
+Micropolis,platforms,,Linux,,,https://github.com/SimHacker/micropolis,live,Unix/X11 port lineage; OLPC Linux activity
+Mightier Amp,license,,Open source,MIT,,https://f-droid.org/packages/com.tuntori.mightieramp/,live,fdroiddata License MIT; Play Store listing states open-source with GitHub repo
+Mightier Amp,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.tuntori.mightieramp,live,Play Store Android listing; App Store iOS listing per repo README
+Mine4Ease,license,,Open source,Apache-2.0,,https://github.com/fezlight/mine4ease,live,Raw LICENSE is Apache 2.0 text
+Mine4Ease,platforms,,Linux,,,https://flathub.org/en/apps/io.github.fezlight.mine4ease,live,Flathub Linux app; Electron-based Minecraft launcher
+Mines3D,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/cos.premy.mines/,live,F-Droid listing: GNU General Public License v3.0 only
+Mines3D,platforms,,Android,,,https://f-droid.org/packages/cos.premy.mines/,live,F-Droid Android package
+Minigalaxy,license,,Open source,GPL-3.0,,https://github.com/sharkwouter/minigalaxy,live,Raw LICENSE is GPL v3 text
+Minigalaxy,platforms,,Linux,,,https://github.com/sharkwouter/minigalaxy,live,Open-source GOG client for Linux
+Mokuro,license,,Open source,GPL-3.0,,https://github.com/kha-white/mokuro,live,GitHub API spdx_id GPL-3.0; manga OCR tool
+Mokuro,platforms,,"Windows, Linux, macOS",,,https://github.com/kha-white/mokuro,live,pip-installable Python 3.10+ tool; runs wherever Python runs
+Mrrescue,license,,Open source,zlib,,https://github.com/SimonLarsen/mrrescue,live,LICENSE read directly: source code under zlib license; assets CC-BY-SA-3.0 (Tangram Games)
+Mrrescue,platforms,,"Windows, macOS, Linux",,,https://github.com/SimonLarsen/mrrescue,live,LÖVE framework game; runs on LÖVE (Windows/macOS/Linux)
+MMapper,license,,Open source,GPL-2.0,,https://github.com/MUME/MMapper,live,GitHub license API GPL-2.0; MUME MUD graphical client
+Mobile Mcp,license,,Open source,Apache-2.0,,https://github.com/mobile-next/mobile-mcp,live,GitHub API spdx_id Apache-2.0; MCP server for mobile automation (iOS/Android)
+Musify,license,,Open source,GPL-3.0,,https://github.com/gokadzev/Musify,live,GitHub API spdx_id GPL-3.0; Flutter music streaming app
+Musify,platforms,,Android,,,https://github.com/gokadzev/Musify,live,Android app per repo
+N-Zik,license,,Open source,GPL-3.0,,https://github.com/N-Zik-Group/N-Zik,live,GitHub API spdx_id GPL-3.0; multilingual YouTube Music frontend
+N-Zik,platforms,,Android,,,https://github.com/N-Zik-Group/N-Zik,live,Android app per repo description
+Nano Boy Advance,license,,Open source,GPL-3.0,,https://github.com/nba-emu/NanoBoyAdvance,live,GitHub API spdx_id GPL-3.0 on canonical repo; GBA emulator
+Navidrome,license,,Open source,GPL-3.0,,https://github.com/navidrome/navidrome,live,GitHub API spdx_id GPL-3.0; personal music streaming server
+Navidrome,platforms,,Web,,,https://github.com/navidrome/navidrome,live,Self-hosted web music server
+ncspot,license,,Open source,BSD-2-Clause,,https://github.com/hrkfdn/ncspot,live,GitHub API spdx_id BSD-2-Clause; ncurses Spotify client in Rust
+ncspot,platforms,,"Linux, macOS, Windows",,,https://github.com/hrkfdn/ncspot,live,Cross-platform per repo description
+Netcatty,license,,Open source,GPL-3.0,,https://github.com/binaricat/Netcatty,live,GitHub API spdx_id GPL-3.0; SSH workspace/SFTP/terminals app
+Neural Amp Modeler,license,,Open source,MIT,,https://github.com/sdatkinson/neural-amp-modeler,live,GitHub API spdx_id MIT on canonical repo; neural network guitar amp emulator
+Nexuiz Classic,license,,Open source,GPL-2.0,,https://en.wikipedia.org/wiki/Nexuiz,live,Released under the GNU General Public License (GPL); GPLv2 per Debian/Tuxfamily entries
+Nexuiz Classic,platforms,,"Linux, Windows, macOS",,,https://en.wikipedia.org/wiki/Nexuiz,live,"Wikipedia infobox: Linux, FreeBSD, Microsoft Windows, OS X"
+Nginx Rtmp Module,license,,Open source,BSD-2-Clause,,https://github.com/arut/nginx-rtmp-module,live,"GitHub repo license field: BSD 2-Clause ""Simplified"" License; raw LICENSE text verified"
+Nginx Rtmp Module,platforms,,"Linux, FreeBSD, macOS, Windows",,,https://github.com/arut/nginx-rtmp-module,live,README features list: Linux/FreeBSD/MacOS/Windows
+Noise Cancelling,license,,Open source,MIT License,,https://f-droid.org/bo/packages/dev.danjackson.noisecancel/,live,F-Droid listing: License MIT License; danielgjackson/noisecancel
+Noise Cancelling,platforms,,Android,,,https://f-droid.org/bo/packages/dev.danjackson.noisecancel/,live,F-Droid Android listing dev.danjackson.noisecancel
+Nonocross,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/com.picross.nonocross/,live,F-Droid listing: License GNU General Public License v3.0 or later
+Nonocross,platforms,,Android,,,https://f-droid.org/packages/com.picross.nonocross/,live,F-Droid Android listing com.picross.nonocross
+Nostlan,license,,Open source,GPL-3.0,,https://github.com/totorruns/nostlan,live,README: Nostlan software is open sourced and licensed under the copyleft GNU GPLv3 license
+Nostlan,platforms,,"Linux, macOS, Windows",,,https://github.com/totorruns/nostlan,live,"README: game launcher for video game emulators; available on Linux, macOS, and Windows"
+Nyrna,license,,Open source,GPL-3.0,,https://github.com/Merrit/nyrna,live,Repo LICENSE is GPL-3.0; suspend games and applications tool
+Nyrna,platforms,,"Linux, Windows",,,https://github.com/Merrit/nyrna,live,README: Nyrna works on Linux with X11 and Microsoft Windows
+Office Runner,license,,Open source,GPL-3.0-or-later,,https://github.com/gnome/office-runner,live,GNOME office-runner COPYING points to LICENSES/GPL-3.0-or-later.txt (REUSE); lid-suspend office game
+Office Runner,platforms,,Linux,,,https://github.com/gnome/office-runner,live,GNOME game; shipped as Flatpak org.gnome.OfficeRunner on Flathub
