@@ -1,0 +1,67 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Napari,license,,Open source,BSD-3-Clause,,https://raw.githubusercontent.com/napari/napari/main/LICENSE,live,Confirmed via current raw LICENSE on repo default branch (napari/napari)
+Napari,platforms,,"Windows, macOS, Linux",,,https://github.com/napari/napari/releases,live,Release assets prove all three: Windows-x86_64.exe
+Navit,license,,Open source,GPL-2.0 (application code); LGPL (headers),,https://raw.githubusercontent.com/navit-gps/navit/trunk/COPYING,live,COPYING lists core navit files under GPL-2 and headers under LGPL
+Navit,platforms,,"Android, Linux",,,https://github.com/navit-gps/navit,live,Repo README shows F-Droid + Google Play badges (Android) and Linux-based carputer install (Linux)
+Nemo,license,,Open source,GPL-2.0,,https://raw.githubusercontent.com/linuxmint/nemo/master/COPYING,live,COPYING is GNU GPL Version 2 on linuxmint/nemo
+Nemo,platforms,,Linux,,,https://github.com/linuxmint/nemo,live,README: official file manager of the Cinnamon desktop environment (Linux-only DE)
+Neohtop,license,,Open source,MIT,,https://raw.githubusercontent.com/Abdenasser/neohtop/main/LICENSE,live,MIT License confirmed via current raw LICENSE (Abdenasser/neohtop)
+Neohtop,platforms,,"Windows, macOS, Linux",,,https://github.com/Abdenasser/neohtop/releases,live,Release assets: .exe (Windows)
+Netronome,license,,Open source,GPL-2.0,,https://raw.githubusercontent.com/autobrr/netronome/develop/LICENSE,live,GPL-2.0 confirmed via GitHub license API on official repo autobrr/netronome
+Netronome,platforms,,"Linux, macOS",,,https://github.com/autobrr/netronome/releases,live,Release binaries for linux (deb/rpm/apk/tar.gz) and darwin (macOS); self-hosted web UI
+NetXMS 4.5,license,,Open source,GPL-2.0-or-later (components); LGPL (libraries),,https://raw.githubusercontent.com/netxms/netxms/release-4.5.7/COPYING,live,COPYING on release-4.5.7: libraries LGPL
+NetXMS 4.5,platforms,,"Windows, Linux, macOS",,,https://netxms.org/download/,live,Official download page lists Windows
+NetXMS 6.0,license,,Open source,GPL-2.0-or-later (components); LGPL (libraries),,https://raw.githubusercontent.com/netxms/netxms/release-6.0.0/COPYING,live,COPYING on release-6.0.0: libraries LGPL
+NetXMS 6.0,platforms,,"Windows, Linux, macOS",,,https://netxms.org/download/,live,Official download page lists Windows
+Newelle,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/qwersyk/Newelle/master/COPYING,live,GPL-3.0 confirmed via GitHub license API on qwersyk/Newelle
+Newelle,platforms,,Linux,,,https://github.com/qwersyk/Newelle,live,GNOME/GTK4 desktop app distributed via Flathub (Linux-only store); README install targets GNOME Linux
+Nextcloud Bookmarks,license,,Open source,AGPL-3.0,,https://raw.githubusercontent.com/nextcloud/bookmarks/master/COPYING,live,COPYING is GNU AGPL v3 on nextcloud/bookmarks
+NextPush,license,,Open source,AGPL-3.0,,https://codeberg.org/NextPush/nextpush-android/raw/branch/main/LICENSE,live,LICENSE is GNU AGPL v3; project moved from GitHub up-nextpush/android to codeberg NextPush/nextpush-android
+NextPush,platforms,,Android,,,https://f-droid.org/en/packages/org.unifiedpush.distributor.nextpush/,live,F-Droid listing (Android app repository) for org.unifiedpush.distributor.nextpush
+NFC Alarm Clock,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/gabeg805/NFC-Alarm-Clock/master/LICENSE,live,GPL-3.0 per current raw LICENSE on default branch (master); repo github.com/gabeg805/nfc-alarm-clock
+NFC Alarm Clock,platforms,,Android,,Android,https://f-droid.org/packages/com.nfcalarmclock/,live,F-Droid listing (package com.nfcalarmclock) with Google Play badge; Android-only app
+"Nightdream: Clock, Screensaver & Radio",license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/firebirdberlin/nightdream/master/LICENSE,live,GPL-3.0 per current raw LICENSE on default branch (master); repo github.com/firebirdberlin/nightdream
+"Nightdream: Clock, Screensaver & Radio",platforms,,Android,,Android,https://f-droid.org/packages/com.firebirdberlin.nightdream.noGms/,live,F-Droid listing plus Google Play package com.firebirdberlin.nightdream; Android-only app
+Nitter,license,,Open source,AGPL-3.0,,https://raw.githubusercontent.com/zedeus/nitter/master/LICENSE,live,"AGPL-3.0 per current raw LICENSE on default branch; repo github.com/zedeus/nitter (archived). Maintainer declared ""Nitter is dead"" Jan 2024 after X killed guest accounts; relaunched 2025 via real-account sessions; X Corp cease-and-desist Aug 24 2026; development resumed Sept 6 2026 after legal advice."
+Nitter,platforms,,Web (self-hosted),,Web (self-hosted),https://github.com/zedeus/nitter,live,Self-hosted web frontend for X/Twitter; volunteer-run instances
+Nm Tray,license,,Open source,GPL-2.0-or-later,,https://raw.githubusercontent.com/palinek/nm-tray/master/COPYING,live,GPLv2 license text in COPYING on default branch (master); README states GPLv2 or later; repo github.com/palinek/nm-tray
+Nm Tray,platforms,,Linux,,Linux,https://github.com/palinek/nm-tray/blob/HEAD/README.md,live,Pure Qt NetworkManager front end; packaged in Debian and openSUSE official repositories
+NoAd Battery Calibrator [ROOT],license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/phrogg/BatteryCalibrator/master/LICENSE,live,GPL-3.0 per current raw LICENSE on default branch (master); repo github.com/phrogg/BatteryCalibrator; agrees with F-Droid GPL-3.0-or-later field
+NoAd Battery Calibrator [ROOT],platforms,,Android,,Android,https://f-droid.org/en/packages/eu.roggstar.luigithehunter.batterycalibrate/,live,"F-Droid listing with Android APK downloads (requires Android 4.0+, root); package renamed eu.roggstar.batterycalibrate after Google Play suspension"
+Noir,license,,Proprietary — paid,,,https://apps.apple.com/th/app/noir-dark-mode-for-safari/id1581140954?l=th,live,"$2.99 one-time purchase on the App Store; no subscriptions or ads (""Buy Noir once, use it forever""); by Jeffrey Kuiken"
+Noir,platforms,,iOS; iPadOS,,iOS; iPadOS,https://apps.apple.com/th/app/noir-dark-mode-for-safari/id1581140954?l=th,live,"App Store listing: iPhone requires iOS 15.0+, iPad requires iPadOS 15.0+"
+Noppa Dice Roller,license,,Open source,MIT,,https://f-droid.org/en/packages/com.sanrou.noppadiceroller/,live,MIT License per F-Droid package metadata (com.sanrou.noppadiceroller)
+Noppa Dice Roller,platforms,,Android,,Android,https://f-droid.org/en/packages/com.sanrou.noppadiceroller/,live,F-Droid listing with Android APK downloads
+Ntfyr,license,,Open source,GPL-3.0-or-later,,https://raw.githubusercontent.com/tobagin/Ntfyr/main/LICENSE,live,"Native GNOME desktop client for ntfy.sh (Rust/GTK4); README confirms GPL-3.0-or-later, raw LICENSE verified as GPL v3"
+Ntfyr,platforms,,Linux,,Linux,https://github.com/tobagin/ntfyr/blob/HEAD/README.md,live,"Native GNOME desktop client, distributed as a Flatpak"
+Nyaterm,license,,Open source,MIT,,https://raw.githubusercontent.com/sgnay/nyaterm/main/LICENSE,live,NyaTerm: remote terminal workspace (Tauri); raw LICENSE verified as MIT; matches nyaterm.app per README
+Nyaterm,platforms,,"Windows, macOS, Linux",,"Windows, macOS, Linux",https://github.com/sgnay/nyaterm,live,README platform badge: Windows | macOS | Linux
+OceanNex for DigitalOcean,license,,Open source,GPL-3.0-or-later,,https://codeberg.org/swatian/OceanNex/raw/branch/main/LICENSE,live,Official repo swatian/OceanNex on Codeberg; raw LICENSE verified as GPL v3; Play Store version is paid per official site FAQ
+OceanNex for DigitalOcean,platforms,,Android,,Android,https://oceannex.swatian.com,live,Native Android client for DigitalOcean; also on F-Droid (com.swatian.oceannex.free)
+NWS Weather Alerts Widget,license,,Open source,Apache-2.0,,https://raw.githubusercontent.com/justdave/nwsweatheralertswidget/master/LICENSE,live,Repo owner justdave matches Play package net.justdave.nwsweatheralertswidget; raw LICENSE verified as Apache 2.0
+NWS Weather Alerts Widget,platforms,,Android,,Android,https://f-droid.org/de/packages/net.justdave.nwsweatheralertswidget/index.html,live,Android home screen widget; on Play Store and F-Droid
+Obsidian Clipper,license,,Open source,MIT,,https://raw.githubusercontent.com/obsidianmd/obsidian-clipper/main/LICENSE,live,Official Obsidian web clipper (obsidianmd org); README confirms MIT; raw LICENSE verified
+Obsidian Clipper,platforms,,"Chrome, Edge, Firefox, Safari",,"Chrome, Edge, Firefox, Safari",https://obsidian.md/clipper,live,"Official clipper page links Chrome Web Store, Edge Add-ons, Firefox Add-ons, and Apple App Store (Safari) installs"
+Okteta,license,,Open source,GPL-2.0 / GPL-3.0 (dual),,https://apps.kde.org/okteta/,live,KDE official app page lists GPL-2.0 and GPL-3.0 licenses; source repo invent.kde.org/utilities/okteta (REUSE LICENSES dir)
+Omni WM,license,,Open source,GPL-2.0,,https://raw.githubusercontent.com/BarutSRB/OmniWM/master/LICENSE,live,Raw LICENSE on default branch of BarutSRB/OmniWM (original owner) is GPL v2
+Omni WM,platforms,,macOS,,macOS,https://raw.githubusercontent.com/BarutSRB/OmniWM/master/README.md,live,README: requires macOS 26+ (Tahoe) on Apple Silicon; signed/notarized .app via official Homebrew cask
+OneTimeAlarm,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/matdlu/OneTimeAlarm/master/LICENSE.md,live,GitHub API on matdlu/OneTimeAlarm: SPDX GPL-3.0
+OneTimeAlarm,platforms,,Android,,Android,https://f-droid.org/packages/pl.ascendit.onetimealarm/,live,F-Droid package pl.ascendit.onetimealarm requires Android 8.1 or newer
+Open Generative AI,license,,Open source,MIT,,https://raw.githubusercontent.com/Anil-matcha/Open-Generative-AI/main/LICENSE,live,Raw LICENSE on default branch of Anil-matcha/Open-Generative-AI (canonical repo) is MIT
+Open Generative AI,platforms,,macOS; Windows; Linux,,macOS; Windows; Linux,https://raw.githubusercontent.com/Anil-matcha/Open-Generative-AI/main/README.md,live,"README release table: macOS (Apple Silicon + Intel) dmg, Windows x64 exe, Linux Ubuntu x64 AppImage/.deb"
+Open Logi,license,,Open source,Apache-2.0,,https://raw.githubusercontent.com/AprilNEA/OpenLogi/master/LICENSE-APACHE,live,GitHub API on AprilNEA/OpenLogi (canonical owner): SPDX Apache-2.0
+Open TimeLimit,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/io.timelimit.android.open/,live,Open-source edition of the TimeLimit parental-control app (Codeberg: timelimit/opentimelimit-android)
+Open TimeLimit,platforms,,,,Android,https://f-droid.org/en/packages/io.timelimit.android.open/,live,F-Droid-listed Android app
+Open Webui,license,,Source-available,Open WebUI License (modified BSD-3-Clause with branding-preservation requirement; not OSI-approved),,https://raw.githubusercontent.com/open-webui/open-webui/main/LICENSE,live,"Identity: open-webui/open-webui, self-hosted browser-based LLM chat UI"
+Open Webui,platforms,,,,Web,https://raw.githubusercontent.com/open-webui/open-webui/main/README.md,live,Self-hosted web app accessed via browser (localhost:8080)
+Openbts,license,,Open source,GNU AGPL v3,,https://raw.githubusercontent.com/RangeNetworks/openbts/master/COPYING,live,"Range Networks OpenBTS (software GSM access point); requires SDR radio hardware — telecom infra, not end-user plug-and-play"
+OpenContacts,license,,Open source,GPL-3.0-only,,https://gitlab.com/sultanahamer/OpenContacts/-/raw/master/LICENSE,live,Privacy contacts/dialer for Android (sultanahamer/OpenContacts)
+OpenContacts,platforms,,,,Android,https://f-droid.org/en/packages/opencontacts.open.com.opencontacts/,live,
+Openmtp,license,,Open source,MIT,,https://raw.githubusercontent.com/ganeshrvel/openmtp/master/LICENSE,live,Android file transfer for macOS (ganeshrvel/openmtp)
+Openmtp,platforms,,,,macOS,https://raw.githubusercontent.com/ganeshrvel/openmtp/master/README.md,live,
+OpenRedmine,license,,Open source,GNU GPL v2-or-later (repo lisence.md; excludes bundled libraries),,https://raw.githubusercontent.com/indication/OpenRedmine/master/OpenRedmine/src/main/res/raw/lisence.md,live,
+OpenRedmine,platforms,,,,Android,https://raw.githubusercontent.com/indication/OpenRedmine/master/README.md,live,"Android Redmine client, listed on F-Droid and Play Store"
+OpenTabletDriver,license,,Open source,LGPL-3.0,,https://raw.githubusercontent.com/OpenTabletDriver/OpenTabletDriver/master/LICENSE,live,Open-source graphics-tablet driver (OpenTabletDriver/OpenTabletDriver)
+OpenTabletDriver,platforms,,,,"Windows, macOS, Linux",https://raw.githubusercontent.com/OpenTabletDriver/OpenTabletDriver/master/README.md,live,Per-OS install documentation in repo README
+Openwork,license,,Source-available,Dual: MIT for core; /ee under OpenWork Enterprise Edition License (previously FSL-1.1 MIT Future),,https://raw.githubusercontent.com/fssmn/openwork/dev/LICENSE,live,Identity: fssmn/openwork (openworklabs.com); custom enterprise license covers EE surfaces
+Openwork,platforms,,,,"Windows, macOS, Linux",https://raw.githubusercontent.com/fssmn/openwork/dev/README.md,live,Desktop app for sharing AI workflows
