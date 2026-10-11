@@ -1,0 +1,73 @@
+Poznote,license,,Open source,MIT,,https://github.com/timothepoznanski/poznote,live,GitHub repo metadata: MIT License; license file at root (LICENCE)
+Poznote,platforms,,Web,,,https://github.com/timothepoznanski/poznote,live,Self-hosted web app via Docker; also ships Android share-target + Chrome extension
+Productivity System - timeto.me,license,,Open source,GPL-3.0-or-later,,https://raw.githubusercontent.com/medvedev91/timeto.me/main/LICENSE,live,Raw LICENSE verified = GPL v3 text; F-Droid lists GPL-3.0-or-later
+Productivity System - timeto.me,platforms,,iOS; Android,,,https://github.com/medvedev91/timeto.me/blob/HEAD/README.md,live,README lists App Store + Google Play + F-Droid
+Protocol Berg Schedule,license,,Open source,Apache-2.0,,https://github.com/EventFahrplan/EventFahrplan,live,Branded EventFahrplan redeploy (info.metadude.android.protocolberg.schedule); bug reports routed to EventFahrplan repo; upstream Apache-2.0 applies
+Protocol Berg Schedule,platforms,,Android,,,https://github.com/EventFahrplan/EventFahrplan,live,EventFahrplan README: app is available for Android devices
+Quest Log,license,,Open source,MIT,,https://github.com/keinndh/quest-log-mobile,live,Gamified productivity app (keinndh/quest-log-mobile); LICENSE at root
+Quest Log,platforms,,Android; iOS (PWA),,,https://github.com/keinndh/quest-log-mobile,live,APK releases; fully installable as PWA on iOS and Android
+Quillpad,license,,Open source,GPL-3.0,,https://github.com/chrissooo/quillpad,live,GitHub repo metadata: GPL-3.0; LICENSE at root; fork of Quillnote
+Quillpad,platforms,,Android,,,https://github.com/chrissooo/quillpad,live,README badges: Google Play + F-Droid
+Qwen 3 Coder,license,,Open source,Apache-2.0,,https://github.com/netty3135/pmoves.ai/blob/HEAD/.claude/skills/model-pull/SKILL.md,live,AI model weights NOT an app; Apache-2.0 per Qwen HF release metadata; verify license per checkpoint
+Radiant Player Mac,license,,Open source,MIT,,https://github.com/pirrat/radiant-player-mac,live,README contains full MIT text (c) 2014 Sajid Anwar
+Radiant Player Mac,platforms,,macOS,,,https://github.com/pirrat/radiant-player-mac,live,README requires Mac OS X 10.8+; Google Play Music client; repo inactive
+React Date Picker,license,,Open source,MIT,,https://github.com/Hacker0x01/react-datepicker/blob/main/LICENSE,live,React/npm component library not an installable app
+React Markplus,license,,Open source,MIT,,https://github.com/markpluslabs/react-markplus,live,React/npm component library not an installable app; LICENSE at root
+React Trello,license,,Open source,MIT License (MIT) — GitHub license detection on fork LICENSE.md; inherited from upstream rcdexta/react-trello,,https://github.com/yangou-hash/react-trello,live,Verified on fork of rcdexta/react-trello (npm React component library; README carries Trello trademark disclaimer)
+React Trello,platforms,,Web,,,https://github.com/yangou-hash/react-trello,live,React component library installed via npm/yarn; runs inside web apps
+Readme So,license,,Open source,MIT License (MIT) — GitHub license detection on LICENSE file; README License section states MIT,,https://github.com/octokatherine/readme.so,live,Online drag-and-drop README editor; production site readme.so
+Readme So,platforms,,Web,,,https://github.com/octokatherine/readme.so,live,Next.js web app; runs online at readme.so
+Rhinote,license,,Open source,GNU General Public License v2.0 (GPL-2.0) — GitHub license detection on LICENSE file,,https://github.com/staceybellerose/rhinote,live,Python 3 update of Rodney I. Yager's Rhinote sticky-notes script
+Rhinote,platforms,,"Windows, Linux",,,https://github.com/staceybellerose/rhinote,live,README has Linux Users and Windows Users sections; rhinote-win.pyw wrapper for Windows
+Rote,license,,Open source,MIT License (MIT) — GitHub license detection on LICENSE file; README License: MIT badge on upstream Rabithua/Rote,,https://github.com/china-chris/rote,live,Identity ambiguity: verified against Rabithua/Rote notes app (rote.ink + iOS app); name collides with trevhud/rote CLI (Apache-2.0) and j2kun/rote Python library
+Rote,platforms,,"Web, iOS",,,https://github.com/china-chris/rote,live,Web demo at demo.rote.ink plus site rote.ink; iOS APP link and iOS Client section in README; identity ambiguity noted above
+RWTS PDFwriter,license,,Open source,GNU General Public License v2.0 (GPL-2.0) — GitHub license detection on License file; README Licence section states GNU GPL License Version 2,,https://github.com/rodyager/RWTS-PDFwriter,live,Free installer pkg offered but source is GPL-2.0; by Rodney I. Yager
+RWTS PDFwriter,platforms,,macOS,,,https://github.com/rodyager/RWTS-PDFwriter,live,OSX 11.0+ print driver; universal binary Intel + Apple Silicon
+Simplemde Markdown Editor,license,,Open source,MIT License (MIT) — GitHub license detection on LICENSE file,,https://github.com/sparksuite/simplemde-markdown-editor,live,Embeddable JavaScript Markdown editor; demo at simplemde.com
+Simplemde Markdown Editor,platforms,,Web,,,https://github.com/sparksuite/simplemde-markdown-editor,live,Drop-in JS textarea replacement distributed via npm bower and CDN
+Sleek,license,,Open source,MIT License (MIT) — GitHub license detection on LICENSE file,,https://github.com/ransome1/sleek,live,Todo.txt manager; app stores listed for distribution only; sponsorship covers store fees
+Sleek,platforms,,"Windows, macOS, Linux",,,https://github.com/ransome1/sleek,live,Also in Apple App Store Microsoft Store Snap Store Flathub Homebrew and AUR
+Snaptick,license,,Open source,GPL-3.0,,https://github.com/vishal2376/snaptick,live,Raw LICENSE = GNU GPL v3 (2007-06-29); README agrees; no conflict.
+Snaptick,platforms,,Android,,,https://github.com/vishal2376/snaptick,live,Jetpack Compose Android app (MVVM); Play listing not separately verified.
+Storypad,license,,Open source,GPL-3.0,,https://github.com/theachoem/storypad,live,Raw LICENSE = GNU GPL v3 (2007-06-29); README agrees; repo active.
+Storypad,platforms,,Android,,,https://storypad.me,live,Google Play reviews on official site; Flutter app; iOS build unconfirmed from fetched sources.
+Super CMD,license,,Open source,MIT,,https://github.com/SuperCmdLabs/SuperCmd,live,"List entry = SuperCmd (SuperCmdLabs, supercmd.sh); raw LICENSE = MIT (2026 Shobhit Bhosure); GitHub license detection agrees."
+Super CMD,platforms,,macOS,,,https://github.com/SuperCmdLabs/SuperCmd,live,macOS-only launcher (Homebrew cask + .dmg); native Swift helpers macOS-only.
+Svelte Gantt,license,,Open source,MIT,,https://github.com/ANovokmet/svelte-gantt,live,Raw LICENSE.txt (canonical upstream) = MIT; rasata/svelte-gantt is a fork; GitHub license detection MIT.
+Svelte Gantt,platforms,,Web,,,https://github.com/ANovokmet/svelte-gantt,live,JS/Svelte component via npm; framework-agnostic; browser-based.
+Switcheroo,license,,Open source,GPL-3.0,,https://github.com/kvakulo/Switcheroo,live,Raw LICENSE.txt = GNU GPL v3 (2007-06-29); README agrees; copyright Regin Larsen / James Sulak.
+Switcheroo,platforms,,Windows,,,https://github.com/kvakulo/Switcheroo,live,Windows-only task switcher; distributed via GitHub releases + Chocolatey.
+Tagspaces,license,,Open source,AGPL-3.0,,https://github.com/tagspaces/tagspaces,live,Raw LICENSE.txt = GNU AGPL v3 (2007-11-19); dual-licensed w/ commercial option for vendors; Pro components proprietary EULA (LICENSING.md).
+Tagspaces,platforms,,"Windows, macOS, Linux, Web, Android, iOS",,,https://github.com/tagspaces/tagspaces,live,Desktop Windows/Linux/macOS; web version; Android/iOS via Capacitor; browser extension (Firefox/Edge/Chrome).
+Taskcafe,license,,Open source,MIT,,https://github.com/JordanKnott/taskcafe,live,Raw LICENSE = MIT (placeholder copyright holder); README + GitHub license detection agree; in alpha.
+Taskcafe,platforms,,Web (self-hosted),,,https://github.com/JordanKnott/taskcafe,live,Go+React web app; docker-compose install; runs web UI on localhost.
+Tea,license,,Open source,Apache-2.0,,https://github.com/teaxyz/cli,live,'Tea' = tea.xyz package manager; teaxyz/cli now redirects to pkgxdev/pkgx ('Run Anything'); raw LICENSE.txt = Apache 2.0 (2022-23 pkgx inc.); generic name flagged.
+Tea,platforms,,"macOS, Linux, Windows",,,https://github.com/teaxyz/cli,live,README Run Anywhere: macOS 11+ (Intel/Apple Silicon); Linux glibc 2.28+ (x86_64/arm64); Windows experimental native + WSL2.
+Texlyre,license,,Open source,AGPL-3.0,,https://github.com/texlyre/texlyre,live,Raw LICENSE verified (GNU AGPL v3); README states AGPL-3.0
+Texlyre,platforms,,Web,,,https://github.com/texlyre/texlyre,live,Browser-based LaTeX/Typst editor; PWA installable (e.g. Android phones)
+Timecop,license,,Open source,Apache-2.0,,https://github.com/hamaluik/timecop,live,"Raw LICENSE verified (Apache 2.0, (c) 2020 Kenton Hamaluik); canonical repo hamaluik/timecop"
+Timecop,platforms,,"Android, iOS, Linux",,,https://github.com/hamaluik/timecop,live,README: Android (Google Play + F-Droid); iOS (App Store); Linux (Flathub)
+Timestripe,license,,Proprietary — freemium,Free Basic + paid Pro subscription,,https://timestripe.com/magazine/learning-center/compare/timestripe-vs-ticktick/,live,Official site: Free Plan + Pro Plan ($9/mo) + 5-Year Plan
+Timestripe,platforms,,"Web, Android, iOS",,,https://timestripe.com/boards/kqd4b5Rq/,live,Official Getting Started: web app; mobile apps on App Store (iPhone) and Google Play (Android)
+Tinycast,license,,Open source,AGPL-3.0-or-later,,https://github.com/abue-ammar/tinycast,live,Raw LICENSE verified: AGPL-3.0-or-later grant ((c) 2026 Abue Ammar); GitHub shows NOASSERTION but raw text governs
+Tinycast,platforms,,macOS,,,https://github.com/abue-ammar/tinycast,live,Fully native macOS launcher; requires macOS 26+
+Tomato Bar,license,,Open source,MIT,,https://github.com/ivoronin/TomatoBar,live,Raw LICENSE verified: MIT ((c) 2022 Ilya Voronin); canonical upstream repo
+Tomato Bar,platforms,,macOS,,,https://github.com/ivoronin/TomatoBar,live,macOS menu-bar Pomodoro timer; Homebrew cask available
+Translate You,license,,Open source,GPL-3.0-only,,https://github.com/you-apps/TranslateYou,live,Raw LICENSE verified (GPL v3); F-Droid lists GPL-3.0 only
+Translate You,platforms,,Android,,,https://f-droid.org/packages/com.bnyro.translate/,live,Android app; on F-Droid and GitHub releases
+Tui Editor,license,,Open source,MIT,,https://github.com/nhn/tui.editor,live,Raw LICENSE verified: MIT ((c) 2020 NHN Cloud Corp.); repo archived
+Tui Editor,platforms,,Web,,,https://github.com/nhn/tui.editor,live,JS Markdown/WYSIWYG editor library for browsers; not a standalone app
+Voice Ink,license,,Open source,GPL-3.0,,https://github.com/Beingpax/VoiceInk,live,raw LICENSE verified plain GPL-3.0 text; README also claims GPL v3; GitHub repo page showed NOASSERTION but license text governs
+Voice Ink,platforms,,macOS,,,https://github.com/Beingpax/VoiceInk,live,native macOS app; README requires macOS 15.0+; official site offers free trial and sells licenses for auto-updates
+VIM Wakatime,license,,Open source,BSD-3-Clause,,https://github.com/wakatime/vim-wakatime,live,raw LICENSE.txt verified plain BSD-3-Clause text
+VIM Wakatime,platforms,,Vim/Neovim plugin,,,https://github.com/wakatime/vim-wakatime,live,"Vim plugin not standalone app; supports Vim, Neovim, MacVim, gVim"
+Vue Clipboard2,license,,Open source,MIT,,https://github.com/Inndy/vue-clipboard2,live,raw LICENSE verified plain MIT text; author marked the project DEPRECATED
+Vue Clipboard2,platforms,,Web,,,https://github.com/Inndy/vue-clipboard2,live,npm JS library not a standalone app; runs in browsers
+Weektodo,license,,Open source,GPL-3.0,,https://github.com/manuelernestog/weektodo,live,raw LICENSE verified plain GPL-3.0 text
+Weektodo,platforms,,"Windows, macOS, Linux, Web",,,https://github.com/manuelernestog/weektodo,live,Electron desktop apps for Windows/Mac/Linux plus a web app
+Whitebophir,license,,Open source,AGPL-3.0,,https://github.com/lovasoa/whitebophir,live,raw LICENSE verified plain AGPL-3.0 text; in-app tagline loosely says 'GPL license' but license text governs
+Whitebophir,platforms,,Web,,,https://github.com/lovasoa/whitebophir,live,self-hosted server via Node.js or Docker; public demo at wbo.ophir.dev
+Windrecorder,license,,Open source,GPL-2.0,,https://github.com/yuka-friends/Windrecorder,live,raw LICENSE verified plain GPL v2 text; no 'or later' grant in file
+Windrecorder,platforms,,Windows,,,https://github.com/yuka-friends/Windrecorder,live,upstream is yuka-friends/Windrecorder; many unofficial forks exist
+Woofmark,license,,Open source,MIT,,https://github.com/bevacqua/woofmark,live,GitHub detects MIT from the 'license' file; cdnjs also lists MIT
+Woofmark,platforms,,Web,,,https://github.com/bevacqua/woofmark,live,"browser JS markdown-editor library (npm), not a standalone app; README cites IE9+ browser support"
