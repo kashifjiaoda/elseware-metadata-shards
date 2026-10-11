@@ -1,0 +1,17 @@
+Shard 2 status — 2026-10-11 14:45 PKT (Shard 4 takeover in progress)
+
+DONE:
+- Shard 4 Phase-2 backfill COMPLETE: all 60 chunks (p2c-001..060) verified.
+  438 of 586 previously-skipped apps recovered; 148 stayed unverifiable
+  (ambiguous identity / no canonical product / blocked sites — skipped with reason).
+  Assembled 780 rows, schema-validated (0 issues), pushed:
+  expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-backfill1.csv
+
+IN PROGRESS:
+- Shard 4 Phase-1 backfill: 112 chunks (p1c-001..112), 1,116 skipped apps.
+  First 10 chunks (p1c-001..010) dispatched to verifiers ~14:45 PKT.
+  Outputs: ~/workspace/shard4-p1-backfill/ (dual-written to /tmp), to be
+  assembled into shards/shard-4/elseware-metadata-corrections-shard4-2026-10-11-backfillN.csv
+
+NEXT:
+- Phase-1 backfill assembly + push, then Phase-2 batches 16-77 (lines 756-3835).
