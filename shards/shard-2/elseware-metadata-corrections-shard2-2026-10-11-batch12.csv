@@ -1,0 +1,79 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Whatnot,license,,Proprietary — free,Free to shop and sell; seller transaction fees apply,"Web, iOS, Android",https://www.whatnot.com/,live,Official: live shopping marketplace; Download Whatnot app
+Whatnot,platforms,,"Web, iOS, Android",,,https://www.whatnot.com/,live,Official site; Download Whatnot mobile app; web marketplace
+Faire,license,,Proprietary — free,Free signup for retailers; wholesale marketplace,"Web",https://www.faire.com/,live,Official: sign up to unlock wholesale pricing; free for retailers
+Faire,platforms,,Web,,,https://www.faire.com/,live,Official wholesale marketplace; web-based
+Stripe,license,,Proprietary — free,No setup or monthly fees; pay-as-you-go per-transaction pricing,Web,https://stripe.com/pricing,live,"Official pricing: no setup fees, monthly fees, or hidden fees; 2.9% + 30c per transaction"
+Stripe,platforms,,Web,,,https://stripe.com/pricing,live,Payments platform with APIs; web-based
+PayPal,license,,Proprietary — free,Free business account signup; per-transaction processing fees,"Web",https://www.paypal.com/us/business,live,Official business payments page; no requirements or credit check to start
+PayPal,platforms,,Web,,,https://www.paypal.com/us/business,live,Official: online payment processing platform
+Square,license,,Proprietary — freemium,Free plan starting at $0; paid Plus/Premium tiers; pay per transaction,"Web, Android, iOS",https://squareup.com/us/en/pricing,live,Official: complete business toolkit starting at $0; Square Free/Plus/Premium plans
+Square,platforms,,"Web, Android, iOS",,,https://squareup.com/us/en/pricing,live,Official: POS app; Tap to Pay on iPhone and Android; online site
+Adyen,license,,Proprietary — free,No setup or monthly fees; pay per transaction,"Web",https://www.adyen.com/pricing,live,Official: pay per transaction with no setup or monthly fees
+Adyen,platforms,,Web,,,https://www.adyen.com/pricing,live,Payments platform; web-based integration
+Checkout.com,license,,Proprietary — free,No setup fees; tailored per-transaction pricing; free for charities,Web,https://www.checkout.com/pricing,live,"Official: no setup fees, no surprise fees, no account maintenance fees"
+Checkout.com,platforms,,Web,,,https://www.checkout.com/pricing,live,Unified Payments API; web-based
+Braintree,license,,Proprietary — free,Free sandbox; per-transaction processing fees (now PayPal Enterprise Payments),"Web",https://www.braintreepayments.com/,live,Official: Braintree is now PayPal Enterprise Payments; sandbox free to try
+Braintree,platforms,,Web,,,https://www.braintreepayments.com/,live,Enterprise payment processing platform; web-based
+Paystack,license,,Proprietary — free,100% free to integrate; per-transaction fees only,"Web",https://paystack.com/pricing,live,Official: 100% free to integrate; zero integration and maintenance fees
+Paystack,platforms,,Web,,,https://paystack.com/pricing,live,Payments API platform; web-based
+Flutterwave,license,,Proprietary — freemium,Free signup; transaction fees per payment,Web,https://flutterwave.com/pricing,live,Official: Create an account and instantly start accepting payments
+Flutterwave,platforms,,Web,,,https://flutterwave.com/pricing,live,Web dashboard and developer APIs
+Mollie,license,,Proprietary — freemium,Pay per transaction only; no monthly fee,Web,https://www.mollie.com/pricing,live,Official: Pay per transaction only; Access all features
+Mollie,platforms,,Web,,,https://www.mollie.com/pricing,live,Web dashboard for online and in-person payments
+Verifone,license,,Proprietary — paid subscription,Enterprise payment hardware and processing; custom pricing,Web,https://www.verifone.com/en/us/devices,live,Official: end-to-end payment solutions; sales-led pricing
+Verifone,platforms,,Web,,,https://www.verifone.com/en/us/devices,live,Merchant portal; payment devices are proprietary hardware
+Authorize.net,license,,Proprietary — paid subscription,$25/mo + 2.9% + 30c per transaction,Web,https://www.authorize.net/pricing,live,Official: $25 monthly fee; 2.9% + $0.30 per transaction (All-in-one plan)
+Authorize.net,platforms,,Web,,,https://www.authorize.net/pricing,live,Payment gateway; web-based merchant interface
+Square POS,license,,Proprietary — freemium,Free POS app; processing fees per transaction; paid add-ons,"iOS, Android",https://squareup.com/us/en/point-of-sale/pricing,live,Official: POS features included in every Square plan
+Square POS,platforms,,"iOS, Android",,,https://squareup.com/us/en/point-of-sale/pricing,live,Tap to Pay on iPhone and Android; free POS app
+Shopify POS,license,,Proprietary — paid subscription,Requires paid Shopify plan; POS Pro +$89/mo/location,"iOS, Android",https://www.shopify.com/pos/pricing,live,Official: POS included in paid plans; POS Pro add-on $89/mo/location
+Shopify POS,platforms,,"iOS, Android",,,https://www.shopify.com/pos/pricing,live,Tablet-based POS for iOS and Android devices
+Toast,license,,Proprietary — paid subscription,Paid software subscription + hardware; 24/7 support included,Web,https://pos.toasttab.com/pricing,live,Official: software subscription; hardware costs; Toast Care included in every plan
+Toast,platforms,,Web,,,https://pos.toasttab.com/pricing,live,Web dashboard; proprietary Toast hardware for in-store POS
+Clover,license,,Proprietary — paid subscription,Paid POS system; per-transaction pricing,Web,https://www.clover.com/pricing,live,Official: paid POS system with per-transaction pricing
+Clover,platforms,,Web,,,https://www.clover.com/pricing,live,Web dashboard; proprietary Clover POS hardware
+Revel Systems,license,,Proprietary — paid subscription,Revel Systems now SkyTab by Shift4; paid restaurant POS,Web,https://revelsystems.com/pricing/,live,Official domain now serves SkyTab (Shift4); paid restaurant POS platform
+Revel Systems,platforms,,Web,,,https://revelsystems.com/pricing/,live,Web-based back office (Lighthouse); SkyTab hardware and mobile apps
+Epos Now,license,,Proprietary — paid subscription,"$399 hardware + $84/month software subscription",,https://www.eposnow.com/us/pricing/,live,Official pricing: $399 + $84/month for retail/hospitality POS
+TouchBistro,license,,Proprietary — paid subscription,"Point of Sale from $69/mo; Essentials Bundle from $119/mo",,https://www.touchbistro.com/pricing/,live,Official pricing: POS software from $69/month; no free tier listed
+ShipStation,license,,Proprietary — paid subscription,"Plans from $14.99/mo (50 shipments); Standard/Premium tiers",Web,https://www.shipstation.com/pricing/,live,Official pricing: paid plans from $14.99/month; no free tier
+ShipStation,platforms,,Web,,,https://www.shipstation.com/pricing/,live,Web-based shipping platform per official site
+AfterShip,license,,Proprietary — freemium,"Free plan available; Essentials $9/mo, Pro $99/mo, Premium $199/mo",Web,https://www.aftership.com/pricing,live,Official pricing: Free plan with basic features; paid Essentials/Pro/Premium tiers
+AfterShip,platforms,,"Web, Android, iOS",,,https://www.aftership.com/pricing,live,Web-based tracking platform; free AfterShip shopper app per official site
+Printful,license,,Proprietary — freemium,"Free to use; Growth plan $24.99/mo (free after $12K/yr sales)",Web,https://www.printful.com/pricing,live,Official pricing: free to sell with Printful; Growth plan $24.99/month
+Printful,platforms,,Web,,,https://www.printful.com/pricing,live,Web-based print-on-demand platform per official site
+Printify,license,,Proprietary — freemium,"Free $0/mo; Premium from $39/mo (or $24.99/mo yearly); Enterprise custom",Web,https://printify.com/pricing/,live,Official pricing: Free $0/month; Premium from $39/month
+Printify,platforms,,Web,,,https://printify.com/pricing/,live,Web-based print-on-demand marketplace per official site
+Spocket,license,,Proprietary — paid subscription,"Plans from $39.99/mo; 7-day free trial; no free tier",Web,https://www.spocket.co/pricing,live,Official pricing: paid plans from $39.99/month; 7-day free trial
+Spocket,platforms,,Web,,,https://www.spocket.co/pricing,live,Web-based dropshipping platform per official site
+Coursera,license,,Proprietary — freemium,"Free courses; Coursera Plus $59/mo; individual courses $49-$79/mo",Web,https://www.coursera.org/courseraplus,live,Official: Coursera Plus $59/month subscription; individual courses $49-$79/month
+Coursera,platforms,,Web,,,https://www.coursera.org/courseraplus,live,Web-based learning platform per official site
+Udacity,license,,Proprietary — paid subscription,Paid Nanodegree programs; no free tier shown,Web,https://www.udacity.com/,live,Official: paid Nanodegree programs with projects and mentorship
+Udacity,platforms,,Web,,,https://www.udacity.com/,live,Official: web-based learning platform
+FutureLearn,license,,Proprietary — freemium,Free Limited Access; Unlimited Annual $244.99/yr; Unlimited Monthly $49.99/mo,Web,https://www.futurelearn.com/,live,Official: free limited access; paid Unlimited Annual $244.99/yr or Monthly $49.99/mo
+FutureLearn,platforms,,Web,,,https://www.futurelearn.com/,live,Official: web-based courses from universities
+Khan Academy,license,,Proprietary — free,Free; 501(c)(3) nonprofit,"iOS, Web",https://apps.apple.com/us/app/khan-academy/id469863705?uo=4,live,App Store: Free by Khan Academy; 501(c)(3) nonprofit; learn anything for free
+Khan Academy,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/khan-academy/id469863705?uo=4,live,App Store iOS app; progress syncs with khanacademy.org website
+Skillshare,license,,Proprietary — paid subscription,$13.99/mo ($167.88/yr annual),"Web, Android, iOS",https://www.skillshare.com/pricing,live,Official pricing: $13.99/mo billed annually at $167.88 USD
+Skillshare,platforms,,"Web, Android, iOS",,,https://www.skillshare.com/pricing,live,Official: learn online and on our app
+MasterClass,license,,Proprietary — paid subscription,Starting at $10/mo billed annually; no free tier,Web,https://www.masterclass.com/,live,Official: Starting at $10/mo (billed annually); 30-day money-back guarantee
+MasterClass,platforms,,Web,,,https://www.masterclass.com/,live,Official: web-based online classes
+Codecademy,license,,Proprietary — paid subscription,Paid Plus/Pro/Bootcamp tiers,"Web, iOS, Android",https://codecademy.com/pricing,live,"Official pricing: Plus, Pro, and Bootcamp All Access Pass paid tiers"
+Codecademy,platforms,,"Web, iOS, Android",,,https://codecademy.com/pricing,live,Official: iOS and Android mobile apps plus web
+DataCamp,license,,Proprietary — freemium,Basic Free (first chapter); Premium $28/mo billed annually,"Web, iOS, Android",https://www.datacamp.com/pricing,live,Official: Basic Free limited access; Premium $28/mo billed annually
+DataCamp,platforms,,"Web, iOS, Android",,,https://www.datacamp.com/pricing,live,Official: browser-based courses; learn on mobile
+Duolingo,license,,Proprietary — freemium,Free app; Super Duolingo in-app subscription,"iOS, Android, Web",https://apps.apple.com/us/app/duolingo-language-lessons/id570060128?uo=4,live,App Store: Free; Super Duolingo subscription with 14-day free trial
+Duolingo,platforms,,"iOS, Android, Web",,,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128?uo=4,live,App Store iOS app; web at duolingo.com
+Babbel,license,,Proprietary — freemium,Free trial + free lessons at every level; subscriptions $9–18/month,"Android, iOS, Web",https://www.babbel.com/compare-best-language-learning-apps,live,Official babbel.com: pricing $9–18/month with free trial and free lessons at every level; App Store + Google Play badges and web account
+Babbel,platforms,,"Android, iOS, Web",,,https://www.babbel.com/compare-best-language-learning-apps,live,Official site shows App Store + Google Play download badges; web account at my.babbel.com
+Busuu,license,,Proprietary — freemium,Free download; subscription required for all features,"Android, iOS, Web",https://apps.apple.com/us/app/busuu-language-learning-app/id379968583?uo=4,live,App Store: Free by Busuu Limited; A lot of the features are free but you will need a subscription for all features
+Busuu,platforms,,"Android, iOS, Web",,,https://apps.apple.com/us/app/busuu-language-learning-app/id379968583?uo=4,live,iOS via App Store listing; official web platform at busuu.com; Android app on Play Store
+Rosetta Stone,license,,Proprietary — paid subscription,Free download; requires paid subscription ($8–12/month),"Android, iOS, Web",https://apps.apple.com/us/app/rosetta-stone-classic-2024/id435588892?uo=4,live,App Store: Free by Rosetta Stone Ltd.; app only available for current subscribers
+Rosetta Stone,platforms,,"Android, iOS, Web",,,https://apps.apple.com/us/app/rosetta-stone-classic-2024/id435588892?uo=4,live,iOS via App Store listing; Android app on Play Store; web at rosettastone.com
+Memrise,license,,Proprietary — freemium,"Free plan (limited lessons, ads); Memrise Pro unlocks all","Android, iOS, Web",https://apps.apple.com/us/app/memrise-language-learning-app/id635966718?uo=4,live,App Store: Free by Memrise Limited; Free Plan has limited vocab lessons and ads; Memrise Pro unlocks all
+Memrise,platforms,,"Android, iOS, Web",,,https://apps.apple.com/us/app/memrise-language-learning-app/id635966718?uo=4,live,iOS via App Store listing; Android app on Play Store; web at memrise.com
+Mondly,license,,Proprietary — freemium,Free download; subscription required for all courses and features,"Android, iOS, Web",https://apps.apple.com/us/app/mondly-learn-41-languages/id987873536?uo=4,live,App Store: Free by ATi Studios; subscription required for all courses and features
+Mondly,platforms,,"Android, iOS, Web",,,https://apps.apple.com/us/app/mondly-learn-41-languages/id987873536?uo=4,live,iOS via App Store listing; Android app on Play Store; web at mondly.com
+LingQ,license,,Proprietary — freemium,"Free download; LingQ Premium for unlimited lookups, imports and AI features","Android, iOS, Web",https://apps.apple.com/us/app/lingq-learn-languages/id379385811?uo=4,live,"App Store: Free by LingQ Languages Ltd.; LingQ Premium for unlimited vocabulary lookup, SRS, content imports"
+LingQ,platforms,,"Android, iOS, Web",,,https://apps.apple.com/us/app/lingq-learn-languages/id379385811?uo=4,live,iOS via App Store listing; seller site lingq.com for web; Android app on Play Store
