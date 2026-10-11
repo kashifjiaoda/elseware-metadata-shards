@@ -1,0 +1,10 @@
+Shard 4 Phase-2 batch 42 COMPLETE (Shard 2 takeover). Apps: apps.md lines 2057-2106 (50 unique, no dupes).
+Rows pushed: 79 (expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch42.csv, 79 insertions).
+Apps verified: 43 (37 license-verified, 42 platform-verified). Skipped: 7 with documented reasons.
+Schema: 79 rows x 9 cols, 0 issues; valid badges, all live; platforms col empty on every row; whitelisted sources only (4 hosts, host-checked).
+No thin-grounding drops needed pre-push; no convention drift; dual-write byte-identical on all 5 chunks.
+Notable: Magspoof kept as legitimate Samy Kamkar security-research (not malware tooling); Kotori raw GPLv3 overrules F-Droid or-later tag;
+OpenBike identity disambiguated (NextBike client, not hugoleboennec/OpenBike); Haltestellenanzeige/Hikar license rows dropped (upstream unlocatable/blocked);
+Aaduino non-app entity (AA wireless Arduino-clone hardware) license-only; Aegisub dual-license trap flagged (official binaries GPLv2 due to fftw3);
+7 regional App Store apps iOS-only (Play bot-blocked, not guessed); Minder/Travel Planner skipped (identity ambiguity).
+Next: batch 43 (apps.md lines 2107-2156).
