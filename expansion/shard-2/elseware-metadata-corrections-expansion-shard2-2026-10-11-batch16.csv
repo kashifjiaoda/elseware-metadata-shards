@@ -1,0 +1,50 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Qterminal,license,,Open source,GPL-2.0,,https://github.com/lxqt/qterminal,live,GitHub API spdx_id GPL-2.0; LXQt terminal emulator
+Qterminal,platforms,,Linux,,,https://github.com/lxqt/qterminal,live,README: binary packages provided by all major Linux and BSD distributions
+Quakespasm,license,,Open source,GPL-2.0,,https://github.com/Shpoike/Quakespasm,live,GitHub API spdx_id GPL-2.0
+Quinb: 4 players reaction game,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/xyz.deepdaikon.quinb/,live,F-Droid listing: License GNU General Public License v3.0 or later
+Quinb: 4 players reaction game,platforms,,Android,,,https://f-droid.org/packages/xyz.deepdaikon.quinb/,live,F-Droid Android app; reaction/logic game for up to 4 players
+RBDOOM-3-BFG,license,,Open source,GPL-3.0,,https://github.com/MadDeCoDeR/Classic-RBDOOM-3-BFG,live,GitHub API spdx_id GPL-3.0; author's repo (renamed from RBDOOM-3-BFG - now DOOM: BFA Edition); README section 3 references GNU GPL COPYING.txt
+RBDOOM-3-BFG,platforms,,"Windows, Linux",,,https://github.com/MadDeCoDeR/Classic-RBDOOM-3-BFG,live,README documents compiling on Windows with Visual Studio and on GNU/Linux
+readarr-tak,license,,Open source,MIT,,https://github.com/TehAppKiller/readarr-tak,live,GitHub API spdx_id MIT; canonical snap packaging repo for Readarr; distinct from Servarr Readarr (GPL-3.0)
+readarr-tak,platforms,,Linux,,,https://github.com/TehAppKiller/readarr-tak,live,Snap package for Linux
+Retro Pie Setup,license,,Open source,GPL-3.0,,https://github.com/RetroPie/RetroPie-Setup,live,LICENSE.md read directly: GNU GENERAL PUBLIC LICENSE Version 3
+Retro Pie Setup,platforms,,Linux,,,https://github.com/RetroPie/RetroPie-Setup,live,README: designed for Raspberry Pi OS / Ubuntu / OSMC
+ROTA,license,,Open source,MIT,,https://github.com/HarmonyHoney/ROTA,live,GitHub API spdx_id MIT; Godot gravity-bending puzzle platformer
+RPi Jukebox RFID,license,,Open source,MIT,,https://github.com/MiczFlor/RPi-Jukebox-RFID,live,GitHub API spdx_id MIT
+RPi Jukebox RFID,platforms,,Linux,,,https://github.com/MiczFlor/RPi-Jukebox-RFID,live,Raspberry Pi jukebox
+Ruffle,license,,Open source,MIT/Apache-2.0,,https://github.com/ruffle-rs/ruffle,live,LICENSE.md verified: dual MIT or Apache-2.0 at your option
+Ruffle,platforms,,"Windows, Linux, macOS, Web",,,https://github.com/ruffle-rs/ruffle,live,README: targets desktop and web via WebAssembly
+Sakura,license,,Open source,GPL-2.0,,https://github.com/dabisu/sakura,live,GitHub API spdx_id GPL-2.0
+Sakura,platforms,,Linux,,,https://github.com/dabisu/sakura,live,GTK/VTE terminal emulator
+Scrcpy Mask,license,,Open source,Apache-2.0,,https://github.com/AkiChase/scrcpy-mask,live,GitHub API spdx_id Apache-2.0
+Seahorse Adventures,license,,Open source,GPL-2.0,,https://github.com/dulsi/seahorse-adventures,live,GitHub API spdx_id GPL-2.0
+Sharpemu,license,,Open source,GPL-2.0,,https://github.com/sharpemu/sharpemu,live,GitHub API spdx_id GPL-2.0
+Sharpemu,platforms,,"Windows, Linux, macOS",,,https://github.com/sharpemu/sharpemu,live,Experimental PS5 emulator
+Should I Watch This?,license,,Open source,AGPL-3.0,,https://github.com/koffeinfrei/should-i-watch-this,live,GitHub API spdx_id AGPL-3.0
+Should I Watch This?,platforms,,Web,,,https://www.should-i-watch-this.com,live,Movie/show recommendation web tool
+Simple NES,license,,Open source,GPL-3.0,,https://github.com/amhndu/SimpleNES,live,GitHub API spdx_id GPL-3.0
+Snes9x,license,,Source-available,Custom license — commercial rights withheld,,https://github.com/snes9xgit/snes9x,live,"LICENSE states ""(Under no circumstances will commercial rights be given)""; GitHub license API returns NOASSERTION"
+Snes9x,platforms,,"Windows, macOS, Linux",,,https://github.com/snes9xgit/snes9x,live,Repo ships win32/macosx/gtk/unix/qt ports
+Sopwith,license,,Open source,GPL-2.0,,https://github.com/fragglet/sdl-sopwith,live,FAQ: released under the GNU General Public License version 2; COPYING is GNU GPL
+Sopwith,platforms,,"Windows, macOS, Linux",,,https://github.com/fragglet/sdl-sopwith,live,SDL port runs on most modern operating systems
+Spice86,license,,Open source,Apache-2.0,,https://github.com/kevinferrare/spice86,live,GitHub license API spdx_id Apache-2.0; PC DOS reverse-engineering emulator
+SPStork Controller,license,,Open source,MIT,,https://github.com/ivanvorobei/SPStorkController,live,GitHub license API spdx_id MIT; iOS Swift modal presentation-controller library
+SPStork Controller,platforms,,iOS,,,https://github.com/ivanvorobei/SPStorkController,live,Swift 4.2/5.0 library for iOS 10+
+Streama,license,,Open source,MIT,,https://github.com/streamaserver/streama,live,GitHub license API spdx_id MIT
+Streama,platforms,,Web,,,https://github.com/streamaserver/streama,live,Self-hosted streaming media server
+supersim,license,,Open source,MIT,,https://github.com/ethereum-optimism/supersim,live,GitHub license API spdx_id MIT; local OP Stack Superchain dev tool
+System Tray Menu,license,,Open source,GPL-3.0,,https://github.com/Hofknecht/SystemTrayMenu,live,GitHub API spdx_id GPL-3.0; Windows system tray menu app
+System Tray Menu,platforms,,Windows,,,https://github.com/Hofknecht/SystemTrayMenu,live,README references Win-key shortcuts and Windows Start Menu/Desktop Toolbar; .NET system tray app
+Tanglet,license,,Open source,GPL-3.0,,https://gottcode.org/tanglet/,live,"Official site: released ""under the GPL version 3""; GitHub gottcode/tanglet API spdx_id GPL-3.0"
+Tanglet,platforms,,"Linux, Windows",,,https://gottcode.org/tanglet/,live,Official site download section lists Linux and Windows 10 x64 builds
+Teg,license,,Open source,GPL-3.0,,https://github.com/wfx/teg,live,"README: ""GNU General Public License v3 - see LICENSE""; Tenes Empanadas Graciela Risk-like strategy game"
+TrackMania Nations Forever,license,,Proprietary — free,,,https://www.trackmaniaforever.com/,live,Official site describes it as a free game; Nadeo/Ubisoft freeware with no source available
+Triplea,license,,Open source,GPL-3.0,,https://github.com/triplea-game/triplea,live,GitHub API spdx_id GPL-3.0 on triplea-game/triplea
+Triplea,platforms,,"Windows, macOS, Linux",,,https://triplea-game.org/download/,live,Official download page lists Windows Mac and Linux installers
+Tty Solitaire,license,,Open source,MIT,,https://github.com/mpereira/tty-solitaire,live,GitHub API spdx_id MIT on mpereira/tty-solitaire; terminal solitaire game
+Upterm,license,,Open source,Apache-2.0,,https://github.com/owenthereal/upterm,live,GitHub API spdx_id Apache-2.0 on owenthereal/upterm; instant terminal sharing
+Upterm,platforms,,"Linux, macOS",,,https://github.com/owenthereal/upterm,live,Release assets include linux and darwin (macOS) builds
+Virtual Desktop,license,,Proprietary — paid,,,https://www.vrdesktop.net/,live,Official site has Buy Now e-commerce flow; Guy Godin VR desktop streaming app
+Vita3 K,license,,Open source,GPL-2.0,,https://github.com/Vita3K/Vita3K,live,GitHub API spdx_id GPL-2.0 on Vita3K/Vita3K; experimental PlayStation Vita emulator
+Vita3 K,platforms,,"Windows, Linux, macOS, Android",,,https://github.com/Vita3K/Vita3K,live,README: experimental PlayStation Vita emulator for Windows Linux macOS and Android
