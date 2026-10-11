@@ -1,0 +1,74 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+lazpaint,license,,Open source,GPL-3.0 (bgrabitmap/lazpaint),,https://github.com/bgrabitmap/lazpaint/,live,GitHub repo page declares GNU GPL v3.0
+lazpaint,platforms,,"Windows, macOS, Linux",,,https://en.wikipedia.org/wiki/LazPaint,live,Infobox lists Windows XP and later Linux OS X
+Leaf Pic,license,,Open source,GPL-3.0 (UnevenSoftware/LeafPic),,https://github.com/UnevenSoftware/LeafPic,live,GitHub API SPDX GPL-3.0; canonical product name LeafPic
+Leaf Pic,platforms,,Android,,,https://github.com/UnevenSoftware/LeafPic,live,Material Design gallery app for Android
+lenna-cli,license,,Open source,MIT (lenna-project/lenna-cli),,https://github.com/lenna-project/lenna-cli,live,GitHub API SPDX MIT
+lenna-cli,platforms,,"Windows, macOS, Linux",,,https://github.com/lenna-project/lenna-cli,live,Rust CLI via cargo build with snap packaging
+Les Pas - Photo Album for Nextcloud,license,,Open source,Apache-2.0 (site.leos.apps.lespas),,http://f-droid.org/packages/site.leos.apps.lespas/,live,F-Droid listing declares Apache License 2.0
+Les Pas - Photo Album for Nextcloud,platforms,,Android,,,http://f-droid.org/packages/site.leos.apps.lespas/,live,F-Droid Android gallery app with Nextcloud sync
+Librephotos,license,,Open source,MIT (LibrePhotos/librephotos),,https://github.com/LibrePhotos/librephotos,live,GitHub API SPDX MIT
+Librephotos,platforms,,Web,,,https://github.com/LibrePhotos/librephotos,live,Self-hosted open source photo management service
+Lilliput,license,,Open source,Apache-2.0 (lilliput/lilliput),,https://github.com/lilliput/lilliput,live,GitHub API SPDX Apache-2.0; Go image-processing library so platforms N/A
+Luminar Mobile,license,,Proprietary — freemium,Free download; paid subscription with free trial,iOS,https://skylum.com/luminar-mobile,live,"Skylum iOS photo editor; current App Store name 'Luminar: Photo Editor&Enhancer' (id6476109261), listed Free"
+Luminar Mobile,platforms,,iOS,,,https://apps.apple.com/us/app/luminar-photo-editor-enhancer/id6476109261?uo=4,live,
+Lynkeos.app,license,,Open source,GPL-2.0,macOS,https://sourceforge.net/projects/lynkeos/,live,"macOS astronomical image processing/stacking app; SourceForge is the official project host, license listed as GNU GPL v2"
+Lynkeos.app,platforms,,macOS,,,https://sourceforge.net/projects/lynkeos/,live,
+Magdeleine,license,,Proprietary — free,Free stock photo directory; photos published under CC0/public domain,Web,https://magdeleine.co,live,Directory service itself is proprietary; photo assets are CC0/public domain per site
+Magdeleine,platforms,,Web,,,https://magdeleine.co,live,
+Mandelbulber2,license,,Open source,GPL-3.0,"Windows, Linux",https://github.com/buddhi1980/mandelbulber2,live,3D fractal renderer; GitHub API spdx_id GPL-3.0
+Mandelbulber2,platforms,,"Windows, Linux",,,https://github.com/buddhi1980/mandelbulber2,live,README CI badges confirm Linux and Windows builds
+Mapiah,license,,Open source,GPL-3.0-or-later,"Linux, macOS, Windows",https://github.com/rsevero/mapiah,live,README header SPDX-License-Identifier: GPL-3.0-or-later; Flutter GUI for Therion cave mapping
+Mapiah,platforms,,"Linux, macOS, Windows",,,https://github.com/rsevero/mapiah,live,"README: 'Equivalent versions for Linux, MacOS and Windows'"
+Material Maker,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/RodZill4/material-maker,live,Procedural texture authoring and 3D model painting tool (Godot-based); GitHub API spdx_id MIT
+Material Maker,platforms,,"Windows, macOS, Linux",,,https://rodzilla.itch.io/material-maker,live,"itch.io download page lists Windows, macOS, Linux"
+Maverick Model 3D,license,,Open source,GPL-2.0,"Linux, Windows",https://github.com/clover-moe/mm3d,live,Maintained fork of Zack Middleton's MM3D; GitHub API spdx_id GPL-2.0 across all forks
+Maverick Model 3D,platforms,,"Linux, Windows",,,https://github.com/clover-moe/mm3d,live,README: 'written and tested on Linux... also runs on Windows'
+MDCSwipe To Choose,license,,Open source,MIT,,https://github.com/modocache/MDCSwipeToChoose,live,"iOS UI library (Tinder-style swipe-to-choose views), not an end-user app; platforms N/A"
+Media Player Classic - Black Edition,license,,Open source,GPL-3.0,Windows,https://github.com/Aleksoid1978/MPC-BE,live,GitHub API spdx_id GPL-3.0
+Media Player Classic - Black Edition,platforms,,Windows,,,https://github.com/Aleksoid1978/MPC-BE,live,
+MediaInfo,license,,Open source,BSD-2-Clause,"Windows, macOS, Linux, Android, iOS",https://github.com/MediaArea/MediaInfo,live,GitHub API spdx_id BSD-2-Clause
+MediaInfo,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://mediaarea.net/en/MediaInfo,live,
+MellowPlayer,license,,Open source,GPL-2.0,"Linux, Windows, macOS",https://github.com/ColinDuquesnoy/MellowPlayer,live,GitHub API spdx_id GPL-2.0; README states licensed under the GPL
+MellowPlayer,platforms,,"Linux, Windows, macOS",,,https://github.com/ColinDuquesnoy/MellowPlayer,live,Qt cross-platform desktop application
+Memories,license,,Open source,AGPL-3.0,Web,https://github.com/pulsejet/memories,live,README: licensed under the AGPLv3; GitHub API spdx_id AGPL-3.0
+Memories,platforms,,Web,,,https://github.com/pulsejet/memories,live,Nextcloud photo management suite (self-hosted web app)
+Metube,license,,Open source,AGPL-3.0,Web,https://github.com/alexta69/metube,live,GitHub repo metadata: GNU Affero General Public License v3.0
+Metube,platforms,,Web,,,https://github.com/alexta69/metube,live,Self-hosted Docker web UI for yt-dlp
+Minis companion,license,,Open source,AGPL-3.0-or-later,Android,https://f-droid.org/packages/com.cdevaux.miniature_painting_companion,live,fdroiddata metadata License: AGPL-3.0-or-later; miniature painters painting-recipe app
+Minis companion,platforms,,Android,,,https://f-droid.org/packages/com.cdevaux.miniature_painting_companion,live,F-Droid listing
+Miroji,license,,Open source,MIT,"Android, iOS",https://github.com/rogeriodocarmo/mirror_app,live,mirror repo README: License MIT (same as the source repo)
+Miroji,platforms,,"Android, iOS",,,https://github.com/rogeriodocarmo/mirror_app,live,F-Droid + App Store; front-camera mirror app; also runs on Apple Silicon Macs
+Mobileplayer iOS,license,,Source-available,CC-BY-NC-SA-3.0,,https://raw.githubusercontent.com/mobileplayer/mobileplayer-ios/master/LICENSE,live,raw LICENSE is Creative Commons Attribution-NonCommercial-ShareAlike 3.0; NC restriction per playbook; iOS video-player library (CocoaPods) not an end-user app
+MOV MetaEdit,license,,Open source,MIT,"Windows, macOS, Linux",https://mediaarea.net/MOVMetaEdit,live,official site: MIT license for the code developed by MediaArea
+MOV MetaEdit,platforms,,"Windows, macOS, Linux",,,https://mediaarea.net/MOVMetaEdit,live,official download page
+Mpv Net,license,,Open source,GPL-2.0,Windows,https://github.com/mpvnet-player/mpv.net,live,GitHub API spdx_id GPL-2.0; repo moved from stax76/mpv.net
+Mpv Net,platforms,,Windows,,,https://github.com/mpvnet-player/mpv.net,live,modern media player for Windows
+Musa CAD,license,,Open source,LGPL-3.0-or-later,Linux; Windows,https://github.com/MusaCAD/MusaCAD,live,2D CAD engine in C++23; repo license LGPL-3.0
+Musa CAD,platforms,,Linux; Windows,,,https://github.com/MusaCAD/MusaCAD,live,README targets Linux and Windows
+Nexuiz,license,,Open source,GPL-2.0,Windows; macOS; Linux; FreeBSD,https://sourceforge.net/projects/nexuiz/,live,Classic open-source FPS; project page lists GNU General Public License v2
+Nexuiz,platforms,,Windows; macOS; Linux; FreeBSD,,,https://sourceforge.net/projects/nexuiz/,live,Windows; macOS; Linux and FreeBSD builds
+NinjaMock,license,,Proprietary — freemium,Free plan + paid Personal/Group/Team plans,Web,https://ninjamock.com/pricing,live,Free plan with limited features; paid from ~$7.69/mo per third-party pricing listings
+NinjaMock,platforms,,Web,,,https://ninjamock.com/pricing,live,Cloud-hosted wireframing tool
+Normcap,license,,Open source,GPL-3.0,Windows; macOS; Linux,https://github.com/dynobo/normcap,live,OCR screen-capture tool; README badge License GPLv3
+Normcap,platforms,,Windows; macOS; Linux,,,https://github.com/dynobo/normcap,live,Releases for Windows; macOS and Linux
+NTag (audio file tag editor),license,,Open source,GPL-3.0,Windows; macOS; Linux,https://github.com/nrittsti/ntag,live,Portable Java music tag editor; GitHub API spdx GPL-3.0
+NTag (audio file tag editor),platforms,,Windows; macOS; Linux,,,https://github.com/nrittsti/ntag,live,Portable Java app runs on desktop OSes
+OBS,license,,Open source,GPL-2.0,Windows; macOS; Linux,https://github.com/obsproject/obs-studio,live,OBS Studio; project dev wiki states GPLv2; repo COPYING is GPL-2.0
+OBS,platforms,,Windows; macOS; Linux,,,https://github.com/obsproject/obs-studio,live,Official builds for Windows; macOS and Linux
+Octopus.do,license,,Proprietary — freemium,Free $0 tier + paid Pro and Team plans,Web,https://octopus.do/pricing,live,Free tier includes 1 project; Pro from $7/mo per pricing listings
+Octopus.do,platforms,,Web,,,https://octopus.do/pricing,live,Browser-based visual sitemap builder
+Oh My SVG,license,,Open source,GPL-3.0,Linux,https://github.com/sonnyp/OhMySVG,live,SVG size reducer; GitHub API spdx GPL-3.0; Flathub re.sonny.OhMySVG
+Oh My SVG,platforms,,Linux,,,https://github.com/sonnyp/OhMySVG,live,GTK4 Linux app distributed via Flathub
+Onshape,license,,Proprietary — freemium,,,https://www.onshape.com/en/pricing,live,Free plan + Standard/Professional/Enterprise subscription tiers
+Onshape,platforms,,Web; iOS; Android,,,https://itunes.apple.com/lookup?id=923421284,live,Browser-based CAD; Onshape 3D CAD app by PTC Inc. (Free)
+Open Camera Sensors,license,,Open source,GPL-3.0,,https://github.com/5shekel/opencamera-sensors,live,GitHub API spdx_id; fork of Open Camera
+Open Camera Sensors,platforms,,Android,,,https://github.com/5shekel/opencamera-sensors,live,F-Droid package com.opencamera_sensors.app
+opendronemap,license,,Open source,AGPL-3.0,,https://github.com/OpenDroneMap/ODM,live,GitHub API spdx_id on OpenDroneMap/ODM
+opendronemap,platforms,,Windows; macOS; Linux,,,https://github.com/OpenDroneMap/ODM,live,README: available for Windows; Mac and Linux; Docker-based
+openscad-nightly,license,,Open source,GPL-3.0,,https://snapcraft.io/openscad-nightly,live,Snap Store API declares GPL-3.0+; publisher Torsten Paul
+openscad-nightly,platforms,,Linux,,,https://snapcraft.io/openscad-nightly,live,Nightly snap build of OpenSCAD
+Orion Icons,license,,Proprietary — freemium,,,https://orioniconlibrary.com/,live,Official site: Free plan + Go Pro tiers
+Orion Icons,platforms,,Web,,,https://orioniconlibrary.com/,live,Interactive web app icon library
+OW Camera 2 For Pebble,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/com.github.jamsinclair.owcamera2/,live,F-Droid lists GNU General Public License v3.0 or later
+OW Camera 2 For Pebble,platforms,,Android,,,https://f-droid.org/packages/com.github.jamsinclair.owcamera2/,live,Companion Android app for Pebble smartwatch
