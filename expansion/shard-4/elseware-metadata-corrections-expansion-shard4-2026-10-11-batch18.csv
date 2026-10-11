@@ -1,0 +1,71 @@
+Grisbi,license,,Open source,GPL-2.0-or-later; official license page: GNU GPL v2 or any later version; GitHub org shows GPL-2.0,,https://en.grisbi.org/post/License,live,"Official license page: ""either version 2 of the License, or (at your option) any later version""; repo README: GNU GPL v2"
+Haircomb,license,,Open source,Apache-2.0 (F-Droid app listing; requires Android 4.4+),,https://f-droid.org/en/packages/org.bitbucket.watashi564.combapp/,live,"F-Droid lists License: Apache License 2.0; license claim from app-store metadata, not a raw LICENSE read"
+Haircomb,platforms,,Android,,,https://f-droid.org/en/packages/org.bitbucket.watashi564.combapp/,live,"F-Droid Android app (""requires Android 4.4 or newer""); crypto wallet + blockchain sync tool"
+HMRC,license,,Proprietary — free,Free official UK government app (HM Revenue & Customs); no charges for download or any features,,https://www.gov.uk/guidance/download-the-hmrc-app,live,Official gov.uk page; tax/NI/benefits app
+HMRC,platforms,,"iOS, Android",,,https://www.gov.uk/guidance/download-the-hmrc-app,live,"Official gov.uk: ""download the app for iOS and Android devices"""
+Invoify,license,,Open source,MIT (raw LICENSE in canonical repo al1abb/invoify; Copyright (c) 2023 Ali Abbasov),,https://github.com/al1abb/invoify,live,"Raw LICENSE text verified: MIT License; matches official site invoify.vercel.app (13 templates, no account)"
+Invoify,platforms,,Web,,,https://invoify.vercel.app/en,live,"Official site: browser-based invoice generator, no backend, ""runs in browser"""
+Kitchenowl,license,,Open source,AGPL-3.0 (canonical TomBursch/kitchenowl README: redistribute/modify under AGPL-3.0),,https://github.com/TomBursch/kitchenowl,live,Self-hosted grocery list and recipe manager; README license section verified against canonical repo
+Kitchenowl,platforms,,Web (self-hosted),,,https://kitchenowl.org,live,Official site: self-hosted; Web
+Ladefuchs,license,,Proprietary — free,Free app (kostenlos) per official site ladefuchs.app; EV charging price comparison,,https://ladefuchs.app,live,"Official site: kostenlos; press release: version 2.0 ""weiterhin kostenlos"""
+Ladefuchs,platforms,,"iOS, Android",,,https://ladefuchs.app,live,"Official site mentions iOS, Android, Google Play, App Store; press release: app stores for iOS and Android"
+Lightning Address to Invoice,license,,Open source,GPL-3.0 (raw LICENSE in canonical repo Radiokot/ln-addr-to-invoice; supersedes F-Droid mirror's Apache-2.0 claim),,https://github.com/Radiokot/ln-addr-to-invoice,live,License-text-governs: raw LICENSE is GNU GPL v3; F-Droid mirror listed Apache-2.0 (superseded)
+Lightning Address to Invoice,platforms,,Android,,,https://play.google.com/store/apps/details?id=ua.com.radiokot.lnaddr2invoice&hl=en&gl=us,live,Google Play listing; also on F-Droid per author page radiokot.com.ua
+MarketMonk: Stock Tracker,license,,Open source,MIT (raw LICENSE.md in canonical repo brandonp2412/MarketMonk; Copyright 2024 MarketMonk),,https://github.com/brandonp2412/MarketMonk,live,Raw LICENSE text verified: The MIT License (MIT); Flutter stock/portfolio tracker by Brandon Presley
+MarketMonk: Stock Tracker,platforms,,"Android, Windows",,,https://github.com/brandonp2412/MarketMonk,live,Repo README: Google Play + F-Droid (Android) and Microsoft Store (Windows) badges
+Maybe,license,,Open source,AGPL-3.0 (raw LICENSE in maybe-finance/maybe),,https://github.com/maybe-finance/maybe,live,Raw LICENSE text: GNU Affero General Public License v3; open-source personal finance app
+Maybe,platforms,,Web (self-hosted),,,https://github.com/maybe-finance/maybe,live,README: self-hosted with Docker (personal finance web app)
+Metasfresh,license,,Open source,GPL-2.0,,https://github.com/metasfresh/metasfresh,live,GNU GPL v2 per raw LICENSE.md
+Metasfresh,platforms,,Web,,,https://github.com/metasfresh/metasfresh,live,React web UI per repo README
+minotaur,platforms,,"Android, iOS, Windows, macOS, Linux",,,https://github.com/minotaur-ergo/minotaur-wallet,live,Ergo wallet; Android/iOS mobile plus Windows/macOS/Linux desktop builds per README; dApp connector extension unreleased
+MMEX Money Manager,license,,Open source,GPL-2.0,,https://github.com/moneymanagerex/moneymanagerex,live,GNU GPL v2 per license.txt
+MMEX Money Manager,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://moneymanagerex.org/docs/downloads/compatibility/,live,Official compatibility page
+Monento,license,,Proprietary — freemium,Basic free + Monento Pro subscription,,https://monento.com,live,Basic free; Pro $1/mo or $10/yr with 14-day trial
+Monento,platforms,,"Android, iOS, macOS, Windows, Linux",,,https://monento.com,live,Apps for Android iOS Mac Windows Linux per official site
+Money Manager Ex,license,,Open source,GPL-2.0,,https://github.com/moneymanagerex/moneymanagerex,live,GNU GPL v2 per license.txt
+Money Manager Ex,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://moneymanagerex.org/docs/downloads/compatibility/,live,Official compatibility page
+MoneyFAQ,platforms,,Web,,,https://www.moneyfaq.com/,live,Financial education website; not a downloadable app
+Mushotoku,license,,Open source,GPL-3.0,,https://github.com/tomfrischmuth/mushotoku,live,GNU GPL v3 per raw LICENSE
+Mushotoku,platforms,,Android,,,https://github.com/tomfrischmuth/mushotoku,live,Android app per repo; on F-Droid
+NanoLedger,license,,Open source,MIT,,https://github.com/chvp/NanoLedger,live,MIT License per raw LICENSE
+NanoLedger,platforms,,Android,,,https://github.com/chvp/NanoLedger,live,Plain-text-accounting data entry app for Android; on F-Droid
+Observer core (obsr),license,,Open source,MIT,,https://github.com/observernet/obsr/,live,GitHub detects MIT from COPYING file
+Observer core (obsr),platforms,,Windows · macOS · Linux,,,https://github.com/observernet/obsr/,live,README download table lists Windows macOS Linux
+OneKey: Secure Crypto Wallet,license,,Source-available,OneKey Standard Source License (O-SSL),,https://github.com/OneKeyHQ/app-monorepo,live,README states OneKey Standard Source License O-SSL; GitHub NOASSERTION; third-party Apache-2.0 claims rejected as stale
+OneKey: Secure Crypto Wallet,platforms,,iOS · Android · macOS · Windows · Linux · Chrome,,,https://github.com/OneKeyHQ/app-monorepo,live,README download table: iOS Android desktop macOS Windows Linux browser extension
+Otari,license,,Open source,Apache-2.0,,https://github.com/martielyo182-create/otari,live,GitHub detects Apache-2.0 from inherited LICENSE; README states Apache 2.0
+parity-ethereum,license,,Open source,GPLv3,,https://github.com/pangeding/parity-ethereum,live,README states licensed under GPLv3 with license badge shown
+parity-ethereum,platforms,,Linux · macOS · Windows,,,https://github.com/pangeding/parity-ethereum,live,README build instructions cover Linux OSX Windows
+Peercoin Wallet,platforms,,Android,,,https://github.com/MatthewLM/peercoin-android-wallet,live,README: standalone payment app for Android device; license row skipped - no license file in repo
+Piggsy,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.nvllz.piggsy/,live,F-Droid lists GNU General Public License v3.0 only
+Piggsy,platforms,,Android,,,https://f-droid.org/packages/com.nvllz.piggsy/,live,F-Droid: requires Android 7.0 or newer
+Poker Tracker,license,,Open source,MIT,,https://f-droid.org/packages/com.github.saikcaskey.pokertracker/,live,Exact-name match to F-Droid Poker Tracker app; not commercial PokerTracker 4
+Poker Tracker,platforms,,Android,,,https://f-droid.org/packages/com.github.saikcaskey.pokertracker/,live,F-Droid: requires Android 8.0 or newer
+Pro Expense - Daily Finance Tracker,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/com.arduia.expense/,live,F-Droid lists GNU General Public License v3.0 or later
+Pro Expense - Daily Finance Tracker,platforms,,Android,,,https://f-droid.org/packages/com.arduia.expense/,live,F-Droid: requires Android 5.0 or newer
+reden,license,,Open source,MIT,,https://github.com/bunker/reden,live,GitHub detects MIT; README: Reden Core released under MIT license
+reden,platforms,,Windows · Linux · macOS,,,https://github.com/bunker/reden,live,README: CI builds for Windows Linux OS X
+Rotki,license,,Open source,AGPL-3.0,,https://github.com/rotki/rotki,live,Raw LICENSE verified as GNU AGPL v3 text; GitHub API spdx_id AGPL-3.0
+Rotki,platforms,,"Windows, macOS, Linux",,,https://github.com/rotki/rotki,live,Latest release assets include Windows macOS and Linux builds
+Time Scribe,license,,Open source,GPL-3.0,,https://github.com/WINBIGFOX/TimeScribe,live,Raw LICENSE verified as GNU GPL v3 text; README: no cloud no registration no paywall
+Time Scribe,platforms,,"macOS, Windows",,,https://github.com/WINBIGFOX/TimeScribe,live,README: Supports macOS and Windows
+Size Plugin,license,,Open source,Apache-2.0,,https://github.com/GoogleChromeLabs/size-plugin,live,Raw LICENSE verified as Apache 2.0 text; webpack plugin (npm); platforms N/A
+Stripe Atlas,platforms,,Web,,,https://stripe.com/atlas,live,Incorporation service delivered via stripe.com web flow
+UK Salary Calculator,license,,Proprietary — free,Free web calculator,,https://www.uksalarycalculator.io,live,No pricing paid tier or signup found on official site
+UK Salary Calculator,platforms,,Web,,,https://www.uksalarycalculator.io,live,Browser-based calculator
+vanillacash,license,,Open source,MIT,,https://github.com/WikiMin3R/Vanillacash,live,Official site vanillacash.org links this repo as the code; raw LICENSE verified as MIT text
+vanillacash,platforms,,"Windows, macOS, Linux",,,https://github.com/WikiMin3R/Vanillacash,live,Repo releases publish Windows macOS and Linux binaries
+VIR.GROUP,license,,Proprietary — freemium,Free tier (site JSON-LD offer price $0); VIR Premium subscription with Gold PRO badge,,https://vir.group,live,Ukrainian social network for investors entrepreneurs and analysts
+VIR.GROUP,platforms,,"Web, Android, iOS, Linux",,,https://vir.group,live,Site JSON-LD operatingSystem
+Wise,license,,Proprietary — free,Free to open an account,,https://wise.com,live,Official site: Open a free account
+Wise,platforms,,"Web, Android, iOS",,,https://wise.com,live,App Store and Google Play badges on official site
+FitoTrack,license,,Open source,GPL-3.0-or-later,,https://codeberg.org/jannis/FitoTrack,live,LICENSE: GNU General Public License v3.0 or later; also shown on F-Droid listing and mirrored repo forks
+FitoTrack,platforms,,Android,,,https://f-droid.org/packages/de.tadris.fitness/,live,Android app; on F-Droid and Google Play (de.tadris.fitness)
+Ewoc,license,,Open source,GPL-3.0-or-later,,https://github.com/Ewoc2026/ewoc,live,README + fdroid-prep docs state GPL-3.0-or-later; F-Droid confirms GPLv3+; identity = ewoc2026/ewoc Android ergometer app (distinct from CRAN R package dnzmarcio/ewoc)
+Ewoc,platforms,,Android,,,https://f-droid.org/packages/io.github.ewoc2026.ewoc/,live,F-Droid Android app (io.github.ewoc2026.ewoc); README also ships a desktop workout editor
+ゴシップハーバー：マージ & ストーリー,license,,Proprietary — freemium,Free-to-play with in-app purchases,,https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor,live,Merge puzzle game by Microfun Limited; support gossipharbor-service@microfun.com per Play listing
+ゴシップハーバー：マージ & ストーリー,platforms,,"Android, iOS, Windows",,,https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor,live,Android and Windows (Play Games on PC) per Play listing; iOS per GameFAQs release data (Microfun Limited)
+マビノギモバイル,license,,Proprietary — freemium,Basic play free with item-based in-app purchases,,https://mabinogimobile.nexon.co.jp/,live,"Online RPG by NEXON Co., Ltd. & devCAT; free-to-play with item billing per official pricing info"
+マビノギモバイル,platforms,,"iOS, Android, PC",,,https://mabinogimobile.nexon.co.jp/,live,iOS App Store and Google Play (com.nexon.devcat.mm.jp); PC cross-play per Nexon announcement
+탑 로드,license,,Proprietary — freemium,Free-to-play with in-app purchases,,https://play.google.com/store/apps/details?id=com.gamespark.topking.gp,live,Korean title of Top Lords by GAME SPARK PTE. LTD.; Play listing is the free-to-play strategy game
+탑 로드,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.gamespark.topking.gp,live,Android only; no iOS App Store listing found
