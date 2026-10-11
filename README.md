@@ -262,8 +262,23 @@ When ACTIVE, the rules:
   same rigor; P3 = developer tools, same rigor.
 - At ~50 apps/batch this is ~77 batches per shard.
 
-Shard 4 note: your expansion assignment is conditional — it activates only after you
-clear the Phase-1 quality probation (3 clean batches under deep audit).
+Shard 4 note (2026-10-11): your Phase-2 expansion work is REASSIGNED to Shard 2 —
+STOP all expansion work immediately, do not push any more expansion batches.
+Your 15 pushed expansion batches are superseded and will be re-verified.
+Phase 1 stands as delivered (bad rows were rejected at ingest; see the lead).
+
+Shard 2 reassignment (2026-10-11): you take over Shard 4's FULL Phase-2 expansion
+assignment — 3,830 apps, worked fresh from scratch (Shard 4 verified only 164 of
+the first 750; do not trust his rows).
+- Your list: `expansion/shard-2/apps-shard4-reassignment.md` — 3,830 apps, one per
+  line (line 6 = app #1). Work it in order, 50 apps per batch = 77 batches.
+- Push to `expansion/shard-2/` with this filename pattern (the `-shard4-` infix
+  keeps these separate from your own batch 1–77):
+  `elseware-metadata-corrections-expansion-shard2-shard4-YYYY-MM-DD-batchM.csv`
+- Batch M = apps ((M−1)×50+1) through (M×50) of apps-shard4-reassignment.md.
+- Same schema, grounding rule, playbook, heartbeat, self-audit — everything in
+  this README applies unchanged.
+- When finished, push `DONE-shard4-reassignment.txt` in `expansion/shard-2/`.
 
 ## Token safety
 
