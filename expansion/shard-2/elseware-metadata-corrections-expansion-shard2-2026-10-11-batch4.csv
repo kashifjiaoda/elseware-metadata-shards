@@ -1,0 +1,76 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Quassel IRC,license,,Open source,GNU General Public License v2.0 or later (COPYING: GPL-2.0 or (at your option) v3),"Windows, macOS, Linux, Android",https://api.github.com/repos/quassel/quassel/license,live,GitHub API: quassel/quassel COPYING states GPL; quassel-irc.org confirms free as in speech under the GPL
+Quassel IRC,platforms,,"Windows, macOS, Linux, Android",,,https://quassel-irc.org/,live,Official site: all major platforms including Linux Windows MacOS X and Android smartphones
+Qwen Paw,license,,Open source,Apache License 2.0,,https://api.github.com/repos/agentscope-ai/QwenPaw/license,live,GitHub API: agentscope-ai/QwenPaw LICENSE spdx_id Apache-2.0; OSI-approved open source
+Qwen Paw,platforms,,"Windows, macOS, Linux, Web",,,https://github.com/agentscope-ai/QwenPaw,live,Repo README: script install for macOS/Linux/Windows; pip install; Docker; web console at 127.0.0.1:8088; desktop app (beta)
+Read Any,license,,Open source,GNU General Public License v3.0,,https://api.github.com/repos/nmyo/readany/license,live,GitHub API: nmyo/ReadAny LICENSE is GPL-3.0 (Copyright 2024 ReadAny Team)
+Read Any,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://github.com/nmyo/readany,live,Repo README: Tauri cross-platform desktop framework; Expo mobile; iOS and Android versions available
+Riot Android,license,,Open source,GNU Affero General Public License v3.0,,https://api.github.com/repos/element-hq/element-android/license,live,GitHub API: element-hq/element-android LICENSE is AGPL-3.0; Riot Android is the former name of Element Android
+Riot Android,platforms,,Android,,,https://github.com/element-hq/element-android,live,"Repo is the Android client (Element Android, formerly Riot Android)"
+Shadcn Chat,license,,Open source,MIT License,,https://api.github.com/repos/mesailor/shadcn-chat/license,live,GitHub API: mesailor/shadcn-chat LICENSE spdx_id MIT; customizable chat window component built with shadcn/ui and React
+Shadcn Chat,platforms,,Web,,,https://github.com/mesailor/shadcn-chat,live,React component library with live demo at shadcn-chat.vercel.app; not a standalone app
+Speechgpt,license,,Open source,MIT License,,https://api.github.com/repos/hahahumble/speechgpt/license,live,GitHub API: hahahumble/speechgpt LICENSE spdx_id MIT (Copyright 2023 SpeechGPT)
+Speechgpt,platforms,,Web,,,https://github.com/hahahumble/speechgpt,live,Web application (speechgpt.app) enabling voice conversation with ChatGPT
+Syphon,license,,Open source,GNU Affero General Public License v3.0,,https://api.github.com/repos/syphon-org/syphon/license,live,GitHub API: syphon-org/syphon license.md is AGPL-3.0; privacy-centric Matrix client
+Syphon,platforms,,"Android, iOS",,,https://github.com/syphon-org/syphon,live,Repo README: Google Play App Store and F-Droid badges; desktop clients noted but OS unspecified
+Thelounge,license,,Open source,MIT License,,https://api.github.com/repos/thelounge/thelounge/license,live,GitHub API: thelounge/thelounge LICENSE spdx_id MIT; thelounge.chat states free open-source IRC client under MIT
+Thelounge,platforms,,Web,,,https://thelounge.chat/,live,Official site: self-hosted web IRC client; works wherever Node.js runs; responsive on desktop smartphone tablet
+Twake Legacy,license,,Open source,GNU Affero General Public License v3 (AGPL-3.0) with additional terms,,https://github.com/linagora/Twake,live,Repo README states 'licensed under Affero GPL v3 with additional terms'; repo now redirects to linagora/twake-workplace ('the open-source digital workplace')
+Vo Cat,license,,Proprietary — free,Free vocabulary-builder app by DevStory; no paid tier indicated in listing,,https://play.google.com/store/apps/details?id=kr.co.devstory.vocat,live,Play Store: 'VoCat - My Own Vocabulary' by DevStory; free download
+Vo Cat,platforms,,Android,,,https://play.google.com/store/apps/details?id=kr.co.devstory.vocat,live,Play Store listing (Android)
+Weechat,license,,Open source,GNU General Public License v3 (GPL-3.0),,https://github.com/weechat/weechat,live,GitHub API: COPYING file is GPL-3.0; weechat.org describes it as 'Free software'
+Arkham Intelligence,platforms,,Web,,,https://www.arkhamintelligence.com/,live,Official site: web-based blockchain analytics platform
+BigRoom,license,,Proprietary — free,Free market-forecast tool; no pricing or paid tier on official site,,http://bigroom.com/,live,Official site: market forecasts for stocks and crypto; no paid tier indicated
+BigRoom,platforms,,Web,,,http://bigroom.com/,live,Web-based tool
+Bitcoin Beach Wallet,license,,Open source,MIT License,,https://github.com/GaloyMoney/blink,live,GitHub API: GaloyMoney/blink LICENSE is MIT (spdx_id MIT); Play Store listing states 'Open source (FOSS). Verify the code yourself.'; app renamed from Bitcoin Beach Wallet to Blink
+Bitcoin Beach Wallet,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.galoyapp,live,Play Store: 'Blink (Bitcoin Wallet)' (com.galoyapp)
+Bitmama,license,,Proprietary — free,Free app; crypto exchange (revenue from transaction fees),,https://bitmama.io/,live,Official site: free crypto exchange app for Nigeria/Ghana/Kenya
+Bitmama,platforms,,"Android, iOS, Web",,,https://bitmama.io/,live,Official site documents web app plus iOS and Android apps (Play Store com.bitmama.bitmama)
+Blitz,license,,Open source,Apache License 2.0,,https://github.com/BlitzWallet/BlitzWallet,live,GitHub API: LICENSE is Apache-2.0; official site titled 'About Blitz Wallet: Open-Source Bitcoin & Lightning Wallet'
+Blitz,platforms,,"Android, iOS",,,https://blitzwalletapp.com/pages/about/,live,Official site offers mobile download; self-custodial Bitcoin/Lightning wallet
+Blockscout,license,,Source-available,"Blockscout Software Licence (custom proprietary, LicenseRef-Blockscout, eff. 2026-04-22); commercial/monetized use incl. SaaS requires separate commercial license; derivative works internal-use only",Web,https://api.github.com/repos/blockscout/blockscout/license,live,"GitHub API: upstream blockscout/blockscout LICENSE is LicenseRef-Blockscout, not MIT/GPL; older forks still show GPL-3.0"
+Blockscout,platforms,,Web,,,https://api.github.com/repos/blockscout/blockscout/license,live,Block explorer is a self-hosted web application
+Bridge Wallet,license,,Proprietary — free,Free self-custodial mobile wallet by Mt Pelerin; no paid tier,"Android, iOS",https://www.mtpelerin.com/bridge-wallet,live,"Official: free Swiss mobile wallet to buy, swap and cash out crypto; App Store + Google Play badges on page"
+Bridge Wallet,platforms,,"Android, iOS",,,https://www.mtpelerin.com/bridge-wallet,live,Official page shows App Store and Google Play ratings/download badges
+Busha,license,,Proprietary — free,"Free app; SEC-licensed Nigerian crypto exchange; trading fees apply, no subscription tier","Android, iOS, Web",https://busha.io,live,"Official homepage: 4.6 stars App Store, 4.5 stars Google Play; 1M+ users"
+Busha,platforms,,"Android, iOS, Web",,,https://busha.io,live,Official: App Store + Google Play ratings; web platform at busha.io
+ChainClarity,license,,Proprietary — free,Free AI whitepaper explanations; no paywall or subscription,Web,https://chainclarity.io,live,Official: plain-English crypto whitepaper breakdowns freely accessible
+ChainClarity,platforms,,Web,,,https://chainclarity.io,live,Web-based research tool
+CoinGlass,license,,Proprietary — freemium,Free data tools and mobile app; paid API plans (Hobbyist $29/mo to Professional $699/mo),"Web, iOS",https://github.com/coinglass-official/coinglass-api-skills,live,Official coinglass-official GitHub API docs list paid API plans; core tools free
+CoinGlass,platforms,,"Web, iOS",,,https://apps.apple.com/us/app/coinglass-global-market-data/id1522250001?uo=4,live,"App Store: CoinGlass - Global Market Data by DerivLab Limited, Free; sellerUrl coinglass.com"
+CoinSpot,license,,Proprietary — free,Free account; trading fees from 0.1%; no subscription tier,"Web, Android, iOS",https://www.coinspot.com.au,live,"Official: free AUD deposit methods; fees per trade, no subscription"
+CoinSpot,platforms,,"Web, Android, iOS",,,https://www.coinspot.com.au,live,Official homepage: Download the CoinSpot app with Google Play and App Store badges
+Cornix,license,,Proprietary — freemium,"14-day free trial, no credit card; paid Advanced/Premium plans after trial","Web, Android, iOS",https://cornix.io/,live,Official: 14 days free trial; pricing page lists paid Advanced/Premium plans; every plan includes web and mobile apps
+Cornix,platforms,,"Web, Android, iOS",,,https://cornix.io/,live,Official: 4.7 on Google Play and the App Store; plans include Mobile & Web Apps
+DappRadar,license,,Proprietary — freemium,Free dapp discovery platform; paid Premium for Developers ($249/mo) and PRO tiers,Web,https://dappradar.com/blog/dappradar-premium-for-developers,live,Official blog: list a dapp for free; Premium for Developers $249/month; site live and operational
+DappRadar,platforms,,Web,,,https://dappradar.com,live,"Official homepage live: 14,229 tracked dapps across 90+ chains"
+DeFiLlama Portfolio,license,,Proprietary — freemium,"Free portfolio tracker and dashboards; LlamaAI 5 free questions/day, paid tiers beyond",Web,https://defillama.com,live,Official: free DeFi dashboards; LlamaAI free tier 5 questions/day implies paid tiers
+DeFiLlama Portfolio,platforms,,Web,,,https://defillama.com,live,"Web-based portfolio tracker, no account needed"
+Hummingbot,license,,Open source,Apache License 2.0,,https://api.github.com/repos/hummingbot/hummingbot/license,live,GitHub API: hummingbot/hummingbot LICENSE is Apache-2.0; OSI-approved open source
+Hummingbot,platforms,,"Windows, macOS, Linux",,,https://hummingbot.org/installation/,live,Official docs: Docker-based local client; local-machine and cloud-server deployment
+iPredicta,license,,Proprietary — free,Free comparison platform for prediction markets; affiliate model,,https://ipredicta.co/,live,Official site: free price-comparison platform aggregating Kalshi and Polymarket; no paid tier indicated
+iPredicta,platforms,,Web,,,https://ipredicta.co/,live,Official site is a web platform
+Foxbit,license,,Proprietary — free,"Cadastro gratuito, sem fidelidade, sem taxa de manutenção; free account, trading fees apply",,https://foxbit.com.br/,live,Official site: free registration with no maintenance fee; Brazilian crypto exchange operating since 2014
+Foxbit,platforms,,"Web, Android, iOS",,,https://foxbit.com.br/,live,Official site references a mobile app alongside web
+HaasOnline,license,,Proprietary — paid subscription,"Starter $11.99/mo, Standard $29.99/mo, Pro $59.99/mo; 7-day free trial; no free tier",,https://www.haasonline.com/pricing,live,Official pricing page: all plans paid monthly subscription; trial only and no free tier
+HaasOnline,platforms,,Web,,,https://www.haasonline.com/,live,Official FAQ: access the web application at app.haasbot.com; TradeServer Cloud is cloud-based
+LiveCoinWatch,license,,Proprietary — free,Free crypto price tracking website,,https://www.livecoinwatch.com/,live,Official site: free live cryptocurrency prices and charts with portfolio tracker
+LiveCoinWatch,platforms,,Web,,,https://www.livecoinwatch.com/,live,Official site is a web platform
+NDAX,license,,Proprietary — free,Free Canadian crypto exchange account; trading fees 0.2% apply,,https://ndax.io/,live,Official site: free all-in-one crypto trading platform for Canadians
+NDAX,platforms,,"Web, Android, iOS",,,https://ndax.io/,live,Official site promotes a mobile app plus web platform
+Laevitas,license,,Proprietary — freemium,Free $0/mo tier; Premium $50/mo per seat; Enterprise $500/mo per seat,,https://www.laevitas.ch,live,Official site pricing lists Free and paid Premium/Enterprise plans
+Laevitas,platforms,,Web,,,https://www.laevitas.ch,live,Official site is a web-based derivatives data platform
+MetaSleuth,license,,Proprietary — paid subscription,Paid subscription; official blog offers 10% off subscription with invite code,,https://metasleuth.io/,live,Official blog references paid subscription; BlockSec crypto investigation platform
+MetaSleuth,platforms,,Web,,,https://metasleuth.io/,live,Official site is a web platform
+Ride the Lightning,license,,Open source,MIT license,,https://api.github.com/repos/Ride-The-Lightning/RTL/license,live,GitHub API: Ride-The-Lightning/RTL LICENSE is MIT (spdx_id MIT); official site ridethelightning.info also states built in the open under MIT license
+Ride the Lightning,platforms,,Web,,,https://github.com/Ride-The-Lightning/RTL,live,"RTL is a device-agnostic web UI for Lightning node management (LND, C-Lightning, Eclair)"
+Pionex,license,,Proprietary — free,Free app; 0.05% trading fee per transaction,,https://apps.apple.com/it/app/pionex-crypto-trading-bots/id1485348891,live,App Store: free crypto exchange app with 16 built-in trading bots; 0.05% trading fee
+Pionex,platforms,,"Android, iOS, Web",,,https://apps.apple.com/it/app/pionex-crypto-trading-bots/id1485348891,live,App Store (iOS); Play Store com.pionex.client (Android); pionex.com web platform
+OKLink,license,,Proprietary — free,,Free multi-chain blockchain explorer and Web3 data platform,https://www.oklink.com/,live,Official: OKLink multi-crypto blockchain explorer and search engine; free to use
+OKLink,platforms,,Web,,,https://www.oklink.com/,live,Official web-based explorer and analytics platform
+Rarity Sniper,license,,Proprietary — free,Free NFT rarity ranking tool,,https://raritysniper.com/,live,CoinMarketCap integrated Rarity Sniper NFT data as its premiere NFT rarity service; official domain raritysniper.com
+Rarity Sniper,platforms,,Web,,,https://raritysniper.com/,live,Web-based NFT rarity rankings across multiple blockchains
+NonFungible,license,,Proprietary — free,Free NFT market data and analytics platform,,https://nonfungible.com/,live,"Official: NonFungible Corporation, world's reference for NFT market data since 2018"
+NonFungible,platforms,,Web,,,https://nonfungible.com/,live,"Web-based NFT analytics, research, and consulting platform"
+SocialScan,license,,Proprietary — free,Free on-chain AI agents platform,,https://socialscan.io/,live,"Official: SocialScan community-owned AI for on-chain intelligence, built by Hemera"
+SocialScan,platforms,,Web,,,https://socialscan.io/,live,Web-based AI agents for wallet analytics and blockchain data exploration
