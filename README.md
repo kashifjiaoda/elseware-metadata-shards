@@ -247,7 +247,9 @@ When ACTIVE, the rules:
   into `shards/shard-N/`.
 - Batch numbering RESTARTS at 1:
   `expansion/shard-N/elseware-metadata-corrections-expansion-shardN-YYYY-MM-DD-batchM.csv`
-- Batch M = lines 4+((M−1)×5) through 8+((M−1)×5) of your apps.md (5 lines = 50 apps).
+- Batch M = lines 6+((M−1)×50) through 55+((M−1)×50) of your apps.md
+  (50 lines = 50 apps, ONE app per line). Never split a line on "|" — some app
+  names contain "|" characters; one line is always one app.
 - Same schema, same grounding rule, same playbook, same heartbeat, same self-audit —
   everything in this README applies unchanged.
 - Tier guidance: P0 = highest demand, verify first and fastest; P1 = regional apps,
