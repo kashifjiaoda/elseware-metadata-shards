@@ -1,0 +1,68 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Cloudflare Speed CLI,license,,Open source,GPL-3.0,"Windows, Linux",https://github.com/kavehtehrani/cloudflare-speed-cli,live,GitHub API SPDX GPL-3.0 on canonical upstream repo (several forks); author-tested binaries for Linux x64/ARM64 and Windows 11; also source-buildable via cargo
+Cloudflare Speed CLI,platforms,,"Windows, Linux",,,https://github.com/kavehtehrani/cloudflare-speed-cli,live,README release notes: binaries tested on Linux (x64/ARM64) and Windows 11; macOS untested
+Cluster Duck Protocol,license,,Open source,Apache-2.0,,https://github.com/ClusterDuck-Protocol/ClusterDuck-Protocol,live,"GitHub API SPDX Apache-2.0; LoRa mesh-network firmware for IoT hardware, not a desktop or mobile end-user app"
+Colorpicker Compose,license,,Open source,Apache-2.0,,https://github.com/skydoves/colorpicker-compose,live,GitHub API SPDX Apache-2.0; Kotlin Multiplatform color-picker developer library (skydoves)
+Com-Phone Story Maker,license,,Open source,LGPL-3.0,Android,https://github.com/communitymedia/mediaphone,live,GitHub API SPDX LGPL-3.0; repo description identifies it as an Android multimedia narrative app
+Com-Phone Story Maker,platforms,,Android,,,https://github.com/communitymedia/mediaphone,live,Repo description: Android multimedia narrative app
+Compose Color Picker,license,,Open source,MIT,,https://github.com/godaddy/compose-color-picker,live,Jetpack Compose Android color picker library; godaddy canonical repo (405 stars)
+Compress O,license,,Open source,AGPL-3.0,,https://github.com/codeforreal1/compressO,live,Video/image compressor; GitHub API SPDX AGPL-3.0
+Compress O,platforms,,"Windows, macOS, Linux",,,https://github.com/codeforreal1/compressO,live,README: available for Mac Windows and Linux
+Comptty,license,,Open source,GPL-2.0,,https://github.com/w1hkj/comptty,live,Ham radio RTTY string comparison tool; GitHub API SPDX GPL-2.0
+Conscrypt Provider,license,,Open source,MIT,,https://f-droid.org/packages/com.mendhak.conscryptprovider/,live,F-Droid lists MIT License; TLS provider APK for older Android devices
+Conscrypt Provider,platforms,,Android,,,https://f-droid.org/packages/com.mendhak.conscryptprovider/,live,F-Droid Android package com.mendhak.conscryptprovider
+Contour Terminal Emulator,license,,Open source,Apache-2.0,,https://github.com/contour-terminal/contour,live,Raw LICENSE.txt verified as Apache License Version 2.0
+Contour Terminal Emulator,platforms,,"Windows, macOS, Linux",,,https://github.com/contour-terminal/contour,live,README: available on all major platforms incl. Linux macOS Windows
+Coptic for AnySoftKeyboard,license,,Open source,Apache-2.0,,https://f-droid.org/packages/com.anysoftkeyboard.languagepack.coptic/,live,F-Droid lists Apache License 2.0; official AnySoftKeyboard language pack
+Coptic for AnySoftKeyboard,platforms,,Android,,,https://f-droid.org/packages/com.anysoftkeyboard.languagepack.coptic/,live,F-Droid Android package com.anysoftkeyboard.languagepack.coptic
+CoreAction,license,,Open source,GPL-3.0,,https://gitlab.com/cubocore/coreapps/coreaction,live,Upstream GitLab LICENSE is GNU GPL v3; CuboCore C Suite widget sidebar
+CoreAction,platforms,,Linux,,,https://gitlab.com/cubocore/coreapps/coreaction,live,Linux desktop app via Flathub org.cubocore.CoreAction
+CoreGarage,license,,Open source,GPL-3.0,,https://gitlab.com/cubocore/coreapps/coregarage,live,Upstream GitLab LICENSE is GNU GPL v3; CuboCore C Suite settings manager
+CoreGarage,platforms,,Linux,,,https://gitlab.com/cubocore/coreapps/coregarage,live,Linux desktop app via Flathub cc.cubocore.CoreGarage and AppImage
+CoreKeyboard,license,,Open source,GPL-3.0,,https://gitlab.com/cubocore/coreapps/corekeyboard,live,Upstream GitLab LICENSE is GNU GPL v3; CuboCore x11 virtual keyboard for C Suite
+CoreKeyboard,platforms,,Linux,,,https://gitlab.com/cubocore/coreapps/corekeyboard,live,Linux x11 virtual keyboard via Flathub org.cubocore.CoreKeyboard
+CoreShot,license,,Open source,GPL-3.0,Linux,https://gitlab.com/cubocore/coreapps/coreshot/-/raw/master/LICENSE,live,LICENSE file is GNU General Public License v3; CuboCore screenshot app
+CoreShot,platforms,,Linux,,,https://github.com/flathub/org.cubocore.CoreShot,live,Flathub Linux package of the CuboCore screenshot app
+Corluma,license,,Proprietary — freemium,"Proprietary closed source (Flathub README: """"The Corluma app itself is proprietary (closed source)""""); official site mentions Free + Premium tiers",,https://github.com/flathub/net.corluma.Corluma,live,Smart-light control app (Hue/LIFX/Nanoleaf); free tier + Premium per corluma.net
+Corluma,platforms,,Linux,,,https://github.com/flathub/net.corluma.Corluma,live,Flathub Linux distribution
+Cosmos Server,license,,Source-available,"Commons Clause Licensed (per official site; GitHub API NOASSERTION, no LICENSE file in repo)",Web,https://cosmos-cloud.io,live,"Self-hosted home server; Commons Clause = Source-available per playbook, never Open source"
+Cosmos Server,platforms,,Web,,,https://github.com/azukaar/Cosmos-Server,live,Self-hosted home server software
+Crawlergo,license,,Open source,GPL-3.0,,https://github.com/Qianlitp/crawlergo,live,"Browser crawler for web vulnerability scanners; CLI tool, license row only"
+Cross Platform Disk Test,license,,Open source,MIT,,https://github.com/maxim-saplin/CrossPlatformDiskTest,live,Storage speed-test tool (HDD/SSD/RAM)
+Cross Platform Disk Test,platforms,,"Windows, macOS, Android",,,https://github.com/maxim-saplin/CrossPlatformDiskTest,live,"Repo description: Windows, macOS and Android storage speed test"
+Cubic SDR,license,,Open source,GPL-2.0,,https://github.com/cjcliffe/CubicSDR,live,Cross-platform software-defined radio application
+Cubic SDR,platforms,,"Windows, macOS, Linux",,,https://github.com/cjcliffe/CubicSDR/releases,live,"Release assets: win32/win64 .exe, Darwin .dmg, x86_64 .AppImage"
+Cura Engine,license,,Open source,AGPL-3.0,,https://github.com/Ultimaker/CuraEngine,live,"3D model to g-code slicing engine; library, license row only"
+Custom RR: ROMs & Recovery,license,,Open source,GPL-3.0-only,,https://github.com/monsiu/Custom-RR,live,CHANGELOG SPDX-License-Identifier GPL-3.0-only
+Custom RR: ROMs & Recovery,platforms,,"Android, Windows, Linux, macOS",,,https://github.com/monsiu/Custom-RR,live,README download table
+Cyclauncher,license,,Open source,GPL-3.0,,https://github.com/msbluesnow/cyclauncher,live,README license section GNU GPLv3; F-Droid listed
+Cyclauncher,platforms,,Android,,,https://github.com/msbluesnow/cyclauncher,live,Android launcher; F-Droid build
+DailyAL,license,,Open source,MIT,,https://github.com/jica98/dailyal,live,GitHub API SPDX MIT; README MIT badge
+DailyAL,platforms,,Android,,,https://github.com/jica98/dailyal,live,F-Droid io.github.jica98; GitHub releases
+Dash To Dock,license,,Open source,GPL-2.0-or-later,,https://github.com/minh-quann/dash-to-dock,live,README: GNU GPL version 2 or later
+Dash To Dock,platforms,,Linux,,,https://github.com/minh-quann/dash-to-dock,live,GNOME Shell extension
+Daty,license,,Open source,AGPL-3.0-or-later,,https://github.com/pdlussier/daty,live,README badge AGPL v3+; mirror of gitlab.gnome.org/World/Daty
+Daty,platforms,,"Windows, Linux",,,https://github.com/pdlussier/daty,live,PyPI docs: Windows installer and GNU/Linux Flatpak; cross-platform Wikidata editor
+DBase Downloader,license,,Open source,GPL-3.0-only,,https://github.com/dbase-in-rs/downloader,live,AGENTS.md and release notes: GPL-3.0-only
+DBase Downloader,platforms,,"Android, Windows, Linux",,,https://github.com/dbase-in-rs/downloader,live,"README: ships for Android, Windows, Linux; macOS/iOS out of scope"
+Ddcui,license,,Open source,GPL-2.0,,https://github.com/nonononoki/openmonitorcontrol,live,Fork README lists GPL-2.0; forked from rockowitz/ddcui
+Ddcui,platforms,,Linux,,,https://github.com/nonononoki/openmonitorcontrol,live,Qt GUI for ddcutil monitor control
+Deb Gview,license,,Open source,GPL-2.0-or-later,,https://manpages.debian.org/jessie/deb-gview/deb-gview.1.en.html,live,Manpage copyright: GPL v2 or any later version
+Deb Gview,platforms,,Linux,,,https://manpages.debian.org/jessie/deb-gview/deb-gview.1.en.html,live,Native Debian package
+DeBurrow,license,,Open source,MIT License,,https://github.com/felipedbene/deburrow,live,README license badge MIT for Android Gopher client
+DeBurrow,platforms,,Android,,,https://github.com/felipedbene/deburrow,live,Native Android Kotlin Jetpack Compose app
+Deepin Boot Maker,license,,Open source,GPL-3.0-only,,https://github.com/linuxdeepin/deepin-boot-maker,live,README states licensed under GPL-3.0-only
+Deepin Boot Maker,platforms,,Linux,,,https://github.com/linuxdeepin/deepin-boot-maker,live,Debian repo install and ISO binary for Linux
+Deepwiki Open,license,,Open source,MIT License,,https://github.com/AsyncFuncAI/deepwiki-open,live,GitHub repo license MIT
+Deepwiki Open,platforms,,Web,,,https://github.com/AsyncFuncAI/deepwiki-open,live,Self-hosted AI wiki generator run via Docker in browser
+Deliveries,license,,Proprietary — freemium,,,https://apps.apple.com/us/app/deliveries-a-package-tracker/id290986013?l=es-MX,live,App Store listing Free with In-App Purchases by Junecloud LLC
+Deliveries,platforms,,"iOS, macOS",,,https://apps.apple.com/us/app/deliveries-a-package-tracker/id290986013?l=es-MX,live,App Store listing plus Mac version per official description
+Designable,license,,Open source,MIT License,,https://github.com/alibaba/designable,live,GitHub repo license MIT
+Designable,platforms,,Web,,,https://github.com/alibaba/designable,live,Web playground for low-code builder design tools
+Detect RTC,license,,Open source,MIT License,,https://github.com/dodortus/detectrtc,live,MIT-licensed JavaScript WebRTC detection library; license row only
+Dev Manager Desktop,license,,Open source,Apache-2.0,,https://github.com/sachk/dev-manager-desktop,live,Apache License 2.0 per repo metadata
+Dev Manager Desktop,platforms,,"Windows, macOS, Linux",,,https://github.com/sachk/dev-manager-desktop,live,README download table lists Windows macOS and Linux installers
+Devika,license,,Open source,MIT License,,https://github.com/stitionai/devika,live,README states released under MIT License
+Devika,platforms,,Web,,,https://github.com/stitionai/devika,live,Self-hosted agentic AI engineer with browser-based UI
+Dhaaga (Lite),license,,Open source,Apache-2.0,,https://f-droid.org/packages/io.suvam.dhaaga.lite,live,F-Droid package page lists Apache License 2.0
+Dhaaga (Lite),platforms,,Android,,,https://f-droid.org/packages/io.suvam.dhaaga.lite,live,Open-source Fediverse client Android app
