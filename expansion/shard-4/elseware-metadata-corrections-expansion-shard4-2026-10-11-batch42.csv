@@ -1,0 +1,79 @@
+Kotori,license,,Open source,GPL-3.0-only,,https://github.com/lrq3000/kotori,live,raw LICENSE is plain GPLv3 with no 'or later' grant; README silent; GitHub detects GPL-3.0; F-Droid tags GPL-3.0-or-later (packager claim overruled by raw text)
+LavSeeker,license,,Open source,GPL-3.0-only,,https://github.com/woheller69/lavatories,live,README states 'licensed under the GPLv3' (no 'or later'); GitHub detects GPL-3.0; F-Droid tags GPL-3.0-only
+Location Map Viewer,license,,Open source,GPL-3.0-only,,https://github.com/k3b/LocationMapViewer,live,README states 'Licence: GPLv3' (no 'or later'); GitHub detects GPL-3.0; F-Droid tags GPL-3.0-only
+Mapple: Redirect Apple Maps,license,,Open source,GPL-3.0-only,,https://github.com/pluscubed/am2geo,live,raw LICENSE is plain GPLv3 with no 'or later' grant; README silent; GitHub detects GPL-3.0
+MBCompass,license,,Open source,GPL-3.0-only,,https://github.com/CompassMB/MBCompass,live,README License section grants GPLv3 with no 'or later'; GitHub detects GPL-3.0; F-Droid tags GPL-3.0-only
+Jetlog,license,,Open source,GPL-2.0-only,,https://github.com/pbogre/jetlog,live,raw LICENSE is plain GPLv2 with no 'or later' grant; README silent; GitHub detects GPL-2.0
+Haltestellenanzeige (Display Monitor),platforms,,Android,,,https://fdroid.gitlab.io/jekyll-fdroid/packages/org.sge.haltestellenanzeige/,live,"F-Droid only; upstream repo not located so license row dropped (F-Droid tags GPL-3.0-only, unverified against raw text); appears abandoned (v1.1 added Jan 2020)"
+Hikar,platforms,,Android,,,https://f-droid.org/en/packages/freemap.hikar/,live,"F-Droid (freemap.hikar); upstream GitLab repo blocked in this environment so license row dropped (F-Droid tags GPL-3.0-only, unverified); F-Droid changelog notes a 2019-09-30 Google Play release, current Play presence unverified"
+Jetlog,platforms,,Web (self-hosted),,,https://github.com/pbogre/jetlog,live,Self-hosted web app via Docker (FastAPI + React); no mobile app
+Kotori,platforms,,Android,,,https://f-droid.org/en/packages/dev.melonpan.kotori/index.html,live,"F-Droid (dev.melonpan.kotori); GPS speedometer, fork of Speedmeter"
+LavSeeker,platforms,,Android,,,https://f-droid.org/packages/org.woheller69.lavatories/,live,F-Droid (org.woheller69.lavatories); OSM toilet finder
+Location Map Viewer,platforms,,Android,,,https://f-droid.org/en/packages/de.k3b.android.locationMapViewer/,live,F-Droid (de.k3b.android.locationMapViewer)
+Magspoof,platforms,,Hardware (Arduino/ATtiny),,,https://github.com/samyk/magspoof,live,"Non-app entity: hardware project (ATtiny85/Arduino firmware + schematics) by security researcher Samy Kamkar, released 2015-11-24; no license stated in README so license row dropped; legitimate security-research tool, not malware (Chip-and-PIN disable code removed by author)"
+Mapple: Redirect Apple Maps,platforms,,Android,,,https://github.com/pluscubed/am2geo,live,Google Play (com.pluscubed.am2geo) and F-Droid (com.pluscubed.am2geo.foss)
+MBCompass,platforms,,Android,,,https://f-droid.org/packages/com.mubarak.mbcompass/,live,F-Droid (com.mubarak.mbcompass); also on Google Play per repo README badge
+NextGIS Mobile,license,,Open source,GPL-3.0-or-later,,https://github.com/nextgis/nextgis_mobile_android,live,README explicitly grants v3.0 or later; raw GPL-3.0 license text verified
+NextGIS Mobile,platforms,,Android,,,https://github.com/nextgis/nextgis_mobile_android,live,Google Play com.nextgis.mobile; Android only
+NÖ Finderlein,license,,Open source,GPL-3.0-only,,https://github.com/finderlein/noefinderlein_flutter,live,Raw GPL-3.0 license text verified; no or-later grant in README/source headers (F-Droid metadata claims or-later) — conservative reading
+NÖ Finderlein,platforms,,Android,,,https://github.com/finderlein/noefinderlein_flutter,live,Google Play at.finderlein.noe + F-Droid; Android only
+OpenBike,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/dev.cyberme0w.openbike/,live,OpenBike = NextBike client by cyberme0w (codeberg.org/cyberme0w/open-bike); NOT the hugoleboennec/OpenBike indoor-cycling app (different app; not store-released). Raw GPL-3.0 text verified; no or-later grant — conservative reading
+OpenBike,platforms,,Android,,,https://f-droid.org/en/packages/dev.cyberme0w.openbike/,live,F-Droid dev.cyberme0w.openbike; Android only
+OpenTopoMap Viewer,license,,Open source,Apache-2.0,,https://github.com/pygmalion69/opentopomapviewer,live,Raw Apache-2.0 license text verified; F-Droid metadata agrees
+OpenTopoMap Viewer,platforms,,Android,,,https://github.com/pygmalion69/opentopomapviewer,live,Google Play + F-Droid org.nitri.opentopo; Android only
+OSM Dashboard Offline for OpenTracks,license,,Open source,Apache-2.0,,https://github.com/OpenTracksApp/OSMDashboard,live,Raw Apache-2.0 license text verified; F-Droid metadata agrees
+OSM Dashboard Offline for OpenTracks,platforms,,Android,,,https://github.com/OpenTracksApp/OSMDashboard,live,F-Droid de.storchp.opentracks.osmplugin.offline; Android only
+Paris Transport Traffic,license,,Open source,MIT,,https://github.com/corenting/ParisTransportTraffic,live,Raw MIT license text verified (Copyright 2018 corenting); F-Droid metadata agrees
+Paris Transport Traffic,platforms,,Android,,,https://github.com/corenting/ParisTransportTraffic,live,Google Play + F-Droid fr.corenting.traficparis; Android only
+Phantasialand Wait Times,license,,Open source,GPL-3.0-only,,https://github.com/professorquantumuniverse/phantasialand-waitingtimes-app,live,Raw GPL-3.0 license text verified; no or-later grant in README — conservative reading; F-Droid/fossdroid metadata agrees (GPL-3.0-only)
+Phantasialand Wait Times,platforms,,Android,,,https://github.com/professorquantumuniverse/phantasialand-waitingtimes-app,live,Google Play + F-Droid com.quantum_prof.phantalandwaittimes; Android only
+PocketMaps,license,,Open source,MIT,,https://github.com/junjunguo/PocketMaps,live,Raw MIT license text verified (Copyright 2015 GuoJunjun)
+PocketMaps,platforms,,Android,,,https://github.com/junjunguo/PocketMaps,live,Google Play com.starcom.pocketmaps + F-Droid; Android only
+Radar App,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/org.radar.app/,live,Raw GPL-3.0 license text verified at upstream repo 0xacab.org/xandyx/radar-app; F-Droid metadata GPL-3.0-only
+Radar App,platforms,,Android,,,https://f-droid.org/packages/org.radar.app/,live,F-Droid org.radar.app; Android only
+Sane Side Buttons,license,,Open source,GPL-2.0-only,,https://github.com/thealpa/SaneSideButtons,live,Fork of abandoned SensibleSideButtons by archagon; raw GPL v2 text verified; no or-later grant in README — GPL-2.0-only
+Sane Side Buttons,platforms,,macOS,,,https://github.com/thealpa/SaneSideButtons,live,macOS-only desktop app (not Android); distributed via GitHub releases + Homebrew cask sanesidebuttons
+Spotify Musik und Podcasts,license,,Proprietary — paid subscription,Free tier with Premium subscription in-app purchase,,https://apps.apple.com/de/app/spotify-musik-und-podcasts/id324684580?uo=4,live,Seller Spotify on App Store DE (price free)
+Spotify Musik und Podcasts,platforms,,iOS,,,https://apps.apple.com/de/app/spotify-musik-und-podcasts/id324684580?uo=4,live,Android not verified (Play page bot-blocked); keep iOS-only
+Upside: Gas & Food Cash Back,license,,Proprietary — free,Free app,,https://apps.apple.com/us/app/upside-gas-food-cash-back/id1099997174?uo=4,live,Seller Upside Services Inc. on App Store US
+Upside: Gas & Food Cash Back,platforms,,iOS,,,https://apps.apple.com/us/app/upside-gas-food-cash-back/id1099997174?uo=4,live,Android not verified (Play page bot-blocked); keep iOS-only
+じゃらん,license,,Proprietary — free,Free app,,https://apps.apple.com/jp/app/%E3%81%98%E3%82%83%E3%82%89%E3%82%93/id366264405?uo=4,live,"Seller Recruit Co.,Ltd. on App Store JP"
+じゃらん,platforms,,iOS,,,https://apps.apple.com/jp/app/%E3%81%98%E3%82%83%E3%82%89%E3%82%93/id366264405?uo=4,live,Android not verified (Play page bot-blocked); keep iOS-only
+ユニバーサル・スタジオ・ジャパン 公式アプリ,license,,Proprietary — free,Free app,,https://apps.apple.com/jp/app/%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB-%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA-%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id532097000?uo=4,live,"Seller NBCUniversal Media, LLC on App Store JP"
+ユニバーサル・スタジオ・ジャパン 公式アプリ,platforms,,iOS,,,https://apps.apple.com/jp/app/%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB-%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA-%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3-%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id532097000?uo=4,live,Android not verified (Play page bot-blocked); keep iOS-only
+"스윙 - 택시, 자전거, 킥보드",license,,Proprietary — free,Free app,,https://apps.apple.com/kr/app/%EC%8A%A4%EC%9C%99-%ED%83%9D%EC%8B%9C-%EC%9E%90%EC%A0%84%EA%B1%B0-%ED%82%A5%EB%B3%B4%EB%93%9C/id1459344011?uo=4,live,"Seller The Swing Co., LTD on App Store KR"
+"스윙 - 택시, 자전거, 킥보드",platforms,,iOS,,,https://apps.apple.com/kr/app/%EC%8A%A4%EC%9C%99-%ED%83%9D%EC%8B%9C-%EC%9E%90%EC%A0%84%EA%B1%B0-%ED%82%A5%EB%B3%B4%EB%93%9C/id1459344011?uo=4,live,Android not verified (Play page bot-blocked); keep iOS-only
+코레일+,license,,Proprietary — free,Free app,,https://apps.apple.com/kr/app/%EC%BD%94%EB%A0%88%EC%9D%BC/id1000558562?uo=4,live,Seller Korea Railroad Corporation on App Store KR
+코레일+,platforms,,iOS,,,https://apps.apple.com/kr/app/%EC%BD%94%EB%A0%88%EC%9D%BC/id1000558562?uo=4,live,Android not verified (Play page bot-blocked); keep iOS-only
+4dface,license,,Open source,Apache-2.0,,https://github.com/patrikhuber/4dface,live,Verified against raw LICENSE text; real-time 3D face-tracking demo
+4dface,platforms,,"Windows, Linux",,,https://github.com/patrikhuber/4dface,live,README build badges show Linux (Travis) and Windows (Appveyor) builds
+A File Chooser,license,,Open source,Apache-2.0,,https://github.com/iPaulPro/aFileChooser,live,Verified against raw LICENSE.txt; repo deprecated/archived
+A File Chooser,platforms,,Android,,,https://github.com/iPaulPro/aFileChooser,live,Deprecated Android file-explorer library; repo archived
+Aaduino,license,,Open source,MIT,,https://github.com/kanflo/aaduino,live,Non-app entity: AA-sized wireless Arduino-clone hardware project (schematics + sample firmware); MIT verified against raw LICENSE
+Accerciser,license,,Open source,BSD-3-Clause,,https://github.com/gnome/accerciser,live,Upstream README Legal section: distributed under the BSD License (IBM 2006-2007); see COPYING and NOTICE; Cygwin SPDX: BSD-3-Clause; raw COPYING text not fetched — conservative
+Accerciser,platforms,,Linux,,,https://github.com/gnome/accerciser,live,GNOME interactive accessibility explorer (AT-SPI) desktop app for Linux
+Activity Trace,platforms,,Android,,,https://github.com/baddyallen/activitytrace,live,"On-device Android memory-search app; README claims GPL-3.0-only but three competing repos exist (baddyallen, davidneurieder, DavidNeurieder) so license row dropped; F-Droid lists com.activitytrace"
+AdaptKey,platforms,,Android,,,https://github.com/m-froehlich/adaptkey/commit/f8be1d87cff9b74d7ca3e867794d6f4d7d4e48a0,live,Android keyboard app (Kotlin IME) by m-froehlich; no license grant found in fetched sources — license row dropped
+Add Times,license,,Open source,GPL-3.0-or-later,,https://github.com/akaflieg-freiburg/addhoursandminutes/blob/HEAD/CLAUDE.md,live,Maintainer CLAUDE.md states GPL-3.0+; raw LICENSE file self-audit not performed — conservative
+Add Times,platforms,,Android; iOS; Linux; Web,,,https://github.com/akaflieg-freiburg/addhoursandminutes/blob/HEAD/CLAUDE.md,live,"Google Play, Apple App Store, Flathub, and WebAssembly build on homepage — per maintainer CLAUDE.md"
+Adp Activity Transitions,platforms,,Android,,,https://github.com/alexjlockwood/adp-activity-transitions/blob/HEAD/README.md,live,Demo/sample app accompanying Android Design Patterns blog posts on activity transitions; not a consumer product; repo states no license — license row dropped
+Aegisub,license,,Open source,BSD-3-Clause,,https://github.com/TypesettingTools/Aegisub,live,Upstream README: files under GPL-compatible BSD-style licenses (see LICENCE); official Windows/OS X builds GPLv2 due to fftw3 — dual-license trap flagged; raw LICENCE text not fetched — conservative
+Aegisub,platforms,,Windows; macOS; Linux,,,https://github.com/TypesettingTools/Aegisub,live,Repo describes a cross-platform advanced subtitle editor; README notes official Windows and OS X builds
+Afrikaans for AnySoftKeyboard,license,,Open source,Apache-2.0,,https://f-droid.org/packages/com.anysoftkeyboard.languagepack.afrikaans_oss/,live,F-Droid build metadata: Apache License 2.0; raw upstream LICENSE not self-audited — conservative
+Afrikaans for AnySoftKeyboard,platforms,,Android,,,https://f-droid.org/packages/com.anysoftkeyboard.languagepack.afrikaans_oss/,live,AnySoftKeyboard expansion language pack; requires Android 5.0+ per F-Droid
+AI File Sorter,license,,Open source,AGPL-3.0,,https://github.com/hyperfield/ai-file-sorter,live,"Upstream README License section: GNU AGPL; GitHub licensee detection on raw LICENSE confirms AGPL-3.0; unofficial forks exist (omnipotentai, coco-research, luffy-2y3d) — verified against upstream hyperfield repo"
+AI File Sorter,platforms,,Windows; macOS; Linux,,,https://github.com/hyperfield/ai-file-sorter,live,"README: cross-platform desktop app; works on Windows, macOS, and Linux"
+AIUsage,license,,Open source,MIT,,https://github.com/mcxiaochenn/AiUsage,live,Raw LICENSE is MIT License (2026 ChenDusk)
+AIUsage,platforms,,Android; iOS,,,https://github.com/mcxiaochenn/AiUsage,live,Android is primary platform per README; iOS compiles in CI but untested on device
+Alacarte,license,,Open source,LGPL-2.0-or-later,,https://github.com/GNOME/alacarte,live,Source headers grant LGPL v2 or later; COPYING is LGPL-2.0 text
+Alacarte,platforms,,Linux,,,https://github.com/GNOME/alacarte,live,GNOME menu editor for Linux desktops
+Alerta,license,,Open source,Apache-2.0,,https://github.com/alerta/alerta,live,Raw LICENSE is Apache License 2.0; README confirms
+Alerta,platforms,,Web; Linux,,,https://github.com/alerta/alerta,live,Server plus web console; pip and Docker install; cloud deploy to Heroku/AWS/GCP
+Alfred Switch Windows,license,,Open source,MIT,,https://github.com/mandrigin/AlfredSwitchWindows,live,Full MIT license text in README License section; no standalone LICENSE file
+Alfred Switch Windows,platforms,,macOS,,,https://github.com/mandrigin/AlfredSwitchWindows,live,Alfred workflow for macOS; requires Alfred plus Hammerspoon
+Almanah,license,,Open source,GPL-3.0-or-later,,https://github.com/GNOME/almanah,live,Source headers grant GPL v3 or later; NEWS notes relicense from GPLv2 to GPLv3
+Almanah,platforms,,Linux,,,https://github.com/GNOME/almanah,live,GNOME diary app for Linux
+Alt Launcher,license,,Open source,Apache-2.0,,https://github.com/tabletradio/altlauncher,live,Raw LICENSE is Apache License 2.0
+Alt Launcher,platforms,,Android,,,https://github.com/tabletradio/altlauncher,live,Launches apps on boot on Phoenix Android car radios
+Amaze File Utilities,license,,Open source,GPL-3.0-or-later,,https://github.com/TeamAmaze/AmazeFileUtilities,live,Source headers grant GPL v3 or later; LICENSE.txt is GPL-3.0 text
+Amaze File Utilities,platforms,,Android,,,https://github.com/TeamAmaze/AmazeFileUtilities,live,Android app from the Amaze File Manager developers
