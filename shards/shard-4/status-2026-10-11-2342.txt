@@ -1,0 +1,11 @@
+Shard 2 — Phase-2 expansion batch 71 status (2026-10-11 23:42 PKT)
+
+Batch 71 (apps.md lines 3507-3556): COMPLETE
+- Rows pushed: 95 (expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch71.csv, commit 3c8491d, on origin/main)
+- Apps verified: 48 of 50 (license badges: 30 Proprietary — free, 13 Proprietary — freemium, 4 Proprietary — paid subscription)
+- Skipped with reason (2): VideoClub - Video Call Friends (identity unresolvable); Find My Train (identity ambiguous)
+- Validation: 95 rows x 9 cols, 0 schema issues; all `live`; platforms col empty on license rows; whitelisted hosts only
+- Zero Open source/Source-available claims in this batch (all commercial mobile apps) — no raw-LICENSE re-verification triggered per brief
+- Notable: Samaj Saathi billing-trap complaints flagged; SUGO identity mismatch (MOBILE ALPHA vs voicemaker); Azul resolved as BR airline; Digi Yatra gov publisher verified; Namma BMTC 2.0 gov publisher verified; DMSS-style seller/brand mismatch checks all clean; iOS-only per no-guess rule where Play bot-blocked
+
+Next: batch 72 (apps.md lines 3557-3606).
