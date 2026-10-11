@@ -1,0 +1,67 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Open-Typer,license,,Open source,GPL-3.0,,https://api.github.com/repos/open-typer/open-typer/license,live,GitHub GPL-3.0
+Open-Typer,platforms,,Linux,,,https://github.com/open-typer/open-typer,live,GNOME Linux app
+OpenComicVine,license,,Open source,GPL-3.0,,https://api.github.com/repos/proninyaroslav/OpenComicVine/license,live,GitHub GPL-3.0
+OpenComicVine,platforms,,Android,,,https://github.com/proninyaroslav/OpenComicVine,live,Android app
+OpenGrok - a wicked fast source browser,license,,Open source,CDDL-1.0,,https://raw.githubusercontent.com/oracle/opengrok/master/LICENSE.txt,live,LICENSE.txt CDDL-1.0
+OpenGrok - a wicked fast source browser,platforms,,"Windows, macOS, Linux",,,https://opengrok.github.io/OpenGrok/,live,Java web app self-hosted
+openrocket,license,,Open source,GPL-3.0-or-later,,https://raw.githubusercontent.com/openrocket/openrocket/master/LICENSE.TXT,live,LICENSE.TXT GPL-3.0+
+openrocket,platforms,,"Windows, macOS, Linux",,,https://openrocket.info/,live,Java desktop simulator
+OpenWebWeaver,license,,Open source,GPL-3.0,,https://api.github.com/repos/deftk/OpenWebWeaver-Android/license,live,GitHub GPL-3.0
+OpenWebWeaver,platforms,,Android,,,https://github.com/deftk/OpenWebWeaver-Android,live,Android app
+Ou Dedetai,license,,Open source,MIT,,https://github.com/faithlife-community/oudedetai,live,GitHub MIT
+Ou Dedetai,platforms,,Linux,,,https://github.com/faithlife-community/oudedetai,live,Linux via Wine
+Paraview,license,,Open source,BSD-3-Clause,,https://api.github.com/repos/Kitware/ParaView/license,live,GitHub BSD-3-Clause
+Paraview,platforms,,"Windows, macOS, Linux",,,https://www.paraview.org/,live,Kitware desktop
+Parti,license,,Open source,BSD-3-Clause,,https://f-droid.org/packages/io.gitlab.carsten_scholtes.parti/,live,F-Droid BSD-3-Clause
+Parti,platforms,,Android,,,https://f-droid.org/packages/io.gitlab.carsten_scholtes.parti/,live,F-Droid Android
+Pencil,license,,Open source,GPL-2.0,,https://api.github.com/repos/evolus/pencil/license,live,GitHub GPL-2.0
+Pencil,platforms,,"Windows, macOS, Linux",,,https://github.com/evolus/pencil,live,Desktop prototyping tool
+Praktika Vortaro,license,,Open source,GPL-3.0,,https://f-droid.org/packages/com.esperantajvortaroj.app/,live,F-Droid lists GNU GPL v3.0 only
+Praktika Vortaro,platforms,,Android,,,https://f-droid.org/packages/com.esperantajvortaroj.app/,live,F-Droid Android listing
+PReVo,license,,Open source,GPL-2.0-only,,https://f-droid.org/packages/uk.co.busydoingnothing.prevo/,live,F-Droid lists GNU GPL v2.0 only
+PReVo,platforms,,Android,,,https://f-droid.org/packages/uk.co.busydoingnothing.prevo/,live,F-Droid Android listing
+Processing,license,,Open source,GPL-2.0 (core LGPL),,https://github.com/processing/processing,live,license.txt: GPL v2 for parts developed by them; core library LGPL
+Processing,platforms,,"Windows, macOS, Linux",,,https://github.com/processing/processing,live,Desktop IDE releases for Win/Mac/Linux
+Plots,license,,Open source,GPL-3.0,,https://api.github.com/repos/alexhuntley/Plots/license,live,GitHub API spdx_id GPL-3.0
+Plots,platforms,,Linux,,,https://github.com/alexhuntley/Plots,live,GNOME desktop app; Flathub com.github.alexhuntley.Plots
+Plant-it,license,,Open source,GPL-3.0,,https://api.github.com/repos/MDeLuise/plant-it/license,live,GitHub API spdx_id GPL-3.0
+Plant-it,platforms,,Android,,,https://f-droid.org/packages/com.github.mdeluise.plantit/,live,F-Droid Android listing
+PineDrama - Short Dramas,license,,Proprietary — free,,,https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922?uo=4,live,"App Store: TIKTOK PTE. LTD., free download"
+PineDrama - Short Dramas,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922?uo=4,live,App Store iOS; Android per launch coverage
+ProjectLaogai,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/ja/packages/org.mosad.seil0.projectlaogai/,live,F-Droid lists GNU General Public License v3.0 or later; Hochschule Offenburg timetable and grades app
+ProjectLaogai,platforms,,Android,,,https://f-droid.org/ja/packages/org.mosad.seil0.projectlaogai/,live,F-Droid Android listing
+PUM Lite,license,,Proprietary — free,,,https://github.com/unfolding-machines/pumc-online-hub/blob/HEAD/docs/get-the-games.md,live,Free streamlined edition of the commercial PUM app family (Unfolding Machines); no open-source claim anywhere; store listings coming soon
+pymol-oss,license,,Open source,BSD-like license,,https://github.com/pdpppd/pymol-open-source,live,Repo README: Published under a BSD-like license (Schrodinger LLC); open-source foundation of PyMOL
+Python3 Navarp,license,,Open source,DFSG-free (Debian main),,https://packages.debian.org/source/bookworm/misc/navarp,live,Debian main source package (DFSG-free); upstream GitLab license text not fetchable (gitlab.com blocked)
+Python3 Navarp,platforms,,"Windows, macOS, Linux",,,https://fbisti.gitlab.io/navarp/installation.html,live,Official install docs: Debian/Ubuntu/Mint package plus Miniforge on any OS
+QGIS Desktop,license,,Open source,GPL-2.0-or-later,"Windows, macOS, Linux",https://github.com/qgis/QGIS,live,Repo README: released under GNU Public License (GPL) Version 2 or any later version
+QGIS Desktop,platforms,,"Windows, macOS, Linux",,,https://github.com/qgis/QGIS,live,Repo describes free open source cross platform (lin/win/mac) GIS
+Quadermas,license,,Open source,GPL-3.0,Android,https://github.com/stypox/mastercom-workbook,live,Repo license: GNU General Public License v3.0; unofficial Mastercom workbook client
+Quadermas,platforms,,Android,,,https://github.com/stypox/mastercom-workbook,live,README shows F-Droid and Play Store badges
+Quoter,license,,Open source,GPL-3.0-only,Android,https://F-Droid.org/en/packages/com.easwareapps.quoter/index.html,live,F-Droid: GNU General Public License v3.0 only; quote display app
+Quoter,platforms,,Android,,,https://F-Droid.org/en/packages/com.easwareapps.quoter/index.html,live,F-Droid Android listing
+RAGSUITE,license,,Open source,Apache-2.0,,https://api.github.com/repos/ragsuite/ragsuite/license,live,GitHub API Apache-2.0
+RAGSUITE,platforms,,"iOS, Android, Web",,,https://github.com/ragsuite/ragsuite,live,Expo React Native client for iOS Android web
+Rigs of Rods,license,,Open source,GPL-3.0,,https://api.github.com/repos/RigsOfRods/rigs-of-rods/license,live,GitHub API GPL-3.0
+Rigs of Rods,platforms,,"Windows, Linux",,,https://github.com/RigsOfRods/rigs-of-rods,live,Build guide for Windows and Linux
+ROOT Framework,license,,Open source,LGPL-2.1-or-later,,https://root.cern/about/license/,live,Official site LGPL 2.1 or later
+ROOT Framework,platforms,,"Windows, macOS, Linux",,,https://root.cern/,live,Official downloads for all three
+RPNcalc,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/dev.pesic.rpncalc/,live,F-Droid GPL-3.0-only
+RPNcalc,platforms,,Android,,,https://f-droid.org/packages/dev.pesic.rpncalc/,live,F-Droid Android
+RZR,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/bilalsul.rzr/,live,F-Droid GPL-3.0-only
+RZR,platforms,,Android,,,https://f-droid.org/packages/bilalsul.rzr/,live,F-Droid Android
+Scilab CLI,license,,Open source,GPL-2.0,"Windows, macOS, Linux",https://www.scilab.org/download,live,Official download page: GPL-2.0; scilab-cli is Scilab command-line interpreter
+Scilab CLI,platforms,,"Windows, macOS, Linux",,,https://www.scilab.org/download,live,Download page lists Windows Linux macOS builds
+Seaview,license,,Source-available,GNU GPL with no-revenue restriction,"Windows, macOS, Linux",https://doua.prabi.fr/software/seaview,live,Debian/Ubuntu manpage: GPL but no revenue generation with SeaView; field-of-use restriction
+Seaview,platforms,,"Windows, macOS, Linux",,,https://doua.prabi.fr/software/seaview,live,Official site offers Windows Linux macOS downloads
+Seneca - AP & Test Prep,license,,Proprietary — freemium,,,https://help.senecalearning.com/en/articles/2663301-what-is-premium,live,Official help: base platform free; Premium packages paid
+Seneca - AP & Test Prep,platforms,,Web,,,https://help.senecalearning.com/en/articles/2663301-what-is-premium,live,Web-based learning platform
+Shelxle,license,,Open source,LGPL-2.1,"Windows, macOS, Linux",https://www.shelxle.org/shelx/shelXle_IUCr_posterx.pdf,live,Official site: licensed under LGPL(2.1)
+Shelxle,platforms,,"Windows, macOS, Linux",,,https://www.shelxle.org/shelx/shelXle_IUCr_posterx.pdf,live,Official site lists Windows MacOS X Linux
+Stardict,license,,Open source,GPL-3.0-or-later,"Linux, Windows",https://github.com/huzheng001/stardict-3,live,GPL-3.0-or-later dictionary shell (huzheng001/stardict-3)
+Stardict,platforms,,"Linux, Windows",,,https://github.com/huzheng001/stardict-3,live,Cross-platform desktop dictionary
+Stimfit,license,,Open source,GPL-2.0,"Linux, macOS, Windows",https://github.com/neurodroid/stimfit,live,GitHub license: GNU General Public License v2.0
+Stimfit,platforms,,"Linux, macOS, Windows",,,https://github.com/neurodroid/stimfit,live,README: available for GNU/Linux Mac OS X Windows
+SunBible,license,,Open source,MIT,Linux,https://snapcraft.io/sunbible,live,Snap Store lists License: MIT; SunBible-dev/sunbible
+SunBible,platforms,,Linux,,,https://snapcraft.io/sunbible,live,Snap package for Linux
