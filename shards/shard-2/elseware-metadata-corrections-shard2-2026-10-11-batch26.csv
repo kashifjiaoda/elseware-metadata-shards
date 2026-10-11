@@ -1,0 +1,69 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+RTA Dubai,license,,Proprietary — free,Free app by Roads & Transport Authority; no paid tier in listing,iOS,https://apps.apple.com/ae/app/rta-dubai/id426109507?uo=4,live,App Store: Free by Roads & Transport Authority; description lists traffic and transportation services with no subscription tier
+RTA Dubai,platforms,,iOS,,,https://apps.apple.com/ae/app/rta-dubai/id426109507?uo=4,live,iTunes API: iosUniversal; iPhone and iPad supported devices
+DubaiNow,license,,Proprietary — free,Free app by Dubai eGovernment Department; no paid tier in listing,iOS,https://apps.apple.com/ae/app/dubainow/id619712783?uo=4,live,App Store: Free; unified platform for 320+ Dubai government services; no subscription tier in description
+DubaiNow,platforms,,iOS,,,https://apps.apple.com/ae/app/dubainow/id619712783?uo=4,live,iTunes API: iosUniversal; iPhone and iPad supported devices
+Etisalat e&,license,,Proprietary — free,Free app by Emirates Telecommunications Corporation; no paid tier in listing,iOS,https://apps.apple.com/ae/app/etisalat-uae/id866147547?uo=4,live,"App Store: etisalat UAE by Emirates Telecommunications Corporation; Free price 0.00; manage mobile, home internet, devices with no subscription tier"
+Etisalat e&,platforms,,iOS,,,https://apps.apple.com/ae/app/etisalat-uae/id866147547?uo=4,live,iTunes API: iPhone and iPad supported devices
+Du,license,,Proprietary — free,Free app by EMIRATES INTEGRATED TELECOMMUNICATIONS COMPANY PJSC; no paid tier in listing,iOS,https://apps.apple.com/ae/app/du/id521545878?uo=4,live,App Store: du by EITC du telecom UAE; Free price 0.00; account management and recharge with no subscription tier
+Du,platforms,,iOS,,,https://apps.apple.com/ae/app/du/id521545878?uo=4,live,iTunes API: iosUniversal; iPhone and iPad supported devices
+Smiles,license,,Proprietary — freemium,"Free app; Smiles Unlimited subscription AED 29/month for unlimited free deliveries, B1G1 offers, zero service fees",iOS,https://apps.apple.com/ae/app/smiles-food-groceries-more/id1225034537?uo=4,live,App Store: Smiles by Emirates Telecommunications Corp - Etisalat; Free; description details Smiles Unlimited AED 29/month subscription tier
+Smiles,platforms,,iOS,,,https://apps.apple.com/ae/app/smiles-food-groceries-more/id1225034537?uo=4,live,iTunes API: iPhone and iPad supported devices
+Wego,license,,Proprietary — free,Free app by WEGO PTE. LTD.; no paid tier in listing,iOS,https://apps.apple.com/ae/app/wego-flights-hotels-booking/id751096907?uo=4,live,App Store: Wego Flights & Hotels Booking; Free price 0.00; flight and hotel deals with no subscription tier
+Wego,platforms,,iOS,,,https://apps.apple.com/ae/app/wego-flights-hotels-booking/id751096907?uo=4,live,iTunes API: iosUniversal; iPhone and iPad supported devices
+N26,license,,Proprietary — freemium,"Free app; premium paid accounts (N26 Smart, N26 Go, N26 Metal) for extra perks",iOS,https://apps.apple.com/us/app/n26-love-your-bank/id956857223?uo=4,live,"App Store: N26 by N26 SE; Free; description lists premium accounts N26 Smart, N26 Go, N26 Metal"
+N26,platforms,,iOS,,,https://apps.apple.com/us/app/n26-love-your-bank/id956857223?uo=4,live,iTunes API: iPhone and iPad supported devices
+Revolut,license,,Proprietary — freemium,Free app; Premium and Metal paid plans for exclusive cards and benefits,iOS,https://apps.apple.com/us/app/revolut-send-spend-and-save/id932493382?uo=4,live,App Store: Revolut by Revolut Ltd; Free; description details paid Premium and Metal plans with subscription fees
+Revolut,platforms,,iOS,,,https://apps.apple.com/us/app/revolut-send-spend-and-save/id932493382?uo=4,live,iTunes API: iosUniversal; iPhone and iPad supported devices
+Klarna,license,,Proprietary — freemium,"Free app; Klarna Membership paid monthly fee for card, cashback, travel perks",iOS,https://apps.apple.com/us/app/klarna-smarter-everyday-money/id1115120118?uo=4,live,App Store: Klarna by Klarna Bank AB; Free; description states Klarna Membership offered for a monthly fee
+Klarna,platforms,,iOS,,,https://apps.apple.com/us/app/klarna-smarter-everyday-money/id1115120118?uo=4,live,iTunes API: iPhone and iPad supported devices
+Trade Republic,license,,Proprietary — free,Free to download; no monthly costs; no subscription tier; invest from €1 with €1 flat fee per trade external costs,iOS,https://apps.apple.com/de/app/trade-republic-broker-bank/id1410703839?uo=4,live,App Store DE: price 0.00 (Gratis); seller Trade Republic Bank GmbH
+Trade Republic,platforms,,iOS,,,https://apps.apple.com/de/app/trade-republic-broker-bank/id1410703839?uo=4,live,supportedDevices lists iPhone/iPad (iosUniversal)
+Lydia,license,,Proprietary — free,Free P2P payments and money pots app; no paid tier in listing,iOS,https://apps.apple.com/fr/app/lydia/id6475691727?uo=4,live,App Store FR: price 0.00 (Gratuit); seller LYDIA Solutions
+Lydia,platforms,,iOS,,,https://apps.apple.com/fr/app/lydia/id6475691727?uo=4,live,supportedDevices lists iPhone/iPad
+Qonto,license,,Proprietary — paid subscription,Basic €9/mo and Premium €39/mo plans; 1-month free trial; no free tier,iOS,https://qonto.com/en/pricing,live,Official pricing page; app itself free on App Store
+Qonto,platforms,,iOS,,,https://apps.apple.com/fr/app/qonto-plus-quun-compte-pro/id1214811644?uo=4,live,supportedDevices lists iPhone/iPad
+bunq,license,,Proprietary — freemium,Free €0/mo tier; Core €3.99/mo; Pro €9.99/mo; Elite €18.99/mo,iOS,https://apps.apple.com/nl/app/bunq/id1021178150?uo=4,live,App Store NL listing details all four tiers; seller bunq B.V.
+bunq,platforms,,iOS,,,https://apps.apple.com/nl/app/bunq/id1021178150?uo=4,live,supportedDevices lists iPhone/iPad (iosUniversal)
+Vivid,license,,Proprietary — freemium,Free tariff at €0/mo alongside paid plans,iOS,https://apps.apple.com/de/app/vivid-business-und-personal/id1504417378?uo=4,live,App Store DE: price 0.00 (Gratis); listing states kostenloser Tarif für 0 €/Monat plus paid plans; seller Vivid Money GmbH
+Vivid,platforms,,iOS,,,https://apps.apple.com/de/app/vivid-business-und-personal/id1504417378?uo=4,live,supportedDevices lists iPhone/iPad
+Scalable Capital,license,,Proprietary — freemium,Free to download; €0.99 per trade or PRIME+ subscription upgrade for unlimited trading,iOS,https://apps.apple.com/de/app/scalable-capital-bank/id1075561513?uo=4,live,App Store DE: price 0.00 (Gratis); listing names PRIME+ paid upgrade; seller Scalable GmbH
+Scalable Capital,platforms,,iOS,,,https://apps.apple.com/de/app/scalable-capital-bank/id1075561513?uo=4,live,supportedDevices lists iPhone/iPad (iosUniversal)
+Freetrade,license,,Proprietary — freemium,Basic plan free (no subscription fee); Standard £4.99/mo; Plus £9.99/mo,"iOS, Web",https://freetrade.io/pricing,live,Official pricing page; app free on App Store
+Freetrade,platforms,,"iOS, Web",,,https://freetrade.io/pricing,live,App Store GB (iosUniversal); pricing page lists mobile app and web platform access
+Doctolib,license,,Proprietary — free,Free patient health companion app; no paid tier,iOS,https://apps.apple.com/fr/app/doctolib-compagnon-de-sant%C3%A9/id925339063?uo=4,live,App Store FR: price 0.00 (Gratuit); seller Doctolib
+Doctolib,platforms,,iOS,,,https://apps.apple.com/fr/app/doctolib-compagnon-de-sant%C3%A9/id925339063?uo=4,live,supportedDevices lists iPhone/iPad (iosUniversal)
+ManoMano,license,,Proprietary — free,Free DIY marketplace shopping app; no paid tier,iOS,https://apps.apple.com/fr/app/manomano-bricolage-et-jardin/id1503142603?uo=4,live,App Store FR: price 0.00 (Gratuit); seller Colibri SAS
+ManoMano,platforms,,iOS,,,https://apps.apple.com/fr/app/manomano-bricolage-et-jardin/id1503142603?uo=4,live,supportedDevices lists iPhone
+CommBank,license,,Proprietary — free,Free to download,iOS; Android,https://apps.apple.com/us/app/commbank/id310251202,live,App Store: Free; 'You can download the CommBank app for free'
+CommBank,platforms,,iOS; Android,,,https://apps.apple.com/us/app/commbank/id310251202,live,commbank.com.au: Android 8.0+ and iOS 15.0+
+ANZ,license,,Proprietary — free,Free,iOS; Android,https://apps.apple.com/au/app/anz-plus/id1495738612,live,App Store AU: Free; ANZ's current flagship app is ANZ Plus
+ANZ,platforms,,iOS; Android,,,https://apps.apple.com/au/app/anz-plus/id1495738612,live,anz.com.au: Apple App Store and Google Play
+Westpac,license,,Proprietary — free,Free,iOS; Android,https://apps.apple.com/au/app/westpac/id299111811,live,App Store AU: Free
+Westpac,platforms,,iOS; Android,,,https://apps.apple.com/au/app/westpac/id299111811,live,westpac.com.au: Android App and iOS App
+Afterpay,license,,Proprietary — free,Free; pay in 4 interest-free,iOS; Android,https://apps.apple.com/au/app/afterpay-pay-over-time/id1230286588,live,"App Store AU: Free; 'No fees when you pay on time, no interest'"
+Afterpay,platforms,,iOS; Android,,,https://apps.apple.com/au/app/afterpay-pay-over-time/id1230286588,live,App Store (iOS); Google Play AU listing (Android)
+myGov,license,,Proprietary — free,Free; official government app,iOS,https://apps.apple.com/nz/app/mygov/id938033081,live,App Store: Free; Seller Services Australia; 'Official Australian Government myGov app'
+myGov,platforms,,iOS,,,https://apps.apple.com/nz/app/mygov/id938033081,live,"Listing shows iPhone, iPad, Apple Vision"
+Woolworths,license,,Proprietary — free,Free,iOS,https://apps.apple.com/au/app/woolworths/id975089690,live,App Store AU: Free; Seller Woolworths Group Limited
+Woolworths,platforms,,iOS,,,https://apps.apple.com/au/app/woolworths/id975089690,live,Listing: iPhone only
+Stan,license,,Proprietary — paid subscription,Basic with Ads $9.99/mo; Standard $17.99/mo; Premium $23.99/mo; Sport $20/mo add-on,iOS; Android; Web,https://help.stan.com.au/hc/en-us/articles/115005777028-Stan-subscription-plans,live,Official Stan support: all plans paid monthly; no free tier
+Stan,platforms,,iOS; Android; Web,,,https://help.stan.com.au/hc/en-us/articles/115005777028-Stan-subscription-plans,live,iOS/Android apps; streams via stan.com.au web
+SBS On Demand,license,,Proprietary — free,Free ad-supported streaming,iOS; Android; Web,https://apps.apple.com/au/app/sbs-on-demand/id542090992,live,App Store AU: Free; by Special Broadcasting Service
+SBS On Demand,platforms,,iOS; Android; Web,,,https://apps.apple.com/au/app/sbs-on-demand/id542090992,live,iOS/Android apps; sbs.com.au/ondemand web
+7plus,license,,Proprietary — free,Free app by Seven Network (Operations) Ltd.; stream live channels and on-demand shows free,iOS,https://apps.apple.com/au/app/7plus/id1119404646?uo=4,live,"App Store: Free (price 0.00); description states ""Stream free on your Seven app, 7plus"""
+7plus,platforms,,"iOS, Web",,,https://apps.apple.com/au/app/7plus/id1119404646?uo=4,live,iTunes API: iosUniversal (iPhone/iPad); sellerUrl 7plus.com.au confirms web streaming
+9Now,license,,Proprietary — free,"Free app by NINE NETWORK AUSTRALIA PTY LTD; ""9Now is free and easy to use""",iOS,https://apps.apple.com/au/app/9now/id542088539?uo=4,live,App Store: Free (price 0.00); description states 9Now is free and easy to use
+9Now,platforms,,"iOS, Web",,,https://apps.apple.com/au/app/9now/id542088539?uo=4,live,iTunes API: iosUniversal (iPhone/iPad); sellerUrl 9now.com.au confirms web streaming
+10 play,license,,Proprietary — free,"Free app by Network Ten Pty Ltd; ""Stream Over 10, 000 Hours Of Free Entertainment""",iOS,https://apps.apple.com/au/app/10/id409289742?uo=4,live,"App Store: Free (price 0.00); App Store track name is ""10""; description states free entertainment"
+10 play,platforms,,"iOS, Web",,,https://apps.apple.com/au/app/10/id409289742?uo=4,live,iTunes API: iosUniversal (iPhone/iPad); sellerUrl 10.com.au/apps confirms web streaming
+Domain,license,,Proprietary — free,"Free app by Domain Holdings Australia; free property search for buy,  sell,  rent",iOS,https://apps.apple.com/au/app/domain-real-estate-property/id319908646?uo=4,live,"App Store: Free (price 0.00); track name ""Domain Real Estate & Property"""
+Domain,platforms,,"iOS, Web",,,https://apps.apple.com/au/app/domain-real-estate-property/id319908646?uo=4,live,iTunes API: iosUniversal (iPhone/iPad); sellerUrl domain.com.au confirms web platform
+Opal Travel,license,,Proprietary — free,"Free official app by Transport for NSW; ""Download the FREE Opal Travel app now""",iOS,https://apps.apple.com/au/app/opal-travel/id941006607?uo=4,live,App Store: Free (price 0.00); official Transport for NSW app
+Opal Travel,platforms,,iOS,,,https://apps.apple.com/au/app/opal-travel/id941006607?uo=4,live,iTunes API: iPhone app (supported devices)
+Airtasker,license,,Proprietary — free,Free app by Airtasker Limited; free gig marketplace for posters and taskers,iOS,https://apps.apple.com/au/app/airtasker/id512137061?uo=4,live,App Store: Free (price 0.00); no paid tier in listing
+Airtasker,platforms,,"iOS, Web",,,https://apps.apple.com/au/app/airtasker/id512137061?uo=4,live,iTunes API: iPhone/iPad; sellerUrl airtasker.com confirms web platform
+OpenAlex,license,,Open source,MIT license,,https://api.github.com/repos/ourresearch/openalex-api/license,live,GitHub API: ourresearch/openalex-api LICENSE is MIT (spdx_id MIT); OSI-approved open source
+OpenAlex,platforms,,Web,,,https://openalex.org/,live,Official: web-based open catalog to the global research system; data open under CC0
+Pleco,license,,Proprietary — freemium,"Free app by Pleco Inc.; two free built-in dictionaries; paid add-ons ($) for OCR,  flashcards,  extra dictionaries",iOS,https://apps.apple.com/us/app/pleco-chinese-dictionary/id341922306?uo=4,live,"App Store: Free (price 0.00); description states ""Major features: ($ = paid add-on)"""
+Pleco,platforms,,iOS,,,https://apps.apple.com/us/app/pleco-chinese-dictionary/id341922306?uo=4,live,iTunes API: iosUniversal (iPhone/iPad)
