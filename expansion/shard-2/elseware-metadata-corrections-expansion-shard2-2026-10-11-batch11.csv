@@ -1,0 +1,70 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Cool Mic,license,,Open source,GPL-3.0,Android,https://f-droid.org/en/packages/cc.echonet.coolmicapp/,live,Repo README: 100% Open Source (GPLv3) Android Icecast client; F-Droid lists license
+Cool Mic,platforms,,Android,,,https://f-droid.org/en/packages/cc.echonet.coolmicapp/,live,F-Droid listing; Android app
+CorsixTH,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/CorsixTH/CorsixTH,live,LICENSE.txt verified as MIT text via raw file
+CorsixTH,platforms,,"Windows, macOS, Linux",,,https://github.com/CorsixTH/CorsixTH,live,README: support for modern operating systems (Windows macOS Linux BSD)
+Cow's Revenge,license,,Open source,GPL-3.0,Android,https://f-droid.org/en/packages/org.pipoypipagames.cowsrevenge/,live,Code GPL-3.0 per F-Droid and README; assets CC-BY-NC-SA-4.0 (note split)
+Cow's Revenge,platforms,,Android,,,https://f-droid.org/en/packages/org.pipoypipagames.cowsrevenge/,live,F-Droid Android package
+Crispy Doom,license,,Open source,GPL-2.0,"Windows, macOS, Linux",https://github.com/fabiangreffrath/crispy-doom,live,GitHub license API spdx GPL-2.0; README states GPL-2+
+Crispy Doom,platforms,,"Windows, macOS, Linux",,,https://github.com/fabiangreffrath/crispy-doom,live,MacPorts (macOS) and Guix (Linux) packages; Windows releases
+Cuberite,license,,Open source,Apache-2.0,"Windows, macOS, Linux, Android",https://github.com/cuberite/cuberite,live,Raw LICENSE file verified as Apache License text
+Cuberite,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/cuberite/cuberite,live,README: runs on Windows *nix and Android; EasyInstall for macOS
+CurseForge,license,,Proprietary — free,,"Windows, macOS",https://www.curseforge.com/,live,Overwolf mod platform; app free to download from official site
+CurseForge,platforms,,"Windows, macOS",,,https://www.curseforge.com/,live,Official site download page: desktop app
+Dagger: Dota 2 Stats,license,,Open source,MIT,Android,https://github.com/nikolajakshic/dagger,live,GitHub license API spdx MIT; README MIT License section
+Dagger: Dota 2 Stats,platforms,,Android,,,https://github.com/nikolajakshic/dagger,live,F-Droid and Play Store Android app
+DartsTrainer,license,,Open source,AGPL-3.0-only,Android,https://f-droid.org/en/packages/eu.dartstrainer.app.twa/,live,F-Droid lists GNU Affero General Public License v3.0 only
+DartsTrainer,platforms,,Android,,,https://f-droid.org/en/packages/eu.dartstrainer.app.twa/,live,F-Droid Android wrapper for the DartsTrainer PWA
+Dealing Sheet,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/en/packages/org.principate.matthew.dealing_sheet,live,F-Droid listing license GPL-3.0-or-later
+Dealing Sheet,platforms,,Android,,,https://f-droid.org/en/packages/org.principate.matthew.dealing_sheet,live,F-Droid Android listing
+DevilutionX,license,,Source-available,Sustainable Use License v1.0,,https://github.com/diasurgical/devilutionX,live,README states released under Sustainable Use License; non-commercial use only; not OSI-approved
+DialogMusicPlayer,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/en/packages/phone.vishnu.dialogmusicplayer,live,F-Droid listing license GPL-3.0-only
+DialogMusicPlayer,platforms,,Android,,,https://f-droid.org/en/packages/phone.vishnu.dialogmusicplayer,live,F-Droid Android listing
+Dima Defense,license,,Open source,Apache-2.0,Android,https://f-droid.org/en/packages/org.xolatgames.dima.defense,live,F-Droid listing license Apache-2.0
+Dima Defense,platforms,,Android,,,https://f-droid.org/en/packages/org.xolatgames.dima.defense,live,F-Droid Android listing
+DOOM & Wolfenstein RPG,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/com.mobilerpgpack.phone/,live,F-Droid listing license GPL-3.0-only
+DOOM & Wolfenstein RPG,platforms,,Android,,,https://f-droid.org/packages/com.mobilerpgpack.phone/,live,F-Droid Android listing
+Doomsday Engine,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/skyjake/Doomsday-Engine,live,Repo README: sources under GNU GPL (doomsday/gpl-3.0.txt); Doomsday 3 libs under LGPL
+Doomsday Engine,platforms,,"Windows, macOS, Linux",,,https://www.dengine.net,live,Official site lists Windows Mac OS X and Unix platforms with Flatpak for Linux
+Dossizola,license,,Open source,GPL-2.0,"Windows, Linux",https://packages.debian.org/sid/dossizola,live,Debian copyright file: GPL-2; SourceForge install page lists Windows and Linux binaries
+Dossizola,platforms,,"Windows, Linux",,,http://dossizola.sourceforge.net/install.html,live,Official install page: WINDOWS and LINUX BINARY distributions
+Dreamchess,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/dreamchess/dreamchess,live,GitHub API spdx GPL-3.0; README: supports Windows macOS Linux
+Dreamchess,platforms,,"Windows, macOS, Linux",,,https://github.com/dreamchess/dreamchess,live,README: DreamChess currently supports Windows macOS and Linux
+DSA Assistent,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/eu.roggstar.luigithehunter.dsaassistent/,live,F-Droid listing: GNU General Public License v3.0 only
+DSA Assistent,platforms,,Android,,,https://f-droid.org/packages/eu.roggstar.luigithehunter.dsaassistent/,live,F-Droid Android app
+DSub2000,license,,Open source,GPL-3.0,Android,https://github.com/drshajul/dsub2000,live,GitHub API spdx GPL-3.0; fork of DSub Subsonic client; F-Droid listed
+DSub2000,platforms,,Android,,,https://f-droid.org/packages/github.paroj.dsub2000,live,F-Droid Android client for Subsonic servers
+Dustracing2d,license,,Open source,GPL-3.0,"Linux, Windows",https://github.com/juzzlin/DustRacing2D,live,GitHub API spdx GPL-3.0; COPYING file text read directly
+Dustracing2d,platforms,,"Linux, Windows",,,https://juzzlin.github.io/DustRacing2D/,live,Official site: Linux and Windows builds
+E:D Market Connector,license,,Open source,GPL-2.0,,https://github.com/EDCD/EDMarketConnector,live,GitHub API spdx GPL-2.0; Elite Dangerous companion app
+EasyRPG Player,license,,Open source,GPL-3.0,,https://github.com/EasyRPG/Player,live,GitHub API spdx GPL-3.0; README: free software under GPLv3
+EDuke32,license,,Open source,GPL-2.0 + BUILD license (dual),"Windows, Linux, macOS",http://eduke32.com/,live,Official site: licensed under the GNU GPL and the BUILD license; open source free for non-commercial use
+EDuke32,platforms,,"Windows, Linux, macOS",,,http://eduke32.com/,live,Official site: Windows Linux macOS FreeBSD
+ET: Legacy,license,,Open source,GPL-3.0,"Windows, Linux, macOS",https://github.com/etlegacy/etlegacy,live,GitHub license API GPL-3.0; repo desc confirms GPLv3 Enemy Territory codebase
+ET: Legacy,platforms,,"Windows, Linux, macOS",,,https://www.etlegacy.com,live,Official site: Windows and Linux and MacOS
+Extreme Tux Racer,license,,Open source,GPL-2.0,"Windows, Linux",http://sourceforge.net/projects/extremetuxracer/,live,SourceForge project page lists GPLv2; Snap Store lists GPL-2.0-or-later
+Extreme Tux Racer,platforms,,"Windows, Linux",,,http://sourceforge.net/projects/extremetuxracer/,live,SourceForge: BSD Linux Windows
+Fairy Mahjong,license,,Open source,Apache-2.0,Android,https://github.com/FairyTrick/FairyMahjong,live,GitHub license API Apache-2.0; README states code and artwork Apache-2.0
+Fairy Mahjong,platforms,,Android,,,https://github.com/FairyTrick/FairyMahjong,live,Offline tile matching for Android 8.0+
+EmojiClu,license,,Open source,MIT License,"Linux, Windows",https://github.com/timcharper/emojiclu,live,GitHub license API MIT; GTK zebra-puzzle logic game
+EmojiClu,platforms,,"Linux, Windows",,,https://github.com/timcharper/emojiclu,live,Repo docs: runs on Linux and Windows; Flathub package
+Emu2,license,,Open source,GPL-2.0,Linux,https://github.com/dmsc/emu2,live,GitHub license API GPL-2.0; simple x86/DOS emulator
+Emu2,platforms,,Linux,,,https://github.com/dmsc/emu2,live,Repo desc: emulator for the Linux terminal
+Emupedia Github Io,license,,Source-available,Custom non-commercial license,Web,https://github.com/emupedia/emupedia.github.io,live,LICENSE file: non-commercial testing and evaluation only; not OSI-approved
+Emupedia Github Io,platforms,,Web,,,https://github.com/emupedia/emupedia.github.io,live,Browser-based retro computing platform
+Eve Game Tracker,license,,Open source,GPL-3.0-only,Android,https://github.com/eve-146t/eve-game-tracker,live,F-Droid lists GPL-3.0-only; card-game score tracker not the EVE Online app
+Eve Game Tracker,platforms,,Android,,,https://f-droid.org/packages/eve.game.tracker/,live,F-Droid Android package
+Fceux,license,,Open source,GPL-2.0,Windows,https://github.com/TASEmulators/fceux,live,GitHub API spdx_id GPL-2.0
+Fceux,platforms,,"Windows, Linux, macOS",,,https://github.com/TASEmulators/fceux,live,Win32 + Qt SDL port for Linux/macOS
+Feudal Tactics,license,,Open source,GPL-3.0-or-later,,https://github.com/Sesu8642/FeudalTactics,live,GitHub API spdx_id GPL-3.0; README licensing section
+Feudal Tactics,platforms,,"Android, Linux",,,https://f-droid.org/packages/de.sesu8642.feudaltactics/,live,F-Droid Android; lwjgl desktop build for Linux
+FinalRozGameNew,license,,Open source,MIT License,,https://f-droid.org/en/packages/org.codeberg.rozworld.finalrozgamenew/,live,F-Droid listing: License MIT License; repo codeberg.org/rozworld/final-roz-game-new
+FinalRozGameNew,platforms,,Android,,,https://f-droid.org/en/packages/org.codeberg.rozworld.finalrozgamenew/,live,F-Droid package org.codeberg.rozworld.finalrozgamenew
+Fintunes,license,,Open source,MIT License,,https://f-droid.org/packages/nl.moeilijkedingen.jellyfinaudioplayer/,live,F-Droid listing: License MIT License
+Fintunes,platforms,,"Android, iOS",,,https://f-droid.org/packages/nl.moeilijkedingen.jellyfinaudioplayer/,live,F-Droid Android; App Store iOS; Jellyfin audio player
+Fish Fillets,license,,Open source,GPL-2.0-or-later,,https://fillets.sourceforge.net/,live,Original released under GPL 2002; fillets-ng GPL; port GPL-2.0-or-later
+Fish Fillets,platforms,,"Windows, Linux, macOS",,,https://fillets.sourceforge.net/,live,fillets-ng ported to Linux/Mac/Windows per LaunchBox database
+Flang,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/de.tadris.flang/,live,F-Droid listing: Licence GNU GPL v3.0 or later; board game by Jannis
+Flang,platforms,,Android,,,https://f-droid.org/packages/de.tadris.flang/,live,F-Droid package de.tadris.flang
+"Flux - Movies, Shows & Anime local player",license,,Open source,GPL-3.0,,https://github.com/the-mskd-dev/flux,live,GitHub API spdx_id GPL-3.0; README matches catalog description
+"Flux - Movies, Shows & Anime local player",platforms,,"Android",,,https://github.com/the-mskd-dev/flux,live,Native Android Kotlin app; note fork ero-gamer/flux-next exists
