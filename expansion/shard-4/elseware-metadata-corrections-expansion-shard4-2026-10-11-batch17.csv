@@ -1,0 +1,67 @@
+Webtorrent Desktop,license,,Open source,MIT,,https://github.com/webtorrent/webtorrent-desktop,live,"GitHub org lists MIT; README: MIT, copyright WebTorrent LLC"
+Webtorrent Desktop,platforms,,"Mac, Windows, Linux",,,https://github.com/webtorrent/webtorrent-desktop,live,"Repo description: streaming torrent app for Mac, Windows, and Linux"
+Whichwayisup,license,,Open source,"GPL-2.0 (code), CC-BY-3.0 (content)",,https://www.oletus.fi/static/whichwayisup/,live,Bundled game readme: code under GPL 2.0; sounds/graphics under CC-BY 3.0
+Whichwayisup,platforms,,"Linux, Windows",,,https://www.oletus.fi/static/whichwayisup/,live,Readme gives Linux (~/.wwisup) and Windows XP/2000 save paths
+wisdom,license,,Open source,GPL-2.0,,https://sourceforge.net/projects/wisdom/,live,Project page: GPL version 2.0; 32-bit hobby OS with primitive shell
+Wterm,license,,Open source,GPL-2.0,,https://sourceforge.net/projects/wterm,live,Project page: GPLv2; color VT102 terminal emulator for X Window System
+Wterm,platforms,,"Linux, BSD",,,https://sourceforge.net/projects/wterm,live,"Project page operating systems: BSD, Linux"
+Xbubble Data,license,,Open source,GPL,,http://www.nongnu.org/xbubble/,live,Home page: distributed under the GNU GPL license; Debian/Ubuntu manpages confirm
+Xbubble Data,platforms,,Linux,,,http://www.nongnu.org/xbubble/,live,Unix/X11 Puzzle Bobble clone; Debian Linux package
+Xgalaga++,license,,Open source,GPL,,http://marc.mongenet.ch/OSS/XGalaga/,live,Official site: released under the GNU GPL (version unspecified; packagers disagree)
+Xgalaga++,platforms,,"Linux, macOS",,,http://marc.mongenet.ch/OSS/XGalaga/,live,"Requirements: X11, Unix-like; developed on Linux, known to work on Mac OS X"
+Xsnow,platforms,,Linux,,,https://www.ratrabbit.nl/ratrabbit/xsnow/,live,Official site: runs on most varieties of Linux; no license claim (site states none)
+Yakuake,license,,Open source,"GPL-2.0, GPL-3.0-or-later",,https://github.com/kde/yakuake,live,"README: GPL v2, GPL v3 or any later version accepted by KDE e.V."
+Yomikiru,license,,Open source,MIT,,https://github.com/mienaiyami/yomikiru,live,Repo license detection + README: MIT License
+Yomikiru,platforms,,"Windows, macOS, Linux",,,https://github.com/mienaiyami/yomikiru,live,"README: cross-platform Windows, macOS, and Linux support"
+Yuzu,license,,Open source,GPL-3.0-or-later,,https://github.com/twan-hoogveld/yuzu,live,Final README: GPLv3 (or any later version); official repo removed 2024-03
+Yuzu,platforms,,"Windows, Linux, Android",,,https://github.com/swan-benoit/yuzu-emu,live,"Mirror of official README: builds maintained for Windows, Linux and Android"
+ゆうちょ通帳アプリ-銀行 アプリ,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=jp.japanpost.jp_bank.bankbookapp,live,Official Japan Post Bank app - Play listing states the app is free to use
+楽天カード：明細確認アプリ,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=jp.co.rakuten.kc.rakutencardapp.android,live,Official Rakuten Card Co. Ltd. app - free to download
+"김캐디 - 스크린골프, 골프연습장, 골프레슨 간편 예약",license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.smellab.kimcaddie&hl=de_CH,live,Free app by Kim Caddy Co. - tee times paid externally at venues
+모바일티머니,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.lgt.tmoney&hl=ko_kr,live,Official T-money Corp mobile transit card - app free transit fares charged
+카카오골프예약,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.kaovx.tf1.golfaround&hl=en_IN,live,Official Kakao VX app (kakao.golf) - app free tee times paid externally
+프렌즈 스크린,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.maumgolf.tupVision&hl=en_GB,live,Official Kakao VX screen-golf app - app free store play paid
+현대카드,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.hyundaicard.appcard,live,Official Hyundai Card banking app - free
+Actual,license,,Open source,MIT License,,https://raw.githubusercontent.com/actualbudget/actual/master/LICENSE.txt,live,MIT text verified against raw LICENSE.txt (actualbudget/actual)
+Actual,platforms,,"Windows, macOS, Linux",,,https://github.com/actualbudget/actual,live,Desktop Electron apps per repo README - also self-hosted via Docker
+Akaunting,license,,Source-available,Business Source License 1.1 (converts to GPLv3 on change date),,https://raw.githubusercontent.com/akaunting/akaunting/master/LICENSE.txt,live,BSL 1.1 text verified against raw LICENSE.txt (akaunting/akaunting)
+Aws Finops Dashboard,license,,Open source,MIT,,https://github.com/balataramsys/aws-finops-dashboard,live,MIT license verified against raw LICENSE text
+banana-accounting-plus,license,,Proprietary — freemium,,,https://www.banana.ch/en/buy,live,Official pricing: Free plan + Professional CHF 89/yr + Advanced CHF 179/yr
+BitBanana,license,,Open source,MIT,,https://github.com/michaelwuensch/bitbanana,live,MIT license verified against raw LICENSE text
+BitBanana,platforms,,Android,,,https://github.com/michaelwuensch/bitbanana,live,README links Google Play listing (id=app.michaelwuensch.bitbanana) = Android
+Bitcoin Wallet,platforms,,Android,,,https://github.com/bitcoin-wallet/bitcoin-wallet,live,README: standalone Bitcoin payment app for Android device; no LICENSE file upstream so no license claim made
+Buckwheat: Budget manager,license,,Open source,GPL-3.0-only,,https://github.com/danilkinkin/buckwheat,live,GPL-3.0 verified against raw LICENSE text on master branch
+Buckwheat: Budget manager,platforms,,Android,,,https://github.com/danilkinkin/buckwheat,live,README badges link Google Play and F-Droid listings
+Build Your Own Mint,license,,Open source,MIT,,https://github.com/yyx990803/build-your-own-mint,live,MIT license verified against raw LICENSE text
+Cashiro,license,,Open source,AGPL-3.0,,https://github.com/ritesh-kanwar/cashiro/blob/HEAD/README.md,live,README states GNU Affero General Public License v3.0 - see LICENSE
+Cashiro,platforms,,Android,,,https://github.com/hellobbn/cashiro/blob/HEAD/CLAUDE.md,live,applicationId com.ritesh.cashiro - Min SDK 26 Android
+Cheese BTC Widget,license,,Open source,MIT,,https://github.com/abellykens/org.cheeserobot.btcwidget,live,README MIT badge - LICENSE file in repo
+Cheese BTC Widget,platforms,,Android,,,https://github.com/abellykens/org.cheeserobot.btcwidget,live,Android home-screen widget - F-Droid and Zapstore
+CoinTrend: Private Crypto Tracker,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/com.cointrend/,live,F-Droid lists GNU General Public License v3.0 or later
+CoinTrend: Private Crypto Tracker,platforms,,Android,,,https://f-droid.org/packages/com.cointrend/,live,F-Droid Android package com.cointrend
+Copay,license,,Open source,MIT,,https://github.com/hilljessica8787-dot/copay,live,README states MIT License - links bitpay/copay LICENSE
+Copay,platforms,,"Android, iOS, Windows, macOS, Linux",,,https://github.com/coinkwang/translateproject/blob/HEAD/sources/tech/20180710%206%20open%20source%20cryptocurrency%20wallets.md,live,available for Android Windows MacOS Linux and iOS
+Cryptnox Cards CLI,license,,Open source,LGPL-3.0,,https://github.com/cryptnox/cryptnox-cli,live,dual-licensed LGPL-3.0 plus commercial license - see COMMERCIAL.md
+Cryptnox Cards CLI,platforms,,"Windows, Linux, macOS",,,https://cryptnox.com/legal-notices/,live,distributed via Microsoft Store Snap Store Homebrew PyPI and GitHub
+Dash Core,license,,Open source,MIT,,https://github.com/dashpay/dash/blob/develop/COPYING,live,COPYING contains the MIT license text
+Dash Core,platforms,,"Windows, macOS, Linux",,,https://www.dash.org/downloads/,live,binary downloads offered for these desktop platforms
+dogecoin-unofficial,license,,Open source,MIT,,https://github.com/dogecoin/dogecoin,live,unofficial Snap repackages official Dogecoin Core which is MIT - COPYING in repo
+dogecoin-unofficial,platforms,,Linux,,,https://snapcraft.io/install/dogecoin-unofficial/ubuntu,live,Snap Store package for Ubuntu - unofficial snap of Dogecoin Core
+Electrum Bitcoin Wallet,license,,Open source,MIT,,https://github.com/spesmilo/electrum/,live,LICENCE file present - README states MIT Licence
+Electrum Bitcoin Wallet,platforms,,"Windows, Linux, macOS, Android",,,https://electrum.org/#download,live,official download page offers these builds
+Encointer Wallet,license,,Open source,Apache-2.0,,https://f-droid.org/packages/org.encointer.wallet/,live,F-Droid lists Apache License 2.0; upstream also ships a GPL-3.0-or-later Rust FFI subpackage
+Encointer Wallet,platforms,,Android,,,https://f-droid.org/packages/org.encointer.wallet/,live,F-Droid Android listing
+Expense Owl,platforms,,"Docker, binary, PWA (desktop + mobile)",,,https://github.com/icl00ud/expenseowl,live,Self-hosted per README: Docker + binaries + PWA
+Ezbookkeeping,license,,Open source,MIT,,https://github.com/mayswind/ezbookkeeping,live,Repo license badge + README state MIT
+Ezbookkeeping,platforms,,"Windows, macOS, Linux, Web (self-hosted)",,,https://github.com/mayswind/ezbookkeeping,live,Docker + native binaries + PWA per README
+Finance Manager (PFA),license,,Open source,GPL-3.0,,https://github.com/secuso/privacy-friendly-finance-manager,live,README: licensed under the GPLv3
+Finance Manager (PFA),platforms,,Android,,,https://github.com/secuso/privacy-friendly-finance-manager,live,Android app - fastlane/metadata/android
+Firefly III Shortcuts,license,,Open source,MIT,,https://f-droid.org/en/packages/com.mustafacanyucel.fireflyiiishortcuts/,live,F-Droid lists MIT License
+Firefly III Shortcuts,platforms,,Android,,,https://f-droid.org/en/packages/com.mustafacanyucel.fireflyiiishortcuts/,live,F-Droid Android listing
+FossWallet,license,,Open source,GPL-3.0,,https://github.com/SeineEloquenz/fosswallet,live,Repo license badge GPL-3.0 - README license section confirms
+FossWallet,platforms,,Android,,,https://github.com/SeineEloquenz/fosswallet,live,README: F-Droid and Google Play badges
+"Gem Wallet: Bitcoin, USDT, BNB",license,,Open source,GPL-3.0,,https://github.com/gemwalletcom/,live,GemWallet org page lists wallet repo as GPL-3.0
+"Gem Wallet: Bitcoin, USDT, BNB",platforms,,"iOS, Android",,,https://github.com/gemwalletcom/,live,Open source iOS and Android crypto wallet per org page
+GNOME Calculator,license,,Open source,GPL-3.0-or-later,,https://snapcraft.io/install/gnome-calculator/raspbian,live,Snap Store lists License: GPL-3.0+
+GNOME Calculator,platforms,,Linux,,,https://snapcraft.io/install/gnome-calculator/raspbian,live,Snap Store install page
+Gratis Point of Sale : POS software,platforms,,Linux,,,https://snapcraft.io/gratis-pos,live,Snap Store: free Linux desktop application
