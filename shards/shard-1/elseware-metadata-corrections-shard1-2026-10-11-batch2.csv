@@ -1,0 +1,101 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Yarn,license,,Open source,BSD-2-Clause (LICENSE in yarnpkg/yarn),,https://raw.githubusercontent.com/yarnpkg/yarn/HEAD/LICENSE,live,Badge from fetched LICENSE; Distributed via npm/corepack
+Yarn,platforms,,,,"Windows, macOS, Linux",https://yarnpkg.com/getting-started/install,live,Distributed via npm/corepack
+pnpm,license,,Open source,MIT (LICENSE in pnpm/pnpm),,https://raw.githubusercontent.com/pnpm/pnpm/HEAD/LICENSE,live,Badge from fetched LICENSE; Official install guide
+pnpm,platforms,,,,"Windows, macOS, Linux",https://pnpm.io/installation,live,Official install guide
+pip,license,,Open source,MIT (LICENSE.txt in pypa/pip),,https://raw.githubusercontent.com/pypa/pip/HEAD/LICENSE.txt,live,Badge from fetched LICENSE; Ships with Python
+pip,platforms,,,,"Windows, macOS, Linux",https://pip.pypa.io/en/stable/installation/,live,Ships with Python
+Poetry,license,,Open source,MIT (LICENSE in python-poetry/poetry),,https://raw.githubusercontent.com/python-poetry/poetry/HEAD/LICENSE,live,Badge from fetched LICENSE; Official install docs
+Poetry,platforms,,,,"Windows, macOS, Linux",https://python-poetry.org/docs/,live,Official install docs
+Maven,license,,Open source,Apache-2.0 (LICENSE in apache/maven),,https://raw.githubusercontent.com/apache/maven/HEAD/LICENSE,live,Badge from fetched LICENSE; Official download page
+Maven,platforms,,,,"Windows, macOS, Linux",https://maven.apache.org/download.cgi,live,Official download page
+Gradle,license,,Open source,Apache-2.0 (LICENSE in gradle/gradle),,https://raw.githubusercontent.com/gradle/gradle/HEAD/LICENSE,live,"Badge from fetched LICENSE; Docs: runs on all major OS, requires JDK"
+Gradle,platforms,,,,"Windows, macOS, Linux",https://docs.gradle.org/current/userguide/installation.html,live,"Docs: runs on all major OS, requires JDK"
+NuGet,license,,Open source,Apache-2.0 (LICENSE.txt in NuGet/NuGet.Client),,https://raw.githubusercontent.com/NuGet/NuGet.Client/HEAD/LICENSE.txt,live,Badge from fetched LICENSE; nuget.exe is Windows; .NET SDK bundles cross-platform NuGet
+NuGet,platforms,,,,Windows,https://www.nuget.org/downloads,live,nuget.exe is Windows; .NET SDK bundles cross-platform NuGet
+Composer,license,,Open source,MIT (LICENSE in composer/composer),,https://raw.githubusercontent.com/composer/composer/HEAD/LICENSE,live,Badge from fetched LICENSE; Windows installer + Unix command-line install
+Composer,platforms,,,,"Windows, macOS, Linux",https://getcomposer.org/download/,live,Windows installer + Unix command-line install
+Cargo,license,,Open source,Dual MIT/Apache-2.0 (LICENSE-MIT + LICENSE-APACHE in rust-lang/cargo),,https://raw.githubusercontent.com/rust-lang/cargo/HEAD/LICENSE-MIT,live,Badge from fetched LICENSE; Installed via rustup
+Cargo,platforms,,,,"Windows, macOS, Linux",https://www.rust-lang.org/tools/install,live,Installed via rustup
+Homebrew,license,,Open source,BSD-2-Clause (LICENSE.txt in Homebrew/brew),,https://raw.githubusercontent.com/Homebrew/brew/HEAD/LICENSE.txt,live,"Badge from fetched LICENSE; Supports macOS, Linux and WSL; no native Windows"
+Homebrew,platforms,,,,"macOS, Linux",https://brew.sh/,live,"Supports macOS, Linux and WSL; no native Windows"
+Chocolatey,license,,Open source,Apache-2.0 (LICENSE in chocolatey/choco),,https://raw.githubusercontent.com/chocolatey/choco/HEAD/LICENSE,live,Badge from fetched LICENSE; Windows package manager; business/GUI editions proprietary
+Chocolatey,platforms,,,,Windows,https://chocolatey.org/install,live,Windows package manager; business/GUI editions proprietary
+Terraform,license,,Source-available,BSL-1.1 (LICENSE in hashicorp/terraform; licensor IBM),,https://raw.githubusercontent.com/hashicorp/terraform/HEAD/LICENSE,live,Badge from fetched LICENSE; Official install page
+Terraform,platforms,,,,"Windows, macOS, Linux",https://developer.hashicorp.com/terraform/install,live,Official install page
+Ansible,license,,Open source,GPL-3.0 (COPYING in ansible/ansible),,https://raw.githubusercontent.com/ansible/ansible/HEAD/COPYING,live,Badge from fetched LICENSE; Control node: unix-like incl. macOS; Windows not natively supported
+Ansible,platforms,,,,"Linux, macOS",https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html,live,Control node: unix-like incl. macOS; Windows not natively supported
+Pulumi,license,,Open source,Apache-2.0 (LICENSE in pulumi/pulumi),,https://raw.githubusercontent.com/pulumi/pulumi/HEAD/LICENSE,live,Badge from fetched LICENSE; Official install docs
+Pulumi,platforms,,,,"Windows, macOS, Linux",https://www.pulumi.com/docs/install/,live,Official install docs
+Vagrant,license,,Source-available,BSL-1.1 (LICENSE in hashicorp/vagrant),,https://raw.githubusercontent.com/hashicorp/vagrant/HEAD/LICENSE,live,Badge from fetched LICENSE; Official install page
+Vagrant,platforms,,,,"Windows, macOS, Linux",https://developer.hashicorp.com/vagrant/install,live,Official install page
+Puppet,license,,Open source,Apache-2.0 (LICENSE in puppetlabs/puppet),,https://raw.githubusercontent.com/puppetlabs/puppet/HEAD/LICENSE,live,Badge from fetched LICENSE; Agent on Windows/macOS/Linux; Puppet Enterprise proprietary
+Puppet,platforms,,,,"Windows, macOS, Linux",https://www.puppet.com/docs/pe/2019.7/supported_operating_systems,live,Agent on Windows/macOS/Linux; Puppet Enterprise proprietary
+Chef,license,,Open source,Apache-2.0 (LICENSE in chef/chef),,https://raw.githubusercontent.com/chef/chef/HEAD/LICENSE,live,"Badge from fetched LICENSE; Omnitruck API returns builds for Windows, macOS, Ubuntu"
+Chef,platforms,,,,"Windows, macOS, Linux",https://omnitruck.chef.io/stable/chef/metadata,live,"Omnitruck API returns builds for Windows, macOS, Ubuntu"
+SaltStack,license,,Open source,Apache-2.0 (LICENSE in saltstack/salt; the Salt automation software),,https://raw.githubusercontent.com/saltstack/salt/HEAD/LICENSE,live,Badge from fetched LICENSE; Official Salt install guide
+SaltStack,platforms,,,,"Windows, macOS, Linux",https://docs.saltproject.io/salt/install-guide/en/latest/,live,Official Salt install guide
+AWS CloudFormation,license,,Proprietary — free,No additional charge; pay only for AWS resources created,,https://aws.amazon.com/cloudformation/pricing/,live,Badge from fetched LICENSE; AWS console service
+AWS CloudFormation,platforms,,,,Web,https://aws.amazon.com/cloudformation/,live,AWS console service
+OpenTofu,license,,Open source,MPL-2.0 (LICENSE in opentofu/opentofu),,https://raw.githubusercontent.com/opentofu/opentofu/HEAD/LICENSE,live,Badge from fetched LICENSE; Official install docs
+OpenTofu,platforms,,,,"Windows, macOS, Linux",https://opentofu.org/docs/intro/install/,live,Official install docs
+Crossplane,license,,Open source,Apache-2.0 (LICENSE in crossplane/crossplane),,https://raw.githubusercontent.com/crossplane/crossplane/HEAD/LICENSE,live,"Badge from fetched LICENSE; CLI README: built for macOS, Linux, Windows"
+Crossplane,platforms,,,,"Windows, macOS, Linux",https://raw.githubusercontent.com/crossplane/cli/HEAD/README.md,live,"CLI README: built for macOS, Linux, Windows"
+Datadog,license,,Proprietary — freemium,Free/Pro/Enterprise plans (datadoghq.com/pricing),,https://www.datadoghq.com/pricing/,live,Badge from fetched LICENSE; Cloud SaaS platform
+Datadog,platforms,,,,Web,https://www.datadoghq.com/,live,Cloud SaaS platform
+New Relic,license,,Proprietary — freemium,Free/Standard/Pro/Enterprise (newrelic.com/pricing),,https://newrelic.com/pricing,live,Badge from fetched LICENSE; Cloud SaaS platform
+New Relic,platforms,,,,Web,https://newrelic.com/,live,Cloud SaaS platform
+Sentry,license,,Proprietary — freemium,Free/$26/mo Team/$80/mo Business/Enterprise (sentry.io/pricing); self-hosted under FSL-1.1-Apache-2.0,,https://sentry.io/pricing/,live,Badge from fetched LICENSE; SaaS is main product; self-hosted repo getsentry/sentry is FSL source-available
+Sentry,platforms,,,,Web,https://sentry.io/,live,SaaS is main product; self-hosted repo getsentry/sentry is FSL source-available
+Grafana,license,,Open source,AGPL-3.0 (LICENSE in grafana/grafana),,https://raw.githubusercontent.com/grafana/grafana/HEAD/LICENSE,live,Badge from fetched LICENSE; Official download page
+Grafana,platforms,,,,"Windows, macOS, Linux",https://grafana.com/grafana/download,live,Official download page
+Prometheus,license,,Open source,Apache-2.0 (LICENSE in prometheus/prometheus),,https://raw.githubusercontent.com/prometheus/prometheus/HEAD/LICENSE,live,Badge from fetched LICENSE; Official download page
+Prometheus,platforms,,,,"Windows, macOS, Linux",https://prometheus.io/download/,live,Official download page
+Splunk,license,,Proprietary — freemium,Splunk Free + Enterprise/Cloud tiers (splunk.com pricing),,https://www.splunk.com/en_us/products/pricing.html,live,Badge from fetched LICENSE; Docs list Windows/Linux/macOS for Enterprise + forwarder
+Splunk,platforms,,,,"Windows, macOS, Linux",https://docs.splunk.com/Documentation/Splunk/latest/Installation/Systemrequirements,live,Docs list Windows/Linux/macOS for Enterprise + forwarder
+Nagios,license,,Open source,GPL-2.0 (LICENSE in NagiosEnterprises/nagioscore = Nagios Core),,https://raw.githubusercontent.com/NagiosEnterprises/nagioscore/HEAD/LICENSE,live,Badge from fetched LICENSE; Nagios Core install guides for Linux distros; Nagios XI proprietary
+Nagios,platforms,,,,Linux,https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/quickstart.html,live,Nagios Core install guides for Linux distros; Nagios XI proprietary
+Zabbix,license,,Open source,AGPL-3.0 (COPYING in zabbix/zabbix; confirmed via GitHub license API),,https://raw.githubusercontent.com/zabbix/zabbix/HEAD/COPYING,live,Badge from fetched LICENSE; Server requires Unix/Linux; agents cross-platform
+Zabbix,platforms,,,,Linux,https://www.zabbix.com/documentation/current/en/manual/installation/requirements,live,Server requires Unix/Linux; agents cross-platform
+Elasticsearch,license,,Source-available,Default dist: SSPL v1 / Elastic License 2.0 (tri-license incl. AGPL-3.0-only per LICENSE.txt),,https://raw.githubusercontent.com/elastic/elasticsearch/HEAD/LICENSE.txt,live,Badge from fetched LICENSE; Official download page
+Elasticsearch,platforms,,,,"Windows, macOS, Linux",https://www.elastic.co/downloads/elasticsearch,live,Official download page
+Kibana,license,,Source-available,SSPL v1 / Elastic License 2.0 (LICENSE.txt in elastic/kibana),,https://raw.githubusercontent.com/elastic/kibana/HEAD/LICENSE.txt,live,Badge from fetched LICENSE; Official download page
+Kibana,platforms,,,,"Windows, macOS, Linux",https://www.elastic.co/downloads/kibana,live,Official download page
+Logstash,license,,Open source,Apache-2.0 (LICENSE.txt in elastic/logstash),,https://raw.githubusercontent.com/elastic/logstash/HEAD/LICENSE.txt,live,Badge from fetched LICENSE; Official download page
+Logstash,platforms,,,,"Windows, macOS, Linux",https://www.elastic.co/downloads/logstash,live,Official download page
+Honeycomb,license,,Proprietary — freemium,Free/Pro/Enterprise (honeycomb.io/pricing),,https://www.honeycomb.io/pricing,live,Badge from fetched LICENSE; Cloud SaaS platform
+Honeycomb,platforms,,,,Web,https://www.honeycomb.io/,live,Cloud SaaS platform
+SonarQube,license,,Open source,LGPL-3.0 (LICENSE.txt in SonarSource/sonarqube; Community Build),,https://raw.githubusercontent.com/SonarSource/sonarqube/HEAD/LICENSE.txt,live,"Badge from fetched LICENSE; Java-based server, universal zip; commercial editions proprietary"
+SonarQube,platforms,,,,"Windows, macOS, Linux",https://www.sonarsource.com/products/sonarqube/downloads/,live,"Java-based server, universal zip; commercial editions proprietary"
+ESLint,license,,Open source,MIT (LICENSE in eslint/eslint),,https://raw.githubusercontent.com/eslint/eslint/HEAD/LICENSE,live,Badge from fetched LICENSE; Distributed via npm
+ESLint,platforms,,,,"Windows, macOS, Linux",https://eslint.org/docs/latest/use/getting-started,live,Distributed via npm
+Prettier,license,,Open source,MIT (LICENSE in prettier/prettier),,https://raw.githubusercontent.com/prettier/prettier/HEAD/LICENSE,live,Badge from fetched LICENSE; Distributed via npm
+Prettier,platforms,,,,"Windows, macOS, Linux",https://prettier.io/docs/install,live,Distributed via npm
+Pylint,license,,Open source,GPL-2.0 (LICENSE in pylint-dev/pylint),,https://raw.githubusercontent.com/pylint-dev/pylint/HEAD/LICENSE,live,Badge from fetched LICENSE; pip install pylint
+Pylint,platforms,,,,"Windows, macOS, Linux",https://pylint.readthedocs.io/en/stable/user_guide/installation/command_line_installation.html,live,pip install pylint
+RuboCop,license,,Open source,MIT (LICENSE.txt in rubocop/rubocop),,https://raw.githubusercontent.com/rubocop/rubocop/HEAD/LICENSE.txt,live,Badge from fetched LICENSE; gem install rubocop
+RuboCop,platforms,,,,"Windows, macOS, Linux",https://docs.rubocop.org/rubocop/latest/installation.html,live,gem install rubocop
+Checkstyle,license,,Open source,LGPL-2.1 (LICENSE in checkstyle/checkstyle),,https://raw.githubusercontent.com/checkstyle/checkstyle/HEAD/LICENSE,live,Badge from fetched LICENSE; Java tool; releases via GitHub/Maven Central
+Checkstyle,platforms,,,,"Windows, macOS, Linux",https://checkstyle.org/,live,Java tool; releases via GitHub/Maven Central
+CodeClimate,license,,Proprietary — freemium,Free $0/mo tier + paid plans (codeclimate.com/pricing),,https://codeclimate.com/pricing,live,Badge from fetched LICENSE; Cloud SaaS platform
+CodeClimate,platforms,,,,Web,https://codeclimate.com/,live,Cloud SaaS platform
+DeepSource,license,,Proprietary — freemium,"Open Source plan (free, public repos) + Team paid + Enterprise",,https://deepsource.com/pricing,live,Badge from fetched LICENSE; Cloud SaaS platform
+DeepSource,platforms,,,,Web,https://deepsource.com/,live,Cloud SaaS platform
+Webpack,license,,Open source,MIT (LICENSE in webpack/webpack),,https://raw.githubusercontent.com/webpack/webpack/HEAD/LICENSE,live,Badge from fetched LICENSE; Distributed via npm
+Webpack,platforms,,,,"Windows, macOS, Linux",https://webpack.js.org/guides/installation/,live,Distributed via npm
+Vite,license,,Open source,MIT (LICENSE in vitejs/vite),,https://raw.githubusercontent.com/vitejs/vite/HEAD/LICENSE,live,Badge from fetched LICENSE; Distributed via npm
+Vite,platforms,,,,"Windows, macOS, Linux",https://vite.dev/guide/,live,Distributed via npm
+Rollup,license,,Open source,MIT (LICENSE.md in rollup/rollup),,https://raw.githubusercontent.com/rollup/rollup/HEAD/LICENSE.md,live,Badge from fetched LICENSE; Distributed via npm
+Rollup,platforms,,,,"Windows, macOS, Linux",https://rollupjs.org/introduction/,live,Distributed via npm
+esbuild,license,,Open source,MIT (LICENSE.md in evanw/esbuild),,https://raw.githubusercontent.com/evanw/esbuild/HEAD/LICENSE.md,live,Badge from fetched LICENSE; Official getting-started
+esbuild,platforms,,,,"Windows, macOS, Linux",https://esbuild.github.io/getting-started/,live,Official getting-started
+Parcel,license,,Open source,MIT (LICENSE in parcel-bundler/parcel),,https://raw.githubusercontent.com/parcel-bundler/parcel/HEAD/LICENSE,live,Badge from fetched LICENSE; Distributed via npm
+Parcel,platforms,,,,"Windows, macOS, Linux",https://parceljs.org/getting-started/webapp/,live,Distributed via npm
+Babel,license,,Open source,MIT (LICENSE in babel/babel),,https://raw.githubusercontent.com/babel/babel/HEAD/LICENSE,live,Badge from fetched LICENSE; Distributed via npm
+Babel,platforms,,,,"Windows, macOS, Linux",https://babeljs.io/docs/installation,live,Distributed via npm
+Gulp,license,,Open source,MIT (LICENSE in gulpjs/gulp),,https://raw.githubusercontent.com/gulpjs/gulp/HEAD/LICENSE,live,Badge from fetched LICENSE; Distributed via npm
+Gulp,platforms,,,,"Windows, macOS, Linux",https://gulpjs.com/docs/en/getting-started/quick-start,live,Distributed via npm
+Turborepo,license,,Open source,MIT (LICENSE in vercel/turborepo),,https://raw.githubusercontent.com/vercel/turborepo/HEAD/LICENSE,live,Badge from fetched LICENSE; Official install docs
+Turborepo,platforms,,,,"Windows, macOS, Linux",https://turborepo.com/docs/installation,live,Official install docs
+MariaDB,license,,Open source,GPL-2.0 (COPYING in MariaDB/server),,https://raw.githubusercontent.com/MariaDB/server/HEAD/COPYING,live,Badge from fetched LICENSE; Official downloads list Windows/macOS/Linux
+MariaDB,platforms,,,,"Windows, macOS, Linux",https://mariadb.com/downloads/,live,Official downloads list Windows/macOS/Linux
