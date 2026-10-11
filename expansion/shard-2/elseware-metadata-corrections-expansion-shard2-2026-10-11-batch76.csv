@@ -1,0 +1,68 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Eyedropper,license,,Open source,GNU General Public License v3.0,,https://github.com/finefindus/eyedropper,live,GitHub API license SPDX GPL-3.0; GNOME color picker
+Eyedropper,platforms,,Linux,,,https://github.com/finefindus/eyedropper,live,README Installation via Flathub com.github.finefindus.eyedropper
+Falcon,license,,Open source,Apache License 2.0,,https://github.com/falconry/falcon,live,GitHub API license SPDX Apache-2.0; Python web API framework pip library no end-user platform
+Flagsmith,license,,Open source,BSD 3-Clause License,,https://github.com/flagsmith/flagsmith,live,GitHub API license SPDX BSD-3-Clause; self-hosted feature-flag platform deployed via Docker; platforms ambiguous per accuracy directive
+Flutter Gallery,license,,Open source,BSD 3-Clause License,,https://github.com/flutter/gallery,live,Raw LICENSE is BSD 3-Clause; archived Flutter demo gallery; platforms unverifiable from current README
+Freelens,license,,Open source,MIT License,,https://github.com/freelensapp/freelens,live,GitHub API license SPDX MIT; free IDE for Kubernetes fork of Lens
+Freelens,platforms,,"Windows, macOS, Linux",,,https://github.com/freelensapp/freelens,live,README states application compatible with macOS Windows and Linux
+Gambas3 Ide,license,,Open source,GNU General Public License v2 or later,,https://gitlab.com/gambas/gambas,live,README Licensing section: GPL version 2 or at your option any later version; BASIC IDE; end-user OS platform not stated in fetched sources
+GB Studio,license,,Open source,MIT License,,https://github.com/chrismaltby/gb-studio,live,GitHub API license SPDX MIT; repo moved from chrismlalazi/gbstudio to chrismaltby/gb-studio
+GB Studio,platforms,,"Windows, macOS, Linux",,,https://github.com/chrismaltby/gb-studio,live,README: available for Mac Linux and Windows
+GetMiTokens,license,,Open source,GNU General Public License v3.0,,https://github.com/phrogg/GetMiTokens,live,GitHub API license SPDX GPL-3.0; extracts tokens from Yeelight/Xiaomi app
+GetMiTokens,platforms,,Android,,,https://github.com/phrogg/GetMiTokens,live,README carries F-Droid and Google Play badges
+Git Cola,license,,Open source,GNU General Public License v2.0,,https://github.com/git-cola/git-cola,live,GitHub API license SPDX GPL-2.0; PyQt Git GUI
+Git Cola,platforms,,"Windows, macOS, Linux",,,https://github.com/git-cola/git-cola,live,README Installation sections cover Linux macOS and Windows
+Gitg,license,,Open source,GPL-2.0,,https://github.com/GNOME/gitg,live,raw COPYING is GNU GPL Version 2 text (1991); GNOME git repository viewer
+Gitg,platforms,,Linux,,,https://flathub.org/apps/details/org.gnome.gitg,live,Flathub badge in README; GNOME git repository viewer
+GitNex for Forgejo and Gitea,license,,Open source,GPL-3.0-only,,https://github.com/gitnex-org/gitnex,live,README license badge GPL-3.0-only; canonical repo at codeberg.org/gitnex/GitNex
+GitNex for Forgejo and Gitea,platforms,,Android,,,https://f-droid.org/en/packages/org.mian.gitnex,live,F-Droid listing for the FOSS Android client for Forgejo and Gitea
+Gittyup,license,,Open source,MIT,,https://github.com/Murmele/Gittyup,live,GitHub license field MIT; git history GUI client
+Gittyup,platforms,,"Windows, macOS, Linux",,,https://github.com/Murmele/Gittyup,live,"README: pre-built flatpak for Linux, 32/64-bit binaries for Windows and macOS"
+GNOME Builder,license,,Open source,GPL-3.0,,https://github.com/GNOME/gnome-builder,live,raw COPYING is GNU GPL Version 3 text; official GNOME IDE
+GNOME Builder,platforms,,Linux,,,https://flathub.org/apps/details/org.gnome.Builder,live,official GNOME IDE distributed via Flathub for Linux
+Godot 3 (C#/.NET),license,,Open source,MIT,,https://flathub.org/en/apps/org.godotengine.Godot3Sharp,live,Flathub page states it is free and open source under the MIT license; unofficial Mono/.NET build of the Godot 3 engine
+Godot 3 (C#/.NET),platforms,,Linux,,,https://flathub.org/en/apps/org.godotengine.Godot3Sharp,live,Flathub Flatpak for Linux (x86_64 and aarch64)
+Godots,license,,Open source,MIT,,https://github.com/MakovWait/godots,live,GitHub license field MIT; Godot version and project manager
+Godots,platforms,,"Windows, macOS, Linux",,,https://github.com/MakovWait/godots,live,README installation sections cover Windows Linux and macOS
+GStreamer Debug Viewer,license,,Open source,GPL-3.0-or-later,,https://github.com/GStreamer/gstreamer,live,appdata metadata declares project_license GPL-3.0+; viewer lives in gst-devtools/debug-viewer upstream
+GStreamer Debug Viewer,platforms,,Linux,,,https://flathub.org/en/apps/org.freedesktop.GstDebugViewer,live,Flathub page: Install on Linux; tags linux
+Hashes,license,,Open source,GPL-3.0,,https://github.com/zefr0x/hashes,live,GitHub license field GPL-3.0; hash algorithm identification utility
+Hashes,platforms,,Linux,,,https://flathub.org/en/apps/io.github.zefr0x.hashes,live,Flathub page: Install Hashes on Linux; x86_64 and aarch64
+Howl,license,,Open source,MIT License,,https://raw.githubusercontent.com/howl-editor/howl/master/LICENSE.md,live,GitHub API shows NOASSERTION but raw LICENSE.md is MIT text - self-audited
+Howl,platforms,,Linux,,,https://howl.io,live,Official site: developed on Linux; README: known to work on Linux
+JADX,license,,Open source,Apache License 2.0,,https://raw.githubusercontent.com/skylot/jadx/master/LICENSE,live,Dex to Java decompiler; skylot/jadx - self-audited
+JADX,platforms,,"Windows, macOS, Linux",,,https://github.com/skylot/jadx,live,README install sections cover Windows bundles + macOS + Linux packages
+JD-GUI,license,,Open source,GNU General Public License v3.0,,https://raw.githubusercontent.com/java-decompiler/jd-gui/master/LICENSE,live,java-decompiler/jd-gui - self-audited
+JD-GUI,platforms,,"Windows, macOS",,,https://github.com/java-decompiler/jd-gui,live,README documents Windows and Mac OSX distributions
+julia,license,,Open source,MIT License,,https://raw.githubusercontent.com/JuliaLang/julia/master/LICENSE.md,live,JuliaLang/julia - self-audited
+julia,platforms,,"Windows, macOS, Linux",,,https://julialang.org/downloads/,live,Official downloads list all three OSes
+KeepADB,license,,Open source,AGPL-3.0,,https://raw.githubusercontent.com/m00sfett/KeepADB/master/LICENSE,live,README badges AGPL-3.0-or-later; raw LICENSE verified - self-audited
+KeepADB,platforms,,Android,,,https://raw.githubusercontent.com/m00sfett/KeepADB/master/README.md,live,Android 11+ app keeping Android wireless debugging active
+kotlin,license,,Open source,Apache License 2.0,,https://github.com/JetBrains/kotlin,live,raw LICENSE text governs
+kotlin,platforms,,"Windows, macOS, Linux",,,https://github.com/JetBrains/kotlin,live,JVM language; runs wherever the JVM runs
+kubectl,license,,Open source,Apache License 2.0,,https://github.com/kubernetes/kubectl,live,GitHub API license field
+kubectl,platforms,,"Windows, macOS, Linux",,,https://kubernetes.io/docs/tasks/tools/,live,official install docs cover all three OSes
+LabCoat,license,,Open source,Apache License 2.0,,https://f-droid.org/packages/com.commit451.gitlab/,live,F-Droid lists Apache License 2.0
+LabCoat,platforms,,Android,,,https://f-droid.org/packages/com.commit451.gitlab/,live,F-Droid listing requires Android 5.0 or newer
+Langfuse,license,,Open source,MIT License,,https://github.com/langfuse/langfuse,live,raw LICENSE: core under MIT Expat; ee/ dirs under separate enterprise license (open core)
+Langfuse,platforms,,Web,,,https://github.com/langfuse/langfuse,live,self-hosted Docker deployment
+LCEDA Pro,license,,Proprietary — free,,,https://prodocs.easyeda.com/en/faq/client/index.html,live,desktop client activation file is free after registration
+LCEDA Pro,platforms,,"Windows, macOS, Linux",,,https://prodocs.easyeda.com/en/faq/client/index.html,live,desktop client FAQ mentions Windows/Mac/Linux
+LibrePCB,license,,Open source,GNU General Public License v3.0,,https://github.com/LibrePCB/LibrePCB,live,GitHub API license field
+LibrePCB,platforms,,"Windows, macOS, Linux",,,https://librepcb.org/download/,live,official download page lists all three
+Linkding,license,,Open source,MIT License,,https://github.com/sissbruecker/linkding,live,GitHub API license field
+Linkding,platforms,,Web,,,https://github.com/sissbruecker/linkding,live,self-hosted bookmark manager via Docker
+LXD,license,,Open source,GNU Affero General Public License v3.0,,https://github.com/canonical/lxd,live,GitHub API license field
+LXD,platforms,,Linux,,,https://github.com/canonical/lxd,live,system container and VM manager for Linux
+Medis,license,,Open source,MIT License,,https://github.com/luin/medis,live,GitHub API license field
+Medis,platforms,,macOS,,,https://github.com/luin/medis,live,Mac database management app for Redis
+Micro REPL,license,,Open source,MIT License,"Android, Windows, macOS, Linux, Web",https://github.com/ma7moud3ly/micro-repl,live,F-Droid lists MIT License; README: Android/Desktop/Web builds
+MIFARE Classic Tool,license,,Open source,GPL-3.0,Android,https://github.com/ikarus23/MifareClassicTool,live,GitHub API license field; Android NFC app on Play Store and F-Droid
+Mock Location that actually works,license,,Open source,GPL-3.0,Android,https://github.com/ma5ter/MockLock,live,GitHub API license field; F-Droid package su.mya.mocklock
+MQTT5 Explorer,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/Omniaevo/mqtt5-explorer,live,GitHub API license field; Electron builds for Windows/Mac/Linux
+NeoRegex,platforms,,"Android, Windows, macOS, Linux, Web",,,https://github.com/NeoUtils/NeoRegex,live,README platform table; repo declares no license so no license row
+Network Survey,license,,Open source,Apache-2.0,Android,https://github.com/christianrowlands/android-network-survey,live,README license badge; Android cellular/Wi-Fi survey app on F-Droid and Play Store
+NFCGate,license,,Open source,Apache-2.0,Android,https://github.com/nfcgate/nfcgate,live,GitHub API license field; Android NFC research toolkit
+Nightbell,license,,Open source,Apache-2.0,Android,https://github.com/riveerxd/nightbell,live,F-Droid metadata License Apache-2.0; Android uptime monitor
+Node.js Runtime,license,,Open source,MIT License,"Windows, macOS, Linux",https://github.com/nodejs/node,live,Raw LICENSE is MIT-style license text; nodejs.org download lists Windows/macOS/Linux
