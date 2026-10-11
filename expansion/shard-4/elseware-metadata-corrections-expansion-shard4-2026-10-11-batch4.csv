@@ -1,0 +1,7 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Quicall,license,,Open source,SPDX AGPL-3.0-or-later; F-Droid package org.difft.temptalk,Android,https://f-droid.org/en/packages/org.difft.temptalk/,authoritative,F-Droid lists FOSS only; 'Quicall' exact name match
+Quicall,platforms,,Android,,,https://play.google.com/store/apps/details?id=org.difft.temptalk&hl=en,live,"Play Store: Quicall by Quicall Ltd. (title/dev match, conf 3)"
+3Commas,license,,Proprietary — paid subscription,"hly Annual Starter Core bots for spot trading at 1 exchange $15 $20 / month Save $60 annually, or 3",,https://3commas.io/pricing,live,"recurring paid plans observed, no free tier found (https://3commas.io/pricing)"
+3Commas,platforms,,"Android, iOS",,,https://apps.apple.com/us/app/3commas-crypto-trading-tools/id6446649413,live,platform signals on https://apps.apple.com/us/app/3commas-crypto-trading-tools/id6446649413
+Skylight Wallet,license,,Open source,SPDX MIT; F-Droid package org.magicgrants.skylight,Android,https://f-droid.org/en/packages/org.magicgrants.skylight/,authoritative,F-Droid lists FOSS only; 'Skylight Wallet' exact name match
+Skylight Wallet,platforms,,Android,,,https://play.google.com/store/apps/details?id=org.magicgrants.skylight,live,platform signals on https://play.google.com/store/apps/details?id=org.magicgrants.skylight; merged store evidence: Android via https://play.google.com/store/apps/details?id=org.magicgrants.skylight&hl=en
