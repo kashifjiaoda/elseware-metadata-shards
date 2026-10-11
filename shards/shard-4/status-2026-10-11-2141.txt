@@ -1,0 +1,11 @@
+SHARD-4 STATUS — 2026-10-11 (Shard 2 handling Shard 4's Phase-2 work)
+
+Batch 60 COMPLETE — pushed to expansion/shard-4/
+- File: elseware-metadata-corrections-expansion-shard4-2026-10-11-batch60.csv (94 rows, 47 apps verified)
+- Source: apps.md lines 2957-3006 (50 apps, no dupes)
+- Skipped with reason (3): Bili Downloader (no canonical upstream determinable), Auto Film (identity ambiguity), Telivi (identity unresolvable)
+- Assembler spot-checks: 4/4 confirmed (Bilibili Obsidian Clipper MIT; BiliBiliToolPro GPL-3.0-only — README has no or-later grant; Anime Searcher MIT; Ballons Translator GPL-3.0-only — no or-later grant)
+- Identity corrections: BiliBiliToolPro = automated Bilibili task tool (not a video downloader), canonical RayWangQvQ/BiliBiliToolPro live; 1xPartners Dashboard iOS-only (Android APK not whitelisted-confirmable)
+- Schema: 94 rows x 9 cols, 0 issues, all live, whitelisted sources only
+
+Next: batch 61 (apps.md lines 3007-3056).
