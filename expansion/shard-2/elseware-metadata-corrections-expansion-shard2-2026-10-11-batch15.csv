@@ -1,0 +1,81 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+OMGSoundboard,license,,Open source,Apache-2.0,,https://github.com/OMGSoundboard/android-app,live,GitHub API spdx_id Apache-2.0 on OMGSoundboard/android-app
+OMGSoundboard,platforms,,Android,,,https://github.com/OMGSoundboard/android-app,live,Repo topics include android; kotlin-android compose app
+onX Hunt: Offline Hunting Maps,license,,Proprietary — freemium,,,https://www.onxmaps.com/,live,Official site: onX Maps GPS Map App for Hunting; commercial product with free and paid membership tiers
+onX Hunt: Offline Hunting Maps,platforms,,Android; iOS; Web,,,https://www.onxmaps.com/,live,Official site: mobile GPS map app with web map
+Open Chaos Chess,license,,Open source,GPL-3.0,,https://github.com/CorruptedArk/open-chaos-chess,live,GitHub API spdx_id GPL-3.0 on CorruptedArk/open-chaos-chess
+Open Chaos Chess,platforms,,Android,,,https://github.com/CorruptedArk/open-chaos-chess,live,Repo description: stripped of Google Play Services (Android app)
+Open Patience,license,,Open source,AGPL-3.0,,https://github.com/d-rk/open-patience,live,GitHub API spdx_id AGPL-3.0; solitaire game no ads no tracking
+Open Video Editor,license,,Open source,GPL-3.0,,https://github.com/devhyper/open-video-editor,live,GitHub API spdx_id GPL-3.0 on devhyper/open-video-editor
+Open Video Editor,platforms,,Android,,,https://github.com/devhyper/open-video-editor,live,Repo description: Open source Android video editor
+Openclonk,license,,Open source,ISC,,https://github.com/openclonk/openclonk,live,Raw COPYING verified as ISC license text (RedWolf Design / OpenClonk Team)
+OpenHV,license,,Open source,GPL-3.0,,https://github.com/OpenHV/OpenHV,live,GitHub API spdx_id GPL-3.0 on OpenHV/OpenHV
+OpenMW,license,,Open source,GPL-3.0,,https://github.com/OpenMW/openmw,live,GitHub API spdx_id GPL-3.0 on OpenMW/openmw
+OpenRA,license,,Open source,GPL-3.0,,https://github.com/OpenRA/OpenRA,live,GitHub API spdx_id GPL-3.0 on OpenRA/OpenRA
+OpenSpades,license,,Open source,GPL-3.0,,https://github.com/yvt/openspades,live,GitHub API spdx_id GPL-3.0 on yvt/openspades
+OpenTubeX,license,,Open source,AGPL-3.0,,https://github.com/OpenTubeX/OpenTubeX,live,GitHub API spdx_id AGPL-3.0; fork of FreeTube
+OpenTubeX,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://github.com/OpenTubeX/OpenTubeX,live,README: Windows 10+ / macOS 12+ / Linux; Android and experimental iOS/iPadOS builds
+Oscilloscope,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/org.billthefarmer.scope/,live,F-Droid listing license GNU General Public License v3.0 only
+Oscilloscope,platforms,,Android,,,https://f-droid.org/packages/org.billthefarmer.scope/,live,F-Droid Android app (billthefarmer/scope audio oscilloscope)
+Oven Media Engine,license,,Open source,AGPL-3.0-only,,https://github.com/OvenMediaLabs/OvenMediaEngine,live,README states licensed under AGPL-3.0-only; sub-second latency streaming server
+Oven Media Engine,platforms,,Linux,,,https://github.com/OvenMediaLabs/OvenMediaEngine,live,Docker images and Linux server deployment
+Pandora Launcher,license,,Open source,MIT,,https://github.com/Moulberry/PandoraLauncher,live,GitHub API spdx_id MIT; modern Minecraft launcher
+Pandora Launcher,platforms,,"Windows, macOS, Linux",,,https://github.com/Moulberry/PandoraLauncher,live,Release assets: Windows Setup/Portable; macOS dmg/app; Linux AppImage/deb
+Parallel Overhead,license,,Open source,MIT,,https://codeberg.org/Huitsi/ParallelOverhead,live,Raw LICENSE.txt verified as MIT text; by Linus Vanas
+Parallel Overhead,platforms,,"Linux, Web",,,https://codeberg.org/Huitsi/ParallelOverhead,live,Native C edition for GNU/Linux; JavaScript Web edition in browser
+Path of Building,license,,Open source,MIT,,https://github.com/PathOfBuildingCommunity/PathOfBuilding,live,README Licence section states MIT; offline Path of Exile build planner
+Path of Building,platforms,,Windows,,,https://github.com/PathOfBuildingCommunity/PathOfBuilding,live,Releases: Setup.exe and Portable.zip
+Pax Britannica,license,,Open source,MIT,,https://github.com/henkboom/pax-britannica,live,Raw license.txt verified as MIT text
+Pax Britannica,platforms,,"Linux, Windows",,,https://github.com/henkboom/pax-britannica,live,LibreGameWiki: GNU/Linux Windows; repo builds for desktop
+Pcsc Tools,license,,Open source,GPL-2.0-or-later,,https://github.com/LudovicRousseau/pcsc-tools/blob/master/README,live,README: either version 2 of the License or (at your option) any later version
+Pcsc Tools,platforms,,"Linux, Windows, macOS",,,https://github.com/LudovicRousseau/pcsc-tools/blob/master/README,live,README changelog 1.7.3: meson add Windows support add macOS support
+PDF Unlocker,license,,Open source,Apache-2.0,,https://github.com/OpenAppex/pdfunlocker,live,README: Licensed under the Apache License 2.0
+PDF Unlocker,platforms,,Android,,,https://github.com/OpenAppex/pdfunlocker,live,Android app; compatibility Android 10 (API 29) or later
+Pebrel,license,,Open source,GPL-3.0,,https://github.com/zhaosiqi9/pebrel,live,README license badge GPL-3.0; GitHub license field GPL-3.0
+Pebrel,platforms,,"Windows, macOS, Linux",,,https://github.com/zhaosiqi9/pebrel,live,README: Built with Rust and GPUI for Windows macOS and Linux
+PeerTube Live,license,,Open source,AGPL-3.0-only,,https://f-droid.org/en/packages/fr.mobdev.peertubelive/,live,fdroiddata metadata fr.mobdev.peertubelive: License AGPL-3.0-only
+PeerTube Live,platforms,,Android,,,https://f-droid.org/en/packages/fr.mobdev.peertubelive/,live,F-Droid listing; Android only
+Pekka Kana 2,license,,Open source,MIT,,https://github.com/danilolc/pk2,live,Raw licence.txt verified as MIT License text
+Pekka Kana 2,platforms,,"Windows, Linux, Android, macOS",,,https://libregamewiki.org/Pekka_Kana_2,live,LibreGameWiki: Windows GNU/Linux Android macOS on Apple Silicon; F-Droid org.pgnapps.pk2
+Pepe Party,license,,Open source,MIT,,https://github.com/shuoros/pepe-party,live,Raw LICENSE verified as MIT License text
+Pepe Party,platforms,,Linux,,,https://github.com/shuoros/pepe-party,live,Terminal app distributed via Snap Store; Linux
+Phantom Overload,license,,Open source,GPL-3.0-or-later,,https://codeberg.org/Huitsi/PhantomOverload,live,Flathub manifest installs LICENSES/GPL-3.0-or-later.txt; LibreGameWiki code license GPL 3
+Phantom Overload,platforms,,"Windows, Linux",,,https://codeberg.org/Huitsi/PhantomOverload,live,LibreGameWiki: Windows Linux; native Linux builds and Flatpak
+PhotoBackup,license,,Open source,GPL-2.0-only,,https://f-droid.org/packages/fr.s13d.photobackup/,live,F-Droid: License GNU General Public License v2.0 only
+PhotoBackup,platforms,,Android,,,https://f-droid.org/packages/fr.s13d.photobackup/,live,F-Droid listing; requires Android 4.1 or newer
+Picard Barcode Scanner,license,,Open source,GPL-3.0-or-later,,https://github.com/phw/PicardBarcodeScanner,live,README: free software published under the GPL version 3; F-Droid GPLv3 or later
+Picard Barcode Scanner,platforms,,Android,,,https://github.com/phw/PicardBarcodeScanner,live,Android helper app for MusicBrainz Picard on desktop
+Pictionary Generator,license,,Open source,GPL-3.0,,https://github.com/dangelov/Pictionary-Card-Generator,live,GitHub API spdx_id GPL-3.0; custom card generator for Pictionary-like games
+Pink Pony,license,,Open source,GPL-3.0,,https://github.com/ginkgo/pink-pony,live,README License section: GPL-3.0 (v3 or later); assets table lists GPL-3.0+
+Pink Pony,platforms,,"Linux, Windows",,,https://ginkgo.github.io/pink-pony/,live,Official site: playable on Linux and Windows
+PipePanic,license,,Open source,MIT,,https://f-droid.org/packages/org.olgsoft.apipepanic/,live,F-Droid listing titled PipePanic; License: MIT License
+PipePanic,platforms,,Android,,,https://f-droid.org/packages/org.olgsoft.apipepanic/,live,F-Droid Android listing
+Pixel Wheels,license,,Open source,Apache-2.0,,https://github.com/agateau/pixelwheels,live,Repo ships LICENSE.Apache-2.0 (code); assets CC-BY-SA
+Pixel Wheels,platforms,,"Windows, Linux, macOS, Android",,,https://github.com/agateau/pixelwheels,live,Repo description: PC (Linux macOS Windows) and Android; F-Droid org.agateau.pixelwheels
+PlainApp: Phone Web Portal,license,,Open source,AGPL-3.0-only,,https://f-droid.org/packages/com.ismartcoding.plain/,live,F-Droid: License GNU Affero General Public License v3.0 only; GitHub plainhub/plain-app
+PlainApp: Phone Web Portal,platforms,,Android,,,https://f-droid.org/packages/com.ismartcoding.plain/,live,F-Droid Android listing; Play Store package com.ismartcoding.plain
+PlayHex,license,,Open source,AGPL-3.0,,https://github.com/playhex/playhex,live,GitHub API spdx_id AGPL-3.0; Hex online board game
+PlayHex,platforms,,Web,,,https://github.com/playhex/playhex,live,Online board game; homepage playhex.org
+Plee The Bear,license,,Open source,GPL-3.0,,https://github.com/j-jorge/plee-the-bear,live,LICENSE file: source code under GNU GPL v3; multimedia resources CC-BY-SA-3.0
+Plutonic,license,,Open source,GPL-3.0,,https://f-droid.org/packages/com.game.plutonic/,live,F-Droid listing titled Plutonic; License: GNU General Public License v3.0 only
+Plutonic,platforms,,Android,,,https://f-droid.org/packages/com.game.plutonic/,live,F-Droid Android listing; gravity-field suika-like game
+PocketTracker,license,,Open source,GPL-3.0,,https://github.com/conanizer/pockettracker,live,GitHub API spdx_id GPL-3.0; Android music tracker inspired by M8 and LGPT
+PocketTracker,platforms,,Android,,,https://github.com/conanizer/pockettracker,live,Repo description: Android music tracker
+Poddr,license,,Open source,GPL-3.0,,https://github.com/Sn8z/Poddr,live,GitHub API spdx_id GPL-3.0; podcast client built with Electron and Angular
+Poddr,platforms,,"Windows, macOS, Linux",,,https://github.com/Sn8z/Poddr,live,README platforms badge: Windows / Linux / Mac
+Poker Payout,license,,Open source,MIT,,https://github.com/HunterColes/PokerPayout,live,GitHub API spdx_id MIT; Android poker payout calculator
+Poker Payout,platforms,,Android,,,https://github.com/HunterColes/PokerPayout,live,Free Android app for home poker nights
+Pokéverse,license,,Open source,MIT,,https://github.com/Dev-Aditya-More/PokeVerse,live,GitHub API spdx_id MIT; Pokemon companion app
+Pokéverse,platforms,,Android,,,https://github.com/Dev-Aditya-More/PokeVerse,live,Kotlin Android app on Google Play Store
+Politrics,license,,Open source,GPL-3.0,,https://github.com/VelbazhdSoftwareLLC/Politrics,live,GitHub API spdx_id GPL-3.0; chess-inspired board game
+Power Ampache 2,license,,Open source,GPL-3.0,,https://f-droid.org/en/packages/luci.sixsixsix.powerampache2.fdroid/,live,Raw LICENSE.md verified as GPL v3 text; F-Droid listed
+Power Ampache 2,platforms,,Android,,,https://f-droid.org/en/packages/luci.sixsixsix.powerampache2.fdroid/,live,Android music streaming client for Ampache
+Prince Of Persia Apple II,license,,Source-available,No formal license; author permits study/modification but explicitly not a grant of rights,,https://github.com/jmechner/Prince-of-Persia-Apple-II,live,README states this does NOT constitute a grant of rights; Ubisoft retains franchise rights
+Prince Of Persia Apple II,platforms,,Apple II,,,https://github.com/jmechner/Prince-of-Persia-Apple-II,live,6502 assembly source for the Apple II original
+Project64,license,,Open source,GPL-2.0,,https://github.com/project64/project64,live,GitHub API spdx_id GPL-2.0; Nintendo 64 emulator
+Project64,platforms,,Windows,,,https://github.com/project64/project64,live,README states currently only for Windows
+Pterm,license,,Open source,MIT,,https://github.com/pterm/pterm,live,GitHub API spdx_id MIT; Go module for beautifying console output
+Pushover,license,,Proprietary — paid,One-time in-app purchase per platform after 30-day free trial; no subscription,,https://pushover.net/,live,Official site confirms one-time purchase model with 30-day trial
+Pushover,platforms,,"Android, iOS, Desktop",,,https://pushover.net/,live,Site title lists Android iPhone iPad and Desktop
+Py Boy,license,,Open source,LGPL-3.0,,https://github.com/Baekalfen/PyBoy,live,Raw LICENSE.md verified as LGPL v3 text; Game Boy emulator in Python
+Pysiogame,license,,Open source,GPL-3.0,,https://github.com/imiolek-ireneusz/pysiogame,live,GitHub API spdx_id GPL-3.0; educational activity pack for kids
