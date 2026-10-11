@@ -1,0 +1,63 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Mac Throttle,license,,Open source,MIT,,https://github.com/angristan/MacThrottle,live,GitHub API SPDX MIT; menu bar app showing Mac thermal throttling
+Mac Throttle,platforms,,macOS,,,https://github.com/angristan/MacThrottle,live,macOS menu bar app
+Magisk,license,,Open source,GPL-3.0,,https://github.com/topjohnwu/Magisk,live,GitHub API SPDX GPL-3.0; systemless root for Android
+Magisk,platforms,,Android,,,https://github.com/topjohnwu/Magisk,live,The Magic Mask for Android
+Manyverse Desktop,license,,Open source,MPL-2.0,,https://gitlab.com/staltz/manyverse,live,package.json license field MPL-2.0; repo uses REUSE-style LICENSES dir
+Manyverse Desktop,platforms,,"Windows, macOS, Linux",,,https://www.manyver.se/,live,Official site offers desktop downloads for Windows macOS Linux
+Marmalade TTS,license,,Open source,MIT,,https://github.com/maxwhipw/marmalade-tts-android,live,GitHub API SPDX MIT; native Android TTS app with on-device neural voices
+Marmalade TTS,platforms,,Android,,,https://github.com/maxwhipw/marmalade-tts-android,live,Android TTS app
+Material Flashlight,license,,Open source,Apache-2.0,,https://github.com/garmax1/material-flashlight,live,GitHub API SPDX Apache-2.0; flashlight application for Android
+Material Flashlight,platforms,,Android,,,https://github.com/garmax1/material-flashlight,live,Android flashlight app
+Matrix Synapse Manager,license,,Open source,Apache-2.0,,https://github.com/sureserverman/matrix-synapse-manager-android,live,GitHub API SPDX Apache-2.0; Android app for administering Synapse homeservers
+Matrix Synapse Manager,platforms,,Android,,,https://github.com/sureserverman/matrix-synapse-manager-android,live,Production-ready Android admin app per repo README
+MAXS Module BluetoothAdmin,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/en/packages/org.projectmaxs.module.bluetoothadmin/,live,F-Droid metadata lists GNU GPL v3.0 or later; MAXS Android module
+MAXS Module BluetoothAdmin,platforms,,Android,,,https://f-droid.org/en/packages/org.projectmaxs.module.bluetoothadmin/,live,Android module of the MAXS suite
+MAXS Module FileWrite,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/en/packages/org.projectmaxs.module.filewrite/,live,F-Droid metadata lists GNU GPL v3.0 or later; MAXS Android module
+MAXS Module FileWrite,platforms,,Android,,,https://f-droid.org/en/packages/org.projectmaxs.module.filewrite/,live,Android module of the MAXS suite
+MAXS Module Notification,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/org.projectmaxs.module.notification/,live,Modular Android XMPP Suite notification module
+MAXS Module Notification,platforms,,Android,,,https://f-droid.org/packages/org.projectmaxs.module.notification/,live,
+MAXS Module SmsNotify,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/org.projectmaxs.module.smsnotify/,live,Modular Android XMPP Suite SMS notify module
+MAXS Module SmsNotify,platforms,,Android,,,https://f-droid.org/packages/org.projectmaxs.module.smsnotify/,live,
+MAXS Module WifiAccess,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/org.projectmaxs.module.wifiaccess/,live,Modular Android XMPP Suite WiFi access module
+MAXS Module WifiAccess,platforms,,Android,,,https://f-droid.org/packages/org.projectmaxs.module.wifiaccess/,live,
+Mayhem Firmware,license,,Open source,GPL-3.0,,https://github.com/portapack-mayhem/mayhem-firmware,live,HackRF PortaPack firmware
+Medium Editor,license,,Open source,MIT,,https://github.com/yabwe/medium-editor,live,WYSIWYG editor library
+Metronome,license,,Open source,GPL-3.0,,https://github.com/Kr0oked/Metronome,live,GitHub API spdx_id GPL-3.0; simple elegant metronome app for Android
+Metronome,platforms,,Android,,,https://github.com/Kr0oked/Metronome,live,Repo description: simple and elegant metronome for Android
+Microsoft PowerToys,license,,Open source,MIT,,https://github.com/microsoft/PowerToys,live,GitHub API spdx_id MIT; collection of utilities that supercharge productivity
+Microsoft PowerToys,platforms,,Windows,,,https://github.com/microsoft/PowerToys,live,Repo description: utilities for Windows
+Minesweeper Rs,license,,Open source,MIT,,https://github.com/robmikh/minesweeper-rs,live,GitHub API spdx_id MIT; port of robmikh/Minesweeper using windows-rs
+Minesweeper Rs,platforms,,Windows,,,https://github.com/robmikh/minesweeper-rs,live,README: requires Windows build 1803+
+Mini Video Me,license,,Open source,MIT,,https://github.com/maykbrito/mini-video-me,live,GitHub API spdx_id MIT; small webcam player focused on recordings
+Mini Video Me,platforms,,"Windows, macOS, Linux",,,https://github.com/maykbrito/mini-video-me,live,Release assets: Windows exe/zip; macOS dmg/zip; Linux AppImage/rpm/pacman
+Mist,license,,Open source,MIT,,https://github.com/ninxsoft/Mist,live,GitHub API spdx_id MIT; Mac utility that automatically downloads macOS firmwares/installers
+Mist,platforms,,macOS,,,https://github.com/ninxsoft/Mist,live,Mac utility that automatically downloads macOS firmwares/installers
+MJParallax Collection View,license,,Open source,MIT,,https://github.com/mayuur/MJParallaxCollectionView,live,GitHub API spdx_id MIT; iOS UICollectionView cell parallax library - no end-user platforms
+MMWormhole,license,,Open source,MIT,,https://github.com/griddynamics-archive/MMWormhole,live,GitHub API spdx_id MIT; message passing between iOS apps and extensions - library; no end-user platforms
+"Mondial Relay, suivi de colis",license,,Proprietary — free,Closed source company app,Android,https://play.google.com/store/apps/details?id=com.mondialrelay.mobile&hl=en&gl=us,live,Play Store listing states the app is free
+"Mondial Relay, suivi de colis",platforms,,Android,,,https://play.google.com/store/apps/details?id=com.mondialrelay.mobile&hl=en&gl=us,live,Play Store Android listing
+Monitorix,license,,Open source,GPL-2.0,"Linux, FreeBSD, OpenBSD, NetBSD",https://github.com/mikaku/Monitorix,live,GitHub API SPDX GPL-2.0 on canonical repo mikaku/Monitorix
+Monitorix,platforms,,"Linux, FreeBSD, OpenBSD, NetBSD",,,https://github.com/mikaku/Monitorix,live,Perl system monitoring tool; official site monitorix.org
+Morph Browser,license,,Open source,GPL-3.0,Linux (Ubuntu Touch),https://gitlab.com/ubports/development/core/morph-browser,live,GitHub API SPDX GPL-3.0 on ubports/morph-browser; project moved to GitLab
+Morph Browser,platforms,,Linux (Ubuntu Touch),,,https://gitlab.com/ubports/development/core/morph-browser,live,Ubuntu Touch default web browser
+Motionity,license,,Open source,MIT,Web,https://github.com/alyssaxuu/motionity,live,GitHub API SPDX MIT on canonical repo alyssaxuu/motionity
+Motionity,platforms,,Web,,,https://github.com/alyssaxuu/motionity,live,Web-based motion graphics editor
+Mouzi,license,,Open source,MIT,Windows,https://github.com/hsr88/mouzi,live,GitHub API SPDX MIT on canonical repo hsr88/mouzi
+Mouzi,platforms,,Windows,,,https://github.com/hsr88/mouzi,live,Tauri system-tray file organizer; Windows 10/11
+MPK3 Settings,license,,Open source,GPL-3.0,Linux,https://github.com/tsmetana/mpk3-settings,live,GitHub API SPDX GPL-3.0
+MPK3 Settings,platforms,,Linux,,,https://github.com/tsmetana/mpk3-settings,live,GTK UI for AKAI MPK mini III MIDI keyboard; Flathub x86_64/aarch64
+MQTTKit,license,,Open source,MIT,,https://github.com/arnecs/mqttkit,live,GitHub API SPDX MIT; Swift MQTT client library (license row only)
+Mule on Android,license,,Open source,Apache License 2.0,,https://f-droid.org/en/packages/org.dkf.jmule/,live,ED2K/eDonkey2000 search and download client for Android
+Mule on Android,platforms,,Android,,,https://f-droid.org/en/packages/org.dkf.jmule/,live,ED2K/eDonkey2000 search and download client for Android
+MultiLocale,license,,Open source,MIT License,,https://linsui.gitlab.io/fdroid-website/packages/io.nightdavisao.multilocale/,live,Adds additional languages to device locale settings
+MultiLocale,platforms,,Android,,,https://linsui.gitlab.io/fdroid-website/packages/io.nightdavisao.multilocale/,live,Adds additional languages to device locale settings
+Munder Difflin,license,,Open source,MIT,,https://github.com/HarnessMD/munder-difflin,live,Agent harness to run an office of AI coding clones
+Mute reminder,license,,Open source,Apache License 2.0,,https://github.com/mueller-ma/MuteReminder,live,Android app reminding user to mute media
+Mute reminder,platforms,,Android,,,https://github.com/mueller-ma/MuteReminder,live,Android app reminding user to mute media
+MyHackerspace (New),license,,Open source,GNU General Public License v3.0 only,,http://f-droid.org/packages/io.spaceapi.community.myhackerspace/,live,SpaceAPI hackerspace status and information app
+MyHackerspace (New),platforms,,Android,,,http://f-droid.org/packages/io.spaceapi.community.myhackerspace/,live,SpaceAPI hackerspace status and information app
+mysql-shell,license,,Open source,GPLv2,,https://github.com/mysql/mysql-shell,live,MySQL Shell CLI; repo LICENSE file states GPL version 2
+mysql-shell,platforms,,Windows; macOS; Linux,,,https://dev.mysql.com/doc/mysql-shell/8.0/en/mysql-shell-install.html,live,MySQL Shell CLI; official install docs cover Linux Windows and macOS
+Nana Box,license,,Open source,MIT,,https://github.com/M2Team/NanaBox,live,Hyper-V virtualization software; License.md states source under MIT
+Nana Box,platforms,,Windows,,,https://github.com/M2Team/NanaBox,live,Hyper-V virtualization software distributed via Windows Store
