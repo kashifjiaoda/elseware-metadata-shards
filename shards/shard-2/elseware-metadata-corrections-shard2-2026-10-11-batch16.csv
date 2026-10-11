@@ -1,0 +1,94 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+TrueNAS SCALE,license,,Open source,"LGPL-3.0 (middleware repo); official site: ""Free Open Source Storage""",x86-64 bare metal,https://www.truenas.com/scale/,live,Official: TrueNAS Community Edition - Free Open Source Storage; GitHub truenas/middleware LICENSE is LGPL-3.0
+TrueNAS SCALE,platforms,,x86-64 bare metal,,,https://www.truenas.com/scale/,live,"Official features table: ""Platforms: Any x86 system""; NAS operating system (Debian Linux-based)"
+Unraid,license,,Proprietary — paid,"Perpetual one-time licenses: Starter $49, Unleashed $109, Lifetime $249; 30-day free trial",,https://unraid.net/pricing,live,"Official pricing: one-time perpetual licenses; ""No Subscription""; 30-day free trial no credit card"
+Clio,license,,Proprietary — paid subscription,"Plans from $49/user/mo: Starter, Core, Signature, Elite; free trial",Web,https://www.clio.com/pricing/,live,"Official: ""plans start at $49 USD per user per month""; monthly/annual subscription; cancel anytime"
+Clio,platforms,,Web,,,https://www.clio.com/pricing/,live,"Cloud-based; ""access your account securely from anywhere""; ""nothing to install"""
+PracticePanther,license,,Proprietary — paid subscription,"Solo $59/mo, Essential $79/mo, Business $99/mo, Business Pro $124/mo; 7-day free trial","Web, iOS, Android",https://www.practicepanther.com/pricing/,live,Official: four paid plans per user/month; 7-day free trial no credit card needed
+PracticePanther,platforms,,"Web, iOS, Android",,,https://www.practicepanther.com/pricing/,live,"Official features: ""iPhone, iPad & Android App"" included; web login at app.practicepanther.com"
+MyCase,license,,Proprietary — paid subscription,"Basic $50/mo, Pro $100/mo, Advanced $130/mo (annual billing); 10-day free trial",Web,https://www.mycase.com/pricing/,live,"Official: per user/month subscription; ""10 day no-cost trial""; no long-term contract required"
+MyCase,platforms,,Web,,,https://www.mycase.com/pricing/,live,Cloud-based legal practice management platform
+Smokeball,license,,Proprietary — paid subscription,"Four plans (Bill, Boost, Grow, Prosper+); personalized quote pricing; subscription",Web,https://www.smokeball.com/pricing/,live,"Official: four paid plans; ""request a personalized, no-obligation quote""; plan renewal terms described"
+Smokeball,platforms,,Web,,,https://www.smokeball.com/pricing/,live,"Official: ""Fully browser based""; ""Web App""; native desktop application and mobile app also offered"
+Filevine,license,,Proprietary — paid subscription,Custom/quote-based enterprise pricing; subscription model,Web,https://www.filevine.com/pricing/,live,"Official: ""tailor a cost-effective and scalable plan for your organization""; ""before committing to a subscription"""
+Filevine,platforms,,Web,,,https://www.filevine.com/pricing/,live,Cloud platform hosted on AWS; SaaS case management
+Litify,license,,Proprietary — paid subscription,Enterprise pricing via demo/quote; no public pricing tiers,Web,https://www.litify.com/pricing/,live,"Official: enterprise legal software solutions; ""Request a Free Demo""; commercial SaaS platform"
+Litify,platforms,,Web,,,https://www.litify.com/pricing/,live,Cloud-based enterprise legal software platform
+CosmoLex,license,,Proprietary — paid subscription,Plans with yearly savings; free trial no credit card; subscription,Web,https://www.cosmolex.com/pricing/,live,"Official FAQ: trial ""includes the same functionality as a paid subscription""; ""Save $120 per user with yearly"""
+CosmoLex,platforms,,Web,,,https://www.cosmolex.com/pricing/,live,"Official FAQ: ""Yes. CosmoLex is 100% cloud-based. No installation required. Just visit law.cosmolex.com from any device."""
+Zola Suite,license,,Proprietary — paid subscription,"Enterprise $79, Enterprise Plus $99, Enterprise Insights $119 per user/mo (billed annually)",Web,https://www.zolasuite.com/pricing/,live,"Official (CARET Legal): per-user subscription; ""Every subscription comes with these features""; ""pricing is transparent and based on a per-user subscription model"""
+Zola Suite,platforms,,Web,,,https://www.zolasuite.com/pricing/,live,"Official: ""modern, cloud-based platform""; offers mobile and web portals"
+Rocket Matter,license,,Proprietary — paid subscription,Plans from $39/user/mo billed annually; Pro/Premier tiers,"Web, iOS, Android",https://www.rocketmatter.com/pricing/,live,Official pricing: paid plans per user; Mobile App and Desktop Time Tracker listed as features
+Rocket Matter,platforms,,"Web, iOS, Android",,,https://www.rocketmatter.com/pricing/,live,Official pricing page lists Mobile App feature; cloud-based practice management
+Actionstep,license,,Proprietary — paid subscription,Priced per user plus implementation fees; no free tier,Web,https://www.actionstep.com/pricing/,live,Official pricing: per-user pricing plus implementation fees; add-on modules priced per user
+Actionstep,platforms,,Web,,,https://www.actionstep.com/pricing/,live,Official: cloud-based legal practice management platform
+LegalZoom,license,,Proprietary — paid,Upfront flat fee pricing; full price known before you begin,Web,https://www.legalzoom.com/,live,Official homepage: upfront flat fee pricing and predictable pricing for legal services
+LegalZoom,platforms,,Web,,,https://www.legalzoom.com/,live,Official: online legal services platform
+Rocket Lawyer,license,,Proprietary — paid subscription,Membership $12.41/mo to $29.08/mo billed yearly after 7-day free trial,Web,https://www.rocketlawyer.com/,live,Official homepage: paid membership plans billed yearly; AI legal membership
+Rocket Lawyer,platforms,,Web,,,https://www.rocketlawyer.com/,live,Official: web-based legal membership platform
+Avvo,license,,Proprietary — free,Free lawyer directory and Q&A; ask a question for free,Web,https://www.avvo.com/,live,Official homepage: post an anonymous question for free; free lawyer search
+Avvo,platforms,,Web,,,https://www.avvo.com/,live,Official: web-based lawyer directory
+UpCounsel,license,,Proprietary — free,Free to post jobs and get proposals; free legal documents,Web,https://www.upcounsel.com/,live,Official homepage: Get Free Proposals; free legal documents and resources
+UpCounsel,platforms,,Web,,,https://www.upcounsel.com/,live,Official: web-based attorney marketplace
+LawTrades,license,,Proprietary — free,Free marketplace to browse and hire legal professionals; attorneys charge hourly/flat fee,Web,https://www.lawtrades.com/,live,Official homepage: legal talent marketplace; explore the marketplace
+LawTrades,platforms,,Web,,,https://www.lawtrades.com/,live,Official: web-based legal hiring marketplace
+Priori,license,,Proprietary — free,Free talent marketplace for in-house legal teams; pay for legal services not the platform,Web,https://www.priorilegal.com/,live,Official site: Talent Marketplace and Priori RFP for sourcing outside counsel
+Priori,platforms,,Web,,,https://www.priorilegal.com/,live,Official: web-based legal marketplace and outside counsel management
+DocuSign,license,,Proprietary — paid subscription,Personal $11/mo; Standard $30/user/mo; Business Pro $45/user/mo; no free tier,Web,https://www.docusign.com/pricing,live,Official pricing: paid eSignature plans; subscription auto-renews
+DocuSign,platforms,,Web,,,https://www.docusign.com/pricing,live,Official: cloud-based eSignature platform
+Dropbox Sign,license,,Proprietary — paid subscription,Starts at $15/user/month billed yearly; no free tier listed,Web,https://sign.dropbox.com/,live,Official homepage: paid plans from $15/user/month billed yearly
+Dropbox Sign,platforms,,Web,,,https://sign.dropbox.com/,live,Official: web-based eSignature solution
+PandaDoc,license,,Proprietary — freemium,Free eSign plan (5 documents/month); paid Essentials/Business/Enterprise plans,"Web, iOS, Android",https://www.pandadoc.com/pricing/,live,Official pricing: Free eSign plan plus paid Starter/Business/Enterprise; 14-day free trial
+PandaDoc,platforms,,"Web, iOS, Android",,,https://www.pandadoc.com/pricing/,live,Official FAQ: mobile app for phone and iPad; web-based platform
+SignNow,license,,Proprietary — paid subscription,"Basic $8/mo,  Business $15/mo,  Advanced $30/mo,  Enterprise custom; 7-day free trial","Web, iOS, Android",https://www.signnow.com/pricing,live,Official pricing: paid plans from $8/mo billed annually; 7-day free trial; no free tier
+SignNow,platforms,,"Web, iOS, Android",,,https://helpcenter.signnow.com/en/articles/13258335-mobile-experience,live,Official help center: mobile app for iOS (App Store) and Android (Google Play); web platform
+eversign,license,,Proprietary — freemium,"Free plan (5 documents/month); Basic $10/mo,  Professional $16/mo billed yearly","Web, iOS, Android",https://eversign.com/pricing,live,Official (now Xodo Sign): Free plan up to 5 documents/month; paid Basic/Professional tiers
+eversign,platforms,,"Web, iOS, Android",,,https://eversign.com/pricing,live,Official: Mobile Send & Sign with Xodo app for iOS and Android; web platform
+Yousign,license,,Proprietary — freemium,"Free plan (unlimited self-sign,  2 invitations/month); paid One/Plus/Pro plans",Web,https://yousign.com/en/pricing,live,Official pricing (now Youtrust): FREE plan with unlimited self-sign and 2 invitations/month; paid tiers
+Yousign,platforms,,Web,,,https://yousign.com/en/pricing,live,Official: web-based eSignature application
+Concord,license,,Proprietary — paid subscription,"Essentials $499/mo,  Business $899/mo,  Enterprise $1299/mo (paid annually,  5 users included)",Web,https://www.concordnow.com/pricing/,live,Official pricing: paid plans from $499/mo paid annually; no free tier advertised
+Concord,platforms,,Web,,,https://www.concordnow.com/pricing/,live,Official: web-based contract management platform
+Ironclad,license,,Proprietary — paid subscription,Custom solution-based pricing (pay-per-seat); no free tier advertised,Web,https://ironcladapp.com/pricing/,live,Official pricing: custom pricing by product and deployment; enterprise CLM platform
+Ironclad,platforms,,Web,,,https://ironcladapp.com/pricing/,live,Official: web-based contract lifecycle management platform
+LinkSquares,license,,Proprietary — paid subscription,Custom quote-based pricing; no free tier advertised,Web,https://linksquares.com/pricing/,live,"Official pricing: personalized quotes based on users, contract volume, features"
+LinkSquares,platforms,,Web,,,https://linksquares.com/pricing/,live,Official: web-based AI contract management platform
+ContractWorks,license,,Proprietary — paid subscription,Standard/Professional/Premium plans billed annually; unlimited users; free trial,Web,https://www.contractworks.com/pricing,live,"Official pricing: three paid plans billed annually with unlimited users; free trial, no free tier"
+ContractWorks,platforms,,Web,,,https://www.contractworks.com/pricing/,live,Official: web-based contract management software
+Juro,license,,Proprietary — paid subscription,Custom plan pricing; no free tier advertised,Web,https://juro.com/pricing/,live,Official pricing: custom plans built per business; no listed prices
+Juro,platforms,,Web,,,https://juro.com/pricing/,live,Official: web-based contract management platform
+Precisely,license,,Proprietary — paid subscription,License-based pricing; user licenses with full platform access; tailored quotes,Web,https://preciselycontracts.com/pricing,live,Official pricing: license-based model with user licenses; contract management SaaS (not the data company)
+Precisely,platforms,,Web,,,https://preciselycontracts.com/,live,Official site: cloud-based contract management platform
+Casetext,license,,Proprietary — paid subscription,Online pricing available; subscription terms (1-3 year); CoCounsel plans,Web,https://sales.legalsolutions.thomsonreuters.com/en-us/products/cocounsel-legal/300/plans-pricing,live,"Official Thomson Reuters: acquired by TR, rebranded as CoCounsel; subscription plans with online pricing"
+Casetext,platforms,,Web,,,https://casetext.com/,live,"casetext.com now redirects to Thomson Reuters CoCounsel; web-based AI assistant, login after sign-up"
+LexisNexis,license,,Proprietary — paid subscription,Requires current Lexis+ subscription and valid ID/password,"iOS, Web",https://apps.apple.com/us/app/lexis-mobile/id1530074382?uo=4,live,App Store Lexis+ Mobile by LexisNexis: must have a current Lexis+ subscription to use the app
+LexisNexis,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/lexis-mobile/id1530074382?uo=4,live,App Store: iPhone/iPad app; description directs to Lexis+ on the web for full functionality
+Westlaw,license,,Proprietary — paid subscription,Commercial legal research service; subscription plans via Thomson Reuters,Web,https://legal.thomsonreuters.com/en/products/westlaw,live,Official TR: Westlaw Edge/Advantage legal research platforms; sold on subscription
+Westlaw,platforms,,Web,,,https://legal.thomsonreuters.com/en/products/westlaw,live,Official TR: online legal research platform
+vLex,license,,Proprietary — paid subscription,Enterprise legal research platform; demo/sales-led pricing,Web,https://www.vlex.com/,live,"Official: vLex (Part of Clio) AI legal research for firms; commercial B2B platform, no free tier"
+vLex,platforms,,Web,,,https://www.vlex.com/,live,Official: web-based legal intelligence platform
+Fastcase,license,,Proprietary — freemium,Free member benefit via 80+ bar associations; paid subscriptions otherwise,Web,https://www.fastcase.com/,live,Official: partners with 80+ bar associations to provide legal research as a free member benefit
+Fastcase,platforms,,Web,,,https://www.fastcase.com/,live,Official: online legal research software
+Harvey AI,license,,Proprietary — paid subscription,"Enterprise AI platform; 3,500+ legal organizations; demo-led sales",Web,https://www.harvey.ai/,live,"Official: AI software for legal and professional services; commercial enterprise SaaS, no public pricing"
+Harvey AI,platforms,,Web,,,https://www.harvey.ai/,live,Official: web-based platform for firms and legal departments
+Luminance,license,,Proprietary — paid subscription,"Enterprise contract intelligence; 1,000+ enterprises; demo-led sales",Web,https://www.luminance.com/,live,"Official: contract intelligence platform; commercial enterprise SaaS, no public pricing"
+Luminance,platforms,,Web,,,https://www.luminance.com/,live,Official: web-based contract intelligence platform
+Kira Systems,license,,Proprietary — paid subscription,Enterprise contract review AI; 70% of top 50 global law firms,Web,https://www.litera.com/products/kira/,live,Official Litera: Kira contract intelligence (acquired by Litera); commercial enterprise SaaS
+Kira Systems,platforms,,Web,,,https://www.litera.com/products/kira/,live,Official Litera: web-based review environment
+Lex Machina,license,,Proprietary — paid subscription,Legal analytics software; trusted by 90%+ of largest firms,Web,https://lexmachina.com/,live,"Official: Lex Machina (LexisNexis company) legal analytics platform; commercial B2B, demo-led sales"
+Lex Machina,platforms,,Web,,,https://lexmachina.com/,live,Official: web-based legal analytics platform
+TimeSolv,license,,Proprietary — paid subscription,Starts at $49 per user per month; 10-day free trial,Web,https://timesolv.com/pricing,live,Official pricing: starts at $49/user/mo; free trial with no credit card required
+TimeSolv,platforms,,Web,,,https://timesolv.com/pricing,live,Web-based time tracking and billing; mobile app listed as feature
+Bill4Time,license,,Proprietary — paid subscription,$39-$89 per user per month billed annually; 14-day free trial,Web,https://bill4time.com/pricing,live,"Official pricing: Time & Billing $39, Legal Pro $59, Enterprise $69-$89/user/mo; 14-day free trial"
+Bill4Time,platforms,,Web,,,https://bill4time.com/pricing,live,Web-based legal time and billing; mobile app listed as feature
+LeanLaw,license,,Proprietary — paid subscription,Core $55/user/mo; Pro $75/user/mo; 7-day free trial,Web,https://leanlaw.co/pricing/,live,"Official pricing: Core $55/user/mo, Pro $75/user/mo; free 7-day trial, no credit card required"
+LeanLaw,platforms,,Web,,,https://leanlaw.co/pricing/,live,Runs natively on QuickBooks Online; web-based legal billing
+LawGeex,license,,Proprietary — paid subscription,Enterprise contract review automation platform; request a demo for pricing,Web,https://www.lawgeex.com/,live,Official site: AI contract review automation platform; enterprise sales via demo request
+LawGeex,platforms,,Web,,,https://www.lawgeex.com/,live,Cloud-based contract review platform
+DoNotPay,license,,Proprietary — paid subscription,AI consumer champion; subscription-based (subscriber testimonials),Web,https://donotpay.com/,live,Official site: AI-powered consumer tools; references to DoNotPay Subscriber model
+DoNotPay,platforms,,Web,,,https://donotpay.com/,live,Web-based AI consumer platform
+Diligen,license,,Proprietary — paid subscription,ML-powered contract analysis platform; request a demo for pricing,Web,https://diligen.com/,live,Official site: machine learning contract analysis; enterprise sales via demo request
+Diligen,platforms,,Web,,,https://diligen.com/,live,Cloud-based contract analysis platform
+Logikcull,license,,Proprietary — paid subscription,eDiscovery and legal holds SaaS platform for legal teams,Web,https://logikcull.com/,live,Official site: eDiscovery automation platform; used by thousands of legal teams
+Logikcull,platforms,,Web,,,https://logikcull.com/,live,Cloud-based eDiscovery platform; drag-and-drop web interface
+Everlaw,license,,Proprietary — paid subscription,AI platform for litigation and investigations,Web,https://www.everlaw.com/,live,Official site: AI-built litigation and investigations platform
+Everlaw,platforms,,Web,,,https://www.everlaw.com/,live,Cloud-based evidentiary platform for legal teams
