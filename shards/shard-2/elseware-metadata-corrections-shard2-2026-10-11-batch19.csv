@@ -1,0 +1,67 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Once,license,,Proprietary — freemium,"Free app; subscription unlocks 3 Perfect Matches/day,  unlimited likes,  view who liked you",iOS,https://apps.apple.com/us/app/once-chat-connect-app/id1489440748?uo=4,live,"App Store: Free by Xeanco Limited; description details subscription unlocking more matches, unlimited likes, view who liked you"
+Once,platforms,,iOS,,,https://apps.apple.com/us/app/once-chat-connect-app/id1489440748?uo=4,live,"App Store supportedDevices: iPhone, iPad"
+Indeed,license,,Proprietary — free,Free job search app for job seekers,"iOS, Web",https://apps.apple.com/us/app/indeed-job-search/id309735670?uo=4,live,"App Store: Free by Indeed Inc.; description states ""the free job search app"""
+Indeed,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/indeed-job-search/id309735670?uo=4,live,App Store iosUniversal (iPhone/iPad); official site indeed.com is web-based
+Glassdoor,license,,Proprietary — free,"Free job search,  company reviews,  salary info",iOS,https://apps.apple.com/us/app/glassdoor-jobs-careers/id589698942?uo=4,live,"App Store: Free by Glassdoor Inc.; price 0.00, no in-app purchases listed"
+Glassdoor,platforms,,iOS,,,https://apps.apple.com/us/app/glassdoor-jobs-careers/id589698942?uo=4,live,App Store iosUniversal: iPhone and iPad
+ZipRecruiter,license,,Proprietary — free,100% free job search app per description,iOS,https://apps.apple.com/us/app/ziprecruiter-job-search/id541933937?uo=4,live,"App Store: Free by ZipRecruiter Inc.; description states ""100% FREE"""
+ZipRecruiter,platforms,,iOS,,,https://apps.apple.com/us/app/ziprecruiter-job-search/id541933937?uo=4,live,App Store iosUniversal: iPhone and iPad
+Monster,license,,Proprietary — free,Free job search app,iOS,https://apps.apple.com/us/app/monster-job-search/id870221491?uo=4,live,"App Store: Free by Monster Worldwide Inc.; description states ""job app is free and easy to use"""
+Monster,platforms,,iOS,,,https://apps.apple.com/us/app/monster-job-search/id870221491?uo=4,live,App Store iosUniversal: iPhone and iPad
+Snagajob,license,,Proprietary — free,Free job finder app for hourly jobs,iOS,https://apps.apple.com/us/app/snagajob-jobs-hiring-now/id333188676?uo=4,live,"App Store: Free by SnagAJob.com; description states ""#1 free, easy job finder app"""
+Snagajob,platforms,,iOS,,,https://apps.apple.com/us/app/snagajob-jobs-hiring-now/id333188676?uo=4,live,App Store iosUniversal: iPhone and iPad
+Upwork,license,,Proprietary — free,Free to join and use; Connects sold as in-app purchases for submitting proposals,"Web, iOS, Android",https://www.upwork.com/,live,Official: Posting jobs is always free; Get started for free; App Store price 0.00 Free by Upwork Global Inc.
+Upwork,platforms,,"Web, iOS, Android",,,https://www.upwork.com/,live,Web via official site; iOS via App Store (Upwork Global Inc.); Android via Play Store
+Fiverr,license,,Proprietary — free,Free to join; only pay when happy with delivered work,"Web, iOS",https://www.fiverr.com/,live,Official: Join now; Only pay when you are happy; App Store price 0.00 Free by Fiverr International Ltd.
+Fiverr,platforms,,"Web, iOS",,,https://www.fiverr.com/,live,Web via official site; iOS via App Store (Fiverr International Ltd.); Android not verified in this pass
+Freelancer,license,,Proprietary — free,Free to post jobs; pay only when satisfied with work,"Web, iOS",https://www.freelancer.com/,live,Official: Post your job - It is free and easy; App Store price 0.00 Free by Freelancer.com
+Freelancer,platforms,,"Web, iOS",,,https://www.freelancer.com/,live,Web via official site; iOS via App Store (Freelancer.com); Android not verified in this pass
+Turing,license,,Proprietary — free,Expert network for AI and engineering talent; free to join as talent; enterprise clients pay,Web,https://www.turing.com/,live,Official: Join expert network to advance superintelligence; clients are frontier labs and Fortune 500 enterprises
+Turing,platforms,,Web,,,https://www.turing.com/,live,Web-based talent platform
+Arc.dev,license,,Proprietary — free,$0 until you hire; free for talent; employers pay on hire,Web,https://arc.dev/,live,"Official: ""$0 until you hire""; free job search for freelance and full-time remote talent"
+Arc.dev,platforms,,Web,,,https://arc.dev/,live,Web-based talent platform
+Gun.io,license,,Proprietary — free,Technical talent platform connecting companies with vetted freelance engineers; free for talent,Web,https://gun.io/,live,Official FAQ: technical talent platform connecting companies with vetted freelance software engineers since 2011
+Gun.io,platforms,,Web,,,https://gun.io/,live,Web-based platform
+X-Team,license,,Proprietary — free,Elite on-demand tech talent for companies; free for talent,Web,https://x-team.com/,live,Official: on-demand tech talent for startups and Fortune 500 companies; talent side free to apply
+X-Team,platforms,,Web,,,https://x-team.com/,live,Web-based platform
+Braintrust,license,,Proprietary — free,AI-powered talent network for enterprise; free for talent; enterprises pay,Web,https://www.usebraintrust.com/,live,Official: talent marketplace with 2M+ vetted professionals for enterprise hiring
+Braintrust,platforms,,Web,,,https://www.usebraintrust.com/,live,Web-based platform
+Working Nomads,license,,Proprietary — freemium,"Free public job listing; premium subscription $17.95/mo, $39.95/quarterly, $79.95/yearly for 10x more jobs and filters",Web,https://www.workingnomads.com/premium-subscription,live,"Official pricing page: free listing browsable anytime; premium unlocks 10x more postings, advanced filters, job alerts, ad-free"
+Working Nomads,platforms,,Web,,,https://www.workingnomads.com/jobs,live,Web-based remote jobs board
+Jobspresso,license,,Proprietary — free,Curated remote jobs board; free for seekers; employers pay to post,Web,https://jobspresso.co/,live,"Official: expertly curated remote jobs; ""Want to reach 500,000+ remote workers? Post a Job"""
+Jobspresso,platforms,,Web,,,https://jobspresso.co/,live,Web-based remote jobs board
+FlexJobs,license,,Proprietary — paid subscription,"Subscription required for hand-screened listings: 14-day trial $2.95 (renews $23.95/4 weeks), 3-month $9.95/mo, annual $5.95/mo",Web,https://www.Flexjobs.Com/pricing,live,Official pricing: a subscription is required to access hand-screened job listings; 14-day money-back guarantee
+FlexJobs,platforms,,Web,,,https://www.flexjobs.com/,live,Web-based job platform
+Remote.co,license,,Proprietary — free,Free remote jobs board for seekers; employers pay to post,Web,https://remote.co/,live,Official: browse thousands of remote jobs; free job search and job alerts for seekers
+Remote.co,platforms,,Web,,,https://remote.co/,live,Web-based remote jobs board
+NoDesk,license,,Proprietary — free,"Browse and apply to remote jobs for free, no account required; employers pay to hire",Web,https://nodesk.co/,live,"Official: ""Browse and apply to the best new remote jobs... for free. No account or sign-up required."""
+NoDesk,platforms,,Web,,,https://nodesk.co/,live,Web-based remote job board
+Dynamite Jobs,license,,Proprietary — free,Free candidate profile and job applications; employers pay to post jobs,Web,https://dynamitejobs.com/,live,Official homepage: create your free profile; remote-first job board since 2017
+Dynamite Jobs,platforms,,Web,,,https://dynamitejobs.com/,live,Official site is a web-based job board; free candidate profile
+Cutshort,license,,Proprietary — free,"Free for candidates (upload resume, get matched, interview); employers pay (Freedom Plan from ₹10,000/month)","Web, iOS, Android",https://cutshort.io/,live,Official homepage: candidate flow is free; employer pricing from cutshort.io/pricing
+Cutshort,platforms,,"Web, iOS, Android",,,https://cutshort.io/,live,Official homepage shows Google Play Store and Apple App Store badges; web platform
+Instahyre,license,,Proprietary — free,"Free for job seekers (showcase profile, get matched); employers pay",Web,https://www.instahyre.com/,live,Official homepage: Showcase yourself to a curated list of top companies; Complete privacy and no spam
+Instahyre,platforms,,Web,,,https://www.instahyre.com/,live,Web-based hiring platform per official homepage
+Naukri,license,,Proprietary — freemium,"Free job search for seekers; paid ""Naukri Pro"" upsell (AI resume, AI interview prep, AI job agent)",Web,https://www.naukri.com/,live,Official homepage: free job search; Naukri Pro helps you get hired faster paid tier
+Naukri,platforms,,Web,,,https://www.naukri.com/,live,Web-based job board per official homepage; site shows Scan to download mobile app prompt (OS not confirmed)
+Rozee.pk,license,,Proprietary — free,Free job search and applications for job seekers; employers pay,Web,https://www.rozee.pk/,live,Official homepage lists Pakistan jobs; free job-seeker board
+Rozee.pk,platforms,,Web,,,https://www.rozee.pk/,live,Web-based job board per official homepage
+Bayt,license,,Proprietary — free,"Free for job seekers (sign up, post CV, apply); employers pay",Web,https://www.bayt.com/,live,Official: The Middle East's Leading Job Site; job-seeker success stories; free signup
+Bayt,platforms,,Web,,,https://www.bayt.com/,live,Web-based job site per official homepage; Get the Bayt App QR shown (mobile OS not confirmed)
+GulfTalent,license,,Proprietary — free,"Free registration for professionals (""let employers find you""); employers pay",Web,https://www.gulftalent.com/,live,Official homepage: Register now and let employers find you; free professional registration
+GulfTalent,platforms,,Web,,,https://www.gulftalent.com/,live,Web-based job board per official homepage
+Seek,license,,Proprietary — free,Free job search for job seekers; employers pay to advertise,Web,https://www.seek.com.au/,live,"Official: Australia's no. 1 jobs, employment, career and recruitment site"
+Seek,platforms,,Web,,,https://www.seek.com.au/,live,Web-based job board per official homepage
+Xing,license,,Proprietary — freemium,Free app; XING Premium Membership via in-app purchase,"iOS, macOS",https://apps.apple.com/gb/app/xing-the-right-job-for-you/id297625850,live,App Store: Free with In-App Purchases; Premium Membership tiers listed; by New Work SE
+Xing,platforms,,"iOS, macOS",,,https://apps.apple.com/gb/app/xing-the-right-job-for-you/id297625850,live,"App Store: iPhone, iPad, Mac (M1+), Apple Vision"
+Teal,license,,Proprietary — freemium,Free Forever plan; paid tier $13/week for premium features,Web,https://www.tealhq.com/,live,Official: Free Forever tier plus paid tier at $13/week; no credit card required for free
+Teal,platforms,,Web,,,https://www.tealhq.com/,live,Web-based platform with Chrome extension
+Huntr,license,,Proprietary — freemium,Free plan; Huntr Pro $40/month (monthly) for AI features,Web,https://huntr.co/pricing,live,Official pricing: Free and Pro plans; Pro $40/mo billed monthly
+Huntr,platforms,,Web,,,https://huntr.co/pricing,live,Web-based platform with Chrome extension
+Simplify,license,,Proprietary — freemium,Free for job seekers; Simplify+ subscription for premium features,"Web, iOS",https://simplify.jobs/,live,Official FAQ: free for job seekers; revenue from Simplify+ subscriptions
+Simplify,platforms,,"Web, iOS",,,https://simplify.jobs/,live,Web platform with Chrome extension; Simplify iOS app mentioned
+LazyApply,license,,Proprietary — paid subscription,Basic $99/yr; Premium $149/yr; Ultimate $999/yr; no free tier,Web,https://www.lazyapply.com/,live,"Official: paid plans only (Basic, Premium, Ultimate); 30-day money back guarantee"
+LazyApply,platforms,,Web,,,https://www.lazyapply.com/,live,Web-based AI job application automation tool
+Kindle,license,,Proprietary — free,Free reading app; no in-app purchases listed,"iOS, macOS",https://apps.apple.com/us/app/kindle/id302584613,live,App Store: Free by AMZN Mobile LLC; no In-App Purchases section
+Kindle,platforms,,"iOS, macOS",,,https://apps.apple.com/us/app/kindle/id302584613,live,"App Store: iPhone, iPad, Mac, Apple Vision"
