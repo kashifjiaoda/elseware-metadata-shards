@@ -1,0 +1,8 @@
+Shard 4 (Shard 2) status 2026-10-11-2224 PKT — Phase-2 expansion batch 63 DONE
+- Pushed: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch63.csv (apps.md lines 3107-3156; 50 unique apps, no dupes)
+- Rows: 98 (49 apps verified — 39 Proprietary-free + 10 Proprietary-freemium; 1 skipped: Calendário Menstrual, Ovulação — generic descriptor, unresolvable)
+- Assembled file validated: 98 rows x 9 cols, 0 schema issues, all live, whitelisted hosts only (apps.apple.com, play.google.com, cdb.com.br official)
+- All 5 chunks byte-identical in persistent + /tmp dirs; semicolon platform-value drift normalized pre-push
+- Notable flags in row notes: e-SUS Vacinação + ESIC Health Connect government publishers verified; Police Chief repurposed-binary bundle flagged; Neon BR vs Swiss Neon disambiguated; RpDana rebrand bundle retains old name; Alodokter seller-vs-brand mismatch; BPOM Mobile official agency; IL TakeCare = ICICI Lombard; Mais Saúde Cidadão vendor is municipal-health SaaS, not authority; Jan Aushadhi Sugam government on both stores
+- No OSS/Source-available claims this batch — no raw-LICENSE assembler spot-checks needed
+- Next: batch 64 (apps.md lines 3157-3206)
