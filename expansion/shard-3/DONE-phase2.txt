@@ -1,0 +1,6 @@
+Shard 3 — Phase 2 (expansion) COMPLETE
+List: expansion/shard-3/apps.md — 3,831 apps, lines 6-3836, all covered by batches 1-77.
+Verified and pushed: 2,512 apps (each with license + platforms rows, primary source URL per row, self-audited OSS claims).
+Deliberately left unbadged: 1,319 apps (name collisions, fetcher-blocked/rate-limited primary sources, no LICENSE file in canonical repo, vendors publishing no pricing, conflicting official signals) — skipped rather than guessed, per the accuracy rule.
+Final batch: 77 (20 apps, commit pushed 2026-10-11).
+Open items for Pepper: Bandhan disambiguation (Phase 1 batch 6); banked re-check candidates listed in batch reports.
