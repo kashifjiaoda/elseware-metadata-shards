@@ -1,0 +1,8 @@
+shard4 expansion batch44 COMPLETE (Shard 2) - 2026-10-11-1910 PKT
+apps.md lines 2157-2206 (50 apps, no dupes)
+Pushed: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch44.csv (70 rows)
+Verified: 38 of 50 apps (k1 7 / k2 7 / k3 9 / k4 6 / k5 9); 12 skipped with documented reasons
+Schema: 70 rows x 9 cols, 0 issues; all live; platforms col empty on every row; whitelisted sources only
+Assembler spot-checks (raw text): Clash Verge / Clipeus / ClearClipboard / ClaviRom = GPL-3.0-only (plain GPL v3 text, no or-later grant) - k5 verifier's conservative calls confirmed; Cachet 3.x = Source-available (custom Alt Three Services Ltd. license forbids standalone distribution; v2.x BSD-3 is stale) - badge flip confirmed against raw LICENSE.md; BroadBoard GPL-3.0-or-later kept (README quotes filled-in applied header grant)
+No thin-grounding drops needed pre-push; no convention drift; dual-write intact on all 5 chunks
+Next: batch 45 (apps.md lines 2207-2256)
