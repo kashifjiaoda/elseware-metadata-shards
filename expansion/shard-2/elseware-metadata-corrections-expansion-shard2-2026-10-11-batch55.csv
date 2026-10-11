@@ -1,0 +1,51 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Rsibreak,license,,Open source,GPL-2.0-or-later,Linux,https://apps.kde.org/rsibreak/,authoritative,KDE break-timer utility; apps.kde.org lists GPL-2.0+
+Rsibreak,platforms,,Linux,,,https://apps.kde.org/rsibreak/,authoritative,KDE/Linux desktop application
+Rtorrent,license,,Open source,GPL-2.0,,https://github.com/rakshasa/rtorrent,live,ncurses BitTorrent client
+Rtorrent,platforms,,Linux,,,https://github.com/rakshasa/rtorrent,live,Unix-like CLI client; kept to Linux conservatively
+Running Services Monitor,license,,Open source,MIT,Android,https://f-droid.org/packages/me.biplobsd.rsm/,live,F-Droid exact-name match lists MIT
+Running Services Monitor,platforms,,Android,,,https://f-droid.org/packages/me.biplobsd.rsm/,live,Android app
+Rybbit,license,,Open source,AGPL-3.0,Web,https://github.com/rybbit-io/rybbit,live,privacy-friendly web analytics; self-hosted
+Rybbit,platforms,,Web,,,https://github.com/rybbit-io/rybbit,live,self-hosted Docker web app; browser-based
+Sar Interference Tracker,license,,Open source,MIT,,https://github.com/bellingcat/sar-interference-tracker,live,Google Earth Engine research tool; no standalone end-user OS platforms
+Seahorse,license,,Open source,GPL-2.0,Linux,https://github.com/GNOME/seahorse,live,GNOME passwords and keys manager; COPYING is GNU GPL v2
+Seahorse,platforms,,Linux,,,https://github.com/GNOME/seahorse,live,GNOME desktop app
+Seedbox Lite,license,,Source-available,"Custom non-commercial license — SeedBox Lite Non-Commercial License: personal, educational, non-commercial use only","Windows, macOS, Linux",https://github.com/hotheadhacker/seedbox-lite,live,"Self-hosted torrent streaming web app (Docker/PM2); README documents Windows, macOS, Linux"
+Seedbox Lite,platforms,,"Windows, macOS, Linux",,,https://github.com/hotheadhacker/seedbox-lite,live,README documents Windows/macOS/Linux builds plus Docker/PM2 deployment
+Selenium Java Lean Test Architecture,license,,Open source,MIT,,https://github.com/eliasnogueira/selenium-java-lean-test-architecture,live,Lean test automation architecture template using Java and Selenium WebDriver; no end-user OS platforms
+Sharik,license,,Open source,MIT,"Android, iOS, Windows, macOS, Linux",https://github.com/marchellodev/sharik,live,Cross-platform file sharing via Wi-Fi/Mobile Hotspot
+Sharik,platforms,,"Android, iOS, Windows, macOS, Linux",,,https://github.com/marchellodev/sharik,live,README lists Android/iOS/Windows/Mac/Linux builds
+Shopify Django App,license,,Open source,MIT,,https://github.com/Shopify/shopify_django_app,live,Shopify example app template (Django + Python Shopify API); no end-user OS platforms
+Sigma File Manager,license,,Open source,GPL-3.0 (LICENSE.md: licensed under GNU GPLv3),"Windows, Linux",https://github.com/aleksey-hoffman/sigma-file-manager,live,GitHub API license undeclared; LICENSE.md text governs. Modern file manager/explorer
+Sigma File Manager,platforms,,"Windows, Linux",,,https://github.com/aleksey-hoffman/sigma-file-manager,live,README: modern file manager app for Windows and Linux
+Single File,license,,Open source,AGPL-3.0,Web,https://github.com/gildas-lormeau/SingleFile,live,Web extension saving a complete web page as a single HTML file
+Single File,platforms,,Web,,,https://github.com/gildas-lormeau/SingleFile,live,Browser extension (Chrome/Firefox/Edge)
+Slic3r,license,,Open source,AGPL-3.0,"Windows, macOS",https://github.com/slic3r/Slic3r,live,GitHub API spdx_id AGPL-3.0; 3D-printing toolchain
+Slic3r,platforms,,"Windows, macOS",,,https://github.com/slic3r/Slic3r,live,README documents automated builds for Windows 64-bit and OSX
+Smart Auto Clicker,license,,Open source,GPL-3.0,Android,https://github.com/Nain57/Smart-AutoClicker,live,GitHub API spdx_id GPL-3.0; README: open-source Android app (renamed Klick'r)
+Smart Auto Clicker,platforms,,Android,,,https://github.com/Nain57/Smart-AutoClicker,live,README: Android application for automating repetitive tasks
+Smhasher,license,,Open source,MIT,,https://github.com/aappleby/smhasher,live,README states SMHasher is released under the MIT license; MurmurHash versions are public domain; hash test suite library
+Social Fish Mobile,license,,Open source,BSD-3-Clause,Android,https://github.com/UndeadSec/SocialFishMobile,live,README license badge BSD 3; GitHub API spdx_id BSD-3-Clause; Flutter phishing-tool mobile client
+Social Fish Mobile,platforms,,Android,,,https://github.com/UndeadSec/SocialFishMobile,live,Flutter mobile app; releases ship app-release.apk
+Solitaire Tui,license,,Open source,Apache-2.0,"Windows, macOS, Linux",https://github.com/brianstrauch/solitaire-tui,live,GitHub API spdx_id Apache-2.0; Go terminal solitaire via charmbracelet bubbletea
+Solitaire Tui,platforms,,"Windows, macOS, Linux",,,https://github.com/brianstrauch/solitaire-tui,live,Terminal TUI installed via go install; runs on any terminal
+Soundnode App,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/Soundnode/soundnode-app,live,LICENSE.md is GNU GPL v3 text; GitHub API returned NOASSERTION so LICENSE text used
+Soundnode App,platforms,,"Windows, macOS, Linux",,,https://github.com/Soundnode/soundnode-app,live,README: Soundcloud for desktop Mac Windows and Linux
+Speedtest X,license,,Open source,LGPL-2.1,Web,https://github.com/MortyFx/speedtest-x,live,GitHub API spdx_id LGPL-2.1; self-hosted speedtest app with result datasheet (PHP)
+Speedtest X,platforms,,Web,,,https://github.com/MortyFx/speedtest-x,live,Self-hosted PHP web app
+Srs RAN 4 G,license,,Open source,AGPL-3.0,,https://github.com/srsran/srsRAN_4G,live,"GitHub API SPDX AGPL-3.0 on srsran/srsRAN_4G; open-source SDR 4G software suite; infrastructure software, no end-user OS platforms"
+Sshfs,license,,Open source,GPL-2.0,,https://github.com/libfuse/sshfs,live,GitHub API SPDX GPL-2.0 on libfuse/sshfs; network filesystem client for SSH servers
+Sshfs,platforms,,Linux,,,https://github.com/libfuse/sshfs,live,libfuse/sshfs README documents Linux FUSE deployment
+Stable Diffusion Prompt Reader,license,,Open source,MIT,,https://github.com/receyuki/stable-diffusion-prompt-reader,live,GitHub API SPDX MIT on receyuki/stable-diffusion-prompt-reader; standalone viewer for Stable Diffusion image prompts
+Stable Diffusion Prompt Reader,platforms,,"Windows, macOS, Linux",,,https://github.com/receyuki/stable-diffusion-prompt-reader,live,"README platform badge and install sections: Windows, macOS (Homebrew cask), Linux"
+Stashboard,license,,Open source,MIT,,https://github.com/twilio/stashboard,live,GitHub API SPDX MIT on twilio/stashboard; open-source status dashboard running on App Engine
+Stashboard,platforms,,Web,,,https://github.com/twilio/stashboard,live,Self-hosted App Engine status dashboard; browser-accessed
+Steel Browser,license,,Open source,Apache-2.0,,https://github.com/steel-dev/steel-browser,live,"GitHub API SPDX Apache-2.0 on steel-dev/steel-browser; open-source browser API for AI agents; developer tool, no end-user OS platforms"
+Stillcolor,license,,Open source,MIT,,https://github.com/aiaf/Stillcolor,live,Raw LICENSE verified as MIT License text (aiaf/Stillcolor); disables temporal dithering on the Mac
+Stillcolor,platforms,,macOS,,,https://github.com/aiaf/Stillcolor,live,README: lightweight macOS app
+Stockfish Mac,license,,Open source,GPL-3.0,,https://github.com/daylen/stockfish-mac,live,GitHub API SPDX GPL-3.0 on daylen/stockfish-mac; chess app for the Mac
+Stockfish Mac,platforms,,macOS,,,https://github.com/daylen/stockfish-mac,live,README: beautiful powerful chess app for the Mac
+StopTheMadness Pro,license,,Proprietary — paid,$14.99,,https://apps.apple.com/us/app/stopthemadness-pro/id6471380298?uo=4,live,"App Store listing: StopTheMadness Pro by Jeff Johnson, $14.99 USD, Utilities; closed source"
+StopTheMadness Pro,platforms,,"macOS, iOS",,,https://apps.apple.com/us/app/stopthemadness-pro/id6471380298?uo=4,live,"App Store supportedDevices: MacDesktop, iPhone, iPad"
+Surf,license,,Open source,MIT/X Consortium license,,https://surf.suckless.org/,live,Official site license page: MIT/X Consortium license
+Surf,platforms,,Linux,,,https://surf.suckless.org/,live,X11 browser based on WebKit2/GTK+
