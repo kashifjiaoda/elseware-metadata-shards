@@ -1,0 +1,62 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Keysign,license,,Open source,GPL-3.0-or-later per COPYING in gnome-keysign/gnome-keysign (master),,https://raw.githubusercontent.com/gnome-keysign/gnome-keysign/master/COPYING,live,"Identity: GNOME Keysign (OpenPGP keysigning helper, Flathub org.gnome.Keysign)"
+Keysign,platforms,,Linux,,Linux,https://flathub.org/ja/apps/org.gnome.Keysign,live,Flathub listing = Linux; GNOME Keysign also ships as Arch/COPR desktop packages
+KFind,license,,Open source,GPL-2.0-or-later per apps.kde.org/kfind,,https://apps.kde.org/kfind/,live,KDE file search utility (kde.org official app page)
+KFind,platforms,,Linux,,Linux,https://apps.kde.org/kfind/,live,
+Kmousetool,license,,Open source,GPL-2.0+ per apps.kde.org/kmousetool,,https://apps.kde.org/kmousetool/,live,KDE automatic mouse-click accessibility tool
+Kmousetool,platforms,,Linux,,Linux,https://apps.kde.org/kmousetool/,live,
+Kontact,license,,Open source,GPL-2.0+ per apps.kde.org/kontact,,https://apps.kde.org/kontact/,live,KDE personal information manager (PIM suite)
+Kontact,platforms,,"Linux, Windows",,"Linux, Windows",https://apps.kde.org/kontact/,live,apps.kde.org shows Linux and Windows platform badges (Windows = experimental)
+Klia Store,license,,Source-available,"Strict License with Contribution Exception 1.0.0 per LICENSE.md in N3koSempai/klia-store — custom license; copyright grant excludes making changes/new works, no modified-version distribution except via contribution back",,https://raw.githubusercontent.com/N3koSempai/klia-store/master/LICENSE.md,live,Desktop Flatpak/Flathub store client (Tauri); Flathub io.github.N3kosempai.klia-store
+Klia Store,platforms,,Linux,,Linux,https://flathub.org/en/apps/io.github.N3kosempai.klia-store,live,Flatpak-only desktop client (Flathub page tags: linux/flatpak)
+Krb5 Auth Dialog,license,,Open source,GPL-2.0 per COPYING in GNOME/krb5-auth-dialog,,https://raw.githubusercontent.com/GNOME/krb5-auth-dialog/main/COPYING,live,GNOME Kerberos ticket monitor dialog
+Krb5 Auth Dialog,platforms,,Linux,,Linux,https://github.com/gnome/krb5-auth-dialog,live,GNOME desktop app using GSettings/DBus
+Kristall,license,,Open source,GPL-3.0 per LICENSE in ikskuh/kristall (formerly MasterQ32/kristall),,https://raw.githubusercontent.com/ikskuh/kristall/master/LICENSE,live,Gemini/gopher/small-internet browser
+Kristall,platforms,,"Windows, macOS, Linux",,"Windows, macOS, Linux",https://kristall.random-projects.net/,live,"Official site Downloads: Windows zip, Linux AppImage, macOS dmg"
+Ksystemlog,license,,Open source,GPL-2.0-or-later per SPDX-License-Identifier in src/main.cpp on invent.kde.org,,https://invent.kde.org/system/ksystemlog/-/raw/master/src/main.cpp,live,KDE system log viewer
+Ksystemlog,platforms,,Linux,,Linux,https://apps.kde.org/ksystemlog/,live,KDE apps page: Install on Linux only
+Ktimetracker,license,,Open source,GPL-2.0-or-later per SPDX-License-Identifier in src/main.cpp on invent.kde.org,,https://invent.kde.org/pim/ktimetracker/-/raw/master/src/main.cpp,live,KDE time tracker
+Ktimetracker,platforms,,"Linux, Windows",,"Linux, Windows",https://apps.kde.org/ktimetracker/,live,"KDE apps page: Install on Linux, Flathub, Windows win64 builds"
+Kuaizi IME,license,,Open source,LGPL-3.0 per LICENSE in crazydan-studio/kuaizi-ime-android,,https://raw.githubusercontent.com/crazydan-studio/kuaizi-ime-android/master/LICENSE,live,Chinese Pinyin swipe input method editor
+Kuaizi IME,platforms,,Android,,Android,https://f-droid.org/packages/org.crazydan.studio.app.ime.kuaizi,live,F-Droid page: requires Android 7.1+; distributed exclusively via F-Droid
+Kvaesitso,license,,Open source,GPL-3.0 per LICENSE.txt in MM2-0/Kvaesitso,,https://raw.githubusercontent.com/MM2-0/Kvaesitso/main/LICENSE.txt,live,Search-focused Android launcher
+Kvaesitso,platforms,,Android,,Android,https://github.com/mm2-0/kvaesitso/blob/HEAD/readme.md,live,"README: launcher for Android, package de.mm20.launcher2.release"
+K’uychi,license,,Open source,Blue Oak Model License 1.0.0 per LICENSE.md in nyx_lyb3ra/kuychi (codeberg),,https://codeberg.org/nyx_lyb3ra/kuychi/raw/branch/main/LICENSE.md,live,Colour palette generator; name is Quechua for rainbow
+K’uychi,platforms,,Linux,,Linux,https://flathub.org/en/apps/one.naiara.Kuychi,live,Flathub: Install K'uychi on Linux; GTK/libadwaita GNOME app
+Ladybird,license,,Open source,BSD-2-Clause per LICENSE in LadybirdBrowser/ladybird,,https://raw.githubusercontent.com/LadybirdBrowser/ladybird/master/LICENSE,live,"Independent web browser, ladybird.org"
+Ladybird,platforms,,"Linux, macOS",,"Linux, macOS",https://ladybird.org/,live,Official site: Alpha 2026 target Linux & macOS; Windows later
+Last Launcher,license,,Open source,GPL-3.0 per LICENSE in SubhamTyagi/Last-Launcher,,https://github.com/SubhamTyagi/Last-Launcher/blob/master/LICENSE,live,"Identity: original SubhamTyagi repo; F-Droid package io.github.subhamtyagi.lastlauncher. Note: several newer same-name forks exist (consumerhu, jorritvanderheide); this row badges the original published app."
+Last Launcher,platforms,,,,Android,https://f-droid.org/packages/io.github.subhamtyagi.lastlauncher,live,F-Droid listing; package id io.github.subhamtyagi.lastlauncher per repo README F-Droid badge.
+Launch on Boot,license,,Open source,MIT per LICENSE in ITVlab/Launch-On-Boot,,https://github.com/ITVlab/Launch-On-Boot/blob/master/LICENSE,live,"Identity: ITVlab/Launch-On-Boot, Play Store id news.androidtv.launchonboot per README."
+Launch on Boot,platforms,,,,Android,https://github.com/ITVlab/Launch-On-Boot,live,Android TV utility; Play Store id news.androidtv.launchonboot referenced in README.
+Lenspect,license,,Open source,GPL-3.0-or-later per Flathub project_license for io.github.vmkspv.lenspect,,https://flathub.org/apps/io.github.vmkspv.lenspect,live,"Disambiguated: chose vmkspv/lenspect (VirusTotal-powered Linux scanner, Flathub-published) over mohanrao/lenspect (AI CCTV factory monitor)."
+Lenspect,platforms,,,,Linux,https://flathub.org/apps/io.github.vmkspv.lenspect,live,"Flathub ships Linux-only (Flatpak/AppImage); Flathub API name ""Lenspect"", summary ""Scan files for threats""."
+LiberDrop,platforms,,,,"Android, iOS, Windows, macOS, Linux, Web",https://liberdrop.com/,live,"Official homepage states: ""Available on Android, iOS, Windows, macOS, Linux, and directly on any web browser without installation"". No license row: free-ness not verifiable on official site (Snapcraft lists license as Proprietary only)."
+Libre Sudoku,license,,Open source,GPL-3.0 per LICENSE in kaajjo/libresudoku,,https://github.com/kaajjo/LibreSudoku/blob/main/LICENSE,live,Identity: kaajjo/libresudoku; F-Droid com.kaajjo.libresudoku; F-Droid page also lists GPL-3.0-only.
+Libre Sudoku,platforms,,,,Android,https://f-droid.org/en/packages/com.kaajjo.libresudoku,live,F-Droid package com.kaajjo.libresudoku; versions require Android 8.0+.
+LibreLynx Lite,license,,Open source,GPL-3.0 per official site librelynx.website,,https://librelynx.website/,live,"Official site: ""free, open-source Android browser... Licensed under GPL-3.0"". Identity: Team Librelynx, package com.librelynx.lite (F-Droid)."
+LibreLynx Lite,platforms,,,,Android,https://f-droid.org/2025/11/06/twif.html,live,Listed as newly added app in F-Droid TWIF 2025-11-06; Play Store listing also exists (com.librelynx.lite).
+LibreTrack,license,,Open source,GPL-3.0 per LICENSE.md in proninyaroslav/libretrack (master),,https://raw.githubusercontent.com/proninyaroslav/libretrack/master/LICENSE.md,live,Private package tracking app; identity confirmed via F-Droid/Play package org.proninyaroslav.libretrack
+LibreTrack,platforms,,"Android, Linux",,"Android, Linux",https://raw.githubusercontent.com/proninyaroslav/libretrack/master/README.md,live,"README ""Available platforms"" lists Android and Linux; iOS/macOS/Web/Windows marked planned only"
+Lidarr,license,,Open source,GPL-3.0 per LICENSE.md in Lidarr/Lidarr (develop default branch),,https://raw.githubusercontent.com/Lidarr/Lidarr/develop/LICENSE.md,live,Servarr music collection manager; identity confirmed via lidarr.audio official site
+Lidarr,platforms,,"Windows, macOS, Linux",,"Windows, macOS, Linux",https://lidarr.audio/,live,Official download section lists Windows
+Lightproxy,license,,Open source,Apache-2.0 per LICENSE in alibaba/lightproxy (master),,https://raw.githubusercontent.com/alibaba/lightproxy/master/LICENSE,live,Official repo is alibaba/lightproxy; verified identity via lightproxy.org-linked README (forks exist but alibaba is canonical)
+Lightproxy,platforms,,"macOS, Windows",,"macOS, Windows",https://raw.githubusercontent.com/alibaba/lightproxy/master/README.md,live,README Download section lists macOS dmg and Windows exe
+Limesuite,license,,Open source,Apache-2.0 per COPYING in myriadrf/LimeSuite (master),,https://raw.githubusercontent.com/myriadrf/LimeSuite/master/COPYING,live,Official myriadrf/LimeSuite repo; badging the Lime Suite product incl. LimeSuiteGUI desktop app
+Limesuite,platforms,,"Windows, macOS, Linux",,"Windows, macOS, Linux",http://wiki.myriadrf.org/Lime_Suite,live,Official wiki lists installers for Windows
+LnkShortener,license,,Open source,GPL-3.0 per LICENSE.txt in erikhubers/LnkShortener,,https://api.github.com/repos/erikhubers/LnkShortener/license,live,Upstream michaelachmann/LnkShortener deleted (404); verified on live fork of the same app
+LnkShortener,platforms,,,,Android,https://github.com/erikhubers/LnkShortener,live,Repo describes it as an Android app; Get it on Google Play and F-Droid badges in README
+Localsend,license,,Open source,Apache-2.0 per LICENSE in localsend/localsend,,https://api.github.com/repos/localsend/localsend/license,live,localsend.org is the official homepage linked from the repo
+Localsend,platforms,,,,"Windows, macOS, Linux, Android, iOS",https://localsend.org,live,Official homepage FAQ lists all five platforms
+Lofimusic,license,,Open source,MIT per GitHub license API on maxence-charriere/lofimusic,,https://api.github.com/repos/maxence-charriere/lofimusic/license,live,Identity: lofimusic.app PWA by maxence-charriere
+Lofimusic,platforms,,,,Web,https://github.com/maxence-charriere/lofimusic/blob/HEAD/README.md,live,README: installable Progressive web app at lofimusic.app
+LogFox,license,,Open source,GPL-3.0 per LICENSE in f0x1d/logfox (F-Droid metadata lists GPL-3.0 only),,https://api.github.com/repos/f0x1d/logfox/license,live,Identity: Android LogCat reader com.f0x1d.logfox
+LogFox,platforms,,,,Android,https://f-droid.org/packages/com.f0x1d.logfox/,live,F-Droid listing requires Android 7.0 or newer
+Lomiri Tfamanager App,license,,Open source,GPL-3.0 per LICENSE in cibersheep/tfamanager,,https://gitlab.com/cibersheep/tfamanager/-/raw/master/LICENSE,live,Raw LICENSE file is the GPLv3 text; upstream project on GitLab
+Lomiri Tfamanager App,platforms,,,,Linux,https://packages.debian.org/sid/armhf/misc/lomiri-tfamanager-app,live,Core 2FA app for Ubuntu Touch shell Lomiri; packaged in Debian main (Linux)
+Lubelog,license,,Open source,MIT per GitHub license API on hargata/lubelog (LubeLogger - lubelogger.com),,https://api.github.com/repos/hargata/lubelog/license,live,Identity: LubeLogger self-hosted vehicle maintenance tracker by hargata
+Lubelog,platforms,,,,"Web, Windows",https://github.com/hargata/lubelog,live,README: web-based app available as Docker image and Windows standalone executable
+Lumolight: Screen & Flashlight,license,,Open source,GPL-3.0 per LICENSE in BitMavrick/Lumolight (F-Droid metadata lists GPL-3.0 only),,https://api.github.com/repos/BitMavrick/Lumolight/license,live,Identity: package com.bitmavrick.lumolight; Play Store and F-Droid badges in README
+Lumolight: Screen & Flashlight,platforms,,,,Android,https://f-droid.org/en/packages/com.bitmavrick.lumolight/,live,F-Droid listing requires Android 13 or newer (latest version)
+Lychee Slicer,license,,Proprietary — freemium,Free download with paid Lychee Slicer Plus and Lychee Library editions (in-app),,https://lychee.co/download-lychee-slicer,live,Official download page: free to install and use; Plus/Library sold within the app
+Lychee Slicer,platforms,,,,"Windows, macOS, Linux",https://lychee.co/download-lychee-slicer,live,Download options: Windows 64-bit; Mac OS; Linux App Img / Deb
