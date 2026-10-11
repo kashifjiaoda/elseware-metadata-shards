@@ -1,0 +1,5 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+DrChrono,license,,Proprietary — paid subscription,"ceeding your plan limits will result in the following fees: $0.05 per Text, $0.07 per Page Faxed, $0",,https://www.drchrono.com/pricing/,live,"recurring paid plans observed, no free tier found (https://www.drchrono.com/pricing/)"
+DrChrono,platforms,,Web,,,https://www.drchrono.com,live,platform signals on https://www.drchrono.com
+Dentally,license,,Proprietary — paid subscription,1 2 3 4 5 6 7 8 9 Prices below are for 3 surgeries Starter £125/month £195/month £265/month £335/mo,,https://www.dentally.com/en-gb/pricing,live,"recurring paid plans observed, no free tier found (https://www.dentally.com/en-gb/pricing)"
+Dentally,platforms,,Web,,,https://www.dentally.com/en-gb/,live,platform signals on https://www.dentally.com/en-gb/
