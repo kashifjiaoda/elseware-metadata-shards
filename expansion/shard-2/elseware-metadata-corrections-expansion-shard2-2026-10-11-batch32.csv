@@ -1,0 +1,68 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Paleta,license,,Open source,GPL-3.0,,https://github.com/nate-xyz/paleta,live,GitHub API spdx_id GPL-3.0 on nate-xyz/paleta
+Paleta,platforms,,Linux,,,https://github.com/nate-xyz/paleta,live,GTK4/Rust Linux app; Flathub id io.github.nate_xyz.Paleta
+Panoramicon,license,,Open source,GPL-3.0,,https://github.com/domob1812/panoramicon,live,GitHub API spdx_id GPL-3.0
+Panoramicon,platforms,,Android,,,https://github.com/domob1812/panoramicon,live,Android spherical-panorama viewer; F-Droid eu.domob.panoramicon
+Peek,license,,Open source,GPL-3.0,,https://github.com/phw/peek,live,GitHub API spdx_id GPL-3.0
+Peek,platforms,,Linux,,,https://github.com/phw/peek,live,Animated GIF screen recorder; README lists Linux install targets (Flatpak Arch Alpine)
+Phimpme Android,license,,Open source,GPL-3.0,,https://github.com/fossasia/phimpme-android,live,README states licensed under GNU General Public License v3
+Phimpme Android,platforms,,Android,,,https://github.com/fossasia/phimpme-android,live,FOSSASIA photo imaging Android app
+Photo Demon,license,,Open source,BSD-2-Clause,,https://github.com/tannerhelland/PhotoDemon,live,Raw LICENSE.md verified as BSD license; photodemon.org license page confirms BSD license
+Photo Demon,platforms,,Windows,,,https://github.com/tannerhelland/PhotoDemon,live,README: runs on any Windows PC (XP through Win 11); other OS not supported
+Photobooth,license,,Open source,MIT,,https://github.com/PhotoboothProject/photobooth,live,GitHub API spdx_id MIT
+Photobooth,platforms,,"Windows, Linux",,,https://github.com/PhotoboothProject/photobooth,live,README: photobooth web interface for Linux and Windows (Raspberry Pi Debian Ubuntu)
+Photocrea,license,,Open source,MIT,,https://github.com/vikdevelop/photopea_app,live,GitHub API spdx_id MIT; Flathub declares MIT
+Photocrea,platforms,,Linux,,,https://github.com/vikdevelop/photopea_app,live,Flathub app com.github.vikdevelop.photopea_app; note: MIT-licensed desktop wrapper of the proprietary Photopea web app
+Photok - Secure Photo Vault,license,,Open source,Apache-2.0,,https://github.com/leonlatsch/Photok,live,GitHub API spdx_id Apache-2.0
+Photok - Secure Photo Vault,platforms,,Android,,,https://github.com/leonlatsch/Photok,live,Private encrypted photo vault for Android
+Photonix,license,,Open source,AGPL-3.0,,https://github.com/photonixapp/photonix,live,GitHub API spdx_id AGPL-3.0
+Photonix,platforms,,Web,,,https://github.com/photonixapp/photonix,live,Web-based self-hosted photo management server
+Pi Timelapse,license,,Open source,MIT,,https://github.com/geerlingguy/pi-timelapse,live,GitHub API SPDX MIT; Raspberry Pi timelapse camera script
+Pi Timelapse,platforms,,Linux (Raspberry Pi),,,https://github.com/geerlingguy/pi-timelapse,live,README: runs on Raspberry Pi via raspi-config; Python script
+Pictshare,license,,Open source,AGPL-3.0,,https://github.com/HaschekSolutions/pictshare,live,raw LICENSE verified as GNU AGPL v3 text; GitHub API returned NOASSERTION but LICENSE file governs
+Pictshare,platforms,,Web (self-hosted),,,https://github.com/HaschekSolutions/pictshare,live,Self-hosted media sharing platform; Docker deployment
+Pigallery2,license,,Open source,MIT,,https://github.com/bpatrik/pigallery2,live,README License section; GitHub API SPDX MIT
+Pigallery2,platforms,,Web (self-hosted),,,https://github.com/bpatrik/pigallery2,live,Self-hosted directory-first photo gallery; official Docker deployment
+Pinegrow,license,,Proprietary — paid,,,https://pinegrow.com/,live,Official site: Buy once or subscribe; one-time purchase available
+Pinegrow,platforms,,"Windows, macOS, Linux",,,https://pinegrow.com/,live,Official site: Mac Windows and Linux
+Pix-EzViewer,license,,Open source,MIT,,https://github.com/Notsfsssf/Pix-EzViewer,live,GitHub API SPDX MIT; canonical repo 2600+ stars
+Pix-EzViewer,platforms,,Android,,,https://github.com/Notsfsssf/Pix-EzViewer,live,Third-party Pixiv Android client
+Pixelmator,license,,Proprietary — paid,,,https://itunes.apple.com/lookup?bundleId=com.pixelmatorteam.pixelmator.x,live,App Store lookup: Pixelmator Pro $49.99 one-time
+Pixelmator,platforms,,macOS,,,https://itunes.apple.com/lookup?bundleId=com.pixelmatorteam.pixelmator.x,live,Mac App Store listing
+PlasmaTube,license,,Open source,GPL-3.0-or-later,,https://github.com/KDE/plasmatube,live,Flathub declares GPL-3.0-or-later; KDE repo LICENSES dir
+PlasmaTube,platforms,,Linux,,,https://github.com/KDE/plasmatube,live,Kirigami YouTube video player; Flathub Linux build
+Pocket Paint,license,,Open source,AGPL-3.0-or-later,Android,https://f-droid.org/packages/org.catrobat.paintroid/,live,F-Droid lists GNU Affero General Public License v3.0 or later
+Pocket Paint,platforms,,Android,,,https://f-droid.org/packages/org.catrobat.paintroid/,live,
+Posterazor,license,,Open source,GPL-2.0,"Windows, Linux",https://sourceforge.net/projects/posterazor/,live,SourceForge project lists GPLv2 license
+Posterazor,platforms,,"Windows, Linux",,,https://sourceforge.net/projects/posterazor/,live,
+PreviewQt,license,,Open source,GPL-2.0-or-later,"Windows, Linux",https://github.com/luspi/previewqt,live,README License section: released under the GPLv2 (or later)
+PreviewQt,platforms,,"Windows, Linux",,,https://github.com/luspi/previewqt,live,Windows installer and Flatpak builds on previewqt.org
+PxerStudio,license,,Open source,Apache-2.0,Android,https://github.com/BennyKok/PxerStudio,live,GitHub API spdx_id Apache-2.0
+PxerStudio,platforms,,Android,,,https://github.com/BennyKok/PxerStudio,live,
+QMPlay2,license,,Open source,LGPL-3.0,"Windows, Linux",https://github.com/zaps166/QMPlay2,live,GitHub API spdx_id LGPL-3.0
+QMPlay2,platforms,,"Windows, Linux",,,https://github.com/zaps166/QMPlay2,live,
+QRCode Reader View,license,,Open source,Apache-2.0,,https://github.com/dlazaro66/QRCodeReaderView,live,README License section: Apache License 2.0; Android library not end-user app
+Quagga2,license,,Open source,MIT,,https://github.com/ericblade/quagga2,live,raw LICENSE verified as MIT; JavaScript barcode-scanner library
+Quotes - Quotes Status Creator,license,,Open source,GPL-3.0,,https://github.com/VishnuSanal/Quotes,live,GitHub API SPDX license identifier GPL-3.0; README describes Quotes Status Creator
+Quotes - Quotes Status Creator,platforms,,Android,,,https://github.com/VishnuSanal/Quotes,live,README shows Google Play and IzzyOnDroid badges
+Rapid RAW,license,,Open source,AGPL-3.0,,https://github.com/CyberTimon/RapidRAW,live,GitHub API SPDX license identifier AGPL-3.0; README license badge
+Rapid RAW,platforms,,Windows; macOS; Linux; Android,,,https://github.com/CyberTimon/RapidRAW,live,README states for Windows macOS Linux and Android
+React Player,license,,Open source,MIT,,https://github.com/cookpete/react-player,live,GitHub API SPDX license identifier MIT; React component library so license row only
+RegardsViewer 3.0,license,,Open source,GPL-2.0-or-later,,https://snapcraft.io/regardsviewer,live,Snap Store declares license GPL-2.0+ for the regardsviewer snap
+RegardsViewer 3.0,platforms,,Linux,,,https://snapcraft.io/regardsviewer,live,Distributed as a snap package on the Snap Store
+REX Player,license,,Open source,Apache-2.0,,https://github.com/mpvRex/REX-Player,live,GitHub API SPDX license identifier Apache-2.0; README License-Apache-2.0 badge
+REX Player,platforms,,Android,,,https://github.com/mpvRex/REX-Player,live,README Platform-Android badge; Jetpack Compose Android video player
+RSKImage Cropper,license,,Open source,MIT,,https://github.com/ruslanskorb/RSKImageCropper,live,GitHub API SPDX license identifier MIT; iOS image-crop view controller library so license row only
+Saods9,license,,Open source,GPL-3.0,,https://github.com/SAOImageDS9/SAOImageDS9,live,GitHub API SPDX license identifier GPL-3.0
+Saods9,platforms,,Windows; macOS; Linux,,,https://sites.google.com/cfa.harvard.edu/saoimageds9/download,live,Official DS9 download page lists Windows macOS and Linux builds
+Screen To GIF,license,,Open source,MS-PL,,https://github.com/NickeManarin/ScreenToGif,live,GitHub API SPDX license identifier MS-PL (Microsoft Public License); platforms not stated on primary sources so license row only
+Showmewebcam,license,,Open source,GPL-3.0,Linux,https://github.com/showmewebcam/showmewebcam,live,Raspberry Pi plus HQ Camera USB webcam
+Showmewebcam,platforms,,Linux,,,https://github.com/showmewebcam/showmewebcam,live,
+Simple Gallery,license,,Open source,GPL-3.0,Android,https://github.com/SimpleMobileTools/Simple-Gallery,live,Photo and video gallery manager
+Simple Gallery,platforms,,Android,,,https://github.com/SimpleMobileTools/Simple-Gallery,live,
+SimpliPlay,license,,Open source,MIT,"iOS, Android",https://github.com/A-Star100/simpliplay-ios,live,Cross-platform video player
+SimpliPlay,platforms,,"iOS, Android",,,https://github.com/A-Star100/simpliplay-ios,live,
+Skitterphoto,license,,Proprietary — free,,Web,https://skitterphoto.com/about,live,Free stock photo directory; photos are public domain
+Skitterphoto,platforms,,Web,,,https://skitterphoto.com/about,live,
+Ssr,license,,Open source,GPL-3.0,Linux,https://github.com/MaartenBaert/ssr,live,SimpleScreenRecorder screen recorder for Linux
+Ssr,platforms,,Linux,,,https://github.com/MaartenBaert/ssr,live,
