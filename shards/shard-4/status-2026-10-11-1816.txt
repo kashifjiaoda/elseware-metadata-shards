@@ -1,0 +1,8 @@
+PHASE-2 EXPANSION BATCH 37 COMPLETE — pushed to expansion/shard-4/ (shard4 expansion batch37 - Shard 2)
+Rows pushed: 81 (elseware-metadata-corrections-expansion-shard4-2026-10-11-batch37.csv, apps.md lines 1807-1856)
+Apps verified: 44 of 50 | Skipped with reason: 6 (Mlkit identity ambiguous; nemotron-3-super AI model weights, no badge fits; PDF Editor/Peppermint/Pindrop identity ambiguous; Plain Tasks no license/vague platforms)
+License rows dropped pre-push (5): Memex MIT (NOASSERTION), Mini Diary (no license), Neural Note dual-split Apache/CC BY-NC, Pdftris (no LICENSE), Plume Creator (fork-only claims) — platforms rows kept
+Verifier self-drops: Overtype license (official site silent, only non-whitelisted directories claim terms) — platforms-only kept
+Notable self-audits: Nbdime BSD-3-Clause (raw LICENSE overrules NOASSERTION); Nextcloud Notes GPL-3.0-or-later (REUSE.toml); Open Sign AGPL-3.0-only; Openrecall AGPL-3.0-only (FSF boilerplate not a grant); Paperwork GPL-3.0-or-later (explicit README grant); Notesnook GPL-3.0 (no or-later); Nullboard→Source-available (BSD-2-Clause + Commons Clause, non-OSD); Oh Sheet MIT (raw text overrules README "Proprietary" badge); Ollama OCR MIT (platforms withheld, identity ambiguity)
+Validation: 81 rows x 9 cols, 0 schema issues, valid badges, all live, platforms column empty on every row, zero banned hosts. Dual-write byte-identical, no loss.
+Next: batch 38 (apps.md lines 1857-1906).
