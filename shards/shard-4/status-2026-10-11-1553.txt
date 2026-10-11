@@ -1,0 +1,1 @@
+shard4 batch20: 73 rows (35 license + 38 platform apps), 41 of 50 apps verified, 11 skipped w/ reason (ambiguous identity / no canonical product). Notable: RxResume MIT (Reactive Resume, rxresu.me, self-audited); My STEM Resume platforms-only; Bati MIT despite NOASSERTION. All live, whitelisted sources only.
