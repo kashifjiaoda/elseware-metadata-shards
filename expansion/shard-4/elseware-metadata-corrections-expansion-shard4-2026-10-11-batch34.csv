@@ -1,0 +1,82 @@
+MotionEye Client for Android,license,,Open source,MIT,,https://github.com/developerfromjokela/motioneye-client,live,GitHub license detection MIT; README reproduces full MIT license text
+MotionEye Client for Android,platforms,,Android,,,https://github.com/developerfromjokela/motioneye-client,live,README shows Google Play + F-Droid badges
+Nuclei,license,,Open source,MIT,,https://github.com/projectdiscovery/nuclei,live,Canonical repo (not a fork); GitHub license detection MIT; README states distributed under MIT License
+Nuclei,platforms,,"macOS, Linux, Docker",,,https://docs.projectdiscovery.io/tools/nuclei/install,live,Install docs: brew supported on macOS (or Linux); Docker image; prebuilt binaries per OS
+OpenConnect,license,,Open source,LGPL-2.1-only,,https://github.com/openconnect/openconnect,live,README: released under GNU Lesser Public License version 2.1; GitHub detection LGPL-2.1; repo is archived mirror of official infradead.org repo
+Openvpn3,license,,Open source,AGPL-3.0-only or MPL-2.0 (dual),,https://openvpn.github.io/openvpn3/md_LICENSE.html,live,Official OpenVPN docs LICENSE page: distributed under AGPLv3 or MPL-2.0 with OpenSSL section 7 additional permission; no 'or later' grant in text
+Pangolin,platforms,,"Mac, Windows, Linux, iOS, Android",,,https://github.com/fosrl/pangolin,live,README Download Clients: Mac/Windows/Linux/iOS/Android; server self-hosted via Docker
+PixelKnot: Hidden Messages,license,,Open source,GPL-3.0-only,,https://github.com/guardianproject/PixelKnot,live,Canonical Guardian Project repo; GitHub detection GPL-3.0; F-Droid lists GNU General Public License v3.0 only
+PixelKnot: Hidden Messages,platforms,,Android,,,https://github.com/guardianproject/PixelKnot,live,README shows Get-it-on F-Droid + Google Play badges
+Proton VPN - Secure and Free VPN,license,,Open source,GPL-3.0-only,,https://github.com/ProtonVPN/android-app,live,Official ProtonVPN Android app repo; GitHub detection GPL-3.0; README grants GPLv3 with no 'or later' clause (recorded conservatively)
+Proton VPN - Secure and Free VPN,platforms,,Android,,,https://github.com/ProtonVPN/android-app,live,README shows Google Play + F-Droid download badges
+Rathole,license,,Open source,Apache-2.0,,https://github.com/rathole-org/rathole,live,GitHub detection Apache-2.0; canonical repo rathole-org/rathole (rapiz1/rathole redirects)
+Riseup VPN,license,,Open source,GPL-3.0-only,,https://github.com/leapcode/bitmask-vpn,live,Riseup-branded build of LEAP bitmask-vpn (PROVIDER=riseup per README); AUR + OpenAPK list GPL-3.0-only
+Riseup VPN,platforms,,"Windows, macOS, Linux",,,https://github.com/leapcode/bitmask-vpn,live,README Supported operating systems: Windows 10/11; macOS; Linux (Debian/Ubuntu/Fedora/Arch)
+Shizu Wall,license,,Open source,GPL-3.0-only,,https://github.com/AhmetCanArslan/ShizuWall,live,GitHub detected license: GPL-3.0 (file LICENSE.md); README states GPLv3; no 'or later' grant found in detected text - recorded conservative
+Shizu Wall,platforms,,Android,,,https://github.com/AhmetCanArslan/ShizuWall,live,Android 11+ firewall app; distributed via Google Play and F-Droid
+Steven Block,license,,Open source,GPL-2.0-only,,https://github.com/mikropsoft/StevenBlock,live,GitHub detected license: GPL-2.0 (file LICENSE); no 'or later' grant - recorded conservative per rule
+Steven Block,platforms,,Android,,,https://github.com/mikropsoft/StevenBlock,live,"Magisk/KernelSU/APatch root module, not a standalone app; requires rooted Android"
+V2ray NG,license,,Open source,GPL-3.0-only,,https://github.com/2dust/v2rayNG,live,GitHub detected license: GPL-3.0 (file LICENSE); no 'or later' grant in detected text - recorded conservative
+V2ray NG,platforms,,Android,,,https://github.com/2dust/v2rayNG,live,V2Ray client for Android (mobile version of v2rayN)
+Wireproxy,license,,Open source,ISC,,https://github.com/pufferffish/wireproxy,live,GitHub detected license: ISC (file LICENSE); README carries ISC licensed badge; repo moved to windtf/wireproxy
+Zyrln,license,,Open source,MIT,,https://github.com/ajavadinezhad/zyrln,live,README License section: MIT - see LICENSE; canonical repo; censorship-circumvention domain-fronting relay; several forks exist
+Zyrln,platforms,,Android; Windows; macOS; Linux,,,https://github.com/ajavadinezhad/zyrln,live,Android VPN app + desktop proxy; Windows .exe and Linux/macOS -gui builds in releases
+Abricotine,license,,Open source,GPL-3.0-or-later,,https://github.com/alpacakitten/abricotine,live,README quotes GPL grant text: version 3 of the License or (at your option) any later version; fork of brrd/Abricotine
+Abricotine,platforms,,Windows; Linux; macOS,,,https://github.com/brrd/Abricotine/tree/master/docs/installation-and-usage.md,live,"Install docs: working on Windows (7 and later), Linux and OSX"
+Activity Diary,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/en/packages/de.rampro.activitydiary/,live,F-Droid listing: GNU General Public License v3.0 or later; upstream repo github.com/ramack/ActivityDiary by Raphael Mack
+Activity Diary,platforms,,Android,,,https://f-droid.org/en/packages/de.rampro.activitydiary/,live,Android app (Play id de.rampro.activitydiary); still under development per listing
+Ade CLI,license,,Open source,Apache-2.0,,https://github.com/landing-ai/ade-cli,live,GitHub detected license: Apache License 2.0; README badge Apache-2.0; official LandingAI CLI for Agentic Document Extraction
+Ade CLI,platforms,,macOS; Linux; Windows,,,https://github.com/landing-ai/ade-cli,live,"README: self-contained binaries for macOS, Linux, Windows (arm64 + x86_64); requires LandingAI API key/login"
+Agentic Seek,license,,Open source,GPL-3.0-only,,https://github.com/Fosowl/agenticSeek,live,GitHub badge GPL-3.0; raw LICENSE is standard GPL v3 text with no author 'or later' grant (template 'any later version' appears only in how-to-apply); recorded conservative GPL-3.0-only
+Agentic Seek,platforms,,"Windows, macOS, Linux",,,https://github.com/Fosowl/agenticSeek,live,Local-first; runs via Docker Desktop (Windows/Mac/Linux) or host CLI; local web UI
+Alarm Clock Applet,license,,Open source,GPL-2.0-only,,https://github.com/alarm-clock-applet/alarm-clock,live,"GitHub badge GPL-2.0; Launchpad also lists GNU GPL v2; raw COPYING fetch timed out - no 'or later' grant found, conservative GPL-2.0-only"
+Alarm Clock Applet,platforms,,Linux,,,https://github.com/alarm-clock-applet/alarm-clock,live,GTK AppIndicator applet for Linux desktops; packaged in Ubuntu universe as alarm-clock-applet
+Alexandrie,license,,Open source,MIT,,https://github.com/Smaug6739/Alexandrie,live,GitHub badge MIT; raw LICENSE confirmed standard MIT text
+Alexandrie,platforms,,"Web, Self-hosted",,,https://github.com/Smaug6739/Alexandrie,live,Self-hosted via Docker; offline-first PWA installable on desktop/mobile
+Ambar,license,,Open source,MIT,,https://github.com/RD17/ambar,live,GitHub badge MIT; README states fully open-source; PROJECT ARCHIVED by maintainer
+Ambar,platforms,,"Web, Self-hosted",,,https://github.com/RD17/ambar,live,Requires Docker; deploys via docker-compose; archived project - no active maintenance
+Anarlog,license,,Open source,MIT,,https://github.com/fastrepl/anarlog,live,"GitHub badge MIT; community application MIT ('Readable source, MIT'); enterprise/ components commercially licensed per README/LICENSING.md - Open source badge applies to community app"
+Anarlog,platforms,,"macOS, Windows, Linux",,,https://github.com/fastrepl/anarlog,live,"Desktop downloads for macOS, Windows, Linux; iOS/Android clients in beta via TestFlight/Google Play"
+Another notes app,license,,Open source,Apache-2.0,,https://github.com/maltaisn/another-notes-app,live,GitHub badge Apache-2.0; README: all code Apache License 2.0; not actively developed (maintainer moved away from Android dev)
+Another notes app,platforms,,Android,,,https://github.com/maltaisn/another-notes-app,live,"Available on F-Droid, Google Play, and direct APK"
+App Blocker: Curbox Detox,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/neth.iecal.curbox/,live,F-Droid license metadata: GNU General Public License v3.0 or later; 'free and open source'; formerly Digipauwse; source curbox-app/curbox-android
+App Blocker: Curbox Detox,platforms,,Android,,,https://f-droid.org/packages/neth.iecal.curbox/,live,F-Droid; requires Android 8.0+
+AquaDroid,license,,Open source,GPL-3.0-only,,https://github.com/z3r0c00l-2k/AquaDroid,live,GitHub badge GPL-3.0 (not -or-later); README states GPL-3.0; canonical repo per F-Droid io.github.z3r0c00l_2k.aquadroid; multiple aquadroid forks exist - verified against upstream
+AquaDroid,platforms,,Android,,,https://github.com/z3r0c00l-2k/AquaDroid,live,Water-intake reminder/tracker; on F-Droid and GitHub releases
+Assistral,license,,Open source,GPL-3.0-only,,https://github.com/shano/assistral,live,README: licensed under the GPLv3; F-Droid lists GNU General Public License v3.0 only
+Assistral,platforms,,Android,,,http://f-droid.org/packages/org.shano.assistral/,live,Android WebView wrapper (F-Droid listing org.shano.assistral)
+Auto Synced Translated Dubs,license,,Open source,AGPL-3.0,,https://github.com/ThioJoe/Auto-Synced-Translated-Dubs,live,GitHub License field: GNU Affero General Public License v3.0; third-party metadata sites claim GPL-3.0 but repo's own license field governs
+Auto Synced Translated Dubs,platforms,,"Windows, macOS",,,https://github.com/ThioJoe/Auto-Synced-Translated-Dubs,live,Python script; README documents Windows and macOS rubberband binaries; requires ffmpeg
+Backintime,license,,Open source,GPL-2.0-or-later,,https://github.com/bit-team/backintime/blob/HEAD/doc/manual/src/index.md,live,Repo doc headers: SPDX-License-Identifier GPL-2.0-or-later (repo project name: Back In Time)
+Backintime,platforms,,Linux,,,https://github.com/bit-team/backintime/blob/HEAD/doc/manual/src/index.md,live,README: backup solution for GNU/Linux desktops (GUI + CLI)
+Basic Pitch,license,,Open source,Apache-2.0,,https://github.com/spotify/basic-pitch,live,GitHub License field: Apache License 2.0; README Copyright and License section (Spotify AB)
+Basic Pitch,platforms,,"macOS, Windows, Linux",,,https://github.com/spotify/basic-pitch,live,"README Compatible Environments: MacOS, Windows and Ubuntu; web demo at basicpitch.io"
+Beads Rust,license,,Source-available,MIT License (with OpenAI/Anthropic Rider),,https://github.com/Dicklesworthstone/beads_rust,live,"README: MIT License (with OpenAI/Anthropic Rider) — AI-training use restriction, so not OSI-open; GitHub license detection shows NOASSERTION"
+Beads Rust,platforms,,"Windows, macOS, Linux",,,https://github.com/Dicklesworthstone/beads_rust,live,"Install script: works on Linux, macOS, and Windows (WSL)"
+Benotes,license,,Open source,MIT,,https://github.com/fr0tt/benotes?ref=madewithlaravel.com,live,GitHub License field: MIT License; root LICENSE file present
+Benotes,platforms,,"Web, Android, iOS",,,https://github.com/fr0tt/benotes?ref=madewithlaravel.com,live,Self-hosted web app; installable as PWA on mobile devices and desktop
+Bierverkostung,license,,Open source,Apache-2.0,,https://f-droid.org/ja/packages/de.retujo.bierverkostung/,live,F-Droid package de.retujo.bierverkostung: Apache License 2.0
+Bierverkostung,platforms,,Android,,,https://f-droid.org/ja/packages/de.retujo.bierverkostung/,live,Android beer-tasting manager (F-Droid listing)
+Birthday Calendar,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/saschpe.contactevents/,live,F-Droid package saschpe.contactevents: GNU General Public License v3.0 only; distinct from Birthday Adapter (org.birthdayadapter)
+Birthday Calendar,platforms,,Android,,,https://f-droid.org/packages/saschpe.contactevents/,live,F-Droid Android app; shows contact birthdays in system calendar
+Biyi,license,,Open source,AGPL-3.0,,https://github.com/biyidev/biyi,live,Project renamed BeyondTranslate CE (repo redirects to beyondtranslate/beyondtranslate-ce); GitHub License field: GNU Affero General Public License v3.0
+Biyi,platforms,,"macOS, Windows, Linux",,,https://github.com/biyidev/biyi,live,"README Platform Support table: Linux, macOS, Windows all supported"
+Blix,license,,Open source,MIT,,https://github.com/blixvip/blixtrade/blob/HEAD/README.md,live,"README (Blix Trade, open-source Solana memecoin terminal): MIT license; name Blix also matches unrelated GitHub projects (rubenrp/blix photo tool, ritwikrishraj/blix sandbox)"
+Blix,platforms,,"Windows, macOS, Linux",,,https://github.com/blixvip/blixtrade/blob/HEAD/README.md,live,Node 24 local-first app; Windows .vbs launcher; dashboard served at localhost:4420
+Boost Note App,license,,Open source,GPL-3.0-only,,https://github.com/BoostIO/BoostNote-App,live,"Upstream README states GPL-3.0 (LICENSE.md); recorded conservative GPL-3.0-only, no or-later grant visible"
+Boost Note App,platforms,,Web; macOS; Windows; Linux; iOS; Android,,,https://github.com/BoostIO/BoostNote-App,live,"README download section lists Web app, macOS, Windows, Linux, mobile Web, iOS, Android"
+Buka,license,,Open source,GPL-3.0-only,,https://github.com/oguzhaninan/Buka,live,GitHub repo license detection (raw LICENSE): GNU General Public License v3.0; no or-later grant visible
+Buka,platforms,,Linux,,,https://github.com/oguzhaninan/Buka,live,"README install targets: Snap, Debian, Fedora, AppImage (all Linux); repo last updated ~2022, possibly unmaintained"
+Calculator You,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.marktka.calculatorYou/,live,F-Droid lists GNU General Public License v3.0 only (package com.marktka.calculatorYou)
+Calculator You,platforms,,Android,,,https://f-droid.org/packages/com.marktka.calculatorYou/,live,F-Droid Android app listing
+Calendar Import-Export,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/org.sufficientlysecure.ical/,live,F-Droid lists GNU General Public License v3.0 only (package org.sufficientlysecure.ical)
+Calendar Import-Export,platforms,,Android,,,https://f-droid.org/packages/org.sufficientlysecure.ical/,live,F-Droid Android app listing
+Calibre Web Companion,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/de.doen1el.calibreWebCompanion/,live,F-Droid lists GNU General Public License v3.0 only; unofficial companion for Calibre-Web
+Calibre Web Companion,platforms,,Android,,,https://f-droid.org/packages/de.doen1el.calibreWebCompanion/,live,GitHub README: currently available for Android only
+Camp 2023,license,,Open source,Apache-2.0,,https://f-droid.org/ja/packages/info.metadude.android.cccamp.schedule/,live,F-Droid lists Apache License 2.0; Chaos Communication Camp 2023 schedule app (EventFahrplan)
+Camp 2023,platforms,,Android,,,https://f-droid.org/ja/packages/info.metadude.android.cccamp.schedule/,live,F-Droid Android app listing
+Casio G-Shock Smart Sync,license,,Open source,MIT,,https://f-droid.org/en/packages/org.avmedia.gshockGoogleSync/,live,F-Droid lists MIT License; unofficial open-source app (upstream GitHub izivkov/CasioGShockSmartSync)
+Casio G-Shock Smart Sync,platforms,,Android,,,https://f-droid.org/en/packages/org.avmedia.gshockGoogleSync/,live,F-Droid Android app listing
+Cherry Markdown,platforms,,Web; Windows; macOS; Linux,,,https://github.com/Tencent/cherry-markdown,live,"Upstream README: runs in browser/Node.js; Tauri desktop client for Windows, macOS, Linux. LICENSE ROW DROPPED: GitHub detects NOASSERTION on upstream repo while README claims Apache-2.0 (conflicting grounding)"
+Chord Mini App,license,,Open source,MIT,,https://github.com/ptnghia-j/ChordMiniApp,live,GitHub upstream repo license detection (raw LICENSE): MIT License; non-fork (Fork: No)
+Chord Mini App,platforms,,Web,,,https://github.com/ptnghia-j/ChordMiniApp,live,Self-hosted web app (Next.js frontend + Python backend); Docker setup documented
