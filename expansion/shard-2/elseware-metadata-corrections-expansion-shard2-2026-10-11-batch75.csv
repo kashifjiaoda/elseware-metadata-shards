@@ -1,0 +1,64 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+ZY Player,license,,Open source,MIT License,,https://github.com/Hunlongyu/ZY-Player,live,"raw LICENSE is MIT License text, Copyright (c) 2020 Hunlongyu"
+ZY Player,platforms,,Windows; macOS; Linux,,,https://github.com/Hunlongyu/ZY-Player,live,release assets include Windows/macOS/Linux builds
+AskCodi,license,,Proprietary — freemium,,,https://www.askcodi.com/,live,"Free plan 1,000,000 tokens/month; Individual $29/mo, Pro $99/mo, Business $199/mo"
+AskCodi,platforms,,Web,,,https://www.askcodi.com/,live,web-based AI agency (app.askcodi.com)
+DeepWiki,license,,Proprietary — free,,,https://deepwiki.com/,live,free for public GitHub repositories (Cognition); private repos require paid Devin account
+DeepWiki,platforms,,Web,,,https://deepwiki.com/,live,browser-based AI documentation service
+JetBrains AI,license,,Proprietary — freemium,,,https://www.jetbrains.com/ai/,live,"AI Free tier with limited cloud quota; AI Pro from $10/mo, AI Ultimate $30/mo"
+Air SQLite Manager,license,,Proprietary — free,,,https://flathub.org/apps/com.gesturedevelop.AirSQLiteManager,live,Flathub lists project license LicenseRef-proprietary
+Air SQLite Manager,platforms,,macOS; Linux,,,https://gesturedevelop.com/,live,"macOS (Mac App Store, Free); Linux (Flathub)"
+Adnihilation,license,,Open source,CC-BY-4.0,,https://github.com/TrianguloY/Adnihilation,live,raw LICENSE is Creative Commons Attribution 4.0 International text
+Adnihilation,platforms,,Android,,,https://github.com/TrianguloY/Adnihilation,live,Android app by TrianguloY
+Anbox Cloud Appliance,license,,Proprietary — paid,,,https://aws.amazon.com/marketplace/pp/prodview-3lx6xyaapstz4,live,Canonical commercial product; AWS Marketplace lists usage-based pricing
+Anbox Cloud Appliance,platforms,,Web,,,https://documentation.ubuntu.com/anbox-cloud/en/latest/explanation/anbox-cloud/,live,appliance variant of Anbox Cloud with web-based graphical user interface
+Antares SQL,license,,Open source,MIT License,Windows; macOS; Linux,https://github.com/antares-sql/antares,live,GitHub API: MIT License; README installation covers Linux Windows macOS; Electron SQL client
+Antares SQL,platforms,,Windows; macOS; Linux,,,https://github.com/antares-sql/antares,live,"README Installation sections: Linux (.AppImage/FlatHub/Snap), Windows (Microsoft Store/.exe), MacOS (.dmg)"
+Apache Groovy Programming Language,license,,Open source,Apache License 2.0,Windows; macOS; Linux,https://github.com/apache/groovy,live,GitHub API: Apache-2.0; JVM-based language runs on all major OSes; official site groovy-lang.org
+Apache Groovy Programming Language,platforms,,Windows; macOS; Linux,,,https://github.com/apache/groovy,live,JVM-based programming language; distributions for Windows macOS Linux via groovy-lang.org
+Apx GUI,license,,Open source,GNU General Public License v3.0,Linux,https://github.com/vanilla-os/apx-gui,live,GPL-3.0 per nixpkgs metadata and Vanilla OS org; GTK4/Libadwaita frontend for Apx
+Apx GUI,platforms,,Linux,,,https://github.com/vanilla-os/apx-gui,live,Vanilla OS Linux tool; nixpkgs metadata: platforms linux
+Arduino IDE,license,,Open source,GNU Affero General Public License v3.0,Windows; macOS; Linux,https://github.com/arduino/arduino-ide,live,GitHub API: AGPL-3.0; official IDE 2.x repo
+Arduino IDE,platforms,,Windows; macOS; Linux,,,https://github.com/arduino/arduino-ide,live,Official releases provide Windows macOS Linux builds
+Atoms,license,,Open source,GNU General Public License v3.0,Linux,https://github.com/AtomsDevs/Atoms,live,GitHub API: GPL-3.0; GUI chroot manager by Mirko Brombin (AtomsDevs)
+Atoms,platforms,,Linux,,,https://github.com/AtomsDevs/Atoms,live,Distributed via Flathub (pm.mirko.Atoms); Linux chroot manager
+Ausweisapp,license,,Open source,European Union Public License 1.2,Windows; macOS; Android; iOS,https://github.com/Governikus/AusweisApp2,live,EUPL-1.2 per Coverity Scan and winget manifest; catalog name is lowercase variant of AusweisApp2; OSI-approved license
+Ausweisapp,platforms,,Windows; macOS; Android; iOS,,,https://www.ausweisapp.bund.de/en/ausweisapp2/,live,Desktop (Windows/macOS) + mobile (Android 'AusweisApp Bund' on Play Store; iOS id 948660805 by Governikus Service GmbH)
+Azure Storage Explorer,license,,Open source,MIT License,Windows; macOS; Linux,https://github.com/microsoft/AzureStorageExplorer,live,README legal notices: code under MIT License (docs under CC-BY-4.0); cross-platform Electron GUI
+Azure Storage Explorer,platforms,,Windows; macOS; Linux,,,https://github.com/microsoft/AzureStorageExplorer,live,Cross-platform Electron GUI; official Microsoft downloads for Windows macOS Linux
+Beancount Gs,license,,Open source,MIT License,Web,https://github.com/BaoXuebin/beancount-gs,live,GitHub API: MIT; catalog name is spaced variant of beancount-gs; self-hosted multi-user Beancount web service (React + Go)
+Beancount Gs,platforms,,Web,,,https://github.com/BaoXuebin/beancount-gs,live,Self-hosted web service with frontend page; accessed via browser
+BlueJ,license,,Open source,GNU General Public License v2 with Classpath Exception,Windows/macOS/Linux,https://www.bluej.org/LICENSE.txt,live,License text on official site governs: GNU General Public License Version 2 with Classpath Exception
+BlueJ,platforms,,Windows/macOS/Linux,,,https://www.bluej.org/,live,Official download page lists Windows/macOS/Linux installers (exe/dmg/deb)
+cacher,license,,Proprietary — freemium,Free/Expert/Teams tiers,Web/Windows/macOS/Linux,https://www.cacher.io/pricing,live,Official pricing page shows Free vs paid Expert/Teams plans (14-day trial)
+cacher,platforms,,Web/Windows/macOS/Linux,,,https://www.cacher.io/pricing,live,Official site offers Web App plus Mac/Windows/Linux desktop downloads
+Canonical Kubernetes,license,,Open source,GNU General Public License v3.0,Linux,https://github.com/canonical/k8s-snap,live,Raw LICENSE in canonical/k8s-snap is GPL-3.0 text (GitHub API: GPL-3.0)
+Canonical Kubernetes,platforms,,Linux,,,https://github.com/canonical/k8s-snap,live,Distributed via Snap Store (snap install); snap packages target Linux/Ubuntu
+charmcraft,license,,Open source,Apache License 2.0,Linux/macOS,https://github.com/canonical/charmcraft,live,GitHub API license: Apache-2.0 for canonical/charmcraft
+charmcraft,platforms,,Linux/macOS,,,https://github.com/canonical/charmcraft,live,README: installable on Linux distributions and macOS via snap or pip
+Cleanmymac CLI,platforms,,macOS,,,https://github.com/MacPaw/cleanmymac-cli,live,MacPaw/cleanmymac-cli README Requirements: macOS 11 or later; repo declares no license so no license row
+Codex Provider Sync,license,,Open source,MIT License,,https://github.com/Dailin521/codex-provider-sync,live,raw LICENSE text is MIT (Dailin521/codex-provider-sync)
+Codex Provider Sync,platforms,,"Windows, Web",,,https://github.com/Dailin521/codex-provider-sync,live,Windows x64 desktop release + npm CLI/Web package
+Conduktor,license,,Proprietary — freemium,,,https://www.conduktor.io/pricing,live,official pricing: Community free + Team ($125/seat/month) + Enterprise; self-hosted
+CoyoteTM,license,,Open source,GNU General Public License v3.0,,https://github.com/igaldino/coyotetm,live,raw COPYING is GPL v3 text
+CoyoteTM,platforms,,Linux,,,https://flathub.org/apps/io.github.igaldino.CoyoteTM,live,Flathub linux flatpak x86_64 aarch64
+Cutter,license,,Open source,GNU General Public License v3.0,,https://github.com/rizinorg/cutter,live,raw COPYING is GPL v3 text; canonical repo moved radareorg/cutter to rizinorg/cutter
+Cutter,platforms,,"Windows, macOS, Linux",,,https://github.com/rizinorg/cutter,live,README: release binaries for all major platforms
+Deep Links for LabCoat,license,,Open source,Apache License 2.0,,https://f-droid.org/en/packages/com.nomadlabs.labcoat.deeplinks/,live,F-Droid lists Apache License 2.0
+Deep Links for LabCoat,platforms,,Android,,,https://f-droid.org/en/packages/com.nomadlabs.labcoat.deeplinks/,live,F-Droid Android package com.nomadlabs.labcoat.deeplinks
+Deskflow Android,license,,Open source,MIT License,,https://github.com/jglanz/deskflow-android,live,raw LICENSE.md is MIT text; official deskflow org repo is a placeholder pointing here
+Deskflow Android,platforms,,Android,,,https://github.com/jglanz/deskflow-android,live,Android client repo under official deskflow org lineage
+DevQS,license,,Open source,MIT License,Android,https://f-droid.org/packages/me.velc.devqs/,live,F-Droid lists MIT License; GitHub API confirms MIT
+DevQS,platforms,,Android,,,https://f-droid.org/packages/me.velc.devqs/,live,Android app; requires Android 7.0 or newer
+Django Rest Auth,license,,Open source,MIT License,,https://github.com/Tivix/django-rest-auth,live,"GitHub API: MIT; Django REST-auth Python library (pip package), no end-user platform"
+Docker Kitematic,license,,Open source,Apache License 2.0,,https://github.com/docker-archive-public/docker.kitematic,live,Changed to Apache license per commit; project deprecated/archived 2020
+Docker Kitematic,platforms,,"Windows, macOS, Linux",,,https://github.com/docker-archive-public/docker.kitematic,live,"README: Docker container management on Mac, Linux and Windows"
+Dokit,license,,Open source,Apache License 2.0,,https://github.com/didi/dokit/blob/HEAD/README_EN.md,live,"didi/dokit README: Apache-2.0; DoraemonKit dev toolkit (iOS/Android SDK), no end-user platform"
+Dyff,license,,Open source,MIT License,,https://github.com/homeport/dyff,live,GitHub API: MIT; YAML diff CLI tool
+Dyff,platforms,,"Windows, macOS, Linux",,,https://github.com/homeport/dyff,live,"Release assets ship for darwin, linux and windows"
+Eclipse 4DIAC IDE,license,,Open source,Eclipse Public License 2.0,,https://github.com/eclipse-4diac/4diac-ide,live,GitHub API: EPL-2.0; LICENSE.md states EPL 2.0
+Eclipse 4DIAC IDE,platforms,,"Windows, macOS, Linux",,,https://github.com/eclipse-4diac/4diac-ide,live,"README: IDE packages build for Windows, Linux and MacOS"
+En Croissant,license,,Open source,GPL-3.0,,https://github.com/franciscoBSalgueiro/en-croissant,live,README: licensed under GPL-3.0 License; chess toolkit
+En Croissant,platforms,,"Windows, macOS, Linux",,,https://github.com/franciscoBSalgueiro/en-croissant,live,"Release assets: exe (Windows), dmg (macOS), deb/AppImage/rpm (Linux)"
+Eric IDE,license,,Open source,GNU General Public License v3.0,,https://pypi.org/project/eric-ide/25.1/,live,PyPI README: eric7 released under the conditions of the GPLv3
+Eric IDE,platforms,,"Windows, macOS, Linux",,,https://eric-ide.python-projects.org/,live,"Official site: cross platform Qt toolkit; usable on Linux, macOS and Windows"
