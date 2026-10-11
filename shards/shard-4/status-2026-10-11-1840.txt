@@ -1,0 +1,7 @@
+PHASE-2 EXPANSION BATCH 41 COMPLETE (Shard 2 doing Shard 4's work).
+- Rows pushed: 83 -> expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch41.csv (apps.md lines 2007-2056)
+- Apps verified: 43 of 50 (41 license-verified, 42 platform-verified)
+- Skipped with reason (7): Acho (thin grounding, official site unreachable), atomic-social (identity ambiguous), Google Apps Desktop (identity ambiguous), Singularity (ambiguous name), 天使动漫 (identity ambiguous), Buses (generic name), Gdmap (SourceForge-only upstream, no whitelisted source_url)
+- Validation: 83 rows x 9 cols, 0 issues, valid badges, all live, platforms column empty on every row, whitelisted sources only, dual-write byte-identical on all 5 chunks
+- Notable self-audit catches: Matterbridge Apache-2.0 raw text (overrode MPL-2.0 assumption); Davmail GPL-2.0-only (no or-later grant); whalebird GPL-3.0-only current (stale MIT forks flagged); Cwtch (Unofficial)/Dino (Unofficial)/Olvid (Unofficial) platforms-only (license rows dropped per unofficial-variant rule); DumpSeeker GPL-3.0-only (camper-van app, NOT data-deletion tooling); WhatsLinux?! CC0-1.0 per publisher Snap declaration (no LICENSE file, flagged); Hi Kumo identity correction from batch 40: Hitachi HVAC, not Mitsubishi
+Next: batch 42 (apps.md lines 2057-2106).
