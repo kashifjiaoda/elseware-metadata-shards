@@ -1,0 +1,5 @@
+Shard 4 Phase-2 batch 30 complete (Shard 2). apps.md lines 1457-1506 (49 unique apps; Fontello listed twice in source, deduped).
+Pushed: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch30.csv (71 rows).
+Verified: 44 of 49 (42 license + 29 platform rows). Skipped with reason (6): Fluidsynth Dssi (license only on banned SF), FotoToon (upstream license ungrounded), Halftone (identity ambiguity), Image Converter Pro (identity ambiguity), Image Slideshow (identity ambiguity), Keylogger (generic term, no canonical product).
+Notable: Haruna GPL-3.0-or-later via REUSE.toml; Hydrapaper conservative GPL-3.0; Fossify Gallery GPL-3.0 conservative; FreeTube AGPL-3.0-or-later; K3b/Kamoso/Kruler GPL-2.0-or-later via LICENSES dir; Kompact Image Compressor AGPL-3.0-or-later; ImageJ mapped Public domain->Open source badge (no Public domain badge exists); gThumb conservative GPL-2.0-only; Gopchop "license version unspecified" (no license text upstream).
+Schema-validated: 9 cols/row, valid badges, all live, whitelisted sources only. Next: batch 31 (lines 1507-1556).
