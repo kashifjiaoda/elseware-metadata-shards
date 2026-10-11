@@ -1,0 +1,64 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Claw PDF,license,,Open source,AGPL-3.0,Windows,https://github.com/clawsoftware/clawPDF,live,Open-source virtual PDF printer; license verified via GitHub API spdx_id
+Claw PDF,platforms,,Windows,,,https://github.com/clawsoftware/clawPDF,live,
+Clock You,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/com.bnyro.clock/,live,F-Droid lists GNU General Public License v3.0 only; canonical repo you-apps/ClockYou
+Clock You,platforms,,Android,,,https://f-droid.org/packages/com.bnyro.clock/,live,
+Claude Code,license,,Proprietary — paid subscription,Commercial Terms of Service (Anthropic),"Windows, macOS, Linux",https://github.com/anthropics/claude-code,live,LICENSE.md: (c) Anthropic PBC all rights reserved; use subject to Anthropic Commercial Terms; requires Claude Pro/Max subscription or API billing
+Claude Code,platforms,,"Windows, macOS, Linux",,,https://github.com/anthropics/claude-code,live,
+Clipboard AI,license,,Proprietary — freemium,,Windows,https://forum.uipath.com/t/forum-faq-about-our-products/190568,live,UiPath official forum FAQ: free standalone Community edition plus full enterprise version via UiPath Autopilot; Windows-only standalone app
+Clipboard AI,platforms,,Windows,,,https://forum.uipath.com/t/forum-faq-about-our-products/190568,live,
+Colibri,license,,Proprietary — free,,"Windows, macOS, Linux",https://colibri.opqr.co/,live,Official site: tabless browser available for macOS Windows and Linux; free product by OPQR with no paid tiers
+Colibri,platforms,,"Windows, macOS, Linux",,,https://colibri.opqr.co/,live,
+Constanza - Good habits,license,,Open source,MIT,Android,https://github.com/jorgejiro/constanza-android,live,Android habit tracker; MIT per GitHub API spdx_id; Play Store listing com.jjrapps.constanza
+Constanza - Good habits,platforms,,Android,,,https://github.com/jorgejiro/constanza-android,live,
+Crow Translate,license,,Open source,GPL-3.0,"Windows, Linux",https://github.com/crow-translate/crow-translate,live,GitHub API spdx_id; README: available for Linux and Windows
+Crow Translate,platforms,,"Windows, Linux",,,https://github.com/crow-translate/crow-translate,live,README: available for Linux and Windows
+Dash To Panel,license,,Open source,GPL-2.0,Linux,https://github.com/home-sweet-gnome/dash-to-panel,live,GitHub API spdx_id; GNOME Shell extension
+Dash To Panel,platforms,,Linux,,,https://github.com/home-sweet-gnome/dash-to-panel,live,GNOME Shell extension; Linux only
+Davx5 Ose,license,,Open source,GPL-3.0,Android,https://github.com/bitfireAT/davx5-ose,live,GitHub API spdx_id; CalDAV/CardDAV sync adapter
+Davx5 Ose,platforms,,Android,,,https://github.com/bitfireAT/davx5-ose,live,Android app (F-Droid at.bitfire.davdroid)
+Deep Text Recognition Benchmark,license,,Open source,Apache-2.0,,https://github.com/clovaai/deep-text-recognition-benchmark,live,"GitHub API spdx_id; license row only (research repo, not an end-user app)"
+DeuFeiTage,license,,Open source,GPL-3.0,Android,https://github.com/MicMun/DeuFeiTage,live,"GitHub API spdx_id; German holidays Android app (repo deprecated, moved to Codeberg)"
+DeuFeiTage,platforms,,Android,,,https://github.com/MicMun/DeuFeiTage,live,Android app (Play Store + F-Droid badges in README)
+DiVOC Schedule,license,,Open source,Apache-2.0,,https://github.com/EventFahrplan/EventFahrplan,live,Built on EventFahrplan (Apache-2.0); GitHub API SPDX verified
+DiVOC Schedule,platforms,,Android,,,https://f-droid.org/en/packages/info.metadude.android.divoc.schedule/,live,F-Droid listing info.metadude.android.divoc.schedule; conference schedule app
+Docstrange,license,,Open source,MIT,,https://github.com/NanoNets/docstrange,live,README license badge: MIT (NanoNets/docstrange); GitHub API SPDX MIT
+Docstrange,platforms,,"Linux, macOS, Windows",,,https://github.com/NanoNets/docstrange,live,PyPI package; README platform badge linux | macOS | windows
+Documind,license,,Open source,AGPL-3.0,,https://github.com/DocumindHQ/documind,live,LICENSE file: AGPLv3 outside core/ dir (core/ is MIT); raw file read
+Domotz Pro Agent,license,,Proprietary — paid subscription,,,https://www.domotz.com/pricing.php,live,$35/month per site; 14-day free trial; official pricing page
+Domotz Pro Agent,platforms,,"macOS, Linux",,,https://www.domotz.com/,live,"Agent runs on macOS, Linux, Raspberry Pi, Synology, QNAP, Docker; official site"
+DUP Ocropy,license,,Open source,Apache-2.0,,https://github.com/ocropus-archive/DUP-ocropy,live,Python OCR document-analysis tools; GitHub API SPDX Apache-2.0
+Elegant Timeline Swift UI,license,,Open source,MIT,,https://github.com/ThasianX/ElegantTimeline-SwiftUI,live,SwiftUI timeline component demo repo; GitHub API SPDX MIT
+Eme,license,,Open source,MIT,macOS,https://github.com/egoist/eme,live,Elegant Markdown Editor; README shows mac .dmg and linux .deb builds
+Eme,platforms,,macOS,,,https://github.com/egoist/eme,live,Elegant Markdown Editor; README shows mac .dmg and linux .deb builds
+Enhanced Github,license,,Open source,MIT,Web (browser extension),https://chromewebstore.google.com/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd?hl=en,live,Chrome Web Store listing states MIT License; repo softvar/enhanced-github
+Enhanced Github,platforms,,Web (browser extension),,,https://chromewebstore.google.com/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd?hl=en,live,Extension for Chrome/Firefox/Edge on github.com
+Epic Editor,license,,Open source,MIT,,https://github.com/OscarGodson/EpicEditor,live,Embeddable JavaScript Markdown editor library; no end-user platforms
+Errands,license,,Open source,MIT,Linux,https://github.com/mrvladus/Errands,live,Flathub metadata and GitHub API confirm MIT; todo app with Nextcloud CalDAV sync
+Errands,platforms,,Linux,,,https://github.com/mrvladus/Errands,live,Flathub listing io.github.mrvladus.List
+EteSync Notes - End-to-end Encrypted Notes,license,,Open source,GPL-3.0,"Android, iOS, Web",https://github.com/etesync/etesync-notes,live,README states GPLv3 License; F-Droid Play and App Store badges present
+EteSync Notes - End-to-end Encrypted Notes,platforms,,"Android, iOS, Web",,,https://github.com/etesync/etesync-notes,live,React native app that also runs in browser via react-native-web
+Everyone's Timetable,license,,Open source,GPL-2.0-only,Android,http://f-droid.org/packages/ca.littlesvr.everyonestimetable/,live,F-Droid lists GNU General Public License v2.0 only
+Everyone's Timetable,platforms,,Android,,,http://f-droid.org/packages/ca.littlesvr.everyonestimetable/,live,School timetable sharing app; F-Droid listing ca.littlesvr.everyonestimetable
+F1 Replay Timing,license,,Open source,MIT,Web (self-hosted),https://github.com/adn8naiagent/F1ReplayTiming,live,README License section states MIT; no LICENSE file in repo root
+F1 Replay Timing,platforms,,Web (self-hosted),,,https://github.com/adn8naiagent/F1ReplayTiming,live,Docker compose frontend port 3000 and backend port 8000
+Fastwindowswitcher,license,,Open source,GPL-3.0,Windows,https://github.com/JochenBaier/fastwindowswitcher,live,GitHub API SPDX GPL-3.0; keyboard-driven Alt-Tab alternative
+Fastwindowswitcher,platforms,,Windows,,,https://github.com/JochenBaier/fastwindowswitcher,live,README: window switcher for Windows 7 and Windows 10
+Feathernotes,license,,Open source,GPL-3.0,Linux,https://github.com/tsujan/FeatherNotes,live,GitHub API SPDX GPL-3.0 on canonical repo tsujan/FeatherNotes
+Feathernotes,platforms,,Linux,,,https://github.com/tsujan/FeatherNotes,live,Repo description: Lightweight Qt Notes-Manager for Linux
+Ferrite,license,,Proprietary — freemium,,iOS,https://apps.apple.com/us/app/ferrite-recording-studio/id1018780185?uo=4,live,Free download by Wooji Juice Ltd; Pro unlock via in-app purchase
+Ferrite,platforms,,iOS,,,https://apps.apple.com/us/app/ferrite-recording-studio/id1018780185?uo=4,live,App Store listing id1018780185 price $0.00
+Flow Launcher,license,,Open source,MIT,Windows,https://github.com/Flow-Launcher/Flow.Launcher,live,GitHub API spdx_id MIT on Flow-Launcher/Flow.Launcher
+Flow Launcher,platforms,,Windows,,,https://github.com/Flow-Launcher/Flow.Launcher,live,Windows quick launcher
+Flycut,license,,Open source,MIT,macOS,https://github.com/TermiT/Flycut,live,README License section: MIT
+Flycut,platforms,,"macOS, iOS",,,https://github.com/TermiT/Flycut,live,README: Mac App Store + iOS App Store links
+Focuswriter,license,,Open source,GPL-3.0,Windows,https://gottcode.org/focuswriter/,live,GitHub API spdx_id GPL-3.0 on gottcode/focuswriter
+Focuswriter,platforms,,"Linux, Windows",,,https://gottcode.org/focuswriter/,live,Official download page: Linux + Windows 10 x64 builds
+FOSS4G 2024 Schedule,license,,Open source,Apache-2.0,Android,https://f-droid.org/en/packages/app.smarzaro.foss4g2024.schedule/,live,F-Droid package page lists Apache License 2.0
+FOSS4G 2024 Schedule,platforms,,Android,,,https://f-droid.org/en/packages/app.smarzaro.foss4g2024.schedule/,live,F-Droid: Android 5.0+
+Fossify Clock Beta,license,,Open source,GPL-3.0,Android,https://github.com/FossifyOrg/Clock,live,GitHub API spdx_id GPL-3.0 on FossifyOrg/Clock
+Fossify Clock Beta,platforms,,Android,,,https://github.com/FossifyOrg/Clock,live,Android clock app (fossify.org)
+Fossy Protokoll,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/en/packages/de.pascalstier.fossyprotokoll/,live,F-Droid package page: GNU General Public License v3.0 or later
+Fossy Protokoll,platforms,,Android,,,https://f-droid.org/en/packages/de.pascalstier.fossyprotokoll/,live,F-Droid Android app
+Fsnotes,license,,Open source,MIT,"macOS, iOS",https://github.com/glushchenko/fsnotes,live,GitHub API spdx_id MIT on glushchenko/fsnotes
+Fsnotes,platforms,,"macOS, iOS",,,https://github.com/glushchenko/fsnotes,live,README: notes app for macOS and iOS; Mac App Store + App Store badges
