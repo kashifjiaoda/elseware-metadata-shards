@@ -1,0 +1,27 @@
+SHARD 4 STATUS — Shard 2 covering Shard 4's Phase-2 expansion work
+Timestamp: Sun 2026-10-11 (PKT, verified via TZ=Asia/Karachi date)
+
+BATCH 72 COMPLETE:
+- File: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch72.csv
+- Rows pushed: 49 | Apps verified: 27 of 50 | Skipped with reason: 23
+- apps.md lines 3557-3606, 50 unique apps, no duplicates in source list
+
+VERIFIER COUNTS:
+- k1: 14 rows / 7 apps / 3 skipped (520apkhook, Adblock für Safari, Video to MP3 Converter Master)
+- k2: 6 rows / 4 apps / 6 skipped (AI Disk Cleaner, AI Story, Anime In Painting, Anranawsl, App for Gmail ℠, App für Teammeetings)
+- k3: 11 rows / 6 apps / 4 skipped (Ashare, Baidu Yun VIP, BIKA, By Web View)
+- k4: 10 rows / 5 apps / 5 skipped (Captcha Killer Modified, Cat Catch, Cek Pasang Surut Air Laut, Clima - The Weather Channel, Cloud Tools)
+- k5: 8 rows / 5 apps / 5 skipped (Crack JS Spider, Crypto Info, Date Time Picker, Dlink Parse, DY Data)
+
+ASSEMBLER SPOT-CHECKS (5 OSS claims re-verified against raw license text — all confirmed, 0 corrections):
+- Alger Music Player — MIT confirmed (raw LICENSE, Copyright (c) 2026 Alger)
+- Android Pull Layout — Apache-2.0 confirmed (README Licence section, verbatim Apache text, Dsiner/PullLayout)
+- Applemusic Like Lyrics — AGPL-3.0-only confirmed (raw AGPL v3; how-to-apply tail has <name of author> placeholder → unfilled boilerplate, not a grant)
+- Coolweatherjetpack — Apache-2.0 confirmed (raw LICENSE, guolindev)
+- Electron Vue Music — Apache-2.0 confirmed (raw LICENSE, SmallRuralDog)
+
+NOTABLE: Anranawsl skipped (credential/VIP-account-sharing + proxy-node repo, dual-use circumvention); AlMayeh freemium grounded ($1.99/wk, $3.99/mo, $29.99/yr); Aurora Forecast. subscription grounded ($2.99/mo); eCourts Services = official India gov listing (services.india.gov.in).
+
+VALIDATION: 49 rows × 9 cols, 0 schema issues; all `live`; platforms col empty on every license row; whitelisted hosts only (Play, App Store/iTunes, GitHub, adnocdistribution.ae, drawthings.ai, services.india.gov.in). Dual-write byte-identical in persistent + /tmp (scratch dir had been cleaned, re-synced from persistent).
+
+NEXT: batch 73 (apps.md lines 3607-3656).
