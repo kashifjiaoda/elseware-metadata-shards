@@ -1,0 +1,55 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Blue Line Console,license,,Open source,Apache License 2.0,,https://f-droid.org/packages/net.nhiroki.bluelineconsole/,live,F-Droid lists Apache License 2.0
+Blue Line Console,platforms,,Android,,,https://f-droid.org/packages/net.nhiroki.bluelineconsole/,live,Android launcher app on F-Droid
+Bluetooth LE Spam,license,,Open source,GNU General Public License v3.0 only,,https://f-droid.org/en/packages/de.simon.dankelmann.bluetoothlespam/,live,F-Droid lists GNU General Public License v3.0 only
+Bluetooth LE Spam,platforms,,Android,,,https://f-droid.org/en/packages/de.simon.dankelmann.bluetoothlespam/,live,Android app on F-Droid
+Bpython,license,,Open source,MIT License,,https://raw.githubusercontent.com/bpython/bpython/main/LICENSE,live,LICENSE file verified as MIT License
+Bpython,platforms,,"Linux, macOS, Windows",,,http://bpython-interpreter.org/,live,Official site describes bpython as a Python interpreter interface for Linux BSD macOS and Windows
+Browser FS,license,,Open source,MIT,,https://github.com/jvilk/BrowserFS,live,license.md verified as MIT License text (Copyright 2013-2023 John Vilk and contributors); in-browser filesystem JS library — no end-user platforms
+Bspwm,license,,Open source,BSD-2-Clause,,https://github.com/baskerville/bspwm,live,GitHub API spdx_id BSD-2-Clause
+Bspwm,platforms,,Linux,,,https://github.com/baskerville/bspwm,live,README: tiling window manager responding to X events (Linux/X11)
+Bubblewrap,license,,Open source,LGPL-2.1-or-later,,https://github.com/projectatomic/bubblewrap,live,COPYING verified as GNU LGPL v2.1 including or-any-later-version clause
+Bubblewrap,platforms,,Linux,,,https://github.com/projectatomic/bubblewrap,live,README: unprivileged sandboxing tool using Linux kernel user namespaces
+Budgie Wallstreet,license,,Open source,GPL-3.0,,https://github.com/UbuntuBudgie/budgie-extras,live,GitHub API spdx_id GPL-3.0 on UbuntuBudgie/budgie-extras
+Budgie Wallstreet,platforms,,Linux,,,https://github.com/ubuntubudgie/budgie-extras/blob/HEAD/budgie-wallstreet/README.md,live,README: mini-app for budgie-desktop wallpaper rotation (also works on gnome-shell)
+Build Time Tracker Plugin,license,,Open source,Apache-2.0,,https://github.com/passy/build-time-tracker-plugin,live,GitHub API spdx_id Apache-2.0; Gradle plugin to track build times — no end-user platforms
+Bura,license,,Open source,GPL-3.0,,https://github.com/davidtakac/bura,live,GitHub API spdx_id GPL-3.0; Android weather app (davidtakac/bura)
+Bura,platforms,,Android,,,https://f-droid.org/api/v1/packages/com.davidtakac.bura,live,F-Droid lists com.davidtakac.bura with published versions
+BusyBox,license,,Open source,GPL-2.0,,https://busybox.net/license.html,live,official site: licensed under the GNU General Public License version 2
+BusyBox,platforms,,Linux,,,https://busybox.net,live,official site: The Swiss Army Knife of Embedded Linux
+BuzzKill,license,,Proprietary — paid,$3.99 one-time purchase,,https://play.google.com/store/apps/details?id=com.samruston.buzzkill,live,Play Store package com.samruston.buzzkill by Sam Ruston; $3.99 one-time paid per Play Store listing data
+BuzzKill,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.samruston.buzzkill,live,Play Store listing: Android notification manager by Sam Ruston
+Cairo Dock Core,license,,Open source,GPL-3.0,,https://github.com/Cairo-Dock/cairo-dock-core,live,Core part of the Cairo-Dock project; GitHub API spdx_id GPL-3.0; repo LICENSE is GNU GPL v3 text
+Cairo Dock Core,platforms,,Linux,,,https://github.com/Cairo-Dock/cairo-dock-core,live,README: stable/beta packages for Ubuntu 22.04 and 24.04 via Launchpad PPA
+Calligraphy,license,,Open source,Apache-2.0,,https://github.com/chrisjenx/Calligraphy,live,"Custom fonts for Android the easy way; GitHub API spdx_id Apache-2.0; Android developer library, no end-user platforms"
+Caneda,license,,Open source,GPL-2.0,,https://github.com/Caneda/Caneda,live,Caneda main sources repository (EDA suite); GitHub API spdx_id GPL-2.0
+Captain qBit,license,,Open source,GPL-3.0,,https://github.com/Acamol/Captain-qBit,live,Modern Android app for remotely managing a qBittorrent instance; GitHub API spdx_id GPL-3.0; on F-Droid as dev.acamol.qbit
+Captain qBit,platforms,,Android,,,https://f-droid.org/packages/dev.acamol.qbit/,live,F-Droid listing dev.acamol.qbit; app requires Android 9+
+Car Bode Barcode Scanner For Swift UI,license,,Open source,MIT,,https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI,live,"Free & opensource barcode scanner & generator for SwiftUI; GitHub API spdx_id MIT; developer library, no end-user platforms"
+Cb2bib,license,,Open source,GPL-3.0,,https://git.launchpad.net/ubuntu/+source/cb2bib/plain/doc/cb2bib_user_manual.pdf?h=ubuntu/eoan,authoritative,Bibliographic reference extractor by Pere Constans; user manual: licensed under GNU General Public License version 3
+Chadtree,license,,Open source,GPL-3.0,,https://github.com/ms-jpq/chadtree,live,Neovim file-manager plugin; no end-user platforms
+Characters,license,,Open source,BSD-3-Clause,,https://github.com/GNOME/gnome-characters,live,GNOME character map application
+Characters,platforms,,Linux,,,https://github.com/GNOME/gnome-characters,live,GNOME desktop application
+Chess Js,license,,Open source,BSD-2-Clause,,https://github.com/jhlywa/chess.js,live,TypeScript chess move generation/validation library; no end-user platforms
+Chinese Chess Alpha Zero,license,,Open source,GPL-3.0,,https://github.com/NeymarL/ChineseChess-AlphaZero,live,Research implementation of AlphaZero for Chinese chess; not a distributable end-user app
+Cigale,license,,Open source,MIT,,https://github.com/emmanueltouzery/cigale,live,Time-tracking/timesheet GTK application; LICENSE file verified as MIT
+Cigale,platforms,,Linux,,,https://github.com/emmanueltouzery/cigale,live,GTK+3 desktop app; distributed via Flathub
+Citrine,license,,Open source,MIT,,https://github.com/greenart7c3/Citrine,live,Nostr relay for Android
+Citrine,platforms,,Android,,,https://f-droid.org/packages/com.greenart7c3.citrine,live,F-Droid package com.greenart7c3.citrine
+Clash Nyanpasu,license,,Open source,GPL-3.0,,https://github.com/libnyanpasu/clash-nyanpasu,live,GitHub API license SPDX on libnyanpasu/clash-nyanpasu
+Clash Nyanpasu,platforms,,"Windows, macOS, Linux",,,https://nyanpasu.org,live,official site lists Windows macOS and Linux builds
+ClassyShark3xodus - Scan apps for warnings,license,,Open source,Apache-2.0,,https://f-droid.org/en/packages/com.oF2pks.classyshark3xodus/,live,F-Droid package page lists Apache License 2.0
+ClassyShark3xodus - Scan apps for warnings,platforms,,Android,,,https://f-droid.org/en/packages/com.oF2pks.classyshark3xodus/,live,F-Droid package requires Android 5.0 or newer
+Claude Status Bar,license,,Open source,MIT,,https://github.com/m1ckc3s/claude-status-bar,live,GitHub API license SPDX on m1ckc3s/claude-status-bar
+Claude Status Bar,platforms,,macOS,,,https://github.com/m1ckc3s/claude-status-bar,live,README: tiny macOS menu bar app distributed as DMG and Homebrew cask
+Clean Fid,license,,Open source,MIT,,https://github.com/GaParmar/clean-fid,live,GitHub API license SPDX on GaParmar/clean-fid; Python FID evaluation library (license row only)
+Clementine Remote,license,,Open source,GPL-3.0,,https://github.com/clementine-player/Android-Remote,live,GitHub API license SPDX on clementine-player/Android-Remote
+Clementine Remote,platforms,,Android,,,https://github.com/clementine-player/Android-Remote,live,official Clementine Android remote app
+Clifm,license,,Open source,GPL-2.0-or-later,,https://github.com/leo-arch/clifm,live,LICENSE file header declares SPDX GPL-2.0-or-later (GNU GPL text) in leo-arch/clifm
+Clifm,platforms,,"Linux, macOS",,,https://github.com/leo-arch/clifm,live,README lists Linux and macOS among supported systems
+Clipboard Cleaner,license,,Open source,MIT,,https://github.com/DeweyReed/ClipboardCleaner,live,raw LICENSE verified as MIT License in DeweyReed/ClipboardCleaner
+Clipboard Cleaner,platforms,,Android,,,https://github.com/DeweyReed/ClipboardCleaner,live,service widget shortcut and quick setting tile indicate Android
+Clipit,license,,Open source,GPL-3.0,,https://github.com/CristianHenzel/ClipIt,live,GitHub API license SPDX on CristianHenzel/ClipIt (GTK+ clipboard manager)
+Clipit,platforms,,Linux,,,https://github.com/CristianHenzel/ClipIt,live,README covers Debian and Ubuntu installs
+Clockode,license,,Open source,GPL-3.0,,https://github.com/mariinkys/clockode,live,GitHub API license SPDX on mariinkys/clockode (TOTP client)
+Clockode,platforms,,Linux,,,https://github.com/mariinkys/clockode,live,Flathub badge for dev.mariinkys.Clockode in README
