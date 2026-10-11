@@ -1,0 +1,72 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Gnubiff,license,,Open source,GNU General Public License v3.0 (GPL-3.0),,https://gnubiff.sourceforge.net/,live,"Official site: ""Released under the aegis of GNU""; git mirror salahcoronya/gnubiff reports SPDX GPL-3.0; mail notification program"
+Gnubiff,platforms,,Linux,,,https://gnubiff.sourceforge.net/,live,Official: GTK/GNOME mail notification program distributed as source code; Unix/Linux desktop software
+Gomuks,license,,Open source,GNU Affero General Public License v3.0 (AGPL-3.0),,https://github.com/gomuks/gomuks,live,"GitHub API: gomuks/gomuks spdx_id AGPL-3.0; ""A Matrix client written in Go"""
+Gomuks,platforms,,"Windows, macOS, Linux",,,https://github.com/gomuks/gomuks,live,"GitHub releases: darwin (macOS), linux .deb, windows .exe, plus terminal builds"
+Gptme,license,,Open source,MIT license,,https://github.com/gptme/gptme,live,"GitHub API: gptme/gptme spdx_id MIT; ""Your agent in your terminal"""
+Hetairos AI,license,,Proprietary — free,,Proprietary; main source repo private; distributed free via Flathub; no paid tier documented,https://github.com/n3kosempai/hetairos-open,live,"Official public repo README: license badge ""Proprietary""; ""The main source code repository is private... proprietary application"""
+Hetairos AI,platforms,,Linux,,,https://github.com/n3kosempai/hetairos-open,live,Official repo README badge: platform Linux (Flathub distribution)
+Hola OS,license,,Source-available,Modified Apache 2.0 with additional conditions: no hosted-service/commercial redistribution without commercial license (Commons-Clause-style restriction),,https://github.com/holaboss-ai/holaOS,live,"Canonical repo LICENSE: ""Modified Apache 2.0 License"" with hosted-service and logo restrictions; not OSI-approved"
+Hola OS,platforms,,"Windows, macOS, Linux",,,https://github.com/holaboss-ai/holaOS,live,"Canonical repo README: ""macOS (Apple Silicon and Intel), Windows, and Linux supported""; Electron desktop app"
+iamb,license,,Open source,Apache License 2.0 (Apache-2.0),,https://github.com/ulyssa/iamb,live,"GitHub API: ulyssa/iamb spdx_id Apache-2.0; ""A Matrix client for Vim addicts"""
+iamb,platforms,,"Windows, macOS, Linux",,,https://github.com/ulyssa/iamb,live,"GitHub releases: apple-darwin (macOS), linux-gnu, pc-windows-msvc (Windows) binaries"
+iMessage,license,,Proprietary — free,Apple proprietary messaging service; included free with Apple devices; no paid tier,,https://support.apple.com/en-us/HT208386,live,Apple Support: iMessage built into Messages app on iPhone/iPad/Mac; Apple closed service
+iMessage,platforms,,"iOS, macOS",,,https://support.apple.com/en-us/HT208386,live,"Apple Support: Messages/iMessage on iPhone, iPad, Mac (plus Apple Vision Pro)"
+Infomaniak kMeet,license,,Proprietary — free,Free and unlimited videoconferencing service by Infomaniak; no paid tier,,https://www.infomaniak.com/en/kmeet,live,"Official: ""The secure, unlimited and free videoconferencing service""; ""Free and unlimited, but you are not the product"""
+Infomaniak kMeet,platforms,,"Windows, macOS, Linux, Android, iOS, Web",,,https://www.infomaniak.com/en/kmeet,live,Official: desktop apps for Windows/macOS/Linux; mobile iPhone/iPad/Android; browser WebRTC support
+IPerf3Client,license,,Open source,GNU General Public License v3.0 or later (GPL-3.0-or-later),,http://f-droid.org/packages/com.example.iperf3client/,live,F-Droid listing: 'License: GNU General Public License v3.0 or later'; F-Droid lists FOSS only
+IPerf3Client,platforms,,Android,,,http://f-droid.org/packages/com.example.iperf3client/,live,F-Droid Android app listing: iPerf3 Android client
+Jitsi Videobridge,license,,Open source,Apache License 2.0,,https://api.github.com/repos/jitsi/jitsi-videobridge,live,GitHub API: jitsi/jitsi-videobridge license spdx_id Apache-2.0; OSI-approved open source
+Jitsi Videobridge,platforms,,Linux,,,https://github.com/jitsi/jitsi-videobridge,live,Server-side WebRTC SFU for video conferencing infrastructure; deployed on Linux servers
+Khoj,license,,Open source,GNU Affero General Public License v3.0 (AGPL-3.0),,https://api.github.com/repos/khoj-ai/khoj,live,GitHub API: khoj-ai/khoj license spdx_id AGPL-3.0; OSI-approved open source
+Khoj,platforms,,"Web, Windows, macOS, Linux, Android, iOS",,,https://raw.githubusercontent.com/khoj-ai/khoj/master/README.md,live,"README: Access from Browser, Obsidian, Emacs, Desktop, Phone or Whatsapp; open-source self-hostable"
+Libre Chat,license,,Open source,MIT License,,https://api.github.com/repos/danny-avila/LibreChat,live,GitHub API: LibreChat-AI/LibreChat (repo moved from danny-avila/LibreChat) license spdx_id MIT; OSI-approved open source
+Libre Chat,platforms,,"Web, Linux",,,https://librechat.ai/,live,Official: open-source AI platform with web interface; self-hosted via Docker (56.8M Docker pulls)
+Linphone - open source SIP client,license,,Open source,GNU General Public License v3.0 (GPL-3.0),,https://api.github.com/repos/BelledonneCommunications/linphone-desktop,live,GitHub API: BelledonneCommunications/linphone-desktop license spdx_id GPL-3.0; OSI-approved open source
+Linphone - open source SIP client,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://linphone.org/,live,Official: Linphone softphone for desktops and smartphones; Belledonne Communications open source project
+KUKSA Companion App,license,,Open source,Apache License 2.0,,https://api.github.com/repos/eclipse-kuksa/kuksa-android-companion,live,GitHub API: eclipse-kuksa/kuksa-android-companion license spdx_id Apache-2.0; listed on F-Droid
+KUKSA Companion App,platforms,,Android,,,https://f-droid.org/bo/packages/org.eclipse.kuksa.companion/,live,F-Droid: Android app demonstrating KUKSA Android SDK vehicle connectivity
+Mattermost Beta,license,,Open source,Apache License 2.0,,https://github.com/mattermost/mattermost-mobile,live,GitHub API: mattermost/mattermost-mobile LICENSE.txt is Apache License 2.0; beta channel of the Mattermost mobile app
+Mattermost Beta,platforms,,"Android, iOS",,,https://github.com/mattermost/mattermost-mobile,live,Mobile app repo; Android and iOS clients
+Mensa-Guthaben,license,,Open source,GNU General Public License v3.0 only (GPL-3.0-only),,http://f-droid.org/packages/de.yazo_games.mensaguthaben/,live,F-Droid listing: License GNU General Public License v3.0 only; reads NFC balance from German university Mensa cards
+Mensa-Guthaben,platforms,,Android,,,http://f-droid.org/packages/de.yazo_games.mensaguthaben/,live,F-Droid Android app; requires Android 4.0+
+MeshCore Signal Tester,license,,Open source,MIT License,,https://github.com/kybl/meshcore-signal-tester,live,GitHub API: kybl/meshcore-signal-tester LICENSE spdx_id MIT
+MeshCore Signal Tester,platforms,,"Android, Web",,,https://github.com/kybl/meshcore-signal-tester,live,README: Web and Android application for MeshCore signal monitoring; Android app on F-Droid
+Meshtastic Android,license,,Open source,GNU General Public License v3.0 (GPL-3.0),,https://github.com/meshtastic/Meshtastic-Android,live,GitHub API: meshtastic/Meshtastic-Android LICENSE is GPL Version 3
+Meshtastic Android,platforms,,Android,,,https://github.com/meshtastic/Meshtastic-Android,live,Android client for Meshtastic LoRa mesh networking
+Message487,license,,Open source,MIT License,,https://github.com/andre487/AndroidMessage487,live,GitHub README shows MIT license badge; F-Droid listed; forwards notifications and SMS to n8n or webhook
+Message487,platforms,,Android,,,https://github.com/andre487/AndroidMessage487,live,Android app; requires Android 8.0+
+Miranda NG,license,,Open source,GNU General Public License v2.0 (GPL-2.0),,https://github.com/miranda-ng/miranda-ng,live,GitHub API: miranda-ng/miranda-ng LICENSE is GPL Version 2 June 1991
+Miranda NG,platforms,,Windows,,,https://www.miranda-ng.org/,live,Official site; Windows instant messaging client (Miranda IM Next Generation)
+Mobile Claw,license,,Open source,GNU Affero General Public License v3.0 (AGPL-3.0),,https://github.com/flex-lol/mobile-claw,live,GitHub API: flex-lol/mobile-claw LICENSE is GNU Affero GPL Version 3; mobile client for OpenClaw AI agents
+Mobile Claw,platforms,,"Android, iOS",,,https://github.com/flex-lol/mobile-claw,live,README: Available on iOS and Android
+Moscow Wi,license,,Open source,GNU General Public License v3.0 only (GPL-3.0-only),,http://f-droid.org/packages/pw.thedrhax.mosmetro/,live,F-Droid listing: Moscow Wi-Fi autologin; License GNU General Public License v3.0 only
+Moscow Wi,platforms,,Android,,,http://f-droid.org/packages/pw.thedrhax.mosmetro/,live,F-Droid Android app; auto-connects to Moscow public transport Wi-Fi
+Mysms,license,,Proprietary — freemium,Free app; mysms Premium USD 9.99/year with 14-day free trial,,https://play.google.com/store/apps/details?id=com.mysms.android.sms,live,Play Store: upgrade to Premium USD 9.99/year for advanced message management; 14-day free trial
+Mysms,platforms,,Android; iOS; Windows; macOS; Web,,,https://play.google.com/store/apps/details?id=com.mysms.android.sms,live,"Play Store: Android app with Android tablet, Windows desktop, Chrome and web app (app.mysms.com); Wikipedia cross-check lists Android/iOS/OS X/Windows"
+NetToggle,license,,Open source,GPL-3.0,,https://github.com/Dhangofa/NetToggle,live,GitHub API: Dhangofa/NetToggle LICENSE spdx_id GPL-3.0
+NetToggle,platforms,,Android,,,https://github.com/Dhangofa/NetToggle,live,README: lightweight Android Quick Settings tile app for cellular network control
+Nextcloud Talk,license,,Open source,AGPL-3.0,,https://github.com/nextcloud/spreed,live,GitHub API: nextcloud/spreed license spdx_id AGPL-3.0
+Nextcloud Talk,platforms,,Android; iOS; Web,,,https://nextcloud.com/talk/,live,Official: mobile apps for Android and iOS; web interface
+Nheko,license,,Open source,GPL-3.0,,https://github.com/Nheko-Reborn/nheko,live,GitHub API: Nheko-Reborn/nheko license spdx_id GPL-3.0
+Nheko,platforms,,Windows; macOS; Linux,,,https://github.com/Nheko-Reborn/nheko,live,"README: releases for Linux (Flatpak), macOS (disk image), Windows (x64)"
+OBS Blade,license,,Open source,GPL-3.0,,https://github.com/Kounex/obs_blade,live,GitHub API: Kounex/obs_blade LICENSE spdx_id GPL-3.0
+OBS Blade,platforms,,Android; iOS,,,https://github.com/Kounex/obs_blade,live,"README: open source remote for OBS Studio on iPhone, iPad and Android"
+Olvid,license,,Open source,AGPL-3.0 (clients; server-side software proprietary),,https://github.com/olvid-io/olvid-ios,live,GitHub API: olvid-io/olvid-ios license spdx_id AGPL-3.0; server-side remains proprietary
+Olvid,platforms,,Android; iOS,,,https://github.com/olvid-io/olvid-ios,live,Official repos olvid-io/olvid-ios and olvid-android
+Open Deep Wiki,license,,Open source,MIT,,https://github.com/AIDotNet/OpenDeepWiki,live,GitHub API: AIDotNet/OpenDeepWiki LICENSE spdx_id MIT; upstream of forks
+Open Deep Wiki,platforms,,Web,,,https://github.com/AIDotNet/OpenDeepWiki,live,README: self-hosted web app via Docker; Next.js frontend on localhost:3000
+OpenBubbles,license,,Open source,Apache-2.0,,https://github.com/OpenBubbles/openbubbles-app,live,GitHub API: OpenBubbles/openbubbles-app license spdx_id Apache-2.0
+OpenBubbles,platforms,,Android; Windows,,,https://github.com/OpenBubbles/openbubbles-app,live,README: open-source cross-platform ecosystem bringing iMessage to Android and Windows/PC
+Polari,license,,Open source,GNU General Public License v2.0 (GPL-2.0),,https://gitlab.gnome.org/GNOME/polari,live,GNOME GitLab repo COPYING file is the GPL v2 license text; canonical repo for the GNOME IRC client
+Polari,platforms,,Linux,,,https://flathub.org/en/apps/org.gnome.Polari,live,Flathub listing org.gnome.Polari: Linux desktop app; also via distro software centers
+Phosh Antispam,license,,Open source,GNU General Public License v3.0 (GPL-3.0),,https://github.com/sc0w/phosh-antispam,live,GitHub mirror of canonical gitlab.com/kop316/phosh-antispam (gitlab.com blocked by fetch policy); COPYING is the GPL v3 license text; Gentoo ebuild also declares LICENSE=GPL-3
+Phosh Antispam,platforms,,Linux,,,https://packages.debian.org/trixie/phosh-antispam,live,Debian package: daemon that monitors GNOME Calls and auto-hangs-up spam calls; Linux (Phosh mobile shell) only
+QRshare,license,,Open source,Apache License 2.0,,https://f-droid.org/en/packages/com.wchung.qrshare/,live,F-Droid listing states License: Apache License 2.0; F-Droid lists FOSS only
+QRshare,platforms,,Android,,,https://f-droid.org/en/packages/com.wchung.qrshare/,live,F-Droid Android listing; requires Android 5.0 or newer
+Pulse SMS,license,,Proprietary — freemium,Free phone app; cross-device sync via paid subscription or one-time purchase,,https://play.google.com/store/apps/details?id=xyz.klinker.messenger,live,Play Store listing by Maple Media distinguishes free users vs subscribers/one-time purchases; original klinker-apps/pulse-sms-android repo now returns 404 (no longer open source)
+Pulse SMS,platforms,,"Android, Web, Windows, macOS, Linux",,,https://play.google.com/store/apps/details?id=xyz.klinker.messenger,live,"Play Store listing: Android app plus web app and native apps for tablets, macOS, Windows, Chrome, Firefox, Linux, Android TV"
+Paintball Notificator,license,,Open source,GNU General Public License v3.0 only (GPL-3.0-only),,https://f-droid.org/packages/com.chaser.paintballnotificator/,live,F-Droid listing states License: GNU General Public License v3.0 only; F-Droid lists FOSS only
+Paintball Notificator,platforms,,Android,,,https://f-droid.org/packages/com.chaser.paintballnotificator/,live,F-Droid Android listing; requires Android 7.0 or newer
+Priority Alerts,license,,Open source,GNU General Public License v3.0 only (GPL-3.0-only),,https://f-droid.org/en/packages/com.saiga.find.messagefinder/,live,F-Droid listing states License: GNU General Public License v3.0 only; F-Droid lists FOSS only
+Priority Alerts,platforms,,Android,,,https://f-droid.org/en/packages/com.saiga.find.messagefinder/,live,F-Droid Android listing; requires Android 6.0 or newer
