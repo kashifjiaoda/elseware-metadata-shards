@@ -97,6 +97,8 @@ this operation exists to replace guesses with evidence.
 4. An F-Droid listing is strong FOSS evidence (F-Droid lists FOSS only). Debian/Fedora
    package metadata works as a cross-check.
 5. Map SPDX to badge: MIT / Apache-2.0 / GPL / AGPL / BSD / MPL / EPL → `Open source`.
+   Public-domain dedications (CC0-1.0, Unlicense, WTFPL) → `Open source` (more
+   permissive than MIT; the taxonomy distinguishes restrictive-custom from truly-free).
    **SSPL / PolyForm / BSL / Commons Clause → `Source-available`. NEVER "Open source".**
 
 ### Case B — proprietary app (pricing tier)
