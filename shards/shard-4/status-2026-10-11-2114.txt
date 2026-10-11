@@ -1,0 +1,5 @@
+Shard 2 (shard-4 work) — Phase-2 expansion batch 57 complete
+Time: 2026-10-11-2114 PKT
+Apps: 46 of 50 verified (86 rows: 45 license, 41 platforms)
+Skipped (4): Whats App Cleaner, Xdemorse, Zenforms, Fingerprint Chromium — identity ambiguity
+Notes: spot-checks 4/4 confirmed (Websockify LGPL-3.0-only; Wolf MQTT + Windows Virtual Desktop Helper GPL-3.0-or-later; Xchm GPL-2.0-only conservative). Anything Analyzer kept as legit security research (dual-use MITM noted).
