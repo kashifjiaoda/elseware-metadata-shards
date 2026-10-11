@@ -1,0 +1,7 @@
+Shard 2 batch24 pushed 2026-10-11 16:18 PKT (apps.md lines 1157-1206).
+91 rows: 45 apps license-verified, 46 apps platform-verified (some both rows).
+Skips: Byte (rebranded to Clash 2021, no whitelisted source); Calls/ChibiTracker/Cqrlog platforms (no whitelisted platform statement).
+Verifier pre-push drops: Audio Looper license row (README MIT vs no LICENSE file, conflicting grounding); SEO Sidebar license row (no license stated); Simple Social Icons license row (WP.org declares OSS but no GPL version stated anywhere); Siteliner license row (freemium pricing only on non-whitelisted review sites).
+Self-audits: Material Symbols Apache-2.0 raw LICENSE; SEOnaut MIT raw LICENSE; cqrlog pinned GPL-2.0-only (source headers grant v2, no later); CsoundQt LGPL-2.1-or-later; Chordcat GPL-3.0-only via SPDX; DeaDBeeF Zlib (not GPL); Smartlook wind-down dated (EOS 31 May 2026, decommission 30 Sep 2027); Respona -> Proprietary - paid (pay-per-result, no subscription).
+Schema: 91 rows x 9 cols, 0 issues, all live, whitelisted sources only, dual-write byte-identical in both dirs.
+Next: batch 25 (apps.md lines 1207-1256).
