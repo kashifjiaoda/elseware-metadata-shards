@@ -1,0 +1,58 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Goldcoin,license,,Open source,MIT,,https://github.com/GoldCoin/goldcoin,live,GitHub API spdx_id MIT; README badge confirms MIT
+groestlcoin-core,license,,Open source,MIT,,https://github.com/groestlcoin/groestlcoin,live,GitHub API spdx_id MIT on groestlcoin/groestlcoin
+Het Saldo,license,,Open source,EUPL-1.2,,https://f-droid.org/packages/dev.maartje.hetsaldo/,live,fdroiddata dev.maartje.hetsaldo: License EUPL-1.2; De Lijn smartcard saldo checker
+Het Saldo,platforms,,Android,,,https://f-droid.org/packages/dev.maartje.hetsaldo/,live,F-Droid listing; Android APK builds
+Ivy Wallet,license,,Open source,GPL-3.0,,https://github.com/Ivy-Apps/Ivy-Wallet,live,GitHub API spdx_id GPL-3.0
+Ivy Wallet,platforms,,Android,,,https://github.com/Ivy-Apps/Ivy-Wallet,live,Repo description: open-source money manager app for Android
+LCTerm (Lucky Cat Terminal),license,,Open source,Apache-2.0,,https://github.com/Vermont-Secure-Computing/lucky-cat-terminal,live,GitHub API spdx_id Apache-2.0
+LCTerm (Lucky Cat Terminal),platforms,,Android,,,https://github.com/Vermont-Secure-Computing/lucky-cat-terminal,live,README: Android POS app for accepting cryptocurrency payments
+Meowdoku!,license,,Open source,MIT,,https://github.com/kayleenasser/Meowdoku,live,GitHub API spdx_id MIT; README describes a Sudoku Android app with hand-drawn cat UI
+Meowdoku!,platforms,,Android,,,https://github.com/kayleenasser/Meowdoku,live,"README: ""A Sudoku Android App"" (Unity Engine)"
+monacoin,license,,Open source,MIT,,https://github.com/monacoinproject/monacoin,live,README license section: Monacoin Core released under MIT license
+monacoin,platforms,,"Windows, macOS, Linux",,,https://github.com/monacoinproject/monacoin/releases,live,"Release assets include win64 zip, osx dmg, linux-gnu tarball builds"
+Monly,license,,Open source,MIT,,http://f-droid.org/packages/org.asafonov.monly/,live,F-Droid listing: License MIT License; awesome budget planner
+Monly,platforms,,Android,,,http://f-droid.org/packages/org.asafonov.monly/,live,F-Droid Android app (org.asafonov.monly)
+My Price Log,license,,Open source,MIT,,https://github.com/ZornsLemma/my-price-log,live,GitHub API spdx_id MIT
+My Price Log,platforms,,Android,,,https://github.com/ZornsLemma/my-price-log,live,Repo description: Android app to track and compare prices offline
+namecoin,license,,Open source,MIT,,https://github.com/namecoin/namecoin-core,live,GitHub API spdx_id MIT; Namecoin full node + wallet
+namecoin,platforms,,"Windows, Linux, macOS",,,https://github.com/namecoin/namecoin-core,live,"README: CI tested on Windows, Linux, and macOS"
+NerdWallet,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.mobilecreditcards&hl=en_IN,live,"Play Store listing: The free NerdWallet app makes it easy for you to track, save, and invest your money"
+NerdWallet,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.mobilecreditcards&hl=en_IN,live,Play Store (Android); app also available on Apple App Store
+Nighthawk Wallet,license,,Open source,Apache-2.0,,https://github.com/nighthawk-apps/nighthawk-wallet-android,live,GitHub API spdx_id Apache-2.0 on official Nighthawk Apps org repo (Zcash wallet; repo notes old version no longer maintained)
+Nighthawk Wallet,platforms,,Android,,,https://github.com/nighthawk-apps/nighthawk-wallet-android,live,Official org Android wallet repo
+Offline Currency Converter,license,,Open source,AGPL-3.0,,https://github.com/davidneurieder/offline-currency-converter,live,GitHub API spdx_id AGPL-3.0; F-Droid com.offlinecurrencyconverter.app
+Offline Currency Converter,platforms,,Android,,,https://f-droid.org/packages/com.offlinecurrencyconverter.app/,live,F-Droid listing
+p2pool,license,,Open source,GPL-3.0,,https://github.com/p2pool/p2pool,live,GitHub API spdx_id GPL-3.0; peer-to-peer Bitcoin mining pool
+p2pool,platforms,,"Linux, Windows",,,https://github.com/p2pool/p2pool,live,README documents Linux and Windows builds
+PayNoWay,license,,Open source,GPL-3.0,,https://github.com/samotari/paynoway,live,GitHub API spdx_id GPL-3.0
+PayNoWay,platforms,,Android,,,https://github.com/samotari/paynoway,live,Mobile app; README shows Play Store feature graphic
+PennyWise: SMS Expense Tracker,license,,Open source,AGPL-3.0,,https://f-droid.org/packages/com.pennywiseai.tracker/,live,F-Droid listing states complete source code is public (AGPL-3.0)
+PennyWise: SMS Expense Tracker,platforms,,Android,,,https://f-droid.org/packages/com.pennywiseai.tracker/,live,F-Droid listing
+PolyAlerts,license,,Open source,GPL-3.0,,https://github.com/privanindivan/polyalerts,live,GitHub API spdx_id GPL-3.0
+PolyAlerts,platforms,,Android,,,https://github.com/privanindivan/polyalerts,live,Repo description: open-source Android app for Polymarket price and probability alerts
+Price Per Unit,license,,Open source,Apache-2.0,,https://f-droid.org/packages/net.nitratine.priceperunit/,live,F-Droid listing states Apache License 2.0
+Price Per Unit,platforms,,Android,,,https://f-droid.org/packages/net.nitratine.priceperunit/,live,F-Droid listing
+Quicken Simplifi,license,,Proprietary — paid subscription,,,https://apps.apple.com/us/app/quicken-budget-track-money/id1449777194?uo=4,live,Simplifi by Quicken; annual subscription ($5.99/mo billed annually per quicken.com); App Store app renamed to 'Quicken: Budget & Track Money'
+Quicken Simplifi,platforms,,iOS; Android; Web,,,https://www.quicken.com/lp/dg/simplifi-budgets/?utm_medium=cpc&utm_source=google&utm_campaign=Demand_Gen_Prospecting_USA,live,Official page lists Mobile and Web apps
+Robin Stocks,license,,Open source,MIT,,https://github.com/jmfernandes/robin_stocks,live,"GitHub API spdx_id MIT; Python library for the Robinhood API (robin-stocks.com), not the Robinhood brokerage app"
+Tax Hacker,license,,Open source,MIT,,https://github.com/vas3k/TaxHacker,live,GitHub API spdx_id MIT; self-hosted AI accounting app; homepage taxhacker.app
+Tax Hacker,platforms,,Web,,,https://github.com/vas3k/TaxHacker,live,Self-hosted web app per repo description
+Velas Desktop Wallet,license,,Open source,CC0-1.0,,https://github.com/velas/JsWalletDesktop,live,GitHub API spdx_id CC0-1.0 on velas/JsWalletDesktop
+Velas Desktop Wallet,platforms,,Windows; macOS,,,https://github.com/velas/JsWalletDesktop,live,"Repo description: 'Velas Wallet Desktop (Mac, Win)'"
+Wapy Dev,license,,Source-available,MIT + Commons Clause v1.0,,https://github.com/meceware/wapy.dev,live,raw LICENSE verified: Commons Clause v1.0 non-commercial restriction on top of MIT text
+Wapy Dev,platforms,,Web,,,https://github.com/meceware/wapy.dev,live,self-hosted subscription tracker; Docker install per README
+XBTS: Crypto wallet and DeFi,license,,Open source,MIT,,https://github.com/XBTS/app,live,raw LICENSE verified as MIT text; crypto wallet but OSI-approved license
+XBTS: Crypto wallet and DeFi,platforms,,"Android, Linux",,,https://github.com/XBTS/app,live,Play Store badge (io.xbts.app) + Snap badge in README
+ピクセル放置RPG：俺の絵だけ解像度がおかしい,license,,Proprietary — free,,,https://apps.apple.com/jp/app/%E3%83%94%E3%82%AF%E3%82%BB%E3%83%AB%E6%94%BE%E7%BD%AErpg-%E4%BF%BA%E3%81%AE%E7%B5%B5%E3%81%A0%E3%81%91%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%81%8C%E3%81%8A%E3%81%8B%E3%81%97%E3%81%84/id6769318336?uo=4,live,ANTIC TECNOLOGY LIMITED; free download on App Store JP
+ピクセル放置RPG：俺の絵だけ解像度がおかしい,platforms,,iOS,,,https://apps.apple.com/jp/app/%E3%83%94%E3%82%AF%E3%82%BB%E3%83%AB%E6%94%BE%E7%BD%AErpg-%E4%BF%BA%E3%81%AE%E7%B5%B5%E3%81%A0%E3%81%91%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%81%8C%E3%81%8A%E3%81%8B%E3%81%97%E3%81%84/id6769318336?uo=4,live,App Store JP listing
+도깨비의세계,license,,Proprietary — free,,,https://apps.apple.com/kr/app/%EB%8F%84%EA%B9%A8%EB%B9%84%EC%9D%98%EC%84%B8%EA%B3%84/id6758975161?uo=4,live,Kakao Games Corp.; free download on App Store KR
+도깨비의세계,platforms,,iOS,,,https://apps.apple.com/kr/app/%EB%8F%84%EA%B9%A8%EB%B9%84%EC%9D%98%EC%84%B8%EA%B3%84/id6758975161?uo=4,live,App Store KR listing
+총잡이 고양이 - 방치형 키우기,license,,Proprietary — free,,,https://apps.apple.com/kr/app/%EC%B4%9D%EC%9E%A1%EC%9D%B4-%EA%B3%A0%EC%96%91%EC%9D%B4-%EB%B0%A9%EC%B9%98%ED%98%95-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6764201639?uo=4,live,Neptune Company; free download on App Store KR
+총잡이 고양이 - 방치형 키우기,platforms,,iOS,,,https://apps.apple.com/kr/app/%EC%B4%9D%EC%9E%A1%EC%9D%B4-%EA%B3%A0%EC%96%91%EC%9D%B4-%EB%B0%A9%EC%B9%98%ED%98%95-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6764201639?uo=4,live,App Store KR listing
+할리우드 머지,license,,Proprietary — free,,,https://apps.apple.com/kr/app/%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C-%EB%A8%B8%EC%A7%80/id6755455500?uo=4,live,VoyagerOne Distribution Limited; free download on App Store KR
+할리우드 머지,platforms,,iOS,,,https://apps.apple.com/kr/app/%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C-%EB%A8%B8%EC%A7%80/id6755455500?uo=4,live,App Store KR listing
+Elevate,license,,Proprietary — freemium,,,https://apps.apple.com/us/app/elevate-brain-training-games/id875063456?uo=4,live,Elevate Labs LLC; App Store description states yearly subscription fee
+Elevate,platforms,,iOS,,,https://apps.apple.com/us/app/elevate-brain-training-games/id875063456?uo=4,live,App Store US listing
+FDME - FFHandball,license,,Proprietary — free,,,https://ffhandball.zendesk.com/hc/fr/articles/21711102899996-Comment-t%C3%A9l%C3%A9charger-la-nouvelle-feuille-de-match-%C3%A9lectronique,live,official FFHandball help center; free download; no open-source license stated
+FDME - FFHandball,platforms,,"Windows, macOS, Android, iOS, Linux",,,https://ffhandball.zendesk.com/hc/fr/articles/21711102899996-Comment-t%C3%A9l%C3%A9charger-la-nouvelle-feuille-de-match-%C3%A9lectronique,live,official download page lists Windows Mac Android tablet iPad and Linux (Flathub)
