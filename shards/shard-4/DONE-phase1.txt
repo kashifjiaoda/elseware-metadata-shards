@@ -1,0 +1,1 @@
+Shard 4 Phase 1 complete: all 26 batches verified and pushed (batches 1-2 re-verified from scratch after lead rejection). 2026-10-11.
