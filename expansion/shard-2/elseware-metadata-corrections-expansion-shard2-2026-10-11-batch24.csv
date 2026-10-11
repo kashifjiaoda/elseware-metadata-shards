@@ -1,0 +1,90 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Lead Forensics,license,,Proprietary — paid subscription,Essential and Automate plans; sold on quote/demo basis; no published free tier,Web,https://www.leadforensics.com/,live,"Official site live; pricing nav present, quotes via demo; no free plan"
+Lead Forensics,platforms,,Web,,,https://www.leadforensics.com/,live,SaaS web app
+LocalFalcon,license,,Proprietary — paid subscription,Paid credit packages: Starter $24.99/mo up to Premium $199.99/mo; 100 free signup credits; no free plan,Web,https://www.localfalcon.com/pricing,live,Official pricing page
+LocalFalcon,platforms,,Web,,,https://www.localfalcon.com/pricing,live,Web app
+MailPoet,license,,Open source,GPL-3.0,Web (WordPress),https://plugins.svn.wordpress.org/mailpoet/trunk/readme.txt,live,WP.org SVN readme: License: GPLv3; free plugin; commercial Premium add-on sold separately (freemium model)
+MailPoet,platforms,,Web (WordPress),,,https://plugins.svn.wordpress.org/mailpoet/trunk/readme.txt,live,WordPress plugin
+Media File Renamer,license,,Open source,GPL-2.0-or-later,Web (WordPress),https://plugins.svn.wordpress.org/media-file-renamer/trunk/readme.txt,live,WP.org SVN readme: License: GPLv2 or later; Pro Version upsell (freemium)
+Media File Renamer,platforms,,Web (WordPress),,,https://plugins.svn.wordpress.org/media-file-renamer/trunk/readme.txt,live,WordPress plugin by Meow Crew
+Monitor Backlinks,license,,Proprietary — paid subscription,Paid plans from $39/mo; 14-day free trial; acquired by SEOptimer 2023,Web,https://monitorbacklinks.com/pricing-2,live,Official pricing page
+Monitor Backlinks,platforms,,Web,,,https://monitorbacklinks.com/pricing-2,live,Web app
+NeuralText,license,,Proprietary — paid subscription,Paid plans: Starter $19/mo; Basic $49/mo; Pro $119/mo; 5-day trial,Web,https://neuraltext.com/,live,Official site product confirmed; paid plans consistently reported
+NeuralText,platforms,,Web,,,https://neuraltext.com/,live,Web app
+PageSpeed Insights,license,,Proprietary — free,,Web,https://pagespeed.web.dev/,live,Google's web-performance tool; usable without account or payment
+PageSpeed Insights,platforms,,Web,,,https://pagespeed.web.dev/,live,Web app by Google
+Popup Builder,license,,Open source,GPL-2.0-or-later,Web (WordPress),https://plugins.svn.wordpress.org/popup-builder/trunk/readme.txt,live,WP.org SVN readme: License: GPLv2 or later; paid premium popup types/extensions (freemium)
+Popup Builder,platforms,,Web (WordPress),,,https://plugins.svn.wordpress.org/popup-builder/trunk/readme.txt,live,WordPress plugin by Sygnoos
+PRWeb,license,,Proprietary — paid,Per-release packages: Basic $120 / Standard $245 / Advanced $360 / Premium $480,Web,https://www.prweb.com/pricing/,live,Paid per release; not a subscription
+PRWeb,platforms,,Web,,,https://www.prweb.com/pricing/,live,Web-based service
+Rank Ranger,license,,Proprietary — paid subscription,Plans Lite $79/mo to Premium $2700/mo; acquired by Similarweb and now part of Similarweb SEO toolkit,Web,https://www.rankranger.com/pricing/,live,Pricing page now redirects to Similarweb SEO toolkit
+Rank Ranger,platforms,,Web,,,https://www.rankranger.com/pricing/,live,Web-based platform
+Rebrandly,license,,Proprietary — freemium,Free Plan + paid plans $8/mo-$39/mo,Web,https://rebrandly.com/pricing/,live,Free plan with watermarked QR codes per official pricing page
+Rebrandly,platforms,,Web,,,https://rebrandly.com/pricing/,live,Web-based link management platform
+RocketReach,license,,Proprietary — freemium,Free account with 5 lookups/mo + paid plans,Web,https://rocketreach.co/pricing/,live,Free tier plus Essentials/Pro/Ultimate paid plans
+RocketReach,platforms,,Web,,,https://rocketreach.co/pricing/,live,Web-based contact data platform + browser extension
+SeedProd,license,,Proprietary — freemium,Free version on wordpress.org + paid plans $79-$599,Web,https://www.seedprod.com/pricing/,live,Free version per wordpress.org; Pro plans on official pricing page
+SeedProd,platforms,,Web,,,https://www.seedprod.com/pricing/,live,WordPress page builder plugin (web)
+Seodity,license,,Proprietary — paid subscription,$29/$129/$1290 per year plans; free trial available,Web,https://www.seodity.com/pricing/,live,Trial plan offered; otherwise paid annual plans
+Seodity,platforms,,Web,,,https://www.seodity.com/pricing/,live,Web-based SEO toolkit
+ShareThis,license,,Proprietary — free,Share/follow/reaction/image share buttons free to use per official site,Web,https://sharethis.com/vs-others/,live,Official site: share buttons free; no upgrade required
+ShareThis,platforms,,Web,,,https://sharethis.com/vs-others/,live,Web widgets for publisher sites
+SiteAnalyzer,license,,Proprietary — freemium,Free Version + one-time paid Pro license (no subscriptions),,https://site-analyzer.pro/,live,Desktop website crawler; official site offers free version and paid Pro license
+SiteSEO,license,,Proprietary — freemium,Free plugin + SiteSEO PRO $49/yr for unlimited sites,Web,https://siteseo.io/,live,Free download on official site; PRO paid
+SiteSEO,platforms,,Web,,,https://siteseo.io/,live,WordPress SEO plugin (web)
+SMTP2GO,license,,Proprietary — freemium,Free tier available + paid plans from $15/mo,Web,https://www.smtp2go.com/pricing/,live,Official pricing page: free tier available
+SMTP2GO,platforms,,Web,,,https://www.smtp2go.com/pricing/,live,Web-based email delivery service
+Spectra,license,,Open source,GPL-2.0-or-later,Web,https://plugins.svn.wordpress.org/ultimate-addons-for-gutenberg/trunk/readme.txt,live,Free core GPL-licensed (official readme: License GPLv2 or later); Spectra Pro is a paid commercial add-on (wpspectra.com)
+Spectra,platforms,,Web,,,https://wpspectra.com,live,WordPress plugin (Gutenberg blocks) by Brainstorm Force
+SureMail,license,,Open source,GPL-2.0-or-later,Web,https://plugins.svn.wordpress.org/suremails/trunk/readme.txt,live,Completely free SMTP/email-log plugin per wordpress.org listing; official readme: License GPLv2 or later; by Brainstorm Force
+SureMail,platforms,,Web,,,https://wordpress.org/plugins/suremails/,live,WordPress plugin (SMTP and email logs)
+Tealium,license,,Proprietary — paid subscription,,Web,https://www.tealium.com/pricing,live,Enterprise customer data platform (SaaS); pricing on request via sales; no free tier
+Tealium,platforms,,Web,,,https://www.tealium.com/,live,SaaS customer data platform (web-based)
+Uncanny Automator,license,,Open source,GPL-3.0,Web,https://plugins.svn.wordpress.org/uncanny-automator/trunk/readme.txt,live,Free core GPLv3 (official readme); Uncanny Automator Pro is a paid commercial add-on - freemium model (automatorplugin.com/pricing)
+Uncanny Automator,platforms,,Web,,,https://automatorplugin.com/pricing/,live,WordPress automation plugin
+WebCEO,license,,Proprietary — paid subscription,,Web,https://www.webceo.com/pricing.htm,live,Paid subscription plans (Solo/Startup/Corporate/Agency tiers); 14-day free trial offered
+WebCEO,platforms,,Web,,,https://www.webceo.com/,live,Web-based SEO software suite
+Woorank,license,,Proprietary — freemium,,Web,https://www.woorank.com/en/pricing,live,Free instant website review; paid subscription plans (Pro/Premium/Enterprise) with free trial
+Woorank,platforms,,Web,,,https://www.woorank.com/,live,Web-based SEO audit and reporting tool
+WPZOOM,license,,Proprietary — freemium,,Web,https://www.wpzoom.com/themes/inspiro/ai/,live,Free Lite themes (e.g. Inspiro Lite on wordpress.org); premium themes from $59/year
+WPZOOM,platforms,,Web,,,https://www.wpzoom.com/,live,WordPress theme shop (themes for WordPress sites)
+Zoominfo,license,,Proprietary — paid subscription,,Web,https://www.zoominfo.com/pricing,live,B2B sales-intelligence SaaS; annual subscription plans via sales quote; free trial offered
+Zoominfo,platforms,,Web,,,https://www.zoominfo.com/,live,SaaS go-to-market intelligence platform (web-based)
+Acoustic,license,,Proprietary — paid subscription,,Web,https://acoustic.com,live,"Enterprise marketing cloud (intent-driven marketing SaaS, formerly IBM Watson Marketing); pricing on request"
+Acoustic,platforms,,Web,,,https://acoustic.com,live,SaaS marketing platform (web-based)
+Airsonic Music Streamer,license,,Open source,GPL-3.0,Web,https://github.com/airsonic/airsonic,live,Self-hosted music streaming server (airsonic/airsonic); GitHub API and LICENSE.txt confirm GPL-3.0; project archived; official site airsonic.github.io
+Airsonic Music Streamer,platforms,,"Web, Windows, macOS, Linux",,,https://airsonic.github.io/,live,Java WAR web app (self-hosted); runs on any OS with Java/Tomcat/Docker
+Alsaplayer Common,license,,Open source,GPL-3.0 (GitHub API spdx_id),Linux,https://github.com/alsaplayer/alsaplayer,live,Catalog name refers to the AlsaPlayer project package
+Alsaplayer Common,platforms,,Linux,,,https://github.com/alsaplayer/alsaplayer,live,Desktop PCM audio player
+Amsynth,license,,Open source,GPL-2.0 (GitHub API spdx_id),Linux,https://github.com/amsynth/amsynth,live,README: free and open-source analog modelling synthesizer
+Amsynth,platforms,,Linux,,,https://github.com/amsynth/amsynth,live,Stand-alone via JACK/ALSA/OSS; LV2/VST2/DSSI plugins
+Aqloss,license,,Open source,GPL-3.0 (GitHub API spdx_id),"Windows, Linux, Android",https://github.com/nokarin-dev/aqloss,live,Rust audio engine music player
+Aqloss,platforms,,"Windows, Linux, Android",,,https://github.com/nokarin-dev/aqloss,live,README: Windows installer/portable; Linux .deb/.rpm/AppImage/tarball; Android APKs
+Audacious,license,,Open source,BSD-2-Clause (COPYING file text verified),"Linux, Windows",https://github.com/audacious-media-player/audacious,live,COPYING: BSD 2-clause text; bundled Paper icons CC-BY-SA-4.0; plugins under different licenses
+Audacious,platforms,,"Linux, Windows",,,https://github.com/audacious-media-player/audacious,live,Repo includes win32 build dir; Linux desktop player
+Audok,license,,Open source,GPL (version unspecified; no license file in repo),Linux,https://github.com/kalibari/audok,live,README: free software under the GPL license
+Audok,platforms,,Linux,,,https://github.com/kalibari/audok,live,README: simple linux music player; Flathub com.github.kalibari.audok
+Bambootracker,license,,Open source,GPL-2.0-or-later (README license section),"Windows, macOS, Linux",https://github.com/rerrahkr/BambooTracker,live,README badge: GPL-2.0 or later; see LICENSE and licenses/list.md
+Bambootracker,platforms,,"Windows, macOS, Linux",,,https://github.com/rerrahkr/BambooTracker,live,README packages section covers macOS/Linux/BSD; Windows builds
+Bespokesynth,license,,Open source,GPL-3.0 (GitHub API spdx_id),"Windows, macOS, Linux",https://github.com/BespokeSynth/BespokeSynth,live,Modular synthesizer
+Bespokesynth,platforms,,"Windows, macOS, Linux",,,https://github.com/BespokeSynth/BespokeSynth,live,README: builds for Mac/Windows/Linux
+Bloomee,license,,Open source,GPL-2.0 (GitHub API spdx_id),"Android, Windows, Linux",https://github.com/HemantKArya/BloomeeTunes,live,Project renamed BlooMee to BloomeeTunes
+Bloomee,platforms,,"Android, Windows, Linux",,,https://github.com/HemantKArya/BloomeeTunes,live,README platform badges: Windows Android Linux
+BPM Detect,license,,Open source,GPL-3.0 (GitHub API spdx_id),"Linux, Windows",https://github.com/Tatsh/bpmdetect,live,Automatic BPM detection utility
+BPM Detect,platforms,,"Linux, Windows",,,https://github.com/Tatsh/bpmdetect,live,Qt GUI; README notes Windows Media Feature Pack requirement; on Flathub
+Buzztrax,license,,Open source,LGPL-2.1,Linux,https://github.com/Buzztrax/buzztrax,live,Raw COPYING verified as LGPL-2.1 text; repo README states free software distributed under the LGPL; modular music composer for Linux
+Buzztrax,platforms,,Linux,,,https://github.com/Buzztrax/buzztrax,live,Repo description and topics: modular music composer for Linux
+Calaboka,license,,Proprietary — free,,Linux,https://snapcraft.io/calaboka,live,Snap Store API declares publisher license as Proprietary; free to install and donation-supported with no paid tier; Spotify ad-silencer utility by goodsoftworx
+Calaboka,platforms,,Linux,,,https://snapcraft.io/calaboka,live,Distributed as a snap package (Linux)
+Cantara,license,,Open source,GPL-3.0,"Windows, Linux",https://github.com/reckel-jm/cantara,live,GitHub API spdx_id GPL-3.0; open-source song presentation software written in Free Pascal/Lazarus
+Cantara,platforms,,"Windows, Linux",,,https://github.com/reckel-jm/cantara,live,Repo README lists Winget (Windows) plus AUR/Snap/Flatpak (Linux) distribution
+Chocola,license,,Open source,GPL-3.0,Android,https://github.com/sosauce/Chocola,live,GitHub API spdx_id GPL-3.0; repo copyright section states GPL v3; offline Android music player (formerly CuteMusic)
+Chocola,platforms,,Android,,,https://github.com/sosauce/Chocola,live,Android offline music player (Kotlin)
+Clementine,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/clementine-player/Clementine,live,Raw COPYING verified as GPL v3 text; repo relocated from ClementinePlayer/Clementine to clementine-player/Clementine
+Clementine,platforms,,"Windows, macOS, Linux",,,https://github.com/clementine-player/Clementine,live,Repo README: modern music player and library organizer for Windows Linux and macOS
+Cloudtunes,license,,Open source,BSD-3-Clause,Web,https://github.com/jkbrzt/cloudtunes,live,Raw LICENSE verified as BSD 3-clause text (Copyright 2012 Jakub Roztocil); GitHub API returned NOASSERTION
+Cloudtunes,platforms,,Web,,,https://github.com/jkbrzt/cloudtunes,live,Repo description: web-based music player for the cloud
+Cozy,license,,Open source,GPL-3.0,Linux,https://github.com/geigi/cozy,live,GitHub API spdx_id GPL-3.0; raw LICENSE verified as GPL v3 text; GNOME audiobook player
+Cozy,platforms,,Linux,,,https://github.com/geigi/cozy,live,GTK/GNOME app distributed via Flathub (Linux)
+Crosspipe,license,,Open source,GPL-3.0,Linux,https://github.com/dp0sk/Crosspipe,live,GitHub API spdx_id GPL-3.0; visual PipeWire graph manager built with GTK4/Libadwaita and Vala
+Crosspipe,platforms,,Linux,,,https://github.com/dp0sk/Crosspipe,live,Published on Flathub as io.github.dp0sk.Crosspipe (Linux)
