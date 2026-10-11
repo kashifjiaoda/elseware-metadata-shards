@@ -1,0 +1,80 @@
+Lcamera,license,,Open source,GPL-3.0-or-later,,https://github.com/PkmX/lcamera,live,"GPL grant text in README (v3 ""or (at your option) any later version""); no LICENSE file in repo"
+Lcamera,platforms,,Android,,,https://github.com/PkmX/lcamera,live,Android camera app; supports Nexus 5/6 on Android 5.0 Lollipop
+lemon-zest,license,,Open source,MIT,,https://github.com/Phqen1x/lemon-zest,live,Raw LICENSE = MIT License; README badge matches
+lemon-zest,platforms,,"Windows, Linux",,,https://github.com/Phqen1x/lemon-zest,live,"README Installation sections: Linux (Snap), Linux (From Source), Windows; no macOS"
+LeoCAD,license,,Open source,GPL-2.0-only,,https://github.com/leozide/leocad,live,docs/COPYING.txt = GPL v2 text; .spec and snapcraft declare GPL-2.0/GPLv2; no 'or later' grant found -> conservative GPL-2.0-only
+LeoCAD,platforms,,"Windows, Linux, macOS",,,https://www.leocad.org/,live,Official site: native versions for Windows Linux and macOS
+LibreCAD,license,,Open source,GPL-2.0-only,,https://github.com/LibreCAD/LibreCAD,live,Raw LICENSE: 'GNU General Public License version 2 (GPLv2)'; no 'or later' grant -> GPL-2.0-only
+LibreCAD,platforms,,"Windows, macOS, Linux",,,https://librecad.org/,live,Official site: free Open Source CAD for Windows Apple and Linux
+Lightgallery Desktop,platforms,,"macOS, Windows, Linux",,,https://github.com/sachinchoolur/lightgallery-desktop,live,README: electron image viewer for Mac Windows and Linux
+Linwood Butterfly Nightly,license,,Open source,AGPL-3.0-only,,https://github.com/LinwoodDev/butterfly,live,README: 'licensed under the AGPL-3.0 license'; raw LICENSE = AGPL v3 text; no 'or later' grant -> conservative AGPL-3.0-only
+Linwood Butterfly Nightly,platforms,,"Windows, Linux, macOS, Android, iOS, Web",,,https://docs.butterfly.linwood.dev/downloads,live,Official downloads page lists Windows Linux MacOS Android iOS Web
+Livestreamer,license,,Open source,BSD-2-Clause,,https://github.com/chrippa/livestreamer,live,Raw LICENSE = BSD 2-clause; GitHub API SPDX BSD-2-Clause; discontinued upstream (use streamlink)
+LLPlayer,license,,Open source,GPL-3.0-only,,https://github.com/umlx5h/LLPlayer,live,README: 'licensed under the GPL-3.0 license'; raw LICENSE = GPL v3 text; no 'or later' grant -> conservative GPL-3.0-only
+LLPlayer,platforms,,Windows,,,https://github.com/umlx5h/LLPlayer,live,WPF/.NET desktop app; README requirements: Windows 10/11 x64
+Lolcommits,license,,Open source,LGPL-3.0-only,,https://github.com/lolcommits/lolcommits,live,README: 'under the terms of LGPL-3'; raw LICENSE = LGPL v3 text; no 'or later' grant -> conservative LGPL-3.0-only
+Lolcommits,platforms,,"macOS, Linux",,,https://github.com/lolcommits/lolcommits,live,README documents install instructions for macOS and Linux
+LPub3D,license,,Open source,GPL-3.0-only,,https://github.com/trevorsandy/lpub3d,live,mainApp/license.gpl3: 'under the terms of GNU General Public License version 3'; no 'or later' grant -> GPL-3.0-only
+LPub3D,platforms,,"Windows, macOS, Linux",,,https://trevorsandy.github.io/lpub3d/,live,"Official site: runs on Linux distros, macOS and Windows"
+Lximage,license,,Open source,GPL-2.0-only,,https://github.com/lxqt/lximage-qt,live,GitHub detects GPL-2.0 (COPYING); no 'or later' grant verified in source headers - recorded conservative per convention; LXQt image viewer + screenshot tool
+Lximage,platforms,,Linux,,,https://github.com/lxqt/lximage-qt,live,Official binary packages in all major Linux distributions; screenshot tool is x11
+MA Photos,license,,Open source,Open source (listed on F-Droid; specific license not verified),,https://f-droid.org/categories/gallery/,live,F-Droid describes it as 'A basic photos app built with Material You'; third-party claims of GPL-3.0 not from whitelisted source
+MA Photos,platforms,,Android,,,https://f-droid.org/categories/gallery/,live,Listed in F-Droid (Android app repository)
+ManyPixels,license,,Proprietary — free,ManyPixels License: free for commercial/personal use without attribution; excludes redistributing in packs or building a competing service,,https://www.manypixels.co/gallery?114e1d2a_page=15,live,License text quoted from official manypixels.co; illustration library also paired with paid design services
+Marker,license,,Open source,GPL-3.0-only,,https://github.com/fabiocolacio/Marker,live,GitHub detects GPL-3.0 (LICENSE.md); no 'or later' grant verified in source headers - recorded conservative per convention; GTK+3 markdown editor by Fabio Colacio
+Marker,platforms,,Linux,,,https://github.com/fabiocolacio/Marker,live,"README: 'markdown editor for linux'; packages for Fedora, Flathub, Arch, Ubuntu, Snap"
+Materializr,license,,Open source,GPL-3.0-only,,https://github.com/zakhard/materializr,live,README states 'GNU GPLv3 - see LICENSE' (releases through 0.9.7.1 were MIT); no 'or later' grant verified - recorded conservative; fork of materializr-cad/materializr; OpenCASCADE kernel (LGPL) dependency
+Materializr,platforms,,"Linux, Windows, Android",,,https://github.com/zakhard/materializr,live,"Download table: Linux AppImage (x86_64/aarch64), Windows installer/portable, Android APK (arm64-v8a, tablets)"
+MediaConch,license,,Open source,BSD-2-Clause,,https://github.com/MediaArea/mediaconch_sourcecode,live,Self-audited: GitHub licensee detects BSD-2-Clause from LICENSE file and README 'Funding and Licensing' states all MediaArea-developed PREFORMA code is BSD-2-Clause; overrules older third-party GPL/MPL claims
+MediaConch,platforms,,"Windows, macOS, Linux",,,https://github.com/MediaArea/mediaconch_sourcecode,live,"README build instructions cover Mac, Linux and Windows (CLI/GUI); separate MediaConchOnline repo is the web shell"
+MediathekView,license,,Open source,GPL-3.0-only,,https://github.com/mediathekview/MediathekView,live,"GitHub detects GPL-3.0 (LICENSE.md); README 'Lizenz / License: GPL v3'; no 'or later' grant verified - recorded conservative (Arch packager claims GPL-3.0-or-later, overruled by raw text)"
+MediathekView,platforms,,"Windows, macOS, Linux",,,https://github.com/mediathekview/MediathekView,live,"README Installation: installers for Windows and Linux, DMG images for macOS (Intel + Apple Silicon); Java-based"
+Memerist,license,,Open source,GPL-3.0,,https://github.com/vani-tty1/memerist,live,GitHub license field GPL-3.0 and COPYING holds the GPL-3.0 text; AUR claims GPL-3.0-or-later but no or-later grant verified in raw sources; canonical repo vani-tty1/memerist per AUR upstream and LinuxLinks; same-name forks exist
+Memerist,platforms,,Linux,,,https://github.com/vani-tty1/memerist,live,GTK4/Libadwaita desktop meme editor; distributed via Flathub and Fedora Copr
+Microfeed,license,,Open source,AGPL-3.0,,https://github.com/linhaii/microfeed,live,GitHub license field AGPL-3.0; raw LICENSE is the AGPL-3.0 text; or-later grant not verified from source headers
+Microfeed,platforms,,Web,,,https://github.com/linhaii/microfeed,live,Self-hosted web app on Cloudflare Workers/Pages plus R2 and D1; admin dashboard with public web RSS and JSON feeds
+Mintstick,license,,Open source,GPL-2.0,,https://github.com/linuxmint/mintstick,live,README states Code: GPLv2; COPYING is the GPL v2 text; no or-later grant in checked source files
+Mintstick,platforms,,Linux,,,https://github.com/linuxmint/mintstick,live,Linux Mint USB image writer and stick formatter; GTK desktop utility
+Mixkit,license,,Proprietary — free,Free stock media under the Mixkit License,,https://mixkit.co/llm-info/,live,Envato-owned free stock video music SFX and templates library; no payment attribution or sign-up required per official info page
+Mixkit,platforms,,Web,,,https://mixkit.co/,live,Online stock media library
+Mobbin,license,,Proprietary — freemium,Free tier plus paid Pro Team and Enterprise subscriptions,,https://mobbin.com/pricing,live,Official pricing: Pro $10/mo billed yearly; Team $16/member/mo; Enterprise custom; free signup offered
+Mobbin,platforms,,Web,,,https://mobbin.com/,live,Web-based design-pattern library covering iOS and web apps
+Mockflow,license,,Proprietary — freemium,Free Basic plan plus paid Plus and Max subscriptions,,https://mockflow.com/pricing/,live,Official pricing: Basic $0 forever; Plus and Max paid; viewers free on all plans
+Mockflow,platforms,,"Web, Windows, macOS",,,https://mockflow.com/pricing/,live,Primarily a web app; official pricing page lists offline desktop app for Windows and macOS on Max plan
+Motion Eye,license,,Open source,GPL-3.0-or-later,,https://github.com/motioneye-project/motioneye,live,Raw source headers grant either version 3 of the License or (at your option) any later version; upstream org motioneye-project succeeds ccrisan/motioneye
+Motion Eye,platforms,,"Linux, Web",,,https://github.com/motioneye-project/motioneye,live,Web frontend for the motion daemon; server runs on Linux per POSIX classifier
+Mplayer GUI,license,,Open source,GPL-2.0-or-later,,http://mplayerhq.hu/design6/info.html,live,Official license page states GNU GPL version 2; official docs license header grants either version 2 or (at your option) any later version
+Mplayer GUI,platforms,,Linux,,,http://mplayerhq.hu/design6/info.html,live,GUI variant (gmplayer) of MPlayer; GTK+ X11 frontend for Unix-like systems per project docs
+Mtpaint,license,,Open source,GPL-3.0-or-later,,https://github.com/wjaguar/mtpaint,live,Upstream README grants either version 3 of the License or (at your option) any later version; GitHub license field GPL-3.0
+Mtpaint,platforms,,"Linux, Windows",,,https://github.com/wjaguar/mtpaint,live,Upstream README: runs well on GNU/Linux Windows and older PC hardware
+Namida,license,,Source-available,EULA (source-available; personal use only; no redistribution),,https://github.com/namidaco/namida,live,Raw LICENSE is a custom EULA explicitly stating source-available with proprietary components; GitHub license badge NOASSERTION; third-party open-source claims contradicted by EULA text
+Namida,platforms,,"Android, Windows, Linux (beta)",,,https://github.com/namidaco/namida,live,README install table: Android and Windows stable; Linux beta
+Nextcloud Yaga,license,,Open source,GPL-3.0-or-later,,https://github.com/vauvenal5/yaga-0.x,live,F-Droid lists GNU GPL v3.0 or later; raw LICENSE is GPL-3.0 text; repo renamed to yaga-0.x and unmaintained; new AGPL rewrite in progress at vauvenal5/yaga
+Nextcloud Yaga,platforms,,Android,,,https://f-droid.org/packages/com.github.vauvenal5.yaga/,live,Requires Android 7.0 or newer
+nGIF,license,,Open source,Apache-2.0,,https://github.com/novaappsinc/ngif,live,Raw LICENSE confirms Apache-2.0; photo/gif/webm viewer
+nGIF,platforms,,Linux,,,https://github.com/novaappsinc/ngif,live,README: distributed via Snap Store for Linux; GitHub releases
+NightLight light,license,,Open source,Apache-2.0,,https://f-droid.org/packages/com.corphish.nightlight.generic/,live,Identity: matched to [ROOT] Night Light (KCAL) com.corphish.nightlight.generic; F-Droid lists Apache-2.0
+NightLight light,platforms,,Android,,,https://f-droid.org/packages/com.corphish.nightlight.generic/,live,Requires Android 5.0 or newer; needs root and KCAL kernel
+Nokhwa,license,,Open source,Apache-2.0,,https://github.com/davedev42/nokhwa,live,Raw LICENSE confirms Apache-2.0; maintained fork of l1npengtul/nokhwa; Rust webcam-capture LIBRARY not end-user app — identity may need confirmation
+NouTube,license,,Open source,AGPL-3.0-only,,https://github.com/nonbili/NouTube,live,Raw LICENSE is AGPL-3.0 text; GitHub badge AGPL-3.0; no or-later evidence found
+NouTube,platforms,,"Android, iOS, Linux, macOS, Windows",,,https://github.com/nonbili/NouTube,live,README: Android and iOS app plus desktop builds for Linux/macOS/Windows; browser extension also offered
+OGEX,platforms,,"macOS, Windows, Linux, Raspberry Pi",,,https://github.com/ogex-app/ogex,live,Binary-release repo (redirects to kinematic-app/kinematic); no license statement found so license row omitted; node-based engine for interactive artists
+Olive,license,,Open source,GPL-3.0-only,,https://github.com/olive-editor/olive,live,Raw LICENSE is GPL-3.0 text; GitHub badge GPL-3.0; no or-later evidence found
+Olive,platforms,,"Windows, macOS, Linux",,,https://github.com/olive-editor/olive,live,"README: free non-linear video editor for Windows, macOS, and Linux; alpha software"
+Open 100x,license,,Open source,MIT,,https://github.com/Kenneth-Cho-InfoSec/Open100x,live,Raw LICENSE verified: MIT License Copyright (c) 2026 Kenneth Cho
+Open 100x,platforms,,Android,,,https://github.com/Kenneth-Cho-InfoSec/Open100x,live,Beta Android camera app; APK distributed via GitHub releases
+Open Doodles,platforms,,Web,,,https://www.opendoodles.com,live,Web-based illustration library and generator; no license statement on official site so license row omitted
+Open3d Viewer,license,,Open source,MIT,,https://github.com/isl-org/Open3D,live,Raw LICENSE verified: MIT License; SPDX-License-Identifier MIT
+Open3d Viewer,platforms,,Linux; macOS; Windows,,,https://github.com/isl-org/Open3D,live,Viewer app downloads for Debian/Ubuntu; macOS; Windows from GitHub releases
+Openorienteering Mapper,license,,Open source,GPL-3.0-only,,https://github.com/OpenOrienteering/mapper,live,README states GPL Version 3 with no or-later grant; conservative GPL-3.0-only
+Openorienteering Mapper,platforms,,Android; Windows; macOS; Linux,,,https://www.openorienteering.org/apps/mapper/,live,Official site states works on Android; Windows; macOS; Linux
+Openswitcher,license,,Open source,GPL-3.0-only,,https://openswitcher.org/,live,Raw LICENSE via GitHub mirror of sourcehut repo: gtk_switcher openswitcher_proxy and bmd_setup are GPL-3.0-only (pyatem library is LGPL-3.0-only)
+Openswitcher,platforms,,Linux; Windows,,,https://openswitcher.org/,live,Linux distro packages and Flatpak; experimental Windows builds. Note: multiple unrelated keyboard-layout switchers share this name; this row is the BMD ATEM control app from openswitcher.org
+openvino-ai-plugins-gimp,license,,Open source,Apache-2.0,,https://github.com/intel/openvino-ai-plugins-gimp,live,Raw LICENSE.md verified: Apache License Version 2.0
+openvino-ai-plugins-gimp,platforms,,Windows; Linux,,,https://github.com/intel/openvino-ai-plugins-gimp,live,GIMP AI plugin with Windows and Linux install steps in repo docs
+Oxi Cloud,license,,Open source,MIT,,https://github.com/lesgrandsvoisins/OxiCloud,live,Raw LICENSE verified: MIT License Copyright (c) 2025 OxiCloud Contributors
+Oxi Cloud,platforms,,Web,,,https://github.com/lesgrandsvoisins/OxiCloud,live,Self-hosted server app with web UI via Docker or single binary
+PageCloud,license,,Proprietary — paid subscription,Subscription,,https://www.pagecloud.com/getting-started,live,Official site states plans from $19/month; browser-based website builder
+PageCloud,platforms,,Web,,,https://www.pagecloud.com/getting-started,live,Browser-based website builder
+PaintCode,license,,Proprietary — paid subscription,Subscription - $199 per year,,https://www.paintcodeapp.com/news,live,Official site: PaintCode 3 for $199 per year; no longer on Mac App Store
+PaintCode,platforms,,macOS,,,https://www.paintcodeapp.com/news,live,macOS desktop app; generated code targets iOS; macOS; Android; Web
