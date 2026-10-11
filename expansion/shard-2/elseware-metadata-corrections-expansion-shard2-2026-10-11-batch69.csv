@@ -1,0 +1,69 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Eco Paste,license,,Open source,,,https://github.com/EcoPasteHub/EcoPaste,live,Apache License 2.0 (raw LICENSE text); cross-platform clipboard manager
+Eco Paste,platforms,,"Windows, macOS, Linux",,,https://github.com/EcoPasteHub/EcoPaste,live,Tauri desktop app; repo topics list windows macos linux
+Feishu CLI,license,,Open source,,,https://github.com/riba2534/feishu-cli,live,MIT License (GitHub API); CLI for Feishu open platform
+Feishu CLI,platforms,,"Windows, macOS, Linux",,,https://github.com/riba2534/feishu-cli/releases,live,Release assets include darwin-amd64/arm64 linux-amd64/arm64 windows-amd64
+Fluent Read,license,,Open source,,,https://github.com/FluentRead/FluentRead,live,GPL-3.0 (GitHub API); bilingual translation browser extension
+Fluent Read,platforms,,Web,,,https://github.com/FluentRead/FluentRead,live,Browser extension for Chrome Edge Firefox plus userscript
+Game Mode,license,,Open source,,,https://github.com/FeralInteractive/gamemode,live,BSD-3-Clause (LICENSE.txt header); catalog name is spaced variant of project name GameMode
+Game Mode,platforms,,Linux,,,https://github.com/FeralInteractive/gamemode,live,Daemon that optimises Linux system performance on demand
+"Guru VPN: Fast, Secure Proxy",license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.tapgen.guruvpn,live,Closed-source VPN app; Play listing shows In-app purchases marker
+"Guru VPN: Fast, Secure Proxy",platforms,,"Android, iOS",,,https://apps.apple.com/app/id1420374639,live,Android com.tapgen.guruvpn (store title variant Guru VPN: Fast & Secure VPN) + iOS exact-title id 1420374639 by TapGeneration LP
+Laydate,license,,Open source,,,https://github.com/layui/laydate,live,MIT License (GitHub API); layui date-picker component
+Laydate,platforms,,Web,,,https://github.com/layui/laydate,live,JavaScript web date-picker library
+Lunar Java,license,,Open source,,,https://github.com/6tail/lunar-java,live,MIT License (GitHub API); Java calendar library (license-only row)
+Monthweekmaterialcalendarview,license,,Open source,Apache-2.0,,https://github.com/idic779/monthweekmaterialcalendarview,live,GitHub API license field = Apache-2.0; Android calendar library (not a distributable app; license-only row)
+MyHonda-India,license,,Proprietary — free,,,https://apps.apple.com/in/app/myhonda-india/id6742017440,live,Closed-source Honda Motorcycle & Scooter India app; App Store IN exact-title match by HONDA MOTORCYCLE AND SCOOTER INDIA PRIVATE LIMITED; Free with no IAP features
+MyHonda-India,platforms,,iOS,,,https://apps.apple.com/in/app/myhonda-india/id6742017440,live,iOS (App Store id 6742017440); Play Store listing exists per launch coverage but package unverifiable from whitelisted sources this run
+Nio: internet fibra,license,,Proprietary — free,,,https://apps.apple.com/br/app/nio-internet-fibra/id6746278488,live,Closed-source Nio Internet ISP self-service app; App Store BR exact-title match; Grátis with no IAP features
+Nio: internet fibra,platforms,,iOS,,,https://apps.apple.com/br/app/nio-internet-fibra/id6746278488,live,iOS (App Store id 6746278488); Play details page unreachable from whitelisted sources this run
+Paper Todo,platforms,,Windows,,,https://github.com/snownico0722/PaperTodo,live,Windows x64 desktop sticky-note app (README platform badge); GitHub reports NOASSERTION so license row omitted per accuracy directive
+Planilhas Google,license,,Proprietary — free,,,https://apps.apple.com/br/app/planilhas-google/id842849113,live,Closed-source Google app; App Store BR exact catalog-name match by Google LLC; Grátis with no IAP features; Play details page lists no real IAP price marker (only the generic content descriptor)
+Planilhas Google,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets,live,Android (Play com.google.android.apps.docs.editors.sheets) + iOS (App Store id 842849113 localized as Planilhas Google)
+Quick Clipboard,license,,Open source,Apache-2.0,,https://github.com/mosheng1/QuickClipboard/blob/main/LICENSE,live,Raw LICENSE text is Apache License Version 2.0 (governs over API field)
+Quick Clipboard,platforms,,"Windows, Android",,,https://github.com/mosheng1/QuickClipboard,live,README: Windows 10/11 x64 + Android APK releases (Tauri 2 + Rust)
+Revezone,license,,Open source,AGPL-3.0,,https://github.com/revezone/revezone/blob/master/LICENSE,live,Raw LICENSE text is GNU AFFERO GENERAL PUBLIC LICENSE v3 (governs over API field)
+Revezone,platforms,,"Windows, macOS",,,https://github.com/revezone/revezone/releases,live,Desktop releases: setup.exe (Windows) + arm64.dmg (macOS); repo is local-first whiteboard/note tool
+Send Anywhere - File Transfer,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.estmob.android.sendanywhere,live,Closed-source file-transfer app; Play listing shows In-App Purchases + Contains ads markers
+Send Anywhere - File Transfer,platforms,,"Android, iOS",,,https://apps.apple.com/us/app/send-anywhere-file-transfer/id596642855,live,Android (Play com.estmob.android.sendanywhere) + iOS (App Store id 596642855 exact title by Rakuten Symphony Korea Inc.; Free no IAP)
+SIAPkerja Kemnaker,license,,Proprietary — free,,,https://apps.apple.com/app/id1638880309,live,Free on App Store by Kementerian Ketenagakerjaan; no IAP features; Android listing unconfirmed from whitelisted sources (Play Store blocked automated fetches)
+SIAPkerja Kemnaker,platforms,,iOS,,,https://apps.apple.com/app/id1638880309,live,iOS only confirmed from App Store; Android not verifiable
+Stable Diffusion Book,license,,Open source,GNU Free Documentation License 1.3,,https://raw.githubusercontent.com/sudoskys/StableDiffusionBook/main/LICENSE,authoritative,raw LICENSE text is GFDL-1.3 full text; documentation/book repo
+Stable Diffusion Book,platforms,,Web,,,https://github.com/sudoskys/StableDiffusionBook,live,online book rendered as web documentation
+Super Calendar,platforms,,Android,,,https://github.com/MagicMashRoom/SuperCalendar,live,Android calendar-widget library (deprecated); repo declares no license so no license row
+Tr Web OCR,license,,Open source,Apache License 2.0,,https://raw.githubusercontent.com/alisen39/TrWebOCR/master/LICENSE.txt,authoritative,raw LICENSE.txt is Apache-2.0 text (canonical alisen39/TrWebOCR repo)
+Tr Web OCR,platforms,,"Windows, macOS",,,https://github.com/alisen39/TrWebOCR,live,README states Windows and macOS via Docker image; Linux untested
+Vditor,license,,Open source,MIT License,,https://raw.githubusercontent.com/Vanessa219/vditor/master/LICENSE,authoritative,raw LICENSE is MIT text (canonical repo now under Vanessa219; owner renamed from Vanessa11480)
+Vditor,platforms,,Web,,,https://github.com/Vanessa219/vditor,live,browser-side Markdown editor
+WipeUp: Phone Storage Cleaner,license,,Proprietary — free,,,https://apps.apple.com/app/id6775716318,live,Free on App Store by Pal Patel; features list empty (no IAP); Android listing unconfirmed from whitelisted sources (Play Store blocked automated fetches)
+WipeUp: Phone Storage Cleaner,platforms,,iOS,,,https://apps.apple.com/app/id6775716318,live,iOS only confirmed from App Store; Android not verifiable
+Wx Calendar,license,,Open source,MIT License,,https://github.com/treadpit/wx_calendar,authoritative,GitHub API license field = MIT; WeChat mini-program calendar component (treadpit/wx_calendar)
+Zhihu Custom,platforms,,Web,,,https://github.com/liuyubing233/zhihu-custom,live,Tampermonkey userscript for zhihu.com; repo declares no license so no license row
+Always Fit: Vitaminas e Saúde,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=app.alwaysfit,live,Play app.alwaysfit exact title; price 0; no In-app purchases or Contains ads markers; App Store exact title Free by ALWAYS FIT SUPLEMENTOS ALIMENTICIOS LTDA
+Always Fit: Vitaminas e Saúde,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6746350169,live,Android (Play app.alwaysfit) + iOS (App Store exact title)
+App comercial Alibaba.com,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.alibaba.intl.android.apps.poseidon,live,Play com.alibaba.intl.android.apps.poseidon (same developer ALIBABA.COM GLOBAL SUPPLIER SERVICES); price 0; no In-app purchases or Contains ads markers
+App comercial Alibaba.com,platforms,,"Android, iOS",,,https://apps.apple.com/app/id503451073,live,Android (Play) + iOS (App Store BR exact title; 0.00 BRL)
+"Carousell: Snap-Sell, Chat-Buy",license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.thecarousell.Carousell,live,Play com.thecarousell.Carousell shows In-app purchases marker; App Store exact title Free by Carousell Pte. Ltd.
+"Carousell: Snap-Sell, Chat-Buy",platforms,,"Android, iOS",,,https://apps.apple.com/app/id548607187,live,Android (Play) + iOS (App Store exact title); Play title variant Carousell: Sell and Buy noted
+"Centauro: roupas, tênis, sport",license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=br.com.sbf.centauro,live,Play br.com.sbf.centauro (Grupo SBF SA); price 0; no In-app purchases or Contains ads markers
+"Centauro: roupas, tênis, sport",platforms,,"Android, iOS",,,https://apps.apple.com/app/id1005641646,live,Android (Play; store title variant Centauro: sporting goods) + iOS (App Store Centauro: loja de esportes by Grupo SBF SA; Free); catalog name is title variant
+Doorzo – Buy & Bid from Japan,license,,Proprietary — free,,,https://apps.apple.com/app/id1619037334,live,App Store exact title by SIG Service Inc.; $0.00; no in-app-purchase features
+Doorzo – Buy & Bid from Japan,platforms,,iOS,,,https://apps.apple.com/app/id1619037334,live,iOS only — no exact-name Android listing found on Play Store
+enjoei: compre e venda de tudo,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=br.com.enjoei.app,live,Play exact-title br.com.enjoei.app price 0 no In-app purchases markers
+enjoei: compre e venda de tudo,platforms,,"Android, iOS",,,https://apps.apple.com/app/id783409492,live,Android (Play) + iOS (App Store id 783409492 by ENJOEI.COM.BR ATIVIDADE DE INTERNET LTDA Free)
+Everyward: Earn Rewards,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.everyward.app,live,Play exact-title com.everyward.app price 0 no In-app purchases markers; page shows Contains ads
+Everyward: Earn Rewards,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.everyward.app,live,Android only — no exact-name iOS listing found
+Flash.co | AI-Powered Shopping,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.flashmonk.flash,live,Play exact-title com.flashmonk.flash price 0 no In-app purchases markers
+Flash.co | AI-Powered Shopping,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6444209029,live,Android (Play) + iOS (App Store id 6444209029 by FlashMonk Private Limited title variant Flash.co | AI Shopping App Free)
+"FNP: Gifts, Flowers, Cakes App",license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.Clairvoyant.FernsAndPetals,live,Play exact-title com.Clairvoyant.FernsAndPetals price 0 no In-app purchases markers
+"FNP: Gifts, Flowers, Cakes App",platforms,,"Android, iOS",,,https://apps.apple.com/app/id1231448529,live,Android (Play) + iOS (App Store id 1231448529 by Ferns N Petals Pvt. Ltd. exact title Free)
+Hepsiburada,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.pozitron.hepsiburada,live,Play com.pozitron.hepsiburada titled Hepsiburada: Online Shopping price 0 no In-app purchases markers
+Hepsiburada,platforms,,"Android, iOS",,,https://apps.apple.com/app/id481035064,live,Android (Play) + iOS (App Store id 481035064 exact title by Hepsiburada Free)
+Hopscotch - Kids Fashion Brand,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=in.hopscotch.android,live,Play exact-title in.hopscotch.android price 0 no In-app purchases markers
+Hopscotch - Kids Fashion Brand,platforms,,"Android, iOS",,,https://apps.apple.com/app/id945949424,live,Android (Play) + iOS (App Store id 945949424 by Hopscotch Free; store title variant Hopscotch – Kids Fashion Brand)
+INAAM,license,,Proprietary — free,,,https://apps.apple.com/app/id910822640,live,App Store id 910822640 exact title by AL Wafa International Management Office Free
+INAAM,platforms,,iOS,,,https://apps.apple.com/app/id910822640,live,iOS only — no exact-name Play Store listing found
+JioMart Online Shopping App,license,,Proprietary — free,,,https://apps.apple.com/app/id1522085683,live,App Store id 1522085683 exact title by JIO PLATFORMS LIMITED Free
+JioMart Online Shopping App,platforms,,iOS,,,https://apps.apple.com/app/id1522085683,live,iOS only — no exact-name Play Store listing from whitelisted sources
+Lenskart: Eyewear,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.lenskart.app,live,Play com.lenskart.app official Lenskart app price 0 no In-app purchases markers
+Lenskart: Eyewear,platforms,,"Android, iOS",,,https://apps.apple.com/app/id970343205,live,Android (Play title variant Lenskart : Eyeglasses & More) + iOS (App Store id 970343205 exact title by Lenskart Solutions Private Limited Free)
