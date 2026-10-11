@@ -267,18 +267,19 @@ STOP all expansion work immediately, do not push any more expansion batches.
 Your 15 pushed expansion batches are superseded and will be re-verified.
 Phase 1 stands as delivered (bad rows were rejected at ingest; see the lead).
 
-Shard 2 reassignment (2026-10-11): you take over Shard 4's FULL Phase-2 expansion
-assignment — 3,830 apps, worked fresh from scratch (Shard 4 verified only 164 of
-the first 750; do not trust his rows).
-- Your list: `expansion/shard-2/apps-shard4-reassignment.md` — 3,830 apps, one per
-  line (line 6 = app #1). Work it in order, 50 apps per batch = 77 batches.
-- Push to `expansion/shard-2/` with this filename pattern (the `-shard4-` infix
-  keeps these separate from your own batch 1–77):
-  `elseware-metadata-corrections-expansion-shard2-shard4-YYYY-MM-DD-batchM.csv`
-- Batch M = apps ((M−1)×50+1) through (M×50) of apps-shard4-reassignment.md.
+Shard 3 takeover (2026-10-12): you take over Shard 1's REMAINING expansion batches —
+batches 48, 49, 54, 55, 56, 61, 62, 63, 67, 68, 69, 70, 75, 76, 77 (15 batches,
+~750 apps). All other Shard 1 expansion batches (1-47, 50-53, 57-60, 64-66, 71-74)
+are already pushed — do NOT redo them.
+- Your list: `expansion/shard-1/apps.md` — same one-app-per-line format (line 6 =
+  app #1). Batch M = apps ((M−1)×50+1) through (M×50). Use FULL verbatim names.
+- Push to `expansion/shard-1/` as
+  `elseware-metadata-corrections-expansion-shard1-2026-10-12-batchM.csv`
+  (same pattern, keeps the sequence clean). Commit message:
+  `shard-1 expansion batch M (shard 3): <N> apps verified`.
 - Same schema, grounding rule, playbook, heartbeat, self-audit — everything in
   this README applies unchanged.
-- When finished, push `DONE-shard4-reassignment.txt` in `expansion/shard-2/`.
+- When batch 77 is done, push `DONE-phase2.txt` in `expansion/shard-1/`.
 
 ## Token safety
 
