@@ -1,0 +1,7 @@
+Shard 4 Phase-2 expansion BATCH 22 COMPLETE (Shard 2 takeover).
+Apps 1057-1106 of expansion apps.md; 5 verifier chunks; 78 CSV rows pushed:
+expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch22.csv (78 insertions).
+Apps verified: 45 of 50. Skipped with reason (5): SimpleLegal (pricing only on banned aggregators), Catppuccin icon theme + cursor-theme-catppuccin (ambiguous canonical upstream), Easy File Organizer (no exact-name match on whitelisted sources), App Center (retired 2026-03-31, no groundable pricing/platforms).
+Schema: 78 rows x 9 cols, 0 issues, valid badges, all live, platforms col empty, zero banned sources.
+Assembler self-audits: raw LICENSE text pulled for every risky GPL claim (zorin-desktop-themes GPL v2 no-or-later -> plain GPL-2.0; listness, elementary/icons, Qogir, Layan, TBog live-wallpaper-it all GPL v3 text confirmed; HisnElmoslem GPL-3.0-only per F-Droid + upstream repo muslimpack/HisnElmoslem_App).
+Next: batch 23 (apps.md lines 1107-1156).
