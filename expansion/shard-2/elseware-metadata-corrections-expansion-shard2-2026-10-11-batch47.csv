@@ -1,0 +1,73 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+FakeBlankScreen,license,,Open source,MIT,Android,https://github.com/TranslucentFoxHuman/FakeBlankScreen,live,GitHub API license SPDX MIT; Android app (gradle/fastlane project) showing black screen to save OLED power
+FakeBlankScreen,platforms,,Android,,,https://github.com/TranslucentFoxHuman/FakeBlankScreen,live,README: black-screen app for OLED devices with screen wake-lock; Android project layout
+Far2l,license,,Open source,GPL-2.0,,https://github.com/elfmz/far2l,live,GitHub API license SPDX GPL-2.0; Linux port of FAR Manager v2
+Far2l,platforms,,"Linux, macOS",,,https://github.com/elfmz/far2l,live,README: Linux fork of FAR Manager v2; also works on macOS and BSD
+Fast Draw,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/peterfajdiga.fastdraw/,live,F-Droid package peterfajdiga.fastdraw; source license GPL-3.0-only; simple Android launcher with categories
+Fast Draw,platforms,,Android,,,https://f-droid.org/en/packages/peterfajdiga.fastdraw/,live,F-Droid listing: Android launcher app
+Fcitx5,license,,Open source,LGPL-2.1-or-later,,https://github.com/fcitx/fcitx5,live,Repo LICENSES directory contains LGPL-2.1-or-later.txt; next-gen input method framework
+Fcitx5,platforms,,Linux,,,https://github.com/fcitx/fcitx5,live,Cross-platform input method framework; deployed as the Linux desktop input method
+Feh,license,,Open source,Permissive BSD-style license (COPYING),,https://github.com/derf/feh,live,Raw COPYING: permissive do-what-you-want grant with no-endorsement clause; fast and light image viewer
+Feh,platforms,,Linux,,,https://github.com/derf/feh,live,X11 image viewer for Unix-like systems
+Fff,license,,Open source,MIT,,https://github.com/dylanaraps/fff,live,GitHub API license SPDX MIT; simple file manager written in bash
+Fff,platforms,,Linux,,,https://github.com/dylanaraps/fff,live,Terminal file manager for Unix-like systems
+Fiddle,license,,Open source,MIT,,https://github.com/electron/fiddle,live,GitHub API license SPDX MIT; easiest way to get started with Electron
+Fiddle,platforms,,"Windows, macOS, Linux",,,https://github.com/electron/fiddle,live,"Latest release assets: win32 setup exe, darwin x64/arm64 zips, Linux rpm/deb/AppImage"
+File Centipede,license,,Source-available,Custom restrictive license (no OSI license),,https://github.com/filecxx/FileCentipede,live,Repo README: source code for demonstration purposes only; dependent libraries not open source; freeware with no ads
+File Centipede,platforms,,"Windows, Linux",,,http://filecxx.com/en_US/download.html,live,Official download page lists Windows x64 and Linux x64 builds
+File85Toolkit,license,,Open source,MIT License (© 2025 goofwear),,https://github.com/goofwear/File85Toolkit,live,raw LICENSE verified as MIT License text
+File85Toolkit,platforms,,Android,,,https://github.com/goofwear/File85Toolkit,live,README: Android utility app combining LZMA compression with Base85 encoding
+Filegator,license,,Open source,MIT,,https://github.com/filegator/filegator,live,GitHub API spdx_id MIT
+Filegator,platforms,,Web,,,https://filegator.io,live,self-hosted multi-user PHP file manager
+Filerobot Image Editor,license,,Open source,MIT,,https://github.com/scaleflex/filerobot-image-editor,live,GitHub API spdx_id MIT; JS image-editor library - license row only
+Filius,license,,Open source,GPL-2.0-or-later,,https://www.lernsoftware-filius.de/Herunterladen,live,official site: free under GNU General Public License (GPL) Version 2 or Version 3
+Filius,platforms,,Windows; Linux,,,https://www.lernsoftware-filius.de/Herunterladen,live,"official download page: Windows .exe installer, Ubuntu .deb, portable .zip"
+Finnish for AnySoftKeyboard,license,,Open source,Apache-2.0,,https://f-droid.org/en/packages/com.menny.anysoftkeyboard.finnish/index.html,live,F-Droid lists Apache License 2.0
+Finnish for AnySoftKeyboard,platforms,,Android,,,https://f-droid.org/en/packages/com.menny.anysoftkeyboard.finnish/index.html,live,F-Droid package com.menny.anysoftkeyboard.finnish; language-pack expansion for AnySoftKeyboard
+Firetools,license,,Open source,GPL-2.0,,https://github.com/netblue30/firetools,live,GitHub API spdx_id GPL-2.0; GUI front-end for Firejail
+Firetools,platforms,,Linux,,,https://github.com/netblue30/firetools,live,Firejail GUI - Linux sandbox tooling
+FiSSH,license,,Open source,MIT,,https://github.com/emtee40/fissh-app,live,LICENSE file verified as MIT License (© 2018 Ioan Moldovan); fork of the deprecated ioanmdev/fissh-app which declares no license
+FiSSH,platforms,,Android,,,https://github.com/emtee40/fissh-app,live,Java Android app part of the FiSSH fingerprint-over-network SSH authentication system
+Flame,license,,Open source,MIT,,https://github.com/pawelmalak/flame,live,GitHub API spdx_id MIT
+Flame,platforms,,Web,,,https://github.com/pawelmalak/flame,live,self-hosted server startpage for apps and bookmarks
+Flashlight Tiramisu,license,,Open source,Apache-2.0,,https://f-droid.org/en/packages/com.pdb82.flashlighttiramisu/,live,F-Droid package page lists Apache License 2.0
+Flashlight Tiramisu,platforms,,Android,,,https://f-droid.org/en/packages/com.pdb82.flashlighttiramisu/,live,F-Droid com.pdb82.flashlighttiramisu; Android 13+ flashlight brightness control
+Flemozi,license,,Open source,GPL-3.0,,https://github.com/KRTirtho/flemozi,live,"Advanced emoji picker for Linux, Windows and macOS (KRTirtho/flemozi)"
+Flemozi,platforms,,"Windows, macOS, Linux",,,https://github.com/KRTirtho/flemozi,live,"GitHub description: Linux, Windows, macOS; README mentions Linux builds"
+Flicky,license,,Open source,GPL-3.0,,https://github.com/mlm-games/flicky,live,Unofficial F-Droid client (Android/TV UI); LICENSE is GPLv3 text (mlm-games/flicky)
+Flicky,platforms,,Android,,,https://f-droid.org/en/packages/app.flicky/,live,"F-Droid app.flicky; Kotlin app, min SDK 23, TV-optimized UI"
+Flood,license,,Open source,GPL-3.0,,https://github.com/jesec/flood,live,Modern web UI for torrent clients with Node.js backend (jesec/flood)
+Flood,platforms,,Web,,,https://github.com/jesec/flood,live,"Self-hosted web UI (Node.js backend + React frontend), accessed via browser"
+Flying Carpet,license,,Open source,GPL-3.0,,https://github.com/spieglt/FlyingCarpet,live,Cross-platform AirDrop file transfer (spieglt/FlyingCarpet)
+Flying Carpet,platforms,,"Android, iOS, Linux, macOS, Windows",,,https://github.com/spieglt/FlyingCarpet,live,"Repo description: file transfer between Android, iOS, Linux, macOS, and Windows"
+Fokus Launcher,license,,Open source,GPL-3.0,,https://github.com/luantak/FokusLauncher,live,Text-based Android launcher with powerful features (luantak/FokusLauncher)
+Fokus Launcher,platforms,,Android,,,https://github.com/luantak/FokusLauncher,live,Android launcher (repo description: text based Android Launcher)
+Forecastie,license,,Open source,GPL-3.0-or-later,,https://github.com/martykan/forecastie,live,"README: GPL v3, or (at your option) any later version (martykan/forecastie)"
+Forecastie,platforms,,Android,,,https://f-droid.org/en/packages/cz.martykan.forecastie/,live,F-Droid cz.martykan.forecastie; simple weather app using OpenWeatherMap
+Formeo,license,,Open source,MIT,,https://github.com/Draggable/formeo,live,GitHub API SPDX MIT on Draggable/formeo; JS drag & drop form-builder library — no end-user platforms
+Fossify File Manager,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/org.fossify.filemanager/,live,F-Droid lists GNU GPL v3.0 only for FossifyOrg/File-Manager
+Fossify File Manager,platforms,,Android,,,https://f-droid.org/en/packages/org.fossify.filemanager/,live,F-Droid package is an Android file manager app
+FoxAppMemo,license,,Open source,MIT,,https://github.com/soraiyu/foxappmemo,live,GitHub API SPDX MIT on soraiyu/foxappmemo
+FoxAppMemo,platforms,,Android,,,https://github.com/soraiyu/foxappmemo,live,README: fully offline Android app for tracking/rating installed apps
+France Identité,license,,Proprietary — free,,,https://apps.apple.com/fr/app/france-identit%C3%A9/id1590142959?uo=4,live,"App Store listing by Gouvernement Francais,  Free; official French government digital-identity app,  closed source"
+France Identité,platforms,,iOS,,,https://apps.apple.com/fr/app/france-identit%C3%A9/id1590142959?uo=4,live,App Store listing is the iOS app
+FreezeYou!,license,,Open source,Apache-2.0,,https://f-droid.org/en/packages/cf.playhi.freezeyou/,live,F-Droid lists Apache License 2.0 (matches GitHub FreezeYou/FreezeYou SPDX)
+FreezeYou!,platforms,,Android,,,https://f-droid.org/en/packages/cf.playhi.freezeyou/,live,F-Droid package cf.playhi.freezeyou; app-freezing tool for Android
+Fsearch,license,,Open source,GPL-2.0,,https://github.com/cboxdoerfer/fsearch,live,GitHub API SPDX GPL-2.0 on cboxdoerfer/fsearch
+Fsearch,platforms,,Linux,,,https://github.com/cboxdoerfer/fsearch,live,README: fast file search utility for Unix-like systems (GTK3); distribution via Arch AUR etc.
+FTPClient,license,,Open source,MIT,,https://f-droid.org/en/packages/de.qwerty287.ftpclient/,live,F-Droid exact-name match lists MIT License
+FTPClient,platforms,,Android,,,https://f-droid.org/en/packages/de.qwerty287.ftpclient/,live,F-Droid package de.qwerty287.ftpclient is an Android FTP client
+Furtherance,license,,Open source,GPL-3.0,,https://github.com/unobserved-io/Furtherance,live,"time-tracking app, GitHub API SPDX GPL-3.0"
+Furtherance,platforms,,"Windows, macOS, Linux",,,https://github.com/unobserved-io/Furtherance,live,"README: cross-platform, Linux Mac and Windows; iOS/Android coming soon not yet released"
+Fwknop2,license,,Open source,GPL-2.0,,https://github.com/mrash/fwknop,live,catalog Fwknop2 = fwknop 2.x single packet authorization; COPYING is GPL v2; license row only (CLI server/client tool)
+Galternatives,license,,Open source,GPL-1.0-or-later,,https://salsa.debian.org/chinese-team/galternatives,live,Debian alternatives-system GUI; debian/copyright lists GPL-1.0-or-later
+Galternatives,platforms,,Linux,,,https://salsa.debian.org/chinese-team/galternatives,live,Debian/Ubuntu GUI for update-alternatives
+Gammaray,license,,Open source,GPL-2.0-or-later,,https://github.com/KDAB/GammaRay,live,Qt introspection tool; repo License file: GPL version 2 or any later version at your option; license row only (developer tool)
+Ganyremote,license,,Open source,GPL-3.0-or-later,,https://packages.debian.org/sid/ganyremote,live,GNOME Bluetooth remote frontend for anyRemote; Debian package copyright lists GPL-3+
+Ganyremote,platforms,,Linux,,,https://packages.debian.org/sid/ganyremote,live,GNOME desktop remote-control frontend
+Gauge,license,,Open source,Apache-2.0,,https://github.com/getgauge/gauge,live,cross-platform test automation CLI; license row only (CLI tool)
+Gcolor3,license,,Open source,GPL-2.0,,https://github.com/Hjdskes/gcolor3,live,GTK3 color chooser app; GitHub API SPDX GPL-2.0
+Gcolor3,platforms,,Linux,,,https://github.com/Hjdskes/gcolor3,live,GTK3 desktop app distributed via Flathub
+Ge Browser - Safe & Smart,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.web.tools.ge.browser,live,closed-source browser by Av sign international; free download
+Ge Browser - Safe & Smart,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.web.tools.ge.browser,live,Google Play listing confirmed
+Geo Recon,license,,Open source,GPL-3.0,,https://github.com/radioactivetobi/geo-recon,live,OSINT CLI tool for IP reputation and geo-location lookup; license row only (CLI tool)
