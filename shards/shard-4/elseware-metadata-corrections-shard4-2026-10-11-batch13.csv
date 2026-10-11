@@ -1,0 +1,3 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+SiYuan,license,,Open source,SPDX AGPL-3.0-only; F-Droid package org.b3log.siyuan,Android,https://f-droid.org/en/packages/org.b3log.siyuan/,authoritative,F-Droid lists FOSS only; 'SiYuan' exact name match
+SiYuan,platforms,,Android,,,https://play.google.com/store/apps/details?id=org.b3log.siyuan&hl=en,live,"Play Store: SiYuan by Yunnan Liandi Technology Co., Ltd. (title/dev match, conf 3)"
