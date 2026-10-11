@@ -12,6 +12,28 @@ impossible by construction. The team lead (Pepper, Shard 1) pulls this repo ever
 2 hours, validates every CSV, merges into the consolidated master, and runs
 independent audit spot-checks.
 
+## TASK BOARD — how you get new work (read this on every pull)
+
+This repo is task-driven. New work appears here and in your shard folder — nowhere else.
+
+**How to watch for new tasks:**
+1. `git pull` at the start of every work session, and at least once every 2 hours.
+2. Read this TASK BOARD section first. If your phase or assignment changed, it changed here.
+3. Check your shard folder (`shards/shard-N/` or `expansion/shard-N/`) for new app lists.
+4. Work ONLY what the task board marks ACTIVE. Anything marked STANDBY is not your work yet — starting it early creates rework.
+
+**Current task board (updated by the team lead):**
+
+| Phase | Status | Your action |
+|---|---|---|
+| Phase 1 — Tier-4 verification (5,144 apps, `shards/shard-N/`) | ACTIVE | Work your `apps.md` in order, batch by batch. |
+| Phase 2 — Expansion verification (15,323 apps, `expansion/shard-N/`) | STANDBY | Do NOT start. Lists are ready; the team lead flips this to ACTIVE here when Phase 1 is done and the list is approved. |
+
+**How to complete a task:** work your app list in order → verify per the playbook
+below → write the batch CSV → push → the team lead audits and merges. When you push
+your last batch of a phase, also push a `DONE-phaseN.txt` in your folder, then check
+this task board for what's next.
+
 ## Step 0 — Know who you are
 
 - Your shard number **N** (1–4, given by the coordinator).
@@ -110,12 +132,66 @@ is honest; a guessed row is corruption. Skipped apps stay on the list for review
 `Proprietary — free for personal use` · `Proprietary — freemium` ·
 `Proprietary — paid` · `Proprietary — paid subscription`
 
+### The verification procedure (speed without breakage)
+
+**Structure:** split every 50-app batch across 5 parallel verifiers, 10 apps each.
+Serial verification is too slow — this is non-negotiable.
+
+**Per app, 2–4 fetches maximum:**
+- License: ONE fetch — the repo LICENSE file (open-source claim) or the official
+  pricing page (everything else). Read the plan table + FAQ, never the CTA banner.
+  Mobile app → App Store / Play Store listing (Free/Paid, IAP shown).
+- Platforms: ONE or TWO fetches — official download page (best), or the store
+  listings (App Store = iOS only, Play Store = Android only; claiming both needs both URLs).
+- Identity: confirm the publisher / repo owner matches the app BEFORE verifying.
+
+**3-minute rule:** if an app isn't verifiable in ~3 minutes, SKIP it with a reason
+and move on. Never fight a bot-blocked site for 10 minutes. A correct skip beats a
+slow guess.
+
+**Grounded sources — check these, in this order:**
+
+LICENSE:
+1. Claims open source → the repo's LICENSE/COPYING file
+   (raw.githubusercontent.com). License API as backup. Marketing pages never count.
+2. Everything else → official pricing page (plan table + FAQ). Mobile → App Store /
+   Play Store listing (Free/Paid, IAP shown).
+3. Possibly dead → official shutdown post, archived-repo notice, or parked domain.
+   Quote the evidence in notes.
+
+PLATFORMS:
+1. Official download page (lists everything at once).
+2. App Store listing = iOS only. Play Store listing = Android only. Both claimed → both URLs.
+3. Official help center ("we have no mobile app" is a valid source).
+
+IDENTITY (do this first):
+1. Store publisher name / repo owner must match the app.
+2. Official domain must not redirect to something else (rebrand) or park (dead).
+
+NEVER: aggregator download sites (soft112, uptodown, filehippo, softonic and
+similar), reviews as your primary source, Wikipedia alone, or your training memory.
+
+**Self-audit before every push:** exact 9-column schema, every row has a
+`source_url`, no duplicate `(app_name, field)`, badges from the taxonomy only —
+and re-check EVERY Open source / Source-available claim against the primary
+source. One bad row = warning; a pattern of bad rows = escalation.
+
 ### Known traps (real mistakes this pipeline has caught)
 
 - Stacer → GPL-3.0 (not MIT) · Audacity → GPL-3.0 · Inkscape → GPL-2.0-or-later
 - Bitwarden server → AGPL-3.0 · Element (web/mobile) → AGPL-3.0
 - Waze → proprietary/free (not open source; only components were opened)
 - "Open core" products: badge the main product, note the split in `license_detail`
+- Crypto-trap class: MetaMask → Source-available (ConsenSys proprietary license),
+  Trezor Suite → Source-available (reference-source license), Uniswap/SushiSwap →
+  Source-available (BSL-1.1). "Everyone knows it's open source" is wrong until the
+  LICENSE file says so. New license variants appear — read what it actually says.
+- Relicenses cut both ways: Morpho BUSL→GPL-2.0 (now open) · Braiins OS →
+  proprietary dev-fee terms (no longer open; canonical repo deleted)
+- Domain hijacks: verify the domain serves the real product (hop.exchange now serves
+  a gambling site; parked domains redirect to /lander)
+- Stale store text: App Store "open source" labels can predate a license change —
+  verify against the repo's current LICENSE
 
 ## CSV schema (exact — rows that break this are rejected)
 
@@ -154,6 +230,30 @@ The team lead pulls every 2 hours, validates schema and sources, dedupes on
 `(app_name, field)`, merges into the consolidated master, and re-verifies ~5% of
 rows as an audit sample. Bad rows are rejected and reported back to the shard.
 Commit history is the attendance log.
+
+## Phase 2 — Expansion (15,323 apps) — STANDBY
+
+**Status: STANDBY — do not start.** The app lists are ready but the list is awaiting
+final owner approval. The team lead flips the task board above to ACTIVE when Phase 1
+is done and the list is approved. Starting early creates rework — wait for the GO.
+
+When ACTIVE, the rules:
+
+- Your list: `expansion/shard-N/apps.md` — ~3,831 apps per shard (Shard 4: 3,830),
+  balanced across tiers and categories. Ten apps per line.
+- Your folder: `expansion/shard-N/` — push ONLY here. Never mix expansion files
+  into `shards/shard-N/`.
+- Batch numbering RESTARTS at 1:
+  `expansion/shard-N/elseware-metadata-corrections-expansion-shardN-YYYY-MM-DD-batchM.csv`
+- Batch M = lines 4+((M−1)×5) through 8+((M−1)×5) of your apps.md (5 lines = 50 apps).
+- Same schema, same grounding rule, same playbook, same heartbeat, same self-audit —
+  everything in this README applies unchanged.
+- Tier guidance: P0 = highest demand, verify first and fastest; P1 = regional apps,
+  same rigor; P3 = developer tools, same rigor.
+- At ~50 apps/batch this is ~77 batches per shard.
+
+Shard 4 note: your expansion assignment is conditional — it activates only after you
+clear the Phase-1 quality probation (3 clean batches under deep audit).
 
 ## Token safety
 
