@@ -1,0 +1,83 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Democracy Droid,license,,Open source,GPL-3.0,Android,https://api.github.com/repos/fenimore/DemocracyDroid/license,live,GitHub API spdx_id GPL-3.0
+Democracy Droid,platforms,,Android,,,https://f-droid.org/en/packages/com.workingagenda.democracydroid/,live,F-Droid listing
+Dialect,license,,Open source,GPL-3.0,,https://api.github.com/repos/dialect-app/dialect/license,live,GitHub API spdx_id GPL-3.0
+Dialect,platforms,,Linux,,,https://github.com/dialect-app/dialect,live,GNOME desktop app
+Dictionaryreader.app,license,,Open source,MIT,,https://api.github.com/repos/etoile/DictionaryReader/contents/COPYING,live,COPYING file is full MIT license text (wiki claim of GPL2 contradicted by primary source)
+Dictionaryreader.app,platforms,,Linux,,,https://github.com/etoile/DictionaryReader,live,GNUstep app
+Ding,license,,Open source,GPL,,https://www-user.tu-chemnitz.de/~fri/ding/,live,Official site: Open Source Software GNU General Public License
+Ding,platforms,,Linux,,,https://www-user.tu-chemnitz.de/~fri/ding/,live,X11/Linux Unix dictionary lookup program
+DOI to SciHub,license,,Open source,GPL-3.0-only,Android,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/com.sigmarelax.doitoscihub.yml,live,F-Droid metadata License GPL-3.0-only
+DOI to SciHub,platforms,,Android,,,https://f-droid.org/en/packages/com.sigmarelax.doitoscihub/,live,F-Droid listing
+drutai,license,,Open source,GPL-3.0,,https://api.github.com/repos/2003100127/drutai/license,live,GitHub API spdx_id GPL-3.0 (deep learning drug-interaction framework); platforms skipped - research framework no documented platform list
+Easy Xkcd,license,,Open source,Apache-2.0,Android,https://api.github.com/repos/tom-anders/Easy_xkcd/license,live,GitHub API spdx_id Apache-2.0
+Easy Xkcd,platforms,,Android,,,https://f-droid.org/en/packages/de.tap.easy_xkcd/,live,F-Droid listing
+EdgePowerMeter,license,,Open source,Apache-2.0,,https://api.github.com/repos/DanielRossi1/EdgePowerMeter/license,live,GitHub API spdx_id Apache-2.0; platforms skipped - ESP32 embedded firmware no standard platform
+EhViewer NekoInverter,license,,Open source,GPL-3.0,Android,https://api.github.com/repos/EhViewer-NekoInverter/EhViewer/license,live,GitHub API spdx_id GPL-3.0
+EhViewer NekoInverter,platforms,,Android,,,https://f-droid.org/en/packages/org.moedog.ehviewer.cc/,live,F-Droid listing
+Elfeed Mobile,license,,Open source,Apache License 2.0,Android,https://github.com/areina/elfeed-cljsrn,live,Mobile client for Elfeed (Emacs RSS reader); Apache-2.0 per F-Droid listing
+Elfeed Mobile,platforms,,Android,,,https://f-droid.org/ar/packages/com.elfeedcljsrn/,live,F-Droid listing (com.elfeedcljsrn); Android 5.0+
+Enter TeX,license,,Open source,GNU General Public License v3.0 or later (GPL-3.0-or-later),Linux,https://packages.debian.org/sid/enter-tex,live,GNOME LaTeX editor (renamed from gnome-latex); Debian main (DFSG-free)
+Enter TeX,platforms,,Linux,,,https://packages.debian.org/sid/enter-tex,live,Debian package; GNOME desktop application
+Equate,license,,Open source,GNU General Public License v3.0 (GPL-3.0),Android,https://api.github.com/repos/EvanRespaut/Equate/license,live,"LICENSE text verified (GNU GPL Version 3, 29 June 2007)"
+Equate,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.llamacorp.equate&hl=en-gb&gl=is,live,Play Store listing; ad-free unit-converting calculator
+Eudic,license,,Proprietary — freemium,,"PC, Mac, iOS, Android, Linux",https://www.eudic.net/,live,Official site; developer Shanghai QianYan Network; VIP and AI quotas indicate paid tiers
+Eudic,platforms,,"PC, Mac, iOS, Android, Linux",,,https://www.eudic.net/,live,Official site lists PC/Mac/iOS/Android/Linux clients plus browser extensions
+Expeyes Doc Common,license,,Open source,GNU General Public License v3.0 (GPL-3.0),Linux,https://packages.debian.org/km/sid/expeyes-doc-common,live,Debian main package (DFSG-free); documentation for expEYES (PHOENIX project FOSS)
+Expeyes Doc Common,platforms,,Linux,,,https://packages.debian.org/km/sid/expeyes-doc-common,live,Debian package (all architectures); Linux
+Eyes17,license,,Open source,GNU General Public License v3.0 (GPL-3.0),Linux,https://launchpad.net/ubuntu/bionic/+package/eyes17,live,Ubuntu package for ExpEYES-17 science-experiment interfaces (PHOENIX project); Ubuntu main
+Eyes17,platforms,,Linux,,,https://launchpad.net/ubuntu/bionic/+package/eyes17,live,Ubuntu binary package (amd64/arm64/armhf/i386/ppc64el/s390x)
+FastiQuran - Quran App,license,,Open source,GNU General Public License v3.0 (GPL-3.0),"Android, Windows, macOS, Linux, iOS",https://github.com/flagodna-developer/fastiquran,live,"Repo license badge GPLv3; free, ad-free, no tracking"
+FastiQuran - Quran App,platforms,,"Android, Windows, macOS, Linux, iOS",,,https://github.com/flagodna-developer/fastiquran,live,"Download docs: Android (Play), Windows, macOS, Linux, iOS"
+Field Survey,license,,Open source,GNU General Public License v3.0 only (GPL-3.0-only),Android,https://search.f-droid.org/?q=Field+Survey,live,F-Droid listing states GPL-3.0-only
+Field Survey,platforms,,Android,,,https://search.f-droid.org/?q=Field+Survey,live,F-Droid Android app; field logbook / survey builder
+Fityk,license,,Open source,GNU General Public License v2.0 (GPL-2.0),"Windows, macOS, Linux",https://github.com/wojdyr/fityk,live,Repo license GPL-2.0; official site states open source (GPLv2+)
+Fityk,platforms,,"Windows, macOS, Linux",,,https://github.com/wojdyr/fityk,live,"Desktop app; Windows (Inno Setup), Linux (.desktop), macOS per repo CI"
+FloFla Cards,license,,Open source,GPL-3.0,,https://github.com/flofladev/floflacards,live,GitHub API spdx_id GPL-3.0
+FloFla Cards,platforms,,Android,,,https://github.com/flofladev/floflacards,live,F-Droid com.floflacards.app; GitHub releases APK
+Foliate,license,,Open source,GPL-3.0,,https://github.com/johnfactotum/foliate,live,GitHub API spdx_id GPL-3.0
+Foliate,platforms,,Linux,,,https://github.com/johnfactotum/foliate,live,GNOME GTK ebook reader
+Fractals by Girino FOSS,license,,Source-available,Girino Anarchist License (GAL),,https://github.com/girino/android-mandelbrot-set,live,README: GAL-only; earlier F-Droid releases were dual BSD-2-Clause — relicense catch
+Fractals by Girino FOSS,platforms,,Android,,,https://github.com/girino/android-mandelbrot-set,live,App ID org.girino.frac.android.foss; GitHub Releases APK + Zapstore
+FreeTheBugs,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/com.game.freethebugs/,live,F-Droid listing license field
+FreeTheBugs,platforms,,Android,,,https://f-droid.org/en/packages/com.game.freethebugs/,live,F-Droid Android 7.0+
+Fun With Kanji,license,,Open source,MPL-2.0,,https://github.com/xatiko540/fun-with-kanji,live,README states open source under Mozilla Public License 2.0
+Fun With Kanji,platforms,,Android,,,https://github.com/xatiko540/fun-with-kanji,live,F-Droid krillefear.funwithkanji + Play Store badges in README
+Futon,license,,Open source,GPL-3.0,,https://github.com/AppFuton/Futon,live,GitHub API spdx_id GPL-3.0
+Futon,platforms,,Android,,,https://github.com/AppFuton/Futon,live,F-Droid io.github.landwarderer.futon; Kotatsu fork manga reader
+Galnet Dictionary,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/gal.sli.digalnet/,live,F-Droid listing license field
+Galnet Dictionary,platforms,,Android,,,https://f-droid.org/en/packages/gal.sli.digalnet/,live,F-Droid Android 4.1+
+Gao&Blaze,license,,Open source,AGPL-3.0-only,,https://f-droid.org/packages/com.fr.laboussole.track/,live,F-Droid listing: GNU Affero General Public License v3.0 only
+Gao&Blaze,platforms,,Android,,,https://f-droid.org/packages/com.fr.laboussole.track/,live,F-Droid Android 8.0+
+gcompris,license,,Open source,AGPL-3.0-only,,https://github.com/akefeli/gcompris,live,README licence: free software under AGPL v3 (Wikipedia cross-check AGPL-3.0-only since 1.1) — relicense catch vs older GPL
+gcompris,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/akefeli/gcompris,live,Wikipedia infobox: Android BSD Linux macOS Windows
+Gerberoid,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/en/packages/se.pp.mc.android.Gerberoid/,live,F-Droid lists GNU General Public License v3.0 or later
+Gerberoid,platforms,,Android,,,https://f-droid.org/en/packages/se.pp.mc.android.Gerberoid/,live,F-Droid Android listing
+Geological Time Scale,license,,Open source,GPL-3.0-or-later,Android,http://f-droid.org/packages/org.tengel.timescale/,live,F-Droid lists GNU General Public License v3.0 or later
+Geological Time Scale,platforms,,Android,,,http://f-droid.org/packages/org.tengel.timescale/,live,F-Droid Android listing
+Glosdalen,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/packages/com.glosdalen.app/,live,F-Droid listing; GitHub README states GPL-3.0-or-later
+Glosdalen,platforms,,Android,,,https://f-droid.org/packages/com.glosdalen.app/,live,F-Droid Android listing
+gnss-sdr-next,license,,Open source,GPL-3.0-or-later,Linux,https://snapcraft.io/install/gnss-sdr-next/opensuse,live,Snap/MacPorts packaging of GNSS-SDR next branch; upstream GNSS-SDR is GPL-3.0-or-later
+gnss-sdr-next,platforms,,Linux,,,https://snapcraft.io/install/gnss-sdr-next/opensuse,live,Snap package for Linux
+Gods Eye View,license,,Open source,MIT,Web,https://github.com/bilawalsidhu/gods-eye-view,live,LICENSE file verified MIT via GitHub license API
+Gods Eye View,platforms,,Web,,,https://github.com/bilawalsidhu/gods-eye-view,live,Browser-based app
+Google Übersetzer,license,,Proprietary — free,,Android,https://play.google.com/store/apps/details/Google_Translate?id=com.google.android.apps.translate&hl=en_IE,live,Google Translate by Google LLC on Play Store; free
+Google Übersetzer,platforms,,Android,,,https://play.google.com/store/apps/details/Google_Translate?id=com.google.android.apps.translate&hl=en_IE,live,Play Store Android listing
+Gperiodic,license,,Open source,GPL-2.0-or-later,Linux,https://github.com/zploskey/gperiodic,live,Repo ships gpl.txt; Arch AUR package metadata lists GPL-2.0-or-later
+Gperiodic,platforms,,Linux,,,https://github.com/zploskey/gperiodic,live,GTK desktop periodic table app for Linux
+Grimmory,license,,Open source,AGPL-3.0,,https://github.com/grimmory-tools/grimmory,live,GitHub API spdx AGPL-3.0; self-hosted digital library
+Grimmory,platforms,,Web (self-hosted),,,https://github.com/grimmory-tools/grimmory,live,Browser-based UI; Docker/self-hosted
+Gummi,license,,Open source,MIT License,,https://github.com/alexandervdm/gummi,live,GitHub API spdx MIT
+Gummi,platforms,,Linux,,,https://github.com/alexandervdm/gummi,live,GTK LaTeX editor; Debian/Ubuntu repos
+HabsGleich,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/ja/packages/de.codecivil.habsgleich/,live,F-Droid license listing
+HabsGleich,platforms,,Android,,,https://f-droid.org/ja/packages/de.codecivil.habsgleich/,live,F-Droid Android
+HAMtrainer,license,,Open source,Apache-2.0,,https://f-droid.org/en/packages/com.practicalapps.hamtrainer/,live,F-Droid license listing
+HAMtrainer,platforms,,Android,,,https://f-droid.org/en/packages/com.practicalapps.hamtrainer/,live,F-Droid Android
+Hdf Compass,license,,Open source,BSD-style (HDF Group permissive),,https://github.com/HDFGroup/hdf-compass,live,COPYING read: redistribution permitted with notice
+Hdf Compass,platforms,,"Windows, macOS, Linux",,,https://github.com/HDFGroup/hdf-compass,live,README: binaries for Windows/Mac; PyInstaller Linux
+Hertz contact,license,,Open source,GPL-3.0-only,,http://f-droid.org/packages/com.mlkyh.hertz/,live,F-Droid license listing
+Hertz contact,platforms,,Android,,,http://f-droid.org/packages/com.mlkyh.hertz/,live,F-Droid Android
+Homer Audio Player for Seniors,license,,Open source,MIT,,https://github.com/msimonides/homerplayer2,live,GitHub API spdx MIT
+Homer Audio Player for Seniors,platforms,,Android,,,https://f-droid.org/en/packages/com.studio4plus.homerplayer2/,live,F-Droid Android
+Ichaival,license,,Open source,GPL-3.0-or-later,,http://f-droid.org/packages/com.utazukin.ichaival/,live,F-Droid license listing
+Ichaival,platforms,,Android,,,http://f-droid.org/packages/com.utazukin.ichaival/,live,F-Droid Android
