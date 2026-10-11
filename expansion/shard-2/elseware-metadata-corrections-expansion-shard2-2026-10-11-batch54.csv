@@ -1,0 +1,66 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Prompting Client,license,,Open source,GPL-3.0,,https://github.com/canonical/prompting-client,live,README license badge GPL3.0
+Prompting Client,platforms,,Linux,,,https://github.com/canonical/prompting-client,live,snapd/AppArmor prompting client for Linux (Ubuntu)
+Proxmox,license,,Open source,AGPL-3.0,,https://www.proxmox.com/en/about/company-details/press-releases/proxmox-ve-4-3-released,live,official: licensed under the free software license GNU Affero GPL v3
+Proxmox,platforms,,Web,,,https://www.proxmox.com/en/about/company-details/press-releases/proxmox-ve-4-3-released,live,web-based management interface for server virtualization
+Prusa Firmware Buddy,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/prusa3d/Prusa-Firmware-Buddy/master/LICENSE.md,live,LICENSE.md: firmware source code under GNU GPL v3.0
+Psi Plus,license,,Open source,GPL-2.0,,https://raw.githubusercontent.com/psi-im/psi/master/COPYING,live,COPYING is GNU General Public License Version 2
+Psi Plus,platforms,,"Windows, Linux, macOS",,,https://psi-im.org/,live,official site: available for Windows Linux and macOS
+Pulovers Macro Creator,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/Pulover/PuloversMacroCreator/master/License.txt,live,License.txt is GNU General Public License Version 3
+Pulovers Macro Creator,platforms,,Windows,,,https://github.com/Pulover/PuloversMacroCreator,live,README: Windows automation utility
+Pure Mac,license,,Open source,MIT,,https://github.com/momenbasel/PureMac,live,GitHub API SPDX MIT; repo description confirms MIT
+Pure Mac,platforms,,macOS,,,https://github.com/momenbasel/PureMac,live,native SwiftUI macOS cleaner (CleanMyMac alternative)
+Py Macro Record,license,,Open source,GPL-3.0,,https://github.com/LOUDO2/PyMacroRecord,live,GitHub API SPDX GPL-3.0
+Py Macro Record,platforms,,"Windows, Linux",,,https://github.com/LOUDO2/PyMacroRecord,live,README documents Windows and Linux builds
+Python Escpos,license,,Open source,MIT,,https://github.com/python-escpos/python-escpos,live,"GitHub API spdx_id MIT on python-escpos/python-escpos; ESC/POS printer Python library, license row only"
+Pytrainer,license,,Open source,GPL-2.0,,https://github.com/pytrainer/pytrainer,live,GitHub API spdx_id GPL-2.0 on pytrainer/pytrainer; sports activity logging desktop app
+Pytrainer,platforms,,Linux,,,https://github.com/pytrainer/pytrainer,live,"README: packaged for Debian, Ubuntu, Fedora and other Linux distros"
+Qdiskinfo,license,,Open source,GPL-3.0,,https://github.com/edisionnano/QDiskInfo,live,"GitHub API spdx_id GPL-3.0 on edisionnano/QDiskInfo; frontend for smartctl (smartmontools), CrystalDiskInfo-like SMART data viewer"
+Qdiskinfo,platforms,,Linux,,,https://github.com/edisionnano/QDiskInfo,live,README install section covers Debian/Ubuntu/Fedora/Arch only; Qt6 smartctl frontend
+QLogExplorer,license,,Open source,GPL-3.0,,https://github.com/rafaelfassi/qlogexplorer,live,GitHub API spdx_id GPL-3.0 on rafaelfassi/qlogexplorer; high-performance log analyzer
+QLogExplorer,platforms,,"Windows, Linux",,,https://github.com/rafaelfassi/qlogexplorer,live,README install section lists Options for Linux (Flatpak/distro repos) and Options for Windows only
+Qps,license,,Open source,GPL-2.0-or-later,,https://github.com/lxqt/qps,live,README License section: Qps is licensed under the terms of GPLv2 or any later version; governs over bare GitHub API GPL-2.0
+Qps,platforms,,Linux,,,https://github.com/lxqt/qps,live,LXQt Qt Process Manager; Linux desktop task manager
+QR-ScanGen,license,,Open source,MIT-0,,https://github.com/emendir/QR-ScanGen,live,GitHub API spdx_id MIT-0 on emendir/QR-ScanGen; QR code scanner and generator
+QR-ScanGen,platforms,,"Windows, macOS, Linux",,,https://github.com/emendir/QR-ScanGen,live,"README: simple cross-platform QR scanner/generator, Python/Qt GUI; Linux and Windows 10 tested, macOS untested"
+QSO Again,license,,Open source,GPL-3.0,,https://github.com/dl9sau/qso-again,live,Ham-radio QSO audio recorder; GitHub API SPDX GPL-3.0
+QSO Again,platforms,,Android,,,https://github.com/dl9sau/qso-again,live,Android app (audio recorder for ham radio QSOs)
+Qtel,license,,Open source,GPL-2.0,,https://raw.githubusercontent.com/sm0svx/svxlink/master/COPYRIGHT,live,Part of SvxLink project; COPYRIGHT file: GNU GPL Version 2
+Qtel,platforms,,Linux,,,https://github.com/sm0svx/svxlink,live,Qt EchoLink client in src/qtel
+Quagga JS,license,,Open source,MIT,,https://github.com/serratus/quaggaJS,live,JS barcode-scanner library; no end-user OS platforms
+Quickgui,license,,Open source,MIT,,https://github.com/quickemu-project/quickgui,live,GitHub API SPDX MIT
+Quickgui,platforms,,Linux,,,https://github.com/quickemu-project/quickgui,live,Linux-only builds (deb/AppImage)
+Quick Settings Sound Profile,license,,Open source,GPL-3.0,,https://github.com/CurryPlayer/quick-settings-sound-profile,live,GitHub API SPDX GPL-3.0
+Quick Settings Sound Profile,platforms,,Android,,,https://github.com/CurryPlayer/quick-settings-sound-profile,live,Kotlin Quick Settings tile app
+QuickWeather,license,,Open source,GPL-3.0,,https://github.com/TylerWilliamson/QuickWeather,live,COPYING present; GitHub API SPDX GPL-3.0
+QuickWeather,platforms,,Android,,,https://github.com/TylerWilliamson/QuickWeather,live,Android app; fastlane + f-droid-metadata.yml in repo
+Quteqoin,license,,Open source,WTFPL,,https://github.com/dguihal/quteqoin,live,GitHub API SPDX WTFPL (FSF-recognized free software license)
+Quteqoin,platforms,,Linux,,,https://github.com/dguihal/quteqoin,live,Qt chat app; qmake/make Linux build instructions
+Radarr,license,,Open source,GPL-3.0,,https://github.com/Radarr/Radarr,live,GitHub API SPDX GPL-3.0
+Radarr,platforms,,"Windows, Linux, macOS",,,https://github.com/Radarr/Radarr,live,"README: support for major platforms Windows, Linux, macOS"
+Radiotray Ng,license,,Open source,GPL-3.0,Linux,https://github.com/ebruck/radiotray-ng,live,Internet radio player for Linux; GitHub API spdx_id GPL-3.0
+Radiotray Ng,platforms,,Linux,,,https://github.com/ebruck/radiotray-ng,live,README: an Internet radio player for Linux
+Rats Search,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/librats/rats-search,live,BitTorrent P2P multi-platform search engine with integrated torrent client; GitHub API spdx_id MIT on canonical librats/rats-search (original DEgITx repo moved here)
+Rats Search,platforms,,"Windows, macOS, Linux",,,https://github.com/librats/rats-search,live,"README download table: Windows zip, Linux AppImage/tar.gz, macOS Intel and ARM zips"
+RCX - Rclone for Android,license,,Open source,GPL-3.0,Android,https://github.com/x0b/rcx,live,Android UI for rclone; GitHub API spdx_id GPL-3.0
+RCX - Rclone for Android,platforms,,Android,,,https://github.com/x0b/rcx,live,Rclone for Android; listed on F-Droid as io.github.x0b.rcx
+React Avatar Editor,license,,Open source,MIT,,https://github.com/mosch/react-avatar-editor,live,Small avatar/profile-picture React component library (resize and crop uploaded image); GitHub API spdx_id MIT; license row only - component library
+React Native Background Geolocation,license,,Open source,MIT,,https://github.com/transistorsoft/react-native-background-geolocation,live,Background-geolocation React Native plugin; LICENSE file is MIT (2015 Chris Scott); license row only - plugin library; README notes paid license key required for production use
+React Native Debugger,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/jhen0409/react-native-debugger,live,Standalone React Native debugger app; GitHub API spdx_id MIT
+React Native Debugger,platforms,,"Windows, macOS, Linux",,,https://github.com/jhen0409/react-native-debugger,live,"Latest release assets: Windows setup exe/zip, macOS dmg (x64/arm64), Linux AppImage/deb/rpm"
+React Native Nw React Calculator,license,,Open source,MIT,,https://github.com/benoitvallon/react-native-nw-react-calculator,live,Demo project showing same-code mobile/desktop/website apps; GitHub API spdx_id MIT; license row only - sample project
+React Native Redux Groceries,license,,Open source,MIT,,https://github.com/bruz/react-native-redux-groceries,live,Simple React Native grocery-list demo app with offline support; GitHub API spdx_id MIT; license row only - demo project
+Reactide,license,,Open source,MIT,"macOS, Linux",https://github.com/reactide/reactide,live,First dedicated IDE for React web application development; GitHub API spdx_id MIT
+Reactide,platforms,,"macOS, Linux",,,https://github.com/reactide/reactide,live,README: cross-platform desktop application; latest release assets: macOS dmg and Linux AppImage
+Redshift,license,,Open source,"GPL-3.0 (GitHub API SPDX on sharpbracket/redshift, repo moved from jonls/redshift)",,https://github.com/sharpbracket/redshift,live,verified primary source
+Redshift,platforms,,"Windows, macOS, Linux",,,https://github.com/sharpbracket/redshift,live,README documents Windows binaries plus Linux/macOS config paths
+Remark42,license,,Open source,MIT (GitHub API SPDX on umputun/remark42),,https://github.com/umputun/remark42,live,verified primary source
+Remark42,platforms,,Web,,,https://github.com/umputun/remark42,live,self-hosted comment engine deployed as web app
+Remote Droid,license,,Open source,GPL-3.0 (GitHub API SPDX on omerjerk/RemoteDroid),,https://github.com/omerjerk/RemoteDroid,live,verified primary source
+Remote Droid,platforms,,Android,,,https://github.com/omerjerk/RemoteDroid,live,README describes Android device remote-control app
+Repetier Firmware,license,,Open source,GPL-3.0 (gpl.txt in repo is GNU General Public License Version 3),,https://github.com/repetier/RepetierFirmware,live,license row only - Arduino-based RepRap 3D printer firmware
+Reticulum,license,,Source-available,,"Reticulum License (field-of-use restrictions: no systems that purposefully do harm to human beings, no AI/ML training dataset use)",https://raw.githubusercontent.com/markqvist/Reticulum/master/LICENSE,live,license row only - cryptography-based networking stack
+Ristretto,license,,Open source,"GPL-2.0 (GitHub API SPDX on xfce-mirror/ristretto, Xfce image viewer)",,https://github.com/xfce-mirror/ristretto,live,verified primary source
+Ristretto,platforms,,Linux,,,https://github.com/xfce-mirror/ristretto,live,Xfce desktop image viewer
+Romm,license,,Open source,AGPL-3.0 (GitHub API SPDX on rommapp/romm),,https://github.com/rommapp/romm,live,verified primary source
+Romm,platforms,,Web,,,https://github.com/rommapp/romm,live,self-hosted ROM manager and player accessed via browser
