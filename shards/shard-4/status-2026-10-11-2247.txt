@@ -1,0 +1,6 @@
+shard4 expansion batch66 - Shard 2
+92 rows pushed to expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch66.csv
+47 of 50 apps verified; skipped with reason (3): Audio Editor MP3 Cutter (generic title), Info Pajak Kalsel (no exact store listing), Musicdl (4+ distinct projects)
+Assembler spot-checks: Folia Major AGPL-3.0->AGPL-3.0-only (no or-later grant; AUR corroborates); Iease Music MIT confirmed
+Ops note: ch66k1 was truncated by an assembly-script bug mid-run; re-dispatched and re-verified clean
+Timestamp: 2026-10-11-2247 PKT
