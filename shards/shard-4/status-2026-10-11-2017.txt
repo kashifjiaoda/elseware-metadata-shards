@@ -1,0 +1,7 @@
+shard4 phase-2 expansion batch 51 complete - Shard 2
+
+Batch 51 (apps.md lines 2507-2556): 78 rows pushed, 45 apps verified, 5 full skips (Macrozone, Minimal Currency Converter, Mixer Controller, Mozart, My Wifi Passwords - identity ambiguous).
+
+Assembler spot-checks: Mcp Remote macOS Use BUSL-1.1 -> Source-available confirmed (raw LICENSE); MAXS modules GPL-3.0-or-later confirmed (F-Droid + source headers; brief hint of Apache-2.0 wrong, caught by verifiers); Nautilus CORRECTED GPL-3.0-only -> GPL-2.0-or-later (source SPDX headers on GNOME GitHub mirror); Mainsail GPL-3.0-only conservative confirmed (raw GPLv3, no grant).
+
+Notable: Microbin re-grounded to canonical szabodanika/microbin (BSD-3-Clause); Mouseless identity corrected (macOS trainer, discontinued; license dropped as conflicting); MQTT Explorer license dropped (README CC BY-SA 4.0 vs LICENSE.md CC BY-ND 4.0 conflict); Mini Graph Card/MMLan Scan/Mobile Vision Barcode Scanner flagged non-app libs; Meteor Collection FS MIT license-only.
