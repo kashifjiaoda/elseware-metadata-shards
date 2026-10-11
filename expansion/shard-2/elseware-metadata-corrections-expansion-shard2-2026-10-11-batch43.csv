@@ -1,0 +1,51 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Ambie,license,,Open source,MIT,,https://raw.githubusercontent.com/jenius-apps/ambie/main/LICENSE.txt,live,LICENSE.txt is MIT License; GitHub API spdx MIT on jenius-apps/ambie
+Ambie,platforms,,Windows,,,https://github.com/jenius-apps/ambie,live,Microsoft Store app; README mentions Windows 11
+AMSlide Menu2,license,,Open source,MIT,,https://github.com/matghazaryan/AMSlideMenu2,live,GitHub API spdx_id MIT; iOS sliding-menu developer library with no end-user platforms
+Android Simple Time Tracker,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/com.razeeman.util.simpletimetracker/,live,F-Droid lists GNU GPL v3.0 or later; repo LICENSE.md is GPL v3 text
+Android Simple Time Tracker,platforms,,Android,,,https://f-droid.org/packages/com.razeeman.util.simpletimetracker/,live,F-Droid Android package com.razeeman.util.simpletimetracker
+AnotherMonitor,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/org.anothermonitor/,live,F-Droid lists GNU GPL v3.0 only; GitHub API spdx GPL-3.0 on AntonioRedondo/AnotherMonitor
+AnotherMonitor,platforms,,Android,,,https://github.com/AntonioRedondo/AnotherMonitor,live,README: monitors CPU and memory usage of Android devices
+App Launch Guide,license,,Open source,The Unlicense,,https://github.com/adamwulf/app-launch-guide,live,"raw LICENSE verified as public-domain Unlicense text; indie-dev guide repo, not an end-user app"
+AppImage Pool,license,,Open source,GPL-3.0,,https://github.com/prateekmedia/appimagepool,live,raw LICENSE verified as GNU GPL v3; AppImageHub client
+AppImage Pool,platforms,,Linux,,,https://github.com/prateekmedia/appimagepool,live,Flutter desktop client for Linux AppImages
+Appserver,license,,Open source,OSL-3.0,,https://github.com/appserver-io/appserver,live,GitHub API spdx_id OSL-3.0; multithreaded application server for PHP
+APTV,license,,Proprietary — free,,,https://apps.apple.com/us/app/aptv/id1630403500,live,"App Store listing: Free, Suzhou Xiying Guangnian Technology Co. Ltd, closed source"
+APTV,platforms,,iOS,,,https://apps.apple.com/us/app/aptv/id1630403500,live,IPTV player; iPhone/iPad (also Mac desktop per supported devices)
+ArchiveKeep,license,,Open source,GPL-3.0,,https://github.com/archivekeep/archivekeep,live,raw LICENSE verified as GNU GPL v3; README states whole project GPL v3
+ArchiveKeep,platforms,,"Linux, Android",,,https://github.com/archivekeep/archivekeep,live,Flatpak org.archivekeep.ArchiveKeep; F-Droid org.archivekeep.ArchiveKeep
+Argus,license,,Open source,GPL-3.0,,https://github.com/openargus/argus,live,GitHub API spdx_id GPL-3.0 on openargus/argus; Argus network sensor
+ark,license,,Open source,GPL-2.0-or-later,,https://invent.kde.org/utilities/ark,live,KDE Ark file archiver; LICENSES/GPL-2.0-or-later.txt verified on invent.kde.org
+ark,platforms,,Linux,,,https://invent.kde.org/utilities/ark,live,KDE file archiver
+Arxiv Sanity Preserver,license,,Open source,MIT,,https://github.com/karpathy/arxiv-sanity-preserver,live,GitHub API spdx_id MIT; web interface for browsing arxiv submissions
+Arxiv Sanity Preserver,platforms,,Web,,,https://github.com/karpathy/arxiv-sanity-preserver,live,hosted at arxiv-sanity.com
+Assh,license,,Open source,MIT,,https://github.com/moul/assh,live,Go CLI SSH config wrapper; LICENSE = MIT (GitHub API spdx_id)
+Astrolog,license,,Open source,GPL-2.0,,https://www.astrolog.org/astrolog.htm,live,GPL v2 per official site release notes and SourceForge project page; Wikipedia lists License: GPL
+Astrolog,platforms,,"Windows, Linux",,,https://www.astrolog.org/astrolog.htm,live,Official downloads cover Windows and Unix X Windows (source)
+Audile,license,,Open source,GPL-3.0,,https://github.com/audileteam/audile,live,GPL-3.0 per GitHub API spdx_id on AudileTeam/Audile; formerly MusicRecognizer
+Audile,platforms,,Android,,,https://f-droid.org/en/packages/com.mrsep.musicrecognizer/,live,Android app on F-Droid (package com.mrsep.musicrecognizer)
+Audio Recorder,license,,Open source,GPL-3.0,,https://gitlab.com/axet/android-audio-recorder,live,GPL v3.0 only per GitLab project license API on axet/android-audio-recorder
+Audio Recorder,platforms,,Android,,,https://gitlab.com/axet/android-audio-recorder,live,Android audio recorder app (package com.github.axet.audiorecorder)
+AudioRelay,license,,Proprietary — freemium,,,https://audiorelay.net,live,Free app with ads and feature limits; Premium subscription unlocks multi-device streaming and removes ads
+AudioRelay,platforms,,"Android, Windows, macOS, Linux",,,https://audiorelay.net,live,"Android app + desktop server for Windows, Mac, Linux"
+authd-oidc,license,,Open source,GPL-3.0,,https://github.com/ubuntu/authd-oidc-brokers,live,GPL-3.0 per GitHub API spdx_id on ubuntu/authd-oidc-brokers (Canonical/Ubuntu authd OIDC brokers)
+authd-oidc,platforms,,Linux,,,https://github.com/ubuntu/authd-oidc-brokers,live,"Ubuntu system authentication broker, distributed as snap"
+BackgroundWorkAround,license,,Open source,The Unlicense,,https://github.com/confidenseuide/BackgroundWorkAround,live,LICENSE.txt verified as The Unlicense public-domain dedication; Android app
+Bambu Studio,license,,Open source,AGPL-3.0,,https://github.com/bambulab/BambuStudio,live,Raw LICENSE verified as GNU AGPL v3; PC software for BambuLab 3D printers
+Bambu Studio,platforms,,Windows/macOS/Linux,,,https://github.com/bambulab/BambuStudio,live,README lists Windows/macOS/Linux downloads
+Base2048,license,,Open source,MIT,,https://github.com/qntm/base2048,live,JS binary-encoding library; license row only
+Batch Uninstaller,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.saha.batchuninstaller/,live,Android batch uninstaller; F-Droid lists GPL-3.0-only
+Batch Uninstaller,platforms,,Android,,,https://f-droid.org/packages/com.saha.batchuninstaller/,live,F-Droid Android app
+Battery Notification,license,,Open source,GPL-3.0-or-later,,https://github.com/TylerWilliamson/BatteryNotification,live,README license text: GPL v3 or any later version; F-Droid com.ominous.batterynotification
+Battery Notification,platforms,,Android,,,https://github.com/TylerWilliamson/BatteryNotification,live,Android (F-Droid)
+BatteryBot,license,,Open source,GPL-3.0-or-later,,https://github.com/darshan-/Battery-Indicator-Free,live,LICENSE file: GPL v3 or any later version; free Play Store app by Darshan Computing
+BatteryBot,platforms,,Android,,,https://github.com/darshan-/Battery-Indicator-Free,live,Android app
+Bcnc,license,,Open source,GPL-2.0,,https://github.com/vlachoudis/bCNC,live,bCNC: GRBL CNC command sender; GitHub API SPDX GPL-2.0
+Bcnc,platforms,,"Windows, Linux, macOS",,,https://github.com/vlachoudis/bCNC,live,"README: cross platform program (Windows, Linux, Mac)"
+Beaker,license,,Open source,MIT,,https://github.com/beakerbrowser/beaker,live,Beaker Browser (discontinued P2P web browser); README License section: MIT License (MIT)
+Beaker,platforms,,"Windows, macOS, Linux",,,https://github.com/beakerbrowser/beaker,live,"README install instructions cover Linux, macOS, Windows"
+Betwixt,license,,Open source,Apache-2.0,,https://github.com/savvasdalkitsis/betwixt,live,"Android animation-interpolator library; license row only (library, no end-user platforms)"
+BiggerTask,license,,Open source,GPL-3.0,,https://github.com/taboulet/BiggerTask,live,TinyTask clone for Linux; GitHub API SPDX GPL-3.0
+BiggerTask,platforms,,Linux,,,https://github.com/taboulet/BiggerTask,live,Linux (Flathub io.github.taboulet.BiggerTask)
+BinClockWidget,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/fr.shiningcat.binclockwidget/,live,F-Droid lists GPL-3.0-or-later; README badge License: GPL v3
+BinClockWidget,platforms,,Android,,,https://f-droid.org/packages/fr.shiningcat.binclockwidget/,live,Android home-screen widget
