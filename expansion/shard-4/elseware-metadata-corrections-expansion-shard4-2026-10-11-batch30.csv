@@ -1,0 +1,71 @@
+Fontello,license,,Open source,MIT (code except fonts),,https://github.com/fontello/fontello,live,README: code under MIT; embedded fonts under their own licenses (SIL OFL / CC BY / CC BY-SA)
+Font Gauntlet,license,,Proprietary — free,Free web service by Dinamo Typefaces,,https://fontgauntlet.com/?font=%2Fstatic%2Ffonts%2FABCWhytePlusVariable.woff2&family-name=ABC+Whyte+Plus+Variable,live,A service provided by Dinamo Typefaces; no public source repo found
+Font Gauntlet,platforms,,Web,,,https://fontgauntlet.com/?font=%2Fstatic%2Ffonts%2FABCWhytePlusVariable.woff2&family-name=ABC+Whyte+Plus+Variable,live,Browser-based variable-font proofing tool
+Fontself,license,,Proprietary — paid,One-time purchase per official store ($98 Illustrator; EUR 78 bundle),,https://www.fontself.com/store,live,Adobe Illustrator & Photoshop font-maker add-on; no trial offered
+Fontself,platforms,,"Windows, macOS",,,https://www.fontself.com/store,live,Desktop Illustrator & Photoshop CC add-on; store confirms Mac & PC install (2 devices)
+Fossify Gallery,license,,Open source,GPL-3.0,,https://github.com/aiya000/Fossify-Gallery,live,Fork of FossifyOrg/Gallery; GitHub license field GPL-3.0; only/or-later suffix not verified from source headers
+FrameExtractor,license,,Open source,GPL-3.0,,https://github.com/nokarin-dev/FrameExtractor,live,GitHub license field GPL-3.0; README badge GPLv3; only/or-later suffix not verified from source headers
+FrameExtractor,platforms,,"Windows, Linux, Android",,,https://github.com/nokarin-dev/frameextractor/blob/HEAD/README.md,live,README platform badge; Flutter app; nokarin-dev/FrameExtractor is the canonical entry among same-name projects
+FreeDcam,license,,Open source,GPL-2.0-or-later,,https://github.com/killerink/freedcam/blob/HEAD/README.md,live,README quotes grant: version 2 of the License or (at your option) any later version
+FreeDcam,platforms,,Android,,,https://github.com/killerink/freedcam/blob/HEAD/README.md,live,README shows Play Store badge (troop.com.freedcam) and Android Studio build instructions
+FreeTube,license,,Open source,AGPL-3.0-or-later,,https://github.com/rbstxt/freetube/blob/HEAD/README.md,live,Fork README license text mirrors upstream; grant: version 3 or (at your option) any later version
+FreeTube,platforms,,"Windows, macOS, Linux",,,https://github.com/chapdel2/freetube,live,Fork README documents win32/darwin/linux build targets
+Geenes,license,,Proprietary — free,"Free web app; creator portfolio notes 400+ donations, no paid tier observed",,https://www.gianlucagini.com/projects/geenes,live,creator-owned portfolio; official site JS-rendered
+Geenes,platforms,,Web,,,https://geenes.app,live,official site
+Gif123,license,,Open source,MIT (raw LICENSE verified; repo also ships GPL-2.0 text as LICENSE-GPL),,https://raw.githubusercontent.com/aardio/gif123/main/LICENSE,live,
+Gif123,platforms,,Windows,,,https://github.com/aardio/gif123,live,"README: Windows XP through 11, portable"
+Gifski,license,,Open source,MIT,,https://raw.githubusercontent.com/sindresorhus/gifski/main/license,live,Mac app; repo README notes app is MIT
+Gifski,platforms,,macOS,,,https://github.com/sindresorhus/gifski,live,README: macOS app; on Mac App Store
+glaxnimate,license,,Open source,GPL-3.0-or-later,,https://invent.kde.org/graphics/glaxnimate/-/raw/master/COPYING,live,COPYING is REUSE pointer to LICENSES/GPL-3.0-or-later.txt; project hosted on KDE Invent
+GNOME Photos,license,,Open source,GPL-3.0-or-later,,https://gitlab.gnome.org/GNOME/gnome-photos/-/raw/master/COPYING,live,upstream appdata declares GPL-3.0+; raw COPYING is GPL v3 text
+Gopchop,license,,Open source,License version unspecified (official site states open source; no license text found on site),,https://gopchop.github.io,live,specific license text/version not published on official site; flagged
+goxel,license,,Open source,GPL-3.0-or-later,,https://raw.githubusercontent.com/guillaumechereau/goxel/master/COPYING,live,COPYING contains 'or any later version' grant
+Grabient,license,,Proprietary — free,Free CSS gradient generator (official site JSON-LD),,https://grabient.com,live,
+Grabient,platforms,,Web,,,https://grabient.com,live,
+Gratisography,license,,Proprietary — free,"Free stock photos under site's custom 'peace of mind' license, no copyright restrictions",,https://gratisography.com,live,homepage text via official-site crawl; Cloudflare blocks direct fetch
+Gratisography,platforms,,Web,,,https://gratisography.com,live,
+gThumb,license,,Open source,GPL-2.0-only,,https://raw.githubusercontent.com/GNOME/gthumb/master/COPYING,live,COPYING is GPL v2; no 'or later' grant found in fetched source headers; recorded conservative
+Haruna,license,,Open source,GPL-3.0-or-later,,https://github.com/kde/haruna,live,KDE REUSE; REUSE.toml declares SPDX-License-Identifier GPL-3.0-or-later
+Haruna,platforms,,Linux,,,https://github.com/kde/haruna,live,README install via Flatpak (org.kde.haruna) plus snapcraft.yaml; KDE multimedia app
+Hydrapaper,license,,Open source,GPL-3.0,,https://github.com/GabMus/HydraPaper,live,"GitHub license detection GPL v3.0; raw LICENSE is GPLv3 full text with no explicit or-later grant, recorded conservative GPL-3.0"
+Hydrapaper,platforms,,Linux,,,https://github.com/GabMus/HydraPaper,live,"GTK utility; Flatpak and AUR packages; supports GNOME 3, MATE, Budgie"
+Hex Naw,platforms,,Web,,,https://hexnaw.com/,live,Free color-contrast web tool by The Scenery; license terms not stated on official site
+hsvpick,license,,Proprietary — free,,,https://snapcraft.io/hsvpick,live,Snap Store lists license as Proprietary; snap install is free
+hsvpick,platforms,,Linux,,,https://snapcraft.io/hsvpick,live,Distributed as a snap for Linux distros
+IconArchive,license,,Proprietary — free,,,https://www.iconarchive.com/show/outline-camera-icons-by-iconarchive/Flat-Blue-White-Camera-icon.html,live,Free icon archive website; individual icon packs carry per-pack licenses (e.g. free with link-back)
+IconArchive,platforms,,Web,,,https://www.iconarchive.com/show/outline-camera-icons-by-iconarchive/Flat-Blue-White-Camera-icon.html,live,Web-based searchable icon archive
+Iconscout,license,,Proprietary — freemium,,,http://iconscout.com/api,live,Official site confirms free plan with monthly credits; full library requires paid subscription
+Iconscout,platforms,,Web,,,http://iconscout.com/api,live,Web-based icon/illustration library
+IDMPhoto Browser,license,,Open source,MIT,,https://github.com/ideaismobile/IDMPhotoBrowser,live,README: 'This project uses MIT License'; GitHub license badge MIT; iOS photo browser library (CocoaPods)
+Image Analyzer,license,,Proprietary — free,,,http://meesoft.com/Analyzer/,live,Official site: Freeware for Windows
+Image Analyzer,platforms,,Windows,,,http://meesoft.com/Analyzer/,live,Official site lists Windows 98/ME/2000/XP/Vista/7/8/10/11
+Imagej,license,,Open source,Public domain,,https://github.com/imagej/ImageJ/blob/master/LICENSE.txt,live,US Federal Government work (17 USC 105); imagej.net calls ImageJ open source
+ImageSieve,license,,Open source,GPL-3.0-only,,https://github.com/Futsch1/image-sieve,live,GitHub detects GPL-3.0; README: published under GPL-3.0
+Imgp,license,,Open source,GPL-3.0-only,,https://github.com/jarun/imgp,live,GitHub detects GPL-3.0; README badge claims GPLv3+ (grant unconfirmed)
+Improve ImgSLI,license,,Open source,GPL-3.0-or-later,,https://github.com/Loganavter/Improve-ImgSLI,live,README License section: GPL-3.0-or-later; v10.0.0 release notes confirm
+Instascan,license,,Open source,MIT,,https://github.com/schmich/instascan,live,Chris Schmich QR scanner JS library; README: MIT License
+IPCam Demo,license,,Open source,MIT,,https://github.com/niqdev/ipcam-view,live,Demo app for niqdev ipcam-view Android library; F-Droid archive: com.github.niqdev.ipcam
+Iraf,license,,Open source,MIT-style,,https://github.com/iraf-community/iraf-community.github.io/blob/HEAD/COPYRIGHT.md,live,Official community site: MIT style license; institutional dev discontinued 2013
+Jeeliz Face Filter,license,,Open source,Apache-2.0,,https://github.com/jeeliz/jeelizFaceFilter,live,GitHub detects Apache-2.0; official JS/WebGL face tracking library
+"Journey - Journal, Diary",license,,Proprietary — freemium,Free tier + Journey Membership subscription,,https://journey.cloud/membership,live,Membership $4.17/mo billed annually; legacy one-time Premium per platform
+ImageSieve,platforms,,"Windows, Linux, macOS",,,https://github.com/Futsch1/image-sieve,live,Windows installer/MS Store; Snap for Linux; build from source on Win/Linux/macOS
+Imgp,platforms,,"Linux, macOS",,,https://github.com/jarun/imgp,live,Distro packages + PyPI + Homebrew TAP; README targets Linux desktops
+Improve ImgSLI,platforms,,"Windows, Linux",,,https://github.com/Loganavter/Improve-ImgSLI,live,Windows installer; Linux Flatpak/AUR; runs from source
+Instascan,platforms,,Web,,,https://github.com/schmich/instascan,live,Browser-based JS library (WebRTC); NPM install; non-iOS browsers
+IPCam Demo,platforms,,Android,,,https://github.com/niqdev/ipcam-view,live,Demo app for ipcam-view Android MJPEG library
+Jeeliz Face Filter,platforms,,Web,,,https://github.com/jeeliz/jeelizFaceFilter,live,Browser-based JS/WebGL library with live demos; NPM package
+"Journey - Journal, Diary",platforms,,"Android, iOS, Mac, Windows, Linux, Web",,,https://help.journey.cloud/en/article/in-app-purchase-comparison-1tqlxue/,live,Membership unlocks all platforms; Premium one license per platform
+K3b,license,,Open source,GPL-2.0-or-later,,https://github.com/KDE/k3b,live,LICENSES dir contains GPL-2.0-or-later.txt (docs GFDL-1.2-or-later; libs LGPL-2.0-or-later)
+Kamoso,license,,Open source,GPL-2.0-or-later,,https://github.com/KDE/kamoso,live,LICENSES dir contains GPL-2.0-or-later.txt
+Kasasa,license,,Open source,GPL-3.0-only,,https://github.com/KelvinNovais/Kasasa,live,GitHub badge GPL-3.0 with COPYING present; no or-later grant in checked docs. Identity caveat: name shared by Kasasa LTD banking app and victorymt/kasasa Hyprland tool; row covers KelvinNovais/Kasasa (Linux clip-and-pin tool)
+Kasasa,platforms,,Linux,,,https://github.com/KelvinNovais/Kasasa,live,repo topics list linux/flatpak/flathub; GNOME/GTK4 desktop
+Kimagemapeditor,license,,Open source,GPL-2.0-only,,https://github.com/KDE/kimagemapeditor,live,raw COPYING is GPL v2 text; GitHub badge GPL-2.0; packager GPL-2.0+ claim overruled per license-text-governs (conservative)
+Klia Kompress,license,,Proprietary — freemium,,,https://github.com/n3kosempai/klia-kompress,live,README states proprietary; LICENSE_EULA.md governs; free tier capped (3-image batches); Pro $12/6mo
+Klia Kompress,platforms,,Linux,,,https://github.com/n3kosempai/klia-kompress,live,README Platform: Linux (Flatpak via Flathub)
+Kompact Image Compressor,license,,Open source,AGPL-3.0-or-later,,https://f-droid.org/packages/com.kompact,live,F-Droid page states License: GNU Affero General Public License v3.0 or later
+Kompact Image Compressor,platforms,,Android,,,https://f-droid.org/packages/com.kompact,live,F-Droid build requires Android 7.0 or newer
+Kruler,license,,Open source,GPL-2.0-or-later,,https://github.com/KDE/kruler,live,LICENSES dir contains GPL-2.0-or-later.txt
+LaBLEr,license,,Open source,GPL-3.0-or-later,,https://github.com/toolicious/labler,live,raw LICENSE is GPL v3 text; upstream v1.1.0 release notes state Licensed GPLv3-or-later
+LaBLEr,platforms,,Android,,,https://github.com/toolicious/labler,live,README install via F-Droid/GitHub APK; requires Android 8.0 or newer
+Lapa Ninja,license,,Proprietary — free,,,https://www.lapa.ninja/,live,free landing-page design gallery; no open-source licensing; paid template marketplace sold separately
+Lapa Ninja,platforms,,Web,,,https://www.lapa.ninja/,live,website; free unlimited gallery access
