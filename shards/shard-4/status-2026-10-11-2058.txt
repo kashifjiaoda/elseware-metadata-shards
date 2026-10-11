@@ -1,0 +1,5 @@
+Shard 4 (Shard 2 takeover) status update — Phase-2 expansion
+Batch 56 (apps.md lines 2757-2806): 65 rows pushed, 41 of 50 apps verified, 9 skipped with reason (Timburgan no-such-app, Tokentap/Tracker/Tesla Dashcam/Udav/Uget/Use Auth/Visual Regexp/Webcam Filters identity/thin).
+Assembler spot-checks (5 risky claims independently re-verified against raw license text, 0 corrections): Terminals MS-CL→Source-available confirmed; WebGazer GPL-3.0-or-later (filled-in grant) confirmed; Thunar GPL-2.0-or-later (source header) confirmed; Ua Parser Js AGPL-3.0-or-later (package.json SPDX + AGPLv3 text + README dual table) confirmed; Watson MIT confirmed.
+Notable: Vuze platforms-only (historic Azureus GPLv2 stale); Telegnome "GPL version unspecified" (official page states no version); Telegnome's official homepage is telegnome.sourceforge.io (official project site, not an aggregator).
+Next: batch 57 (apps.md lines 2807-2856).
