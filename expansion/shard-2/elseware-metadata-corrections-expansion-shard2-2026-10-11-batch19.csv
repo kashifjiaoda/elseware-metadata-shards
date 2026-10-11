@@ -1,0 +1,71 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Gentler Streak,license,,Proprietary — freemium,Free download with optional Premium subscription (monthly/yearly/lifetime),,https://apps.apple.com/tc/app/workout-tracker-gentler-streak/id1576857102,live,App Store listing; Premium plans unlock advanced features
+Gentler Streak,platforms,,"iOS (iPhone, Apple Watch)",,,https://apps.apple.com/tc/app/workout-tracker-gentler-streak/id1576857102,live,Apple Health/HealthKit integration; iPhone + Apple Watch app
+GymMane,license,,Open source,"GPL-3.0 with §7(b) attribution requirement (derivatives credit ""Based on GymMane by InlitX"")",,https://github.com/InlitX/GymMane,live,README License section; F-Droid/Obtainium available
+GymMane,platforms,,Android,,,https://github.com/InlitX/GymMane,live,Flutter app; Android 7.0+ supported (Wear OS in progress)
+Pedometer (PFA),license,,Open source,GPL-3.0 (SECUSO Privacy Friendly Apps),,https://github.com/SecUSo/privacy-friendly-pedometer,live,GitHub API spdx_id GPL-3.0; F-Droid org.secuso.privacyfriendlyactivitytracker
+Pedometer (PFA),platforms,,Android,,,https://github.com/SecUSo/privacy-friendly-pedometer,live,Android step counter (min SDK 17)
+Trale,license,,Open source,AGPL-3.0-or-later,,https://f-droid.org/en/packages/de.quantumphysique.trale/,live,"F-Droid listing states ""GNU Affero General Public License v3.0 or later"""
+Trale,platforms,,Android,,,https://f-droid.org/en/packages/de.quantumphysique.trale/,live,Weight diary app on F-Droid
+2026 Football Fixtures Widget,license,,Open source,MIT (app); bundled fixture data CC0-1.0 from openfootball/worldcup.json,,https://github.com/pianojockl/fifa-worldcup-2026-fixture-widget,live,"README: ""App license: MIT; Bundled data: CC0-1.0""; F-Droid listed"
+2026 Football Fixtures Widget,platforms,,Android,,,https://github.com/pianojockl/fifa-worldcup-2026-fixture-widget,live,Native Android app with home-screen widgets; F-Droid com.dasp.worldcup2026
+Ambio: Focus Timer & Sounds,license,,Open source,MIT,,https://github.com/jaimebg/Ambio,live,GitHub README License-MIT badge; F-Droid com.jbgsoft.ambio (reproducible build)
+Ambio: Focus Timer & Sounds,platforms,,Android,,,https://github.com/jaimebg/Ambio,live,Jetpack Compose Android app; note distinct from proprietary iOS Ambio sleep app
+Bagatur Chess Engine,license,,Open source,EPL-2.0,,https://github.com/bagaturchess/Bagatur,live,GitHub API spdx_id EPL-2.0; Java UCI chess engine
+Bagatur Chess Engine,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/bagaturchess/Bagatur,live,README: runs on desktop computers and Android (console UCI desktop program + standalone Android app)
+Best-Before,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/org.secuso.privacyfriendlyfoodtracker/,live,fdroiddata metadata License GPL-3.0-or-later; SECUSO Privacy Friendly Food Tracker
+Best-Before,platforms,,Android,,,https://f-droid.org/packages/org.secuso.privacyfriendlyfoodtracker/,live,F-Droid listed Android app
+Bluemoon,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/ch.nilsgrob.android.bluemoon/,live,F-Droid page states GNU General Public License v3.0 or later; fdroiddata confirms
+Bluemoon,platforms,,Android,,,https://f-droid.org/packages/ch.nilsgrob.android.bluemoon/,live,F-Droid listed Android app
+BodyCheck,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.bodycheck/,live,F-Droid page states GNU General Public License v3.0 only; fdroiddata confirms; repo github.com/7FM/bodycheck
+BodyCheck,platforms,,Android,,,https://f-droid.org/packages/com.bodycheck/,live,F-Droid listed Android app
+Brethap,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.jithware.brethap/,live,F-Droid page states GNU General Public License v3.0 only; repo github.com/jithware/brethap
+Brethap,platforms,,Android,,,https://f-droid.org/packages/com.jithware.brethap/,live,F-Droid listed Android app; Wear OS companion also exists
+Caffeine Health,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.uc.caffeine/,live,fdroiddata License GPL-3.0-only; source github.com/ohuc/CaffeineHealth
+Caffeine Health,platforms,,Android,,,https://f-droid.org/packages/com.uc.caffeine/,live,F-Droid listed Android app
+Child Resus Calc,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/de.bloosberg.basti.childresuscalc/,live,fdroiddata License GPL-3.0-or-later; source gitlab.com/bloosberg/child-resus-calc
+Child Resus Calc,platforms,,Android,,,https://f-droid.org/packages/de.bloosberg.basti.childresuscalc/,live,F-Droid listed Android app
+CVS Health,license,,Proprietary — free,,,https://apps.apple.com/us/app/cvs-health/id395545555,live,App Store listing; seller CVS Pharmacy; no open-source license
+CVS Health,platforms,,iOS,,,https://apps.apple.com/us/app/cvs-health/id395545555,live,App Store iOS app
+Dart Checker,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.DartChecker/,live,F-Droid page states GNU General Public License v3.0 only; fdroiddata confirms; source gitlab.com/onestepb/dart-checker
+Dart Checker,platforms,,Android,,,https://f-droid.org/packages/com.DartChecker/,live,F-Droid listed Android app
+Featherline: HRT Tracker,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.mkx.hrttracker,live,F-Droid metadata: License GPL-3.0-only; source github.com/mkx173/Featherline
+Featherline: HRT Tracker,platforms,,Android,,,https://f-droid.org/packages/com.mkx.hrttracker,live,F-Droid listing
+Easy Noise,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/com.cliambrown.easynoise,live,F-Droid metadata: License GPL-3.0-or-later; source github.com/cliambrown/EasyNoise
+Easy Noise,platforms,,Android,,,https://f-droid.org/packages/com.cliambrown.easynoise,live,F-Droid listing
+Gluco Glance,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/com.mohasi.glucoglance,live,F-Droid metadata: License GPL-3.0-or-later; source github.com/mohasi/gluco-glance
+Gluco Glance,platforms,,Android,,,https://f-droid.org/packages/com.mohasi.glucoglance,live,F-Droid listing
+Fitness Calendar,license,,Open source,GPL-2.0-only,,https://f-droid.org/packages/com.inky.fitnesscalendar,live,F-Droid metadata: License GPL-2.0-only; source github.com/Inky-developer/FitnessCalendar
+Fitness Calendar,platforms,,Android,,,https://f-droid.org/packages/com.inky.fitnesscalendar,live,F-Droid listing
+ETH & UZH mensa Zürich,license,,Proprietary — free,,,https://apps.apple.com/us/app/eth-mensa-weekly-menus/id1613899399,live,"App Store listing: ETH Mensa - Weekly menus by Alexandre Reol, free; no open-source license stated"
+ETH & UZH mensa Zürich,platforms,,iOS,,,https://apps.apple.com/us/app/eth-mensa-weekly-menus/id1613899399,live,App Store listing
+Health Disconnect,license,,Open source,Apache-2.0,,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/com.monkopedia.healthdisconnect.yml,live,fdroiddata License field; source Monkopedia/health-disconnect
+Health Disconnect,platforms,,Android,,,https://f-droid.org/en/packages/com.monkopedia.healthdisconnect/,live,F-Droid listing; Android app
+Heartwood,license,,Open source,GPL-3.0-or-later,,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/dev.easonhuang.heartwood.yml,live,fdroiddata License field; source GuyOnWifi/heartwood
+Heartwood,platforms,,Android,,,https://f-droid.org/en/packages/dev.easonhuang.heartwood/,live,F-Droid listing; Android app
+hranoprovod-cli,license,,Open source,MIT,,https://api.github.com/repos/hranoprovod/hranoprovod-cli,live,GitHub API spdx_id MIT; command-line tracking tool
+hranoprovod-cli,platforms,,"Windows, Linux, macOS",,,https://github.com/hranoprovod/hranoprovod-cli,live,Go CLI tool installed via go get (any Go-supported OS)
+InnerPod,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/gjwgit/innerpod/main/LICENSE,live,Raw LICENSE verified as GNU GPL v3 text; gjwgit/innerpod
+InnerPod,platforms,,"Android, Linux",,,https://github.com/gjwgit/innerpod,live,README: Google Play badge (Android) + Snap Store badge (Linux)
+Kin Nai D,license,,Open source,Apache-2.0,,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/com.icesu.kinnaid.yml,live,fdroiddata License field; source icesarut/kin-nai-d
+Kin Nai D,platforms,,Android,,,https://f-droid.org/en/packages/com.icesu.kinnaid/,live,F-Droid listing; Android app
+LibreHealth Essential Care For Every Baby,license,,Open source,MPL-2.0,,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/io.librehealth.mhbs.essential_care_for_every_baby.yml,live,fdroiddata License field; LibreHealth MHBS project
+LibreHealth Essential Care For Every Baby,platforms,,Android,,,https://f-droid.org/en/packages/io.librehealth.mhbs.essential_care_for_every_baby/,live,F-Droid listing; Android app
+Lplanner,license,,Open source,GPL-3.0-only,,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/com.landerlab.lplanner.fdroid.yml,live,fdroiddata License field; source landerlab-apps/Lplanner-FDroid
+Lplanner,platforms,,Android,,,https://f-droid.org/en/packages/com.landerlab.lplanner.fdroid/,live,F-Droid listing; Android app
+Medical Calendar Log,license,,Open source,GPL-3.0-or-later,,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/de.ntdote.medicalcalendarlog.yml,live,fdroiddata License field; source svewa/MedicalCalendarLog on Codeberg
+Medical Calendar Log,platforms,,Android,,,https://f-droid.org/en/packages/de.ntdote.medicalcalendarlog/,live,F-Droid listing; Android app
+Meine AOK,license,,Proprietary — free,,,https://apps.apple.com/de/app/meine-aok/id1406830270,live,App Store DE listing: Meine AOK by AOK Bundesverband (Gratis)
+Meine AOK,platforms,,iOS,,,https://apps.apple.com/de/app/meine-aok/id1406830270,live,App Store DE listing (id1406830270)
+Mood Cairns,license,,Open source,GPL-3.0,,https://github.com/lcdcode/mood-cairns,live,GitHub API spdx_id GPL-3.0; private local-only mood tracker for Android
+Mood Cairns,platforms,,Android,,,https://github.com/lcdcode/mood-cairns,live,Repo description: mood tracker for Android
+MyMood,license,,Open source,MIT,,https://github.com/NimaKhajehpour/MyMood,live,GitHub API spdx_id MIT; fdroiddata com.nima.mymood confirms MIT
+MyMood,platforms,,Android,,,https://github.com/NimaKhajehpour/MyMood,live,F-Droid listed (com.nima.mymood); repo topics include android and f-droid
+NiDeau,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/en/packages/com.gitlab.schaerphix_tool_nideau.nideau/,live,F-Droid listing; fossdroid confirms Source GPL-3.0-or-later; water temperature app for Nidau Switzerland
+NiDeau,platforms,,Android,,,https://f-droid.org/en/packages/com.gitlab.schaerphix_tool_nideau.nideau/,live,F-Droid listing (requires Android 5.0+)
+Nutrixious,license,,Open source,GPL-3.0,,https://github.com/Ledjlale/Nutrixious,live,GitHub API spdx_id GPL-3.0; health app about food and sport management
+Nutrixious,platforms,,Android,,,https://github.com/Ledjlale/Nutrixious,live,README references F-Droid and Android builds
+Open FNDDS Viewer,license,,Open source,Apache-2.0,,https://github.com/emtee40/Open_FNDDS,live,GitHub API spdx_id Apache-2.0; USDA FNDDS database viewer
+Open FNDDS Viewer,platforms,,Android,,,https://github.com/emtee40/Open_FNDDS,live,"emtee40 Android app (AndroidX/Material); F-Droid listed as ""Open FNDDS"""
+OpenFoodFacts,license,,Open source,Apache-2.0,,https://github.com/openfoodfacts/openfoodfacts-androidapp,live,GitHub API spdx_id Apache-2.0 on canonical repo
+OpenFoodFacts,platforms,,Android,,,https://f-droid.org/en/packages/org.openfoodfacts.scanner/,live,F-Droid listing org.openfoodfacts.scanner
