@@ -1,0 +1,7 @@
+status: batch75 done (2026-10-12 00:13 PKT)
+batch75: apps.md lines 3707-3756, 50 apps, no dupes
+rows: 81 (41 license, 40 platforms) | apps verified: 46 of 50 | skipped: 4 (AI Telemetry Collector, Client Python, Dock STARTer, Excel Merge - identity ambiguity; Codiga/FAB Builder/EasyEDA Pro platforms-only)
+license badges: 34 Open source, 4 Proprietary-free, 1 freemium, 1 paid subscription (dataspell, sunset), 1 paid (DevT Pro $5.99)
+assembler spot-checks: 6/6 OSS claims confirmed against raw license text (Bless GPL-2.0-or-later; Cartero GPL-3.0-or-later; Budgie Previews GPL-3.0-or-later; CoinKiller GPL-3.0-or-later on moved repo ExplosBlue; Amide GPL-2.0-only via maintained fork; DadosD GPL-3.0-only - source_url fixed to f-droid.org, hackintosh5.gitlab.io mirror rejected)
+catches: CoinKiller repo moved Arisotura->ExplosBlue; dataspell discontinued 2026-05-28 (subscriptions -> PyCharm Pro); Digger infra (t8y2/digger IaC, not the OSINT profiler); Dejavu = Python library (non-app); CraftOS-PC Accelerated = official LuaJIT edition; EdiTidE Public domain (CC0-1.0); Engauge canonical repo deleted (restored fork); Bella = Bella Color Picker (josephmawa); bcc = BPF Compiler Collection (iovisor); .NET Core SDK MIT (dotnet/sdk, not archived); ADBKeyBoard GPL-2.0-only (abandoned)
+next: batch 76 (lines 3757-3806). remaining: 76, 77.
