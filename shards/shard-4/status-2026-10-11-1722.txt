@@ -1,0 +1,6 @@
+shard4 expansion batch29 - Shard 2
+apps.md lines 1407-1456 (50 apps). 64 rows pushed: 38 apps verified (34 license + 30 platform rows). 12 skipped with reason: identity ambiguity (Blobmaker, Boats, Burst, CAM DUMPER, Camera Folder, CanvasNote, Colorize, ColorSpace, Dimmy, Drawy, Esp32 Cam Webserver), thin grounding (fbostudios).
+Thin-grounding drops pre-push: DV Analyzer + Electric platforms rows; Cinema Slate platforms row; Chronoframe license row; CSS Gradient license row; Deepin Movie platforms row; fakecam license row (README MIT vs no LICENSE file).
+Notable: Deep Live Cam AGPL-3.0-only conservative; Dash Kapeli $2.35/mo proprietary paid subscription; Cura LGPL-3.0-or-later; Daikhan AGPL-3.0-or-later from GitLab metainfo (AUR GPL-3.0 claim overruled); Chevereto Free AGPLv3; Ente Photos (Unofficial) AGPL-3.0 flagged unofficial variant.
+0 schema issues; 0 banned sources; dual-write intact.
+Next: batch 30 (apps.md lines 1457-1506).
