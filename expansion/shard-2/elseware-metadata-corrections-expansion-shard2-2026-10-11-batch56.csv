@@ -1,0 +1,49 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Tablecruncher,license,,Open source,GPL-3.0,"macOS, Windows, Linux",https://github.com/Tablecruncher/tablecruncher,live,"A lightweight, powerful CSV editor with built-in JavaScript macros; GitHub API spdx_id GPL-3.0"
+Tablecruncher,platforms,,"macOS, Windows, Linux",,,https://tablecruncher.com,live,"Official site: open-source CSV editor for Mac, Windows and Linux"
+Tailwind Color Picker,license,,Open source,MIT,,https://github.com/Nutlope/tailwind-color-picker,live,Chrome extension color picker for Tailwind; license declared as MIT in package.json (no LICENSE file in repo)
+Tailwind Color Picker,platforms,,Web,,,https://github.com/Nutlope/tailwind-color-picker,live,Chrome browser extension
+Tauri Tavern,license,,Open source,AGPL-3.0,"Windows, macOS, Linux, Android, iOS",https://github.com/Darkatse/TauriTavern,live,SillyTavern native app (Tauri); GitHub API spdx_id AGPL-3.0
+Tauri Tavern,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://github.com/Darkatse/TauriTavern,live,"README platform badges: Windows, macOS, Linux, Android, iOS (TestFlight)"
+Telegraph Image,license,,Open source,CC0-1.0,,https://github.com/cf-pages/Telegraph-Image,live,"Cloudflare Pages image hosting solution; GitHub API spdx_id CC0-1.0; self-hosted service, no end-user OS platforms"
+Terminal Browser,license,,Open source,MIT,"macOS, Linux, Windows (via WSL)",https://github.com/zenbu-labs/terminal-browser,live,A real browser that runs inside the terminal; GitHub API spdx_id MIT
+Terminal Browser,platforms,,"macOS, Linux, Windows (via WSL)",,,https://github.com/zenbu-labs/terminal-browser,live,README install: macOS and Linux via curl/Homebrew; Windows requires WSL
+Tev,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/Tom94/tev,live,High dynamic range (HDR) image viewer; GitHub API spdx_id GPL-3.0
+Tev,platforms,,"Windows, macOS, Linux",,,https://github.com/Tom94/tev,live,"README install: Windows installer/exe, Linux AppImage, macOS dmg"
+Tikzit,license,,Open source,GPL-3.0,,https://github.com/tikzit/tikzit,live,pgf/TikZ diagram editor; GitHub API SPDX GPL-3.0
+Tikzit,platforms,,"Windows, macOS, Linux",,,https://tikzit.github.io,live,Official site documents Windows macOS and Linux builds
+Tinyfilemanager,license,,Open source,GPL-3.0,,https://github.com/prasathmani/tinyfilemanager,live,Single-file PHP file manager; GitHub API SPDX GPL-3.0
+Tinyfilemanager,platforms,,Web,,,https://github.com/prasathmani/tinyfilemanager,live,Browser-based single PHP file; self-hosted
+Toxiproxy,license,,Open source,MIT,,https://github.com/Shopify/toxiproxy,live,TCP proxy for chaos testing; developer tool; GitHub API SPDX MIT
+Transmission Remote,license,,Open source,GNU GPL-2.0,,https://github.com/transmission-remote-gui/transgui,live,GitHub API spdx_id on transmission-remote-gui/transgui; official TransGUI project
+Transmission Remote,platforms,,Windows; macOS; Linux,,,https://github.com/transmission-remote-gui/transgui,live,README: native application for Windows Linux and macOS
+Tremotesf,license,,Open source,GNU GPL-3.0-or-later,,https://github.com/equeim/tremotesf2,live,LICENSE is REUSE-style pointer to LICENSES/GPL-3.0-or-later.txt; official remote GUI for transmission-daemon
+Tremotesf,platforms,,Linux; Windows,,,https://github.com/equeim/tremotesf2,live,README: supports GNU/Linux and Windows
+Trlx,license,,Open source,MIT,,https://github.com/CarperAI/trlx,live,GitHub API spdx_id on CarperAI/trlx; Python RLHF fine-tuning library not an end-user app
+Ts Rest,license,,Open source,MIT,,https://github.com/ts-rest/ts-rest,live,GitHub API spdx_id on ts-rest/ts-rest; TypeScript RPC library not an end-user app
+Tuya Convert,license,,Open source,MIT,,https://github.com/ct-Open-Source/tuya-convert,live,GitHub API spdx_id on ct-Open-Source/tuya-convert; IoT flashing scripts not an end-user app
+Typecatcher,license,,Open source,GNU GPL-3.0,,https://github.com/andrewsomething/typecatcher,live,GitHub API spdx_id on andrewsomething/typecatcher; download Google webfonts on the Linux desktop
+Typecatcher,platforms,,Linux,,,https://github.com/andrewsomething/typecatcher,live,README: Ubuntu/Linux font downloader tool
+ubuntu-desktop-bootstrap,license,,Open source,GNU GPL-3.0,,https://github.com/canonical/ubuntu-desktop-provision,live,standalone canonical/ubuntu-desktop-bootstrap repo no longer exists; component merged into ubuntu-desktop-provision (GitHub API SPDX GPL-3.0); Ubuntu installer component not a distributable end-user app
+Ukui Biometric Manager,license,,Open source,GNU GPL-3.0,,https://github.com/ukui/ukui-biometric-manager,live,GitHub API spdx_id on ukui/ukui-biometric-manager; manager for biometric authentication
+Ukui Biometric Manager,platforms,,Linux,,,https://github.com/ukui/ukui-biometric-manager,live,UKUI desktop environment component
+UNIT3 D,license,,Open source,AGPL-3.0,,https://github.com/HDInnovations/UNIT3D,live,GitHub API spdx_id on HDInnovations/UNIT3D; private torrent tracker built with Laravel
+UNIT3 D,platforms,,Web,,,https://github.com/HDInnovations/UNIT3D,live,self-hosted Laravel web application
+Uppload,license,,Open source,MIT,,https://github.com/elninotech/uppload,live,JavaScript file-upload widget library; no end-user OS platforms
+URLCheck,license,,Open source,CC-BY-4.0,,https://github.com/TrianguloY/URLCheck,live,Repo README License section and F-Droid metadata both list CC-BY-4.0
+URLCheck,platforms,,Android,,,https://f-droid.org/packages/com.trianguloy.urlchecker/,live,F-Droid package listing
+Vanilla Colorful,license,,Open source,MIT,,https://github.com/web-padawan/vanilla-colorful,live,Tiny color-picker web-component library; no end-user OS platforms
+VD Ahk,license,,Open source,MIT,,https://github.com/FuPeiJiang/VD.ahk,live,Raw LICENSE is MIT License text; AutoHotkey script for Windows virtual desktops
+VD Ahk,platforms,,Windows,,,https://github.com/FuPeiJiang/VD.ahk,live,AutoHotkey script for Windows virtual desktops (repo notes Windows 11 support)
+Verbiste,license,,Open source,GPL-2.0-or-later,,https://salsa.debian.org/debian/verbiste,live,Debian copyright for Pierre Sarrazin upstream: License GPL-2+
+Verbiste,platforms,,Linux,,,https://salsa.debian.org/debian/verbiste,live,French/Italian verb-conjugation suite (GNOME GUI + CLI)
+Vita Shell,license,,Open source,GPL-3.0,,https://github.com/TheOfficialFloW/VitaShell,live,Multi-functional file manager for PS Vita homebrew; no desktop/mobile OS platforms
+Vue Torrent,license,,Open source,GPL-3.0,,https://github.com/VueTorrent/VueTorrent,live,GitHub API spdx_id on VueTorrent/VueTorrent; self-hosted WebUI for qBittorrent
+Vue Torrent,platforms,,Web,,,https://github.com/VueTorrent/VueTorrent,live,Repo description: sleekest WebUI for qBittorrent; browser-accessed
+Wasistlos,license,,Open source,GPL-3.0,,https://github.com/xeco23/WasIstLos,live,GitHub API spdx_id on xeco23/WasIstLos; unofficial WhatsApp desktop app
+Wasistlos,platforms,,Linux,,,https://github.com/xeco23/WasIstLos,live,Repo description: unofficial WhatsApp desktop application for Linux
+Wave In App,license,,Open source,MIT,,https://github.com/Cleveroad/WaveInApp,live,"GitHub API spdx_id on Cleveroad/WaveInApp; license row only (audio visualization Android library, not an end-user app)"
+Weasis,license,,Open source,EPL-2.0 OR Apache-2.0,,https://github.com/nroduit/Weasis,live,LICENSE file verified: Eclipse Public License 2.0 or Apache License 2.0; governs over GitHub API NOASSERTION
+Weasis,platforms,,Web,,,https://github.com/nroduit/Weasis,live,Repo description: web-based DICOM viewer for advanced medical imaging
+Web Activity Time Tracker,license,,Open source,MIT,,https://github.com/Stigmatoz/web-activity-time-tracker,live,GitHub API spdx_id on Stigmatoz/web-activity-time-tracker; Chrome extension that tracks and limits site time
+Web Activity Time Tracker,platforms,,Web,,,https://github.com/Stigmatoz/web-activity-time-tracker,live,Chrome browser extension per repo description
