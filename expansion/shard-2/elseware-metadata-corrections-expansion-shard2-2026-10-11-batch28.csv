@@ -1,0 +1,70 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+GEstimator,license,,Open source,GPL-3.0,Linux,https://github.com/manuvarkey/GEstimator,live,Civil estimation software; GitHub API license SPDX GPL-3.0
+GEstimator,platforms,,"Windows, Linux",,,https://github.com/manuvarkey/GEstimator,live,Windows download badge on README; Flathub for Linux
+GNOME Decoder,license,,Open source,GPL-3.0,Linux,https://gitlab.gnome.org/World/decoder,live,Raw LICENSE verified as GNU GPL v3 text; QR scanner/generator GNOME Circle app
+GNOME Decoder,platforms,,Linux,,,https://gitlab.gnome.org/World/decoder,live,GTK4 GNOME Circle app; Debian ships gnome-decoder
+Gv,license,,Open source,GPL-3.0-or-later,Linux,https://www.gnu.org/software/gv/,live,Official GNU page: license GPLv3 or later; GNU Ghostview graphical Ghostscript interface
+Gv,platforms,,Linux,,,https://www.gnu.org/software/gv/,live,Views PostScript and PDF documents on an X display
+Inkdrop,license,,Proprietary — paid subscription,$9.98/month with 30-day free trial,,https://inkdrop.app/pricing/,live,Official pricing page: one Basic plan monthly billing
+Inkdrop,platforms,,"macOS, Windows, Linux, iOS, Android",,,https://inkdrop.app/pricing/,live,Multi-platform Markdown note-taking app per official site
+IRPF 2024,license,,Proprietary — free,government tax software free of charge,,https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/dirpf,live,Brazilian Federal Revenue PGD income tax program; free official download
+IRPF 2024,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/dirpf,live,Windows MacOS Linux multiplataforma versions plus Meu Imposto de Renda mobile app
+Jorts,license,,Open source,GPL-3.0,Linux,https://github.com/elly-code/jorts,live,GitHub API license SPDX GPL-3.0; sticky notes app for elementary OS
+Jorts,platforms,,"Linux, Windows",,,https://github.com/elly-code/jorts/blob/HEAD/README.md,live,Flathub elementary AppCenter; Windows exe installers in releases
+Kapow Punch Clock,license,,Open source,GPL-3.0,Linux,https://gottcode.org/kapow/,live,Official site: GPL version 3
+Kapow Punch Clock,platforms,,"Linux, Windows",,,https://gottcode.org/kapow/,live,Linux Ubuntu PPA; Windows 10 x64 and portable builds
+Koncentro,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/kun-codes/koncentro,live,GitHub API license SPDX GPL-3.0; Pomodoro productivity app
+Koncentro,platforms,,"Windows, macOS, Linux",,,https://github.com/kun-codes/koncentro/blob/HEAD/README.md,live,README: works on Windows macOS and Linux; Flathub and WinGet
+LibreOffice Math,license,,Open source,MPL-2.0,"Windows, macOS, Linux",https://github.com/LibreOffice/core,live,raw COPYING.MPL verified as MPL 2.0 text; LibreOffice Math is the formula-editor component of the suite
+LibreOffice Math,platforms,,"Windows, macOS, Linux",,,https://www.libreoffice.org/download/download-libreoffice/,live,download page lists Windows x86-64/ARM64 and macOS dmg builds; Linux builds standard
+Lios,license,,Open source,GPL-3.0,Linux,https://github.com/zendalona/lios,live,raw LICENSE verified as GPL v3 text; README states released under GPL-3
+Lios,platforms,,Linux,,,https://github.com/zendalona/lios,live,Python3 Linux OCR app (scanner/camera input; aspell integration)
+Mindwtr,license,,Open source,AGPL-3.0,"Windows, macOS, Linux, Android, iOS, Web",https://github.com/dongdongbh/Mindwtr,live,GitHub API spdx_id AGPL-3.0; raw LICENSE verified as AGPL v3 text
+Mindwtr,platforms,,"Windows, macOS, Linux, Android, iOS, Web",,,https://github.com/dongdongbh/Mindwtr,live,desktop + mobile (Google Play/F-Droid) + web per README
+MyGNUHealth,license,,Open source,GPL-3.0,Linux,https://github.com/kant/mygnuhealth,live,raw LICENSE verified as GPL v3 text; GNU Health Personal Health Record app
+MyGNUHealth,platforms,,Linux,,,https://github.com/kant/mygnuhealth,live,README: desktop and mobile for Libre operating systems (BSD/GNU/Linux); Qt/Kirigami
+Nocodb,license,,Source-available,Sustainable Use License 1.0,Web,https://github.com/nocodb/nocodb,live,LICENSE.md (updated 2026-01-29): use/modify only for internal business or non-commercial/personal use; relicensed from AGPL-3.0; NC restriction = Source-available per playbook
+Nocodb,platforms,,Web,,,https://github.com/nocodb/nocodb,live,self-hosted no-code database platform (Docker)
+Open Scan,license,,Open source,BSD-3-Clause,Android,https://github.com/ethereal-developers/OpenScan,live,GitHub API spdx_id BSD-3-Clause; IzzyOnDroid metadata confirms BSD-3-Clause (org renamed from Ethereal-Developers-Inc)
+Open Scan,platforms,,Android,,,https://github.com/ethereal-developers/OpenScan,live,IzzyOnDroid + Google Play (com.ethereal.openscan)
+OutWiker,license,,Open source,GPL-3.0,"Windows, Linux",https://github.com/Jenyay/outwiker,live,GitHub API spdx_id GPL-3.0; tree-structured note keeper
+OutWiker,platforms,,"Windows, Linux",,,https://github.com/Jenyay/outwiker,live,README CI badges for Windows and Linux builds
+Papra,license,,Open source,AGPL-3.0,Web (self-hosted),https://github.com/papra-hq/papra,live,Minimalistic document management/archiving platform; AGPL-3.0 per GitHub API; self-hosted via Docker
+Papra,platforms,,Web (self-hosted),,,https://github.com/papra-hq/papra,live,README: demo.papra.app + self-hosting via Docker
+Pdfarranger,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/pdfarranger/pdfarranger,live,Python-GTK PDF merge/split/rotate/rearrange tool; GPL-3.0 per GitHub API
+Pdfarranger,platforms,,"Windows, macOS, Linux",,,https://github.com/pdfarranger/pdfarranger,live,"README install section lists Linux packages, Windows installer, macOS"
+Protégé,license,,Open source,BSD-3-Clause,"Windows, macOS, Linux",https://github.com/protegeproject/protege,live,Stanford ontology editor; raw license.txt verified as BSD 3-clause (Stanford 2014); README states free open-source
+Protégé,platforms,,"Windows, macOS, Linux",,,https://github.com/protegeproject/protege,live,"Release assets: -win.zip, -mac.zip, -linux.tar.gz, platform-independent"
+Qpdf Tools,license,,Open source,Unlicense (public domain),Linux,https://github.com/silash35/qpdftools,live,Qt interface for Ghostscript and QPDF; raw UNLICENSE verified as public-domain dedication; GitHub API spdx_id Unlicense
+Qpdf Tools,platforms,,Linux,,,https://github.com/silash35/qpdftools,live,Flathub (br.eng.silas.qpdftools) + Ubuntu PPA; README install via wiki
+Quick Lookup,license,,Open source,GPL-3.0,Linux,https://github.com/johnfactotum/quick-lookup,live,GTK dictionary app powered by Wiktionary; GPL-3.0 per GitHub API and Flathub (GPL-3.0-or-later)
+Quick Lookup,platforms,,Linux,,,https://github.com/johnfactotum/quick-lookup,live,Flathub desktop application com.github.johnfactotum.QuickLookup
+Simple Scan,license,,Open source,GPL-3.0,Linux,https://gitlab.gnome.org/GNOME/simple-scan,live,"GNOME simple-scan (org.gnome.SimpleScan) document scanning app; GPL-3.0 per GitHub mirror API; identity note: matches GNOME Simple Scan, not unrelated Android scanner apps"
+Simple Scan,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/simple-scan,live,GNOME Document Scanner for Linux using SANE drivers
+System Config Printer,license,,Open source,GPL-2.0,Linux,https://github.com/OpenPrinting/system-config-printer,live,Graphical user interface for CUPS administration; GPL-2.0 per GitHub API (OpenPrinting)
+System Config Printer,platforms,,Linux,,,https://github.com/OpenPrinting/system-config-printer,live,CUPS printer configuration GUI for Linux desktops
+Webpack Dev Server,license,,Open source,MIT,,https://github.com/webpack/webpack-dev-server,live,GitHub API spdx_id MIT on webpack/webpack-dev-server; npm dev server
+123RF,license,,Proprietary — paid subscription,PLUS subscription tiers + on-demand credits,,https://www.123rf.com/products/?promocode=BFCM20,live,Official pricing page: PLUS subscriptions and credit packs; no free tier for full assets
+123RF,platforms,,Web,,,https://www.123rf.com/products/?promocode=BFCM20,live,Web-based stock media site
+A Photo Tool (Libre),license,,Open source,GPL-3.0,,https://github.com/aphototool/A-Photo-Tool-Libre,live,GitHub API spdx_id GPL-3.0 on aphototool/A-Photo-Tool-Libre (Jari Ahola)
+A Photo Tool (Libre),platforms,,Linux,,,https://github.com/aphototool/A-Photo-Tool-Libre,live,Distributed as AppImage
+acestreamplayer,license,,Proprietary — free,Proprietary per Snap Store publisher declaration,,https://snapcraft.io/acestreamplayer,live,Snap Store lists license as Proprietary; free to install
+acestreamplayer,platforms,,Linux,,,https://snapcraft.io/acestreamplayer,live,Snap package for Linux
+Adobe Lightroom,license,,Proprietary — paid subscription,Plans from $11.99/mo (7-day trial),,https://www.adobe.com/za/products/photoshop-lightroom/plans.html,live,Official Adobe plans page: subscription required; 7-day free trial only
+Adobe Lightroom,platforms,,"Windows, macOS, iOS, Android, Web",,,https://www.adobe.com/za/products/photoshop-lightroom/plans.html,live,Adobe: full version of Lightroom for mobile desktop and web
+Ahoviewer,license,,Open source,MIT,,https://github.com/ahodesuka/ahoviewer,live,GitHub API spdx_id MIT on ahodesuka/ahoviewer; AUR also lists MIT
+Ahoviewer,platforms,,Linux,,,https://github.com/ahodesuka/ahoviewer,live,GTK2/GTK3 desktop image viewer (manga reader and booru browser)
+Airtame,license,,Proprietary — free,Free download; requires paid Airtame hardware,,https://apps.apple.com/us/app/airtame/id6575386582?uo=4,live,App Store lists Airtame app by AIRTAME APS as Free; app is a companion for paid Airtame hardware
+Airtame,platforms,,"Windows, macOS, Linux, ChromeOS, iOS",,,http://help.airtame.com/hc/en-us/articles/4634584001693-How-to-configure-a-new-Airtame-screen,live,Official help center: app available for Windows macOS Linux Chromebooks; iOS app on App Store
+Android IP Camera,license,,Open source,MIT,,https://f-droid.org/en/packages/com.github.digitallyrefined.androidipcamera/,live,F-Droid package com.github.digitallyrefined.androidipcamera; GitHub API spdx_id MIT on DigitallyRefined/android-ip-camera
+Android IP Camera,platforms,,Android,,,https://f-droid.org/en/packages/com.github.digitallyrefined.androidipcamera/,live,Android IP camera app (F-Droid)
+AniFX (WINE),license,,Proprietary — free,Freeware for personal and business use,Windows,https://portableapps.com/news/2019-08-05--anifx-portable-1.0-rev-3-released,live,Cursor editor by Attila Kovrig; freeware for personal and business use; catalog annotates Linux via WINE
+AniFX (WINE),platforms,,Windows,,,https://portableapps.com/news/2019-08-05--anifx-portable-1.0-rev-3-released,live,Windows app; catalog lists it for Linux via WINE
+Antimony,license,,Open source,MIT (released under the MIT License per README; GitHub API reports NOASSERTION),"macOS, Linux",https://github.com/mkeeter/antimony,live,Open-source 3D solid-modeling CAD by Matt Keeter; license verified from raw README license section
+Antimony,platforms,,"macOS, Linux",,,https://github.com/mkeeter/antimony,live,Pre-built app Mac only; build from source Mac and Linux per README
+ART,license,,Open source,GPL-3.0 (raw LICENSE.txt verified as GNU GPL v3 text),,https://github.com/artraweditor/ART,live,ART raw image processor by Alberto Griggio; GitHub mirror (artraweditor/ART); platforms row skipped - cross-platform claimed but OS list unverified
+Audex,license,,Open source,GPL-3.0-or-later,Linux,https://apps.kde.org/audex/,live,KDE audio CD ripper; license per apps.kde.org SPDX link
+Audex,platforms,,Linux,,,https://apps.kde.org/audex/,live,Linux (KDE)
+Aves,license,,Open source,BSD-3-Clause (GitHub API spdx_id on deckerst/aves),Android,https://github.com/deckerst/aves,live,Gallery and metadata explorer app built with Flutter
+Aves,platforms,,Android,,,https://github.com/deckerst/aves,live,Android
+Betterplayer,license,,Open source,Apache-2.0 (GitHub API spdx_id on jhomlala/betterplayer),,https://github.com/jhomlala/betterplayer,live,Flutter video player plugin (library) not an end-user app; platforms row skipped - N/A for library
