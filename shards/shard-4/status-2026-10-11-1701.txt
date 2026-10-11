@@ -1,0 +1,4 @@
+Shard 4 Phase-2 batch 25 COMPLETE (Shard 2 takeover) - expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch25.csv (81 rows).
+45 of 50 apps verified (40 license + 41 platform rows), 5 fully skipped with reason: Drum Machine (ambiguous name), ESTMusic Player (no identifiable product), Grig (repos 404), Hamexam (ambiguous entry), Hut Hut (ambiguous identity). 7 more skipped license-or-platforms rows on thin/conflicting grounding (Kluppe license, Exfalso/FCast platforms, Ffado Mixer Qt4/Flmsg/Fmit/Gmtp licenses, Jack Mixer/MPD platforms).
+Self-audits: all GPL version grants read from raw text/headers (never assumed); Musekit F-Droid "GPL-3.0-or-later" claim overruled by repo text → GPL-3.0-only; Muffon AGPL-3.0-only; JJazzLab LGPL-2.1; Mopidy/Music Assistant Desktop Apache-2.0; Monophony ISC; Kasts GPL-2.0-or-later per publisher Snap listing (third-party GPLv3 claim discarded).
+Next: batch 26 (apps.md lines 1257-1306).
