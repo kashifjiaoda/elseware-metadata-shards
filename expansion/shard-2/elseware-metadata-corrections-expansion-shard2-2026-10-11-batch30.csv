@@ -1,0 +1,78 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Fluffyboard,license,,Open source,GPL-3.0,,https://github.com/Y0ngg4n/fluffy_board,live,Self-described open-source self-hostable whiteboard; GitHub API license GPL-3.0
+Fluffyboard,platforms,,Android,,,https://github.com/Y0ngg4n/fluffy_board,live,F-Droid listing (pro.oblivioncoding.fluffy_board) + Play Store badge in README
+flutter-folio,license,,Open source,MIT,,https://github.com/gskinnerTeam/flutter-folio,live,README confirms MIT licensed code
+flutter-folio,platforms,,"Windows, macOS, Linux, Android, iOS, Web",,,https://github.com/gskinnerTeam/flutter-folio,live,README: targeting iOS Android MacOS Windows Linux and web
+Font Viewer,license,,Open source,GPL-2.0-or-later,,https://gitlab.gnome.org/GNOME/gnome-font-viewer,live,GNOME Font Viewer; source headers confirm GPLv2-or-later
+Font Viewer,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/gnome-font-viewer,live,GNOME desktop utility
+Fontface Ninja,license,,Proprietary — free,,,https://chromewebstore.google.com/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh?hl=ja,live,Product renamed to Fonts Ninja (fonts.ninja); store listing says Free
+Fontface Ninja,platforms,,Web,,,https://chromewebstore.google.com/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh?hl=ja,live,Chrome Firefox and Safari browser extension
+FontPair,license,,Proprietary — free,,,https://fontpair.co,live,Curated free Google Font pairing resource; no source published
+FontPair,platforms,,Web,,,https://fontpair.co,live,Online font pairing site
+FOSStriangulator,license,,Open source,GPL-2.0,,https://github.com/FOSStriangulator/FOSStriangulator,live,LICENSE.md: distributed under GNU General Public License version 2
+FOSStriangulator,platforms,,"Windows, Linux",,,https://github.com/FOSStriangulator/FOSStriangulator,live,Flathub + Microsoft Store download badges; JAR release cross-platform
+FreeShow,license,,Open source,GPL-3.0-only,,https://snapcraft.io/freeshow,live,Snap Store license field GPL-3.0-only; GitHub ChurchApps/FreeShow
+FreeShow,platforms,,"Windows, macOS, Linux",,,https://snapcraft.io/freeshow,live,.exe .dmg .AppImage releases
+Geotag video camera,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/org.app.geotagvideocamera/,live,F-Droid package org.app.geotagvideocamera lists GPL-3.0-only
+Geotag video camera,platforms,,Android,,,https://f-droid.org/packages/org.app.geotagvideocamera/,live,
+Gifcurry,license,,Open source,BSD-3-Clause,,https://snapcraft.io/gifcurry,live,Snap Store package gifcurry declares BSD-3-Clause license
+Gifcurry,platforms,,Linux,,,https://snapcraft.io/gifcurry,live,
+Giraffe Player,license,,Open source,Apache-2.0,,https://github.com/tcking/GiraffePlayer,live,Android video player library (import module) - no end-user platforms
+Glyphs,license,,Proprietary — paid,,,https://glyphsapp.com/buy,live,Glyphs 4 EUR 319 one-time; Glyphs Mini EUR 49 one-time
+Glyphs,platforms,,macOS,,,https://glyphsapp.com/buy,live,
+GNOME Snapshot,license,,Open source,GPL-3.0-or-later,,https://gitlab.gnome.org/GNOME/snapshot,live,Raw LICENSE is GPL v3 with or-later clause
+GNOME Snapshot,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/snapshot,live,
+Govips,license,,Open source,MIT,,https://github.com/davidbyttow/govips,live,Go image processing library - no end-user platforms
+Gpicview,license,,Open source,GPL-2.0,,https://github.com/lxde/gpicview,live,LXDE lightweight image viewer
+Gpicview,platforms,,Linux,,,https://github.com/lxde/gpicview,live,
+Graphic Springs,license,,Proprietary — freemium,,,https://www.graphicsprings.com/,live,Free tier limited without commercial rights; Premium AI via paid credits
+Graphic Springs,platforms,,Web,,,https://www.graphicsprings.com/,live,
+Griffith,license,,Open source,GPL-2.0,,https://github.com/micjahn/Griffith,live,Film collection manager released under GNU/GPL
+Griffith,platforms,,"Linux, Windows",,,https://github.com/micjahn/Griffith,live,
+Guvcview,license,,Open source,GPL-2.0-or-later,Linux,https://sourceforge.net/p/guvcview/git-master/ci/master/tree/COPYING?format=raw,live,raw COPYING verified as GPL v2 text; webcam app by Paulo Assis
+Guvcview,platforms,,Linux,,,https://guvcview.sourceforge.net/,live,V4L2 webcam application for Linux desktop
+Hashcheck,license,,Open source,BSD-3-Clause,Windows,http://code.kliu.org/hashcheck/,live,official site: open-source under BSD-style license; 3-Clause BSD per license.txt
+Hashcheck,platforms,,Windows,,,http://code.kliu.org/hashcheck/,live,Windows shell extension (Windows XP or newer)
+Homr,license,,Open source,AGPL-3.0,,https://github.com/liebharc/homr,live,GitHub API spdx_id AGPL-3.0; optical music recognition (sheet music to MusicXML)
+Homr,platforms,,"Windows, macOS, Linux",,,https://github.com/liebharc/homr,live,Python 3.11 package (pip/uvx/Poetry); runs on any OS with Python 3.11
+Hugin,license,,Open source,GPL-2.0-or-later,"Linux, Windows, macOS, FreeBSD",http://hugin.sourceforge.io/,live,official site references General Public License; GPLv2-or-later panorama stitcher
+Hugin,platforms,,"Linux, Windows, macOS, FreeBSD",,,http://hugin.sourceforge.io/download/,live,official download page: Linux Windows MacOSX and Unix systems incl. FreeBSD
+iCloud Photo Downloader,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/icloud-photos-downloader/icloud_photos_downloader,live,GitHub API spdx_id MIT; canonical ndimitrakas CLI (12k+ stars)
+iCloud Photo Downloader,platforms,,"Windows, macOS, Linux",,,https://github.com/icloud-photos-downloader/icloud_photos_downloader,live,Python/Docker/npm CLI; cross-platform
+Iconmonstr,license,,Proprietary — free,,Web,https://iconmonstr.com/,live,free icon library website; icons free for personal and commercial use; service itself closed/proprietary
+Iconmonstr,platforms,,Web,,,https://iconmonstr.com/,live,web-based icon library
+"Image compression, webp & jp2 -Squeezeim",license,,Open source,MIT,Linux,https://snapcraft.io/install/squeezeimg/manjaro,live,Snap Store declares license MIT for squeezeimg package; squeezeimg.com
+"Image compression, webp & jp2 -Squeezeim",platforms,,Linux,,,https://snapcraft.io/install/squeezeimg/manjaro,live,Linux snap; batch image compression and webp/jp2 conversion
+Image Roll,license,,Open source,MIT,Linux,https://github.com/weclaw1/image-roll,live,GitHub API SPDX MIT; GTK4 Rust image viewer
+Image Roll,platforms,,Linux,,,https://flathub.org/en-GB/apps/com.github.weclaw1.ImageRoll,live,Flathub listing
+ImageFan Reloaded,license,,Open source,GPL-3.0,"Linux, Windows",https://github.com/mihnea-radulescu/imagefanreloaded,live,raw LICENSE verified as GNU GPL v3; GitHub API SPDX GPL-3.0
+ImageFan Reloaded,platforms,,"Linux, Windows",,,https://github.com/mihnea-radulescu/imagefanreloaded,live,README: .NET 10 on Linux and Windows
+Imagemagick 7.q16hdri,license,,Open source,ImageMagick License,"Windows, macOS, Linux",https://imagemagick.org/license/,live,Apache-2.0-style permissive license; verified on official license page
+Imagemagick 7.q16hdri,platforms,,"Windows, macOS, Linux",,,https://imagemagick.org/license/,live,official downloads for Windows/macOS/Linux; 7.x Q16 HDRI build
+Inochi Creator,license,,Open source,BSD-2-Clause,"Windows, Linux",https://github.com/Inochi2D/inochi-creator,live,GitHub API SPDX BSD-2-Clause
+Inochi Creator,platforms,,"Windows, Linux",,,https://github.com/Inochi2D/inochi-creator,live,README downloads: Windows and Linux builds; Steam + itch.io
+Ionicons,license,,Open source,MIT,,https://github.com/ionic-team/ionicons,live,"GitHub API SPDX MIT; icon library (web components), no end-user platforms"
+Isoimagewriter,license,,Open source,GPL-3.0-or-later,"Linux, Windows",https://github.com/KDE/isoimagewriter,live,LICENSES dir holds GPL-3.0-or-later.txt; KDE ISO Image Writer
+Isoimagewriter,platforms,,"Linux, Windows",,,https://github.com/KDE/isoimagewriter,live,README: Snap/Flatpak/AppImage/Windows binaries
+Jellyfin MPV Shim,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/jellyfin/jellyfin-mpv-shim,live,raw LICENSE.md: entire work subject to GPLv3
+Jellyfin MPV Shim,platforms,,"Windows, macOS, Linux",,,https://github.com/jellyfin/jellyfin-mpv-shim,live,"README: Windows binary, Linux Flathub/pip, macOS installation"
+Jupii,license,,Open source,MPL-2.0,"Linux, Sailfish OS",https://github.com/mkiol/Jupii,live,UPnP/DLNA media player; GitHub API spdx_id MPL-2.0
+Jupii,platforms,,"Linux, Sailfish OS",,,https://github.com/mkiol/Jupii,live,Flatpak on Flathub for Linux desktop; Sailfish OS via OpenRepos
+kachlan,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/kmtusher97/kachlan,live,Fast video compression tool (CLI + GUI); README states MIT licensed
+kachlan,platforms,,"Windows, macOS, Linux",,,https://github.com/kmtusher97/kachlan,live,Windows ZIP; macOS DMG; Linux .deb/Snap
+Karaoke Mugen,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/karaokemugen/karaokemugen-app,live,Karaoke player and manager; README states MIT License (GitHub backup of gitlab.com/karaokemugen/karaokemugen-app)
+Karaoke Mugen,platforms,,"Windows, macOS, Linux",,,https://mugen.karaokes.moe/en/,live,"Official site: runs on Windows, macOS or Linux"
+Kcolorchooser,license,,Open source,MIT,Linux,https://github.com/KDE/kcolorchooser,live,GitHub API spdx_id MIT on KDE/kcolorchooser
+Kcolorchooser,platforms,,Linux,,,https://github.com/KDE/kcolorchooser,live,KDE color picker utility
+Kgeotag,license,,Open source,GPL (version unspecified),Linux,https://invent.kde.org/graphics/kgeotag,live,README: published under the terms of the GNU General Public License (GPL)
+Kgeotag,platforms,,Linux,,,https://invent.kde.org/graphics/kgeotag,live,KDE photo geotagging program
+Kitsune,license,,Open source,Apache-2.0,Android,https://github.com/drumber/kitsune,live,GitHub API spdx_id Apache-2.0; Drumber's Android music player (io.github.drumber.kitsune)
+Kitsune,platforms,,Android,,,https://github.com/drumber/kitsune,live,Android music player
+Kodika,license,,Proprietary — freemium,,macOS,https://www.kodika.io/blog/app-development/how-much-does-it-cost-to-make-an-app,live,No-code app builder; free tier; paid Pro plans from 29.99 EUR/month per official pricing
+Kodika,platforms,,macOS,,,https://www.kodika.io/blog/app-development/how-much-does-it-cost-to-make-an-app,live,Builder app runs on macOS; builds iOS and Android apps
+Kooha,license,,Open source,GPL-3.0,Linux,https://github.com/SeaDve/Kooha,live,GitHub API spdx_id GPL-3.0; GNOME screen recorder
+Kooha,platforms,,Linux,,,https://github.com/SeaDve/Kooha,live,Linux screen recorder
+Ktikz,license,,Open source,GPL-2.0-or-later,"Windows, macOS, Linux",https://github.com/fhackenberger/ktikz,live,README: License GPL version 2 or later
+Ktikz,platforms,,"Windows, macOS, Linux",,,https://github.com/fhackenberger/ktikz,live,TikZ diagram editor; KDE and Qt builds
+Lahza,license,,Open source,MIT,Linux,https://github.com/FarhanAliRaza/Lahza,live,Cargo.toml declares MIT; screenshot and screen recording studio
+Lahza,platforms,,Linux,,,https://github.com/FarhanAliRaza/Lahza,live,Native Linux screenshot and screen recording studio
