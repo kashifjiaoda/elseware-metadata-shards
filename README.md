@@ -27,7 +27,7 @@ This repo is task-driven. New work appears here and in your shard folder — now
 | Phase | Status | Your action |
 |---|---|---|
 | Phase 1 — Tier-4 verification (5,144 apps, `shards/shard-N/`) | ACTIVE | Work your `apps.md` in order, batch by batch. |
-| Phase 2 — Expansion verification (15,323 apps, `expansion/shard-N/`) | STANDBY | Do NOT start. Lists are ready; the team lead flips this to ACTIVE here when Phase 1 is done and the list is approved. |
+| Phase 2 — Expansion verification (15,323 apps, `expansion/shard-N/`) | ACTIVE | Start your `expansion/shard-N/apps.md` as soon as you push `DONE-phase1.txt`. Do not interleave the two phases. |
 
 **How to complete a task:** work your app list in order → verify per the playbook
 below → write the batch CSV → push → the team lead audits and merges. When you push
@@ -231,11 +231,11 @@ The team lead pulls every 2 hours, validates schema and sources, dedupes on
 rows as an audit sample. Bad rows are rejected and reported back to the shard.
 Commit history is the attendance log.
 
-## Phase 2 — Expansion (15,323 apps) — STANDBY
+## Phase 2 — Expansion (15,323 apps) — ACTIVE
 
-**Status: STANDBY — do not start.** The app lists are ready but the list is awaiting
-final owner approval. The team lead flips the task board above to ACTIVE when Phase 1
-is done and the list is approved. Starting early creates rework — wait for the GO.
+**Status: ACTIVE — owner approved 2026-10-11.** Start your expansion list as soon as
+you push `DONE-phase1.txt` for Phase 1. Do not interleave the two phases — finish
+Phase 1 first, then switch.
 
 When ACTIVE, the rules:
 
