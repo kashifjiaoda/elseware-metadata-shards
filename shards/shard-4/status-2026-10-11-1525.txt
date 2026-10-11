@@ -1,6 +1,9 @@
-Shard 4 Phase-2 batch 16 COMPLETE (Shard 2).
-Pushed: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch16.csv (78 rows).
-5 chunks (ch16k1-5), schema-validated: 9 cols/row, valid badges, all live, platforms column empty on all rows, whitelisted sources only.
-44 apps verified (42 license + 36 platform rows), 6 skipped: Ricochet (ambiguous identity), Strimio (site HTTP 500), Summarize (name too generic), synthetic-things (no identifiable product), SinucaBoteco (no whitelisted source), Slimevolley (ambiguous identity).
-Notable: Termora AGPL-3.0 dual-licensed (proprietary option); Quetoo + React Native Sudoku license claims README-grounded (no raw LICENSE file, noted); Rxvt Unicode GPL-3.0-or-later claim rests on Guix attribution (upstream COPYING not raw-verified); Vlmcsd license ungrounded (NOASSERTION, no LICENSE file - platforms only); wagerr license-only; Vesktop (Unofficial) flagged as unofficial variant, rows verified against official Vesktop project.
-Next: Phase-2 batch 17 (expansion apps.md lines 807-856).
+Shard 4 Phase-2 expansion BATCH 17 pushed (Shard 2 doing shard-4 work).
+67 rows -> expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch17.csv
+42 of 50 apps verified; 11 skipped with reason per accuracy directive (ambiguous identity: Ricochet-adjacent? no -
+this batch's skips: currate (no matching app), Denaro (not a distinct app), Billance (untrustworthy sources),
+BitTicker (identity ambiguous), Books (name too generic), Car Coop (no match), App Monorepo (ambiguous),
+G1nkgo (no whitelisted source), plus 3 partial: Xsnow license no claim, Yakuake platforms no claim, wisdom platforms N/A).
+Assembly fixes: ch17k2 (empty field column -> 'license' inserted); Expense Owl license row dropped (fork-grounded, thin).
+All Open source/Source-available claims self-audited against raw LICENSE text. Zero aggregator sources.
+Next: batch 18 (apps.md lines 857-906).
