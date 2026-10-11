@@ -1,0 +1,14 @@
+Shard 4 status — expansion batch 69 (done by Shard 2)
+
+Pushed: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch69.csv
+Rows: 69 | Apps verified: 39 of 50 | Skipped with reason: 11
+
+Skips: Floating Clock, Jalalive:Live Scores & Stats (piracy-adjacent streaming; seller mismatch), Light Novel Reader, Lunar Python (aimbot-adjacent, excluded class), Musescore Downloader, NCalendar, PDF Box: PDF Reader & Tool, Office Website, Spreadsheet-xlsx&csv editor, Sam Waf, terafone.
+
+Assembler spot-checks (9 risky Open source/Source-available claims re-verified against raw license text — 0 corrections):
+Excalidraw Cn MIT; Flyingmouse Format Source-available (custom non-commercial license); Hugo Theme Academic CV MIT; Pot Desktop GPL-3.0-only (unfilled boilerplate); Saber Translator GPL-3.0-only (unfilled boilerplate); Typora Plugin MIT; Video Subtitle Extractor Apache-2.0; Yomitoku Source-available (CC BY-NC-SA 4.0); Cookie Cloud GPL-3.0-only (unfilled boilerplate).
+
+Notable: Kickcash Play seller COLLEGEDUNIA (brand mismatch); BeeX pinned to Indonesian cashback app via official site; DMSS-style brand-owner mismatches flagged.
+
+6 platform-separator normalizations (semicolons -> commas) pre-push.
+Next: batch 70 (apps.md lines 3457-3506).
