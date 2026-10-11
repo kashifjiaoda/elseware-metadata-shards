@@ -1,0 +1,3 @@
+Batch 27 complete (apps.md lines 1307-1356): 54 rows pushed, 36/50 apps verified (33 license + 21 platform apps), 14 skipped w/ reason (ambiguous identities, blocked sites, conflicting license claims).
+Assembly: normalized ch27k2 verification=yes->live (7 rows); Efax-gtk flathub URL kept (sourceforge string is in the app ID, host is whitelisted flathub.org).
+Notable: Yarr identity caveat flagged in notes (bluecap-se vs dinglebear-ai); Crystal Facet UML + DigiDoc4 READMEs vs NOASSERTION conflicts dropped; Feishu ungrounded within budget; GCAP 2026 not a software app.
