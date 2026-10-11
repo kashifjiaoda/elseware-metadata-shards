@@ -1,0 +1,8 @@
+shard-4 expansion batch48 (2026-10-11) - Shard 2
+Batch: apps.md lines 2357-2406 (50 unique apps, no dupes)
+Rows pushed: 81 (45 license + 36 platform) -> expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch48.csv (commit 733d5eb)
+Apps verified: 46 of 50
+Skipped: Grads (identity ambiguous), k4: 2 skips
+Assembler spot-checks: GLPI Agent GPL-2.0-or-later CONFIRMED (README GPLv2+ statement); GNOME Shell Extension Prefs CORRECTED GPL-3.0-or-later -> GPL-2.0-or-later (SPDX header in canonical GNOME/gnome-extensions-app; verifier had stale gnome-shell path), license + platforms rows re-grounded on canonical repo.
+Canonical-repo check: Goblim sources to developer's own git.mob-dev.fr (canonical upstream, F-Droid corroborated) - accepted as repo source.
+Validation: 81x9, all live, valid badges, whitelisted hosts only, dual-write byte-identical on all 5 chunks.
