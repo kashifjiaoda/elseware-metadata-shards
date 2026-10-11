@@ -1,0 +1,75 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Azura Cast,license,,Open source,GNU Affero General Public License v3.0 (AGPL-3.0),,https://api.github.com/repos/AzuraCast/AzuraCast/license,live,GitHub license API spdx_id AGPL-3.0 (self-hosted web radio suite)
+Azura Cast,platforms,,"Web, Linux",,,https://github.com/AzuraCast/AzuraCast,live,Self-hosted web app; runs on Linux servers
+BallBreak,license,,Open source,General Public License v3.0 (GPL-3.0),,https://api.github.com/repos/schorschii/BallBreak-Android/license,live,GitHub license API spdx_id GPL-3.0 on schorschii/BallBreak-Android
+BallBreak,platforms,,Android,,,https://github.com/schorschii/BallBreak-Android,live,Mini-game for mobile devices
+Berusky2,license,,Open source,General Public License v3.0 (GPL-3.0),,https://api.github.com/repos/stransky/berusky2/license,live,GitHub license API spdx_id GPL-3.0 on stransky/berusky2
+Berusky2,platforms,,"Windows, Linux",,,https://github.com/stransky/berusky2,live,Official homepage anakreon.cz lists Windows and Linux downloads
+Bim!,license,,Open source,AGPL-3.0,,https://github.com/j-jorge/bim,live,GitHub license API: AGPL-3.0 (j-jorge/bim)
+Bim!,platforms,,Android,,,https://github.com/j-jorge/bim,live,Android multiplayer online mobile game
+Biz Hawk,license,,Open source,MIT (Expat; some bundled files not free to share),,https://github.com/TASEmulators/BizHawk,live,README: EmuHawk and DiscoHawk under permissive MIT License; not all bundled files are free to share
+Biz Hawk,platforms,,"Windows, Linux",,,https://github.com/TASEmulators/BizHawk,live,README: latest dev builds for Windows and Linux
+BlackCandy,license,,Open source,MIT,,https://github.com/blackcandy-org/blackcandy,live,GitHub license API: MIT (blackcandy-org/blackcandy)
+BlackCandy,platforms,,"Web, Android",,,https://github.com/blackcandy-org/blackcandy,live,Self-hosted music streaming server (Docker); Android companion app
+Blichess,license,,Open source,GPL-3.0,,https://github.com/vovagorodok/blichess,live,GitHub license API: GPL-3.0 (vovagorodok/blichess)
+Blichess,platforms,,Android,,,https://github.com/vovagorodok/blichess,live,Android app (F-Droid com.vovagorodok.blichess + Play Store)
+Block Blast,license,,Proprietary — free,,,https://www.blockblast.com,live,Official site; F2P puzzle game by Hungry Studio with in-app ads
+Block Blast,platforms,,"iOS, Android",,,https://www.blockblast.com,live,Official site; available for iPad Android and iPhone
+BlockDrop: Block Puzzle,license,,Open source,MIT,,https://github.com/brandonp2412/BlockDrop,live,GitHub license API: MIT (brandonp2412/BlockDrop)
+BlockDrop: Block Puzzle,platforms,,"Android, iOS, Web, Windows, macOS, Linux",,,https://github.com/brandonp2412/BlockDrop,live,README: cross-platform (iOS Android Web Windows macOS Linux); F-Droid com.blockdrop.game
+Blocks Of The Undead,license,,Proprietary — free,,,http://www.gamecreation.org/games/blocks_of_the_undead,live,Game Creation Society (CMUGCS) Fall 2004 release; freeware
+Blocks Of The Undead,platforms,,"Windows, Linux",,,http://www.gamecreation.org/games/blocks_of_the_undead,live,Windows and Linux downloads
+Bluke,license,,Open source,AGPL-3.0,,https://github.com/arnav-kr/Bluke,live,GitHub license API: AGPL-3.0 (arnav-kr/Bluke)
+Bluke,platforms,,Android,,,https://github.com/arnav-kr/Bluke,live,Android app (Bluetooth HID keyboard gamepad trackpad)
+Boardgame Clock (Privacy Friendly),license,,Open source,GPL-3.0-or-later,,http://f-droid.org/packages/org.secuso.privacyfriendlyboardgameclock/,live,F-Droid listing: GNU General Public License v3.0 or later
+Boardgame Clock (Privacy Friendly),platforms,,Android,,,http://f-droid.org/packages/org.secuso.privacyfriendlyboardgameclock/,live,F-Droid listing
+Bookorbit,license,,Open source,AGPL-3.0,"Web, Android",https://github.com/bookorbit/bookorbit,live,GitHub API spdx_id AGPL-3.0 (bookorbit/bookorbit)
+Bookorbit,platforms,,"Web, Android",,,https://github.com/bookorbit/bookorbit,live,Self-hosted web app + Android client (deranjer/bookorbit-android)
+BoursoBank,license,,Proprietary — free,,,https://apps.apple.com/fr/app/boursobank/id425368900,live,Free banking app (formerly Boursorama); App Store FR id425368900
+BoursoBank,platforms,,"Android, iOS",,,https://apps.apple.com/fr/app/boursobank/id425368900,live,Play Store com.boursorama.android.clients (200 OK) + App Store FR
+Box64,license,,Open source,MIT License,,https://api.github.com/repos/ptitSeb/box64/license,live,GitHub API spdx_id MIT (ptitSeb/box64)
+Box64,platforms,,Linux,,,https://github.com/ptitSeb/box64,live,Linux userspace x86-64 emulator (ARM64/RISC-V/LoongArch hosts)
+Brainparty,license,,Open source,GPL-3.0-or-later,,https://metadata.ftp-master.debian.org/changelogs//main/b/brainparty/brainparty_0.61+dfsg-8_copyright,live,Debian copyright file states License: GPL-3+
+Brainparty,platforms,,Linux,,,https://packages.debian.org/bookworm/brainparty,live,Debian main package brainparty (36 puzzle games)
+Broker 1961,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/eu.veldsoft.broker,live,F-Droid listing eu.veldsoft.broker
+Broker 1961,platforms,,Android,,,https://f-droid.org/en/packages/eu.veldsoft.broker,live,F-Droid listing (1961 share-trading board game)
+bucklespring,license,,Open source,GPL-2.0,,https://api.github.com/repos/zevv/bucklespring/license,live,"GitHub API spdx_id GPL-2.0 (zevv/bucklespring, canonical upstream)"
+bucklespring,platforms,,Linux,,,https://github.com/zevv/bucklespring,live,Nostalgia bucklespring keyboard sound utility for Linux
+Bugdom 2,license,,Source-available,CC-BY-NC-SA-4.0,,https://raw.githubusercontent.com/jorio/Bugdom2/master/LICENSE.md,live,LICENSE.md is CC Attribution-NonCommercial-ShareAlike 4.0; non-commercial restriction fails OSI
+Bugdom 2,platforms,,Linux,,,https://flathub.org/apps/io.jor.bugdom2,live,Flathub io.jor.bugdom2 (jorio port of Pangea Software game)
+BZFlag,license,,Open source,LGPL-2.1 / MPL-2.0 (dual),,https://raw.githubusercontent.com/BZFlag-Dev/BZFlag/master/COPYING,live,COPYING: distributed under LGPL-2.1 or MPL-2.0 at your option
+BZFlag,platforms,,Linux,,,https://flathub.org/apps/org.bzflag.BZFlag,live,Flathub org.bzflag.BZFlag (Flathub confirms LGPL-2.1 or MPL-2.0)
+CAMLBOY,license,,Open source,MIT License,,https://github.com/linus/CAMLBOY,live,GitHub API spdx_id MIT; browser-based Game Boy emulator
+CAMLBOY,platforms,,Web,,,https://github.com/linus/CAMLBOY,live,Runs in browser per repo description
+Cap: Pirate Battleship,license,,Open source,MIT License,,https://forge.tedomum.net/cap-pirate-battleship/capbattleship,live,Official project site: free software (jeu libre) under MIT license; sources hosted there
+Cap: Pirate Battleship,platforms,,"Windows, macOS, Linux",,,https://forge.tedomum.net/cap-pirate-battleship/capbattleship,live,Flathub Linux package; Python game released for Linux macOS Windows
+Cards Score Keeper,license,,Open source,MIT License,,https://f-droid.org/en/packages/io.github.thachillera.cardsscorekeeper/,live,F-Droid listing: MIT License
+Cards Score Keeper,platforms,,Android,,,https://f-droid.org/en/packages/io.github.thachillera.cardsscorekeeper/,live,F-Droid Android package
+Cat Avatar Generator,license,,Open source,Apache-2.0,,https://github.com/agateau/cat-avatar-generator-app,live,README license section: code Apache 2.0 (artwork CC-BY David Revoy)
+Cat Avatar Generator,platforms,,Android,,,https://github.com/agateau/cat-avatar-generator-app,live,F-Droid and Play Store Android app
+Cataclysm: Dark Days Ahead,license,,Open source,CC-BY-SA-3.0,,https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/LICENSE.txt,live,LICENSE.txt read directly: Creative Commons Attribution-ShareAlike 3.0 Unported
+Cataclysm: Dark Days Ahead,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/CleverRaven/Cataclysm-DDA,live,Official releases for desktop and Android
+Cavern Cravers,license,,Open source,GPL-3.0,,https://github.com/mlm-games/cavern-cravers,live,GitHub API spdx_id GPL-3.0
+Cavern Cravers,platforms,,"Android, Linux",,,https://github.com/mlm-games/cavern-cravers,live,F-Droid Android package; Flathub Linux build
+CDLC Player,license,,Open source,GPL-3.0,,https://github.com/tilk/cdlc_player,live,GitHub API spdx_id GPL-3.0
+CDLC Player,platforms,,Android,,,https://github.com/tilk/cdlc_player,live,Android app; F-Droid eu.tilk.cdlcplayer per README
+Cemu,license,,Open source,MPL-2.0,,https://github.com/cemu-project/Cemu,live,GitHub API spdx_id MPL-2.0
+Cemu,platforms,,"Windows, Linux",,,https://cemu.info,live,Official site: Wii U emulator for Windows and Linux
+Checkers (Privacy Friendly),license,,Open source,GPL-3.0-or-later,,http://f-droid.org/packages/org.secuso.privacyfriendlydame/,live,F-Droid listing: GNU GPL v3.0 or later; SECUSO repo README confirms GPLv3
+Checkers (Privacy Friendly),platforms,,Android,,,http://f-droid.org/packages/org.secuso.privacyfriendlydame/,live,F-Droid Android package
+ChiMarathon,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.tcs.chicagomarathon2013,live,Official Bank of America Chicago Marathon race app by Tata Consultancy Services; free mobile app
+ChiMarathon,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.tcs.chicagomarathon2013,live,Play Store listing plus App Store listing (free)
+Chora,license,,Open source,Apache License 2.0,,https://github.com/CraftWorksMC/Chora,live,GitHub license API confirms Apache-2.0 on CraftWorksMC/Chora
+Chora,platforms,,Android,,,https://f-droid.org/packages/com.craftworks.music/,live,F-Droid listing; also on Play Store
+Classical Music Scanner,license,,Open source,GNU General Public License v3.0 only,,https://f-droid.org/packages/de.kromke.andreas.mediascanner/,live,F-Droid license listing
+Classical Music Scanner,platforms,,Android,,,https://f-droid.org/packages/de.kromke.andreas.mediascanner/,live,F-Droid Android app
+Clone Hero,license,,Proprietary — free,,,https://clonehero.net/,live,"Closed-source freeware rhythm game; official site ships binaries only, no public source or open license"
+Clone Hero,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://clonehero.net/,live,Official site states support for all five platforms
+Code Word,license,,Open source,GNU General Public License v3.0 only,,https://f-droid.org/packages/com.peaceray.codeword/,live,F-Droid license listing
+Code Word,platforms,,Android,,,https://f-droid.org/packages/com.peaceray.codeword/,live,F-Droid Android code-breaking game
+Colobot,license,,Open source,GNU General Public License v3.0,,https://github.com/colobot/colobot,live,GitHub license API confirms GPL-3.0 on colobot/colobot
+Colobot,platforms,,"Windows, macOS, Linux",,,https://github.com/colobot/colobot,live,README documents Windows macOS and Linux builds
+Colors Overflow,license,,Open source,GNU General Public License v3.0 only,,https://f-droid.org/packages/eu.veldsoft.colors.overflow/,live,F-Droid license listing
+Colors Overflow,platforms,,Android,,,https://f-droid.org/packages/eu.veldsoft.colors.overflow/,live,F-Droid Android puzzle game
+Comic Translate,license,,Open source,GNU General Public License v3.0,,https://github.com/untrustedguy/untrusted-translations-android,live,GitHub license API confirms GPL-3.0; Android comic translation workspace
+Comic Translate,platforms,,Android,,,https://github.com/untrustedguy/untrusted-translations-android,live,"Android app (import CBZ/ZIP/PDF, OCR dialogue, lettering)"
