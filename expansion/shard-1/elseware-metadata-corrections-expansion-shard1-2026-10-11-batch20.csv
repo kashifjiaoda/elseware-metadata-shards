@@ -1,0 +1,86 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Pain Diary (PFA),license,,Open source,GPL-3.0,,https://github.com/SecUSo/privacy-friendly-pain-diary,live,"PFA = Privacy Friendly Apps (SECUSO, Karlsruhe); README states GPL-3.0 and Android app with F-Droid badge"
+Pain Diary (PFA),platforms,,Android,,Android,https://github.com/SecUSo/privacy-friendly-pain-diary,live,README: Android app; F-Droid badge
+Pep Up - 健康年齢・医療費がわかる健康管理アプリ,license,,Proprietary — free,Free download; requires JMDC-affiliated insurer membership,,https://play.google.com/store/apps/details?id=life.pepup.app&hl=en_ZA,live,Developer JMDC Inc.; free app gated by health insurance association membership
+Pep Up - 健康年齢・医療費がわかる健康管理アプリ,platforms,,"Android, iOS",,"Android, iOS",https://play.google.com/store/apps/details?id=life.pepup.app&hl=en_ZA,live,Play Store id=life.pepup.app (Android); iPhone app by JMDC per https://pepup.en.softonic.com/iphone
+UnitedHealthcare,license,,Proprietary — free,Free; requires UnitedHealthcare membership,,https://apps.apple.com/us/app/unitedhealthcare/id1348316600,live,"By United HealthCare Services, Inc.; free app for plan members"
+UnitedHealthcare,platforms,,"Web, Android, iOS",,"Web, Android, iOS",https://iusd.org/sites/default/files/documents/uhc-rewards-employer-toolkit-NEW.pdf,live,"UHC docs cite the app (iOS/Android) and myuhc.com web portal; Play Store id=com.mobile.uhc, App Store id1348316600"
+Waistline,license,,Open source,GPL-3.0,,https://github.com/davidhealey/waistline,live,davidhealey/waistline README states GPL-3.0
+Waistline,platforms,,Android,,Android,https://github.com/davidhealey/waistline,live,Android weight-tracking app
+リナイト: 起床、睡眠、アラーム、瞑想,license,,Proprietary — freemium,Free download; subscription $7.99/month,,https://play.google.com/store/apps/details?id=com.munice.miraclenight_android&hl=en_US,live,Matched to Renight: AI Sleep Sounds by Munice inc. (phonetic + sleep/alarm/meditation feature match); Play listing shows $7.99/mo subscription terms
+リナイト: 起床、睡眠、アラーム、瞑想,platforms,,Android,,Android,https://play.google.com/store/apps/details?id=com.munice.miraclenight_android&hl=en_US,live,Play Store listing verified; iOS version unverified
+핑크다이어리-생리 배란 임신 헬스케어 앱,license,,Proprietary — free,Free app; developer NHN EDU Corp.,,https://apkpure.com/%ED%95%91%ED%81%AC%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-%EC%83%9D%EB%A6%AC-%EB%B0%B0%EB%9E%80-%EC%9E%84%EC%8B%A0-%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4-%EC%95%B1/com.dnt7.threeW/amp,live,Package com.dnt7.threeW; official app of the Korean Society of Obstetricians and Gynecologists; magazine content free
+핑크다이어리-생리 배란 임신 헬스케어 앱,platforms,,Android,,Android,https://apkpure.com/%ED%95%91%ED%81%AC%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-%EC%83%9D%EB%A6%AC-%EB%B0%B0%EB%9E%80-%EC%9E%84%EC%8B%A0-%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4-%EC%95%B1/com.dnt7.threeW/amp,live,Android listing verified; iOS version unverified
+AI Jobs,license,,Proprietary — free,Free for job seekers; employers pay $299/listing,,https://startup.jobs/job-boards/ai-jobs,live,aijobs.app by the startup.jobs network; employer-side pricing only
+AI Jobs,platforms,,Web,,Web,https://startup.jobs/job-boards/ai-jobs,live,Web job board (aijobs.app)
+AlgoExpert,license,,Proprietary — paid subscription,$99–$199/year subscription,,https://skillflow.dev/blog/algoexpert-honest-review/,live,Third-party review of algoexpert.io; pricing varies; no permanent free tier
+AlgoExpert,platforms,,Web,,Web,https://skillflow.dev/blog/algoexpert-honest-review/,live,Browser-based coding interview prep platform (algoexpert.io)
+Authentic Jobs,license,,Proprietary — free,Free for job seekers; employer listings $149–$199/mo,,https://authenticjobs.com/faq,live,Official FAQ; employer-paid model
+Authentic Jobs,platforms,,Web,,Web,https://authenticjobs.com/faq,live,Web job board (authenticjobs.com)
+Big Interview,license,,Proprietary — paid subscription,"$39/mo subscription, $99/3-month, $299 lifetime",,https://biginterview.com/plans,live,Official plans page; interview training platform
+Big Interview,platforms,,Web,,Web,https://biginterview.com/plans,live,Web-based training (biginterview.com)
+Career Agents,license,,Proprietary — paid subscription,"Reverse-recruiting service: one-time $999–$14,999 or monthly $999–$1,667",,https://careeragents.org/blog/best-reverse-recruiting-companies/,live,"Official pricing table; this is a paid service, not software"
+Career Agents,platforms,,Web,,Web,https://careeragents.org/blog/best-reverse-recruiting-companies/,live,Website-delivered service (careeragents.org)
+CoachHub,license,,Proprietary — paid subscription,"Enterprise B2B coaching platform; custom/quote pricing, no public pricing",,https://simply.coach/blog/best-employee-coaching-software-platforms/,live,Third-party comparison table lists CoachHub as custom pricing; enterprise-only
+CoachHub,platforms,,Web,,Web,https://simply.coach/blog/best-employee-coaching-software-platforms/,live,Web platform (coachhub.com); coachee mobile apps exist but unverified in this run
+DataJobs.com,license,,Proprietary — free,Free for job seekers,,https://datajobs.com,live,Official site; employer-paid model
+DataJobs.com,platforms,,Web,,Web,https://datajobs.com,live,Web job board (datajobs.com)
+Europe Remotely,license,,Proprietary — free,Free job board for seekers,,https://europeremotely.com,live,Identity confirmed via awesome-tech-job-boards-europe GitHub README; free claim weakly sourced (single LinkedIn post)
+Europe Remotely,platforms,,Web,,Web,https://europeremotely.com,live,Web job board (europeremotely.com)
+FlowCV,license,,Proprietary — freemium,Free forever (1 resume); Basic $3/mo billed yearly ($36/yr); Pro $5/mo billed yearly ($60/yr),,https://flowcv.com,live,Official pricing page
+FlowCV,platforms,,Web,,Web,https://flowcv.com,live,Web app (app.flowcv.com)
+GigSmart,license,,Proprietary — free,Free account creation for workers; businesses pay,,https://gigsmart.com,live,Official homepage + help article; worker side free
+GigSmart,platforms,,"Web, Android, iOS",,"Web, Android, iOS",https://gigsmart.com,live,Web platform plus App Store and Google Play worker apps
+HackerEarth,license,,Proprietary — paid subscription,"Growth $99/mo or $990/yr; Scale $399/mo or $3,990/yr; 30-day trial; Enterprise custom",,https://www.hackerearth.com,live,Official pricing page (employer/recruiter product)
+HackerEarth,platforms,,Web,,Web,https://www.hackerearth.com,live,Web platform (hackerearth.com)
+Hello Interview,license,,Proprietary — freemium,"Free guides; Premium 1 Month $47, 1 Year $95, Lifetime $319 (no auto-renew)",,https://hellointerview.com,live,"Official pricing; human live mocks wound down May 31, 2026"
+Hello Interview,platforms,,Web,,Web,https://hellointerview.com,live,Web platform (hellointerview.com)
+HiringCafe,license,,Proprietary — free,Free for job seekers,,https://hiringcafe.com/about,live,Official about page FAQ: free for job seekers
+HiringCafe,platforms,,Web,,Web,https://hiringcafe.com/about,live,Web job board (hiringcafe.com)
+iHireConstruction,license,,Proprietary — free,Free for job seekers; employer-paid postings,,https://www.ihireconstruction.com/t-construction-jobs.html,live,Official job search browseable without paywall; part of ihire.com network
+iHireConstruction,platforms,,Web,,Web,https://www.ihireconstruction.com/t-construction-jobs.html,live,Web job board (ihireconstruction.com)
+InterviewBuddy,license,,Proprietary — freemium,Standard one-way interviews free; expert review and premium paid,,https://interviewbuddy.net/interviews/oneway,live,Official pricing page; zero-download in-browser interviews
+InterviewBuddy,platforms,,Web,,Web,https://interviewbuddy.net/interviews/oneway,live,Web platform (interviewbuddy.net)
+Jobble,license,,Proprietary — free,Free for workers; employers pay 39% of listed hourly rate,,https://sidehustles.com/jobble-review/,live,Third-party review; no fees for workers
+Jobble,platforms,,"Web, Android, iOS",,"Web, Android, iOS",https://sidehustles.com/jobble-review/,live,Worker apps on iOS/Android (see https://apkcombo.com/jobble/com.jobble.jobble/ and http://slashdot.org/software/comparison/Bluecrew-vs-Jobble/); web at jobble.com
+Jobrapido,license,,Proprietary — free,Free of charge for job seekers,,https://uk.jobrapido.com,live,Official site; website + apps free
+Jobrapido,platforms,,"Web, Android, iOS",,"Web, Android, iOS",https://uk.jobrapido.com,live,Website plus Android and iOS apps
+JobToday,license,,Proprietary — free,"Free app for seekers; employers: £0/job post, £99.99/mo contact plan",,https://jobtoday.com/gb/landings/hire,live,Official landing page; App Store rating 4.7/5
+JobToday,platforms,,"Web, iOS",,"Web, iOS",https://jobtoday.com/gb/landings/hire,live,Web plus App Store app; Android unverified
+Kickresume,license,,Proprietary — freemium,"Free plan (4 templates, unlimited downloads with free options); Premium $24/mo, $18/mo quarterly, $8/mo yearly",,https://www.kickresume.com/en/help-center/alternative-to-teal/,live,Official pricing; students/teachers get 6 months Premium free
+Kickresume,platforms,,"Web, Android, iOS",,"Web, Android, iOS",https://www.kickresume.com/en/help-center/alternative-to-teal/,live,Web app; iOS and Android apps per https://www.jobsprout.ai/blog/jobsprout-vs-kickresume
+LiveCareer,license,,Proprietary — freemium,Free basic (TXT downloads only); 14-day $2.95 auto-renews $23.95/4 wks; annual $71.40,,https://www.livecareer.com/pricing,live,Official pricing page
+LiveCareer,platforms,,Web,,Web,https://www.livecareer.com/pricing,live,Web platform (livecareer.com)
+ML Jobs List,license,,Proprietary — free,Free side-project job aggregator (mljobslist.com); no paid tiers found,,https://Www.Producthunt.com/p/ml-jobs-list/machine-learning-jobs-list,live,Maker side project (2018); free claim weakly sourced — no monetization found
+ML Jobs List,platforms,,Web,,Web,https://Www.Producthunt.com/p/ml-jobs-list/machine-learning-jobs-list,live,Single-page web app (mljobslist.com)
+myCareerMax,license,,Proprietary — freemium,Free tier + MAX PRO paid plan,,https://img1.wsimg.com/blobby/go/42274570-d622-4979-a4b0-8cb54f699ab6/Getting%20Started%20with%20myCAREERMAX-b2f9426.pdf,live,Official Getting Started guide: Free Access Features vs MAX PRO Plan Features
+myCareerMax,platforms,,"Web, Android",,"Web, Android",https://img1.wsimg.com/blobby/go/42274570-d622-4979-a4b0-8cb54f699ab6/Getting%20Started%20with%20myCAREERMAX-b2f9426.pdf,live,Official guide: web browser access (app.mycareermax.com) + Google Play Android app
+OmniJobs,license,,Proprietary — paid subscription,OmniJobs Pro paid; no free plan (€9/mo per third-party; official FAQ: not free),,https://omnijobs.co/,live,Official FAQ answers why it is not free; paid subscriptions fund AI analysis
+OmniJobs,platforms,,Web,,Web,https://omnijobs.co/,live,Web job board (omnijobs.co / omnijobs.io)
+PowerToFly,license,,Proprietary — free,Free for job seekers; employer recruiting platform paid (contact vendor),,https://www.softwareworld.co/software/powertofly-reviews/,live,Editorial pro: free to join for job seekers with no hidden fees; employer side paid
+PowerToFly,platforms,,Web,,Web,https://www.softwareworld.co/software/powertofly-reviews/,live,Web-based platform; aggregator OS lists (Windows/Mac/Linux) ignored per taxonomy
+Qwick,license,,Proprietary — free,Free for freelancers/pros; businesses pay (40% of hourly wage),,https://www.qwick.com/professionals/,live,Official page: $0 placement fees for professionals; fees on employers
+Qwick,platforms,,"Web, Android, iOS",,"Web, Android, iOS",https://www.qwick.com/professionals/,live,"Qwick Pro App plus web platform; iOS per https://apprecs.com/ios/1458652766/qwick-for-freelancers, Android per https://www.androidrank.org/application/gigpro_qwick/com.gigpro"
+Remote4Me,license,,Proprietary — free,100% free per official FAQ,,https://remote4.me/remote-job-alerts/,live,"Official FAQ: no gatekeeping, no hidden fees; site moved from remote4me.com to remote4.me"
+Remote4Me,platforms,,Web,,Web,https://remote4.me/remote-job-alerts/,live,Web job board + WhatsApp/Telegram alert channels (chat channels not taxonomy platforms)
+Resume Genius,license,,Proprietary — freemium,Free tools + TXT download; full access 14-day trial $2.95 auto-renews $23.95/4 wks; annual $95.40,,https://resumegenius.com/about,live,Official about page: transparent pricing ($2.95 2-week trial) + free job-search tools
+Resume Genius,platforms,,Web,,Web,https://resumegenius.com/about,live,Online resume builder (resumegenius.com)
+Resume.io,license,,Proprietary — freemium,"Free tier (1 resume + 1 cover letter, TXT only); 7-day trial $2.95 auto-renews $29.95/4 wks; quarterly $49.95",,https://resufit.com/blog/resumeio-review-pricing-templates-worth-it/,live,Third-party review; free plan is essentially a demo (TXT downloads only)
+Resume.io,platforms,,Web,,Web,https://resufit.com/blog/resumeio-review-pricing-templates-worth-it/,live,Web resume builder (resume.io)
+ResumeNow,license,,Proprietary — freemium,Free to build + TXT download; 14-day pass $2.45 auto-renews $23.95/4 wks; $70.20/yr,,https://www.resumefast.io/blog/is-resume-now-free,live,"Pricing verified from official pricing page + terms Oct 7, 2026 by reviewer"
+ResumeNow,platforms,,Web,,Web,https://www.resumefast.io/blog/is-resume-now-free,live,Web resume builder (resume-now.com)
+Rezi,license,,Proprietary — freemium,"Free $0 (1 resume, 3 PDF downloads, limited AI); Pro $29/mo; Lifetime $149 one-time",,https://www.rezi.AI/ai-resume-editor,live,Official FAQ; no card required for free plan
+Rezi,platforms,,Web,,Web,https://www.rezi.AI/ai-resume-editor,live,Web resume builder (rezi.ai)
+Salary.com,license,,Proprietary — freemium,"Salary Wizard free answers; premium products paid (Personal Salary Report, CompAnalyst subscription)",,https://swz.salary.com/docs/salwizhtmls/methodology.html,live,Official methodology page distinguishes free vs premium data
+Salary.com,platforms,,Web,,Web,https://swz.salary.com/docs/salwizhtmls/methodology.html,live,Web platform (salary.com)
+Shoutt,license,,Proprietary — freemium,Free account finds matches; upgrade to pitch for opportunities,,https://uktechnews.co.uk/2026/01/15/ai-powered-gig-hunting-platform-shoutt-ai-secures-525k-investment-to-fund-a-more-cohesive-job-search-ecosystem-for-freelancers/,live,"Shoutt.ai = AI gig-hunting platform for freelancers (London, £525k pre-seed Jan 2026); NOT SHOUT UGC marketing, ShoutOut MLM, or Shoutem app builder"
+Shoutt,platforms,,Web,,Web,https://uktechnews.co.uk/2026/01/15/ai-powered-gig-hunting-platform-shoutt-ai-secures-525k-investment-to-fund-a-more-cohesive-job-search-ecosystem-for-freelancers/,live,Web platform (shoutt.ai)
+SolidGigs,license,,Proprietary — paid subscription,$35/mo or $21/mo annual; no free tier,,https://solidgigs.com/blog/freelancing-websites-for-beginners/,live,Official blog states pricing; curated freelance leads for freelancers
+SolidGigs,platforms,,Web,,Web,https://solidgigs.com/blog/freelancing-websites-for-beginners/,live,Web platform (solidgigs.com)
+The Muse,license,,Proprietary — freemium,Free job search + free resume templates; premium ATS tools/career coaching paid,,https://www.themuse.com/search/location/san-francisco-ca/level/entry/radius/100mi,live,Official site: 723+ free-browseable listings; premium upsell per third-party reviews
+The Muse,platforms,,Web,,Web,https://www.themuse.com/search/location/san-francisco-ca/level/entry/radius/100mi,live,Web platform (themuse.com)
+USAJobs,license,,Proprietary — free,Free US government (OPM) federal job board,,https://www.navsea.navy.mil/Portals/103/Documents/SRF_JRMC/USAJOBS_Fact_Sheet_508c.pdf,live,Official USAJOBS fact sheet via US Navy; not open source — government service
+USAJobs,platforms,,"Web, Android, iOS",,"Web, Android, iOS",https://www.navsea.navy.mil/Portals/103/Documents/SRF_JRMC/USAJOBS_Fact_Sheet_508c.pdf,live,Fact sheet: free web-based board + Apple and Android mobile apps
+Vivian Health,license,,Proprietary — free,Free for healthcare job seekers; employers pay,,https://www.appbrain.com/app/vivian-find-healthcare-jobs/com.nursefly.NurseFlyMobile,live,Free Android app by Vivian Health; marketplace monetizes employer side
+Vivian Health,platforms,,"Web, Android",,"Web, Android",https://www.iac.com/brands/vivianhealth,live,IAC parent brand page links vivian.com web; Android app per appbrain link in license row
+whoishiring.io,platforms,,Web,,Web,https://github.com/lucian-williamson/links,live,License unverified — license row skipped; site is HN Who-is-hiring aggregator listed in curated job-board lists (weak evidence; direct site fetch failed)
