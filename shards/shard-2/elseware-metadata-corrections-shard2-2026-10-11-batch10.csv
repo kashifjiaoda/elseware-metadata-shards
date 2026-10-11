@@ -1,0 +1,91 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Bulk Rename Utility,license,,Proprietary — free for personal use,"Free for personal, private use at home; commercial license required for business use",Windows,https://www.bulkrenameutility.co.uk/,live,Official site: free of charge for personal private use at home; commercial license required for business entities
+Bulk Rename Utility,platforms,,Windows,,,https://www.bulkrenameutility.co.uk/,live,Official site: file renaming software for Windows; compatible with Windows 11/10/8/7 and Server editions
+TeraCopy,license,,Proprietary — freemium,Free version; TeraCopy Pro paid upgrade,Windows,https://codesector.com/teracopy,live,Official site references TeraCopy Pro paid features alongside the free version
+TeraCopy,platforms,,Windows,,,https://codesector.com/teracopy,live,Official: TeraCopy for Windows; replaces copy/move functions in Explorer
+TeamViewer,license,,Proprietary — free for personal use,"Free for personal, non-commercial use; commercial use requires a paid license","Windows, macOS, Linux, Android, iOS",https://www.teamviewer.com/en-in/solutions/use-cases/remote-access/,live,Official: remote access software is free for personal non-commercial use
+TeamViewer,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://www.teamviewer.com/en-in/solutions/use-cases/remote-access/,live,Official: stay connected across Windows macOS Linux Android iOS Raspberry Pi and more
+AnyDesk,license,,Proprietary — freemium,"Free for personal, non-commercial use; paid Solo/Standard/Advanced/Ultimate for commercial use","Windows, macOS, Linux, Android, iOS",https://anydesk.com/en,live,Official: paid license tiers listed; free version for personal non-commercial use per official terms
+AnyDesk,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://anydesk.com/en/solutions/remote-access,live,Official: native clients on all major platforms including Windows macOS Linux iOS and Android
+RustDesk,license,,Open source,AGPL-3.0,"Windows, macOS, Linux, Android, Web",https://api.github.com/repos/rustdesk/rustdesk/license,live,Repo LICENCE file is the GNU Affero General Public License Version 3
+RustDesk,platforms,,"Windows, macOS, Linux, Android, Web",,,https://rustdesk.com/,live,Official site: multi-platform support Windows macOS Linux Android plus web client
+Microsoft Remote Desktop,license,,Proprietary — free,"Free client; Windows Store app reached end of support Sept 2025, users migrating to Windows App","Windows, macOS, Android, iOS",https://learn.microsoft.com/bs-latn-ba/previous-versions/remote-desktop-client/overview,live,Microsoft Learn: Store app no longer available for download; end of support Sept 2025; migrate to Windows App
+Microsoft Remote Desktop,platforms,,"Windows, macOS, Android, iOS",,,https://learn.microsoft.com/bs-latn-ba/previous-versions/remote-desktop-client/overview,live,Microsoft Learn: Remote Desktop clients for Windows Android and other platforms; web client available
+TightVNC,license,,Open source,GPL (free and open source),Windows,https://www.tightvnc.com/,live,Official site: free and Open Source remote desktop software
+TightVNC,platforms,,Windows,,,https://www.tightvnc.com/,live,Official site: TightVNC for Windows (latest 2.8.90); Java viewer also available
+NoMachine,license,,Proprietary — free for personal use,Free for personal use; no strings attached,"Windows, macOS, Linux, Android, iOS",https://www.nomachine.com/,live,Official: freely available for everyone to download and install for personal use
+NoMachine,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://www.nomachine.com/,live,Official: free for Mac OS X Windows and Linux; iOS and Android apps per official guides
+Parsec,license,,Proprietary — freemium,Try it for free; Teams and Enterprise paid upgrades,"Windows, macOS, Linux, Android",https://parsec.app/,live,Official: Try it for free upgrade at any time; Teams and Enterprise upgrades
+Parsec,platforms,,"Windows, macOS, Linux, Android",,,https://parsec.app/,live,Official blog: clients for Windows Mac Android and Linux
+Moonlight,license,,Open source,GPL-3.0,"Windows, macOS, Linux, Android, iOS",https://api.github.com/repos/moonlight-stream/moonlight-qt/license,live,Repo LICENSE is the GNU GPL version 3 text
+Moonlight,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://moonlight-stream.org/,live,Official: clients for Android iOS Apple TV PC Mac Chromebook and more; open source GPLv3
+NetBird,license,,Open source,BSD-3-Clause (management/signal/relay under AGPLv3),"Windows, macOS, Linux, Android, iOS",https://api.github.com/repos/netbirdio/netbird/license,live,Repo LICENSE: BSD-3-Clause; management signal relay combined dirs under AGPLv3
+NetBird,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://netbird.io/,live,Official: works on Linux Windows macOS mobile devices Docker and routers
+Cloudflare Tunnel,license,,Proprietary — free,Free; included with Cloudflare Zero Trust free plan,"Windows, macOS, Linux",https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/,live,Official docs: Tunnel free for all Cloudflare One customers; no charge on free Zero Trust plan
+Cloudflare Tunnel,platforms,,"Windows, macOS, Linux",,,https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/,live,Official docs: cloudflared daemon for Windows macOS and Linux
+ngrok,license,,Proprietary — freemium,Free plan; Hobbyist/Pay-as-you-go/Enterprise paid tiers,"Windows, macOS, Linux",https://ngrok.com/pricing,live,Official pricing: Free plan with usage limits; paid Hobbyist PAYG and Enterprise
+ngrok,platforms,,"Windows, macOS, Linux",,,https://ngrok.com/download,live,Official download page: ngrok agent for Windows macOS and Linux
+localtunnel,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/localtunnel/localtunnel,live,Repo: MIT License; npm package installed via npm yarn or Homebrew
+localtunnel,platforms,,"Windows, macOS, Linux",,,https://github.com/localtunnel/localtunnel,live,Repo: Node.js CLI tool; cross-platform via npm
+Headscale,license,,Open source,BSD-3-Clause,Linux,https://github.com/juanfont/headscale,live,Repo: BSD 3-Clause License; open source self-hosted Tailscale control server
+Headscale,platforms,,Linux,,,https://github.com/juanfont/headscale,live,Repo: Go server binary; runs on Linux (binaries and containers)
+Nmap,license,,Source-available,Nmap Public Source License (NPSL) v0.95,"Windows, macOS, Linux",https://api.github.com/repos/nmap/nmap/license,live,Repo LICENSE is the custom Nmap Public Source License v0.95 (GPL-based with added restrictions)
+Nmap,platforms,,"Windows, macOS, Linux",,,https://nmap.org/,live,Official: official binary packages for Linux Windows and Mac OS X
+Angry IP Scanner,license,,Open source,GPL-2.0,"Windows, macOS, Linux",https://api.github.com/repos/angryip/ipscan/license,live,Repo LICENSE is the GNU GPL version 2 text
+Angry IP Scanner,platforms,,"Windows, macOS, Linux",,,https://angryip.org/,live,Official: free and open-source; works on Windows Mac and Linux
+Fing,license,,Proprietary — freemium,Free account; paid subscription for advanced monitoring,"Windows, macOS, Android, iOS, Web",https://www.fing.com/,live,Official: free Fing account; upgrade to a Fing subscription for 24/7 monitoring
+Fing,platforms,,"Windows, macOS, Android, iOS, Web",,,https://www.fing.com/,live,"Official: Fing Desktop for computers, Fing Mobile, Fing Web browser access"
+NetSpot,license,,Proprietary — freemium,Free plan; PRO and Enterprise paid licenses,"macOS, Windows, Android, iOS",https://www.netspotapp.com/,live,Official: Free Plan; PRO and Enterprise licenses with commercial usage rights
+NetSpot,platforms,,"macOS, Windows, Android, iOS",,,https://www.netspotapp.com/,live,"Official: NetSpot for macOS, Windows, Android and iOS"
+Speedtest,license,,Proprietary — free,Free speed test; no paid tier for the web test,Web,https://www.speedtest.net/,live,Official Ookla speed test site; free to use
+Speedtest,platforms,,Web,,,https://www.speedtest.net/,live,Official: web-based speed test
+Simple DNSCrypt,license,,Open source,MIT,Windows,https://github.com/bitbeans/SimpleDnsCrypt,live,Repo: licensed under the MIT License
+Simple DNSCrypt,platforms,,Windows,,,https://github.com/bitbeans/SimpleDnsCrypt,live,Repo: management tool for dnscrypt-proxy on Windows-based systems
+MobaXterm,license,,Proprietary — freemium,Home Edition free; Professional Edition paid,Windows,https://mobaxterm.mobatek.net/,live,Official: download and use Home Edition for free; Professional Edition subscription for companies
+MobaXterm,platforms,,Windows,,,https://mobaxterm.mobatek.net/,live,Official: single Windows application
+Tabby,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/Eugeny/tabby,live,Repo: MIT License
+Tabby,platforms,,"Windows, macOS, Linux",,,https://github.com/Eugeny/tabby,live,"Repo README: terminal emulator for Windows, macOS and Linux"
+WindTerm,license,,Open source,Apache-2.0 (released source; partial open-source project),"Windows, macOS, Linux",https://github.com/kingToolbox/WindTerm,live,Repo README: released source codes under Apache-2.0; free for commercial and non-commercial use
+WindTerm,platforms,,"Windows, macOS, Linux",,,https://github.com/kingToolbox/WindTerm,live,"Repo: Linux, MacOS and Windows binaries; supports Windows, MacOS and Linux"
+SmartFTP,license,,Proprietary — paid subscription,Professional $79.99/yr; Ultimate $119.99/yr; Enterprise $399.99/yr; trial available,Windows,https://www.smartftp.com/buy/,live,Official buy page: paid editions; fully functional versions available for testing
+SmartFTP,platforms,,Windows,,,https://www.smartftp.com/buy/,live,"Official: system requirements Windows 10, 11, Server 2016-2025"
+Hamachi,license,,Proprietary — freemium,Free for up to 5 computers; Standard $49/yr; Premium $199/yr; Multi-Network $299/yr,"Windows, macOS, Linux",https://www.vpn.net/,live,Official: Hamachi free for up to 5 computers; paid subscriptions for unattended/more computers
+Hamachi,platforms,,"Windows, macOS, Linux",,,https://www.vpn.net/,live,Official: Free for Windows Mac and Linux
+Splashtop,license,,Proprietary — paid subscription,Plans from $6/mo (Solo); Pro $8.25/mo; Performance $13/mo,"Windows, macOS, Linux, Android, iOS, Web",https://www.splashtop.com/pricing,live,Official pricing: all plans paid subscriptions starting at $6/mo; free trial
+Splashtop,platforms,,"Windows, macOS, Linux, Android, iOS, Web",,,https://www.splashtop.com/pricing,live,Official: Unattended Access from Any Device; Android/IOT unattended access
+RemotePC,license,,Proprietary — paid subscription,"Windows, macOS, Linux, Web",7-day free trial; paid plans from ~$59.62/first year,https://www.remotepc.com/pricing,live,"Official pricing: subscription plans; 7-day free trial, no free tier"
+RemotePC,platforms,,"Windows, macOS, Linux, Web",,,https://www.remotepc.com/pricing,live,"Official: Platform Independent [PC, Mac, Linux]; Access via web"
+DWService,license,,Open source,Open source (no specific license stated on official site/repo),"Windows, macOS, Linux",https://www.dwservice.net/,live,Official site: Simple - Free - Open source; repo github.com/dwservice/agent has no declared license
+DWService,platforms,,"Windows, macOS, Linux",,,https://www.dwservice.net/,live,"Official: agents for Windows, Linux, Mac OS; access from any web browser"
+Getscreen.me,license,,Proprietary — freemium,Free version with essential features; premium subscriptions; 14-day free trial,"Windows, macOS, Linux, Android, Web",https://getscreen.me/,live,Official FAQ: free version with essential features and premium subscriptions for advanced functionality
+Getscreen.me,platforms,,"Windows, macOS, Linux, Android, Web",,,https://getscreen.me/,live,"Official FAQ: compatible with Windows, macOS, Linux and Android; browser-based access"
+Drupal,license,,Open source,GPL-2.0-or-later,Web,https://www.drupal.org/about/licensing,live,Official: Drupal licensed under GNU GPL version 2 or later
+Drupal,platforms,,Web,,,https://www.drupal.org/about/licensing,live,Web-based CMS (PHP); self-hosted on web servers
+Joomla,license,,Open source,Web,GPL,https://www.joomla.org/about-joomla.html,live,"Official: free, open, available to anyone under the GPL license"
+Joomla,platforms,,Web,,,https://www.joomla.org/about-joomla.html,live,Web-based CMS for publishing web content
+Strapi,license,,Open source,MIT (Community Edition); Enterprise Edition under separate license,Web,https://api.github.com/repos/strapi/strapi/license,live,Repo LICENSE: Community Edition under MIT Expat; ee/ directory under Enterprise license
+Strapi,platforms,,Web,,,https://github.com/strapi/strapi,live,Headless CMS (Node.js); self-hosted web platform
+Contentful,license,,Proprietary — freemium,Free plan $0 forever; Lite $300/mo; Enterprise custom,Web,https://www.contentful.com/pricing/,live,Official pricing: Free $0 forever; paid Lite/Enterprise tiers
+Contentful,platforms,,Web,,,https://www.contentful.com/pricing/,live,Headless CMS SaaS; web platform
+Sanity,license,,Proprietary — freemium,Free $0 forever; Growth $15/seat/mo; Enterprise custom,Web,https://www.sanity.io/pricing,live,Official pricing: Free $0 forever; Growth $15/seat/mo; Enterprise custom
+Sanity,platforms,,Web,,,https://www.sanity.io/pricing,live,Hosted content platform; web-based
+Directus,license,,Source-available,"MSCL-1.0-GPL (source-available, non-compete); converts to GPL-3.0 after 4 years",Web,https://api.github.com/repos/directus/directus/license,live,Repo license file: Monospace Sustainable Core License v1.0; competing use prohibited; GPL-3.0 grant effective on 4th anniversary
+Directus,platforms,,Web,,,https://github.com/directus/directus,live,Self-hosted headless CMS; web-based admin app
+Payload,license,,Open source,Web,MIT,https://api.github.com/repos/payloadcms/payload/license,live,"Repo LICENSE.md: MIT License, spdx MIT"
+Payload,platforms,,Web,,,https://github.com/payloadcms/payload,live,Self-hosted headless CMS; web application
+KeystoneJS,license,,Open source,Web,MIT,https://api.github.com/repos/keystonejs/keystone/license,live,"Repo LICENSE: MIT License, spdx MIT"
+KeystoneJS,platforms,,Web,,,https://github.com/keystonejs/keystone,live,Self-hosted headless CMS; web application
+ApostropheCMS,license,,Open source,MIT,Web,https://github.com/apostrophecms/apostrophe,live,Repo README: ApostropheCMS is open source software licensed under the MIT License
+ApostropheCMS,platforms,,Web,,,https://github.com/apostrophecms/apostrophe,live,Full-stack Node.js CMS; web-based
+TYPO3,license,,Open source,GPL-2.0,Web,https://api.github.com/repos/TYPO3/typo3/license,live,Repo LICENSE.txt: GNU General Public License Version 2
+TYPO3,platforms,,Web,,,https://github.com/TYPO3/typo3,live,Self-hosted PHP CMS; web-based
+Craft CMS,license,,Proprietary — freemium,"Solo free; Team/Pro/Enterprise paid",Web,https://craftcms.com/pricing,live,Official pricing: Solo/Team/Pro/Enterprise tiers; Solo free forever
+Craft CMS,platforms,,Web,,,https://craftcms.com/pricing,live,Self-hosted PHP CMS; web-based
+ExpressionEngine,license,,Open source,Apache-2.0,Web,https://api.github.com/repos/ExpressionEngine/ExpressionEngine/license,live,Repo LICENSE.txt: Apache License Version 2.0
+ExpressionEngine,platforms,,Web,,,https://expressionengine.com/,live,Official site: open source CMS; free download; web-based
+Grav,license,,Open source,Web,MIT,https://api.github.com/repos/getgrav/grav/license,live,"Repo LICENSE.txt: MIT License, spdx MIT"
+Grav,platforms,,Web,,,https://github.com/getgrav/grav,live,Flat-file PHP CMS; web-based
+Wix,license,,Proprietary — freemium,"Free plan; Premium plans (Light/Core/Business/Business Elite)",Web,https://www.wix.com/plans,live,Official: create site for free; Premium plans for custom domain and more
+Wix,platforms,,Web,,,https://www.wix.com/plans,live,SaaS website builder; web-based
+Squarespace,license,,Proprietary — paid subscription,"14-day free trial; Basic $25/mo, Core $39/mo, Plus $65/mo, Advanced $139/mo",Web,https://www.squarespace.com/pricing,live,Official pricing: free 14 days; paid plans from $25/mo; no free tier
+Squarespace,platforms,,Web,,,https://www.squarespace.com/pricing,live,SaaS website builder; web-based
