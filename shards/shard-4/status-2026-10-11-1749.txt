@@ -1,0 +1,5 @@
+Shard 4 Phase-2 batch 33 (Shard 2) — 2026-10-11.
+78 rows pushed to expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch33.csv (apps.md lines 1607-1656).
+41 apps verified (40 license, 38 platforms); 9 skipped with reason (Swatches, Sympli site down, Tplay, Watermarking, Xineliboutput Sxfe, Xzgv, Arbitrium RAT malware tooling, FreeProxy site placeholder, Linux CLI Community not an app).
+Schema-validated: 9 cols, valid badges, all live, platforms column empty, zero banned sources. Notable catches: Wire Tapper Source-available CC BY-NC 4.0; Anemo/Aer/DNSNet/Banana Split conservative GPL-3.0-only (raw COPYING); Xfce4 Screenshooter GPL-2.0 plain per corpus convention; Zoner Photo Studio→Zoner Studio rebrand flagged; Japanese mosaic app iOS-only exact-name match; Palmier-style dual-license notes where found.
+Next: batch 34 (apps.md lines 1657-1706).
