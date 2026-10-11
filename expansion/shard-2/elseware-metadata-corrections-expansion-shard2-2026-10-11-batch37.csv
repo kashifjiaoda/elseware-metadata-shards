@@ -1,0 +1,80 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Material Notes,license,,Open source,AGPL-3.0-or-later,Android,https://f-droid.org/en/packages/com.maelchiotti.localmaterialnotes/,live,
+Material Notes,platforms,,Android,,,https://f-droid.org/en/packages/com.maelchiotti.localmaterialnotes/,live,
+MAXS Module AlarmSet,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/en/packages/org.projectmaxs.module.alarmset/,live,MAXS alarm module
+MAXS Module AlarmSet,platforms,,Android,,,https://f-droid.org/en/packages/org.projectmaxs.module.alarmset/,live,
+Med Timer,license,,Open source,MIT,Android,https://f-droid.org/en/packages/com.futsch1.medtimer/,live,
+Med Timer,platforms,,Android,,,https://f-droid.org/en/packages/com.futsch1.medtimer/,live,
+Midnight,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/en/packages/com.kaz.midnight/,live,dream journal app
+Midnight,platforms,,Android,,,https://f-droid.org/en/packages/com.kaz.midnight/,live,
+Mindmaps,license,,Open source,AGPL-3.0,Web,https://github.com/drichard/mindmaps,live,offline-capable HTML5 mind mapping app
+Mindmaps,platforms,,Web,,,https://github.com/drichard/mindmaps,live,
+MIX Te X Latex OCR,license,,Open source,AGPL-3.0,,https://github.com/RQLuo/MixTeX-Latex-OCR,live,Python OCR tool; license row only
+MoasdaWiki,license,,Open source,AGPL-3.0,"Windows, macOS, Linux",https://github.com/ogregoire/moasdawiki-server,live,privacy-friendly wiki server; Java app
+MoasdaWiki,platforms,,"Windows, macOS, Linux",,,https://github.com/ogregoire/moasdawiki-server,live,
+Moeditor,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/Moeditor/Moeditor,live,all-purpose markdown editor; discontinued
+Moeditor,platforms,,"Windows, macOS, Linux",,,https://github.com/Moeditor/Moeditor,live,
+MOSS Transcribe Diarize,license,,Open source,Apache-2.0,,https://github.com/OpenMOSS/MOSS-Transcribe-Diarize,live,GitHub API spdx_id Apache-2.0 on OpenMOSS/MOSS-Transcribe-Diarize; speech transcription/diarization model library with no end-user app platforms
+Muse from Meta,license,,Proprietary — freemium,,,https://ai.meta.com/muse/,live,Official FAQ: free with usage limit; paid Power and Maximum subscriptions
+Muse from Meta,platforms,,iOS; Android; macOS; Web,,,https://ai.meta.com/muse/,live,App Store listing id6760173601 Free by Meta Platforms Inc.; Mac app and muse.ai web
+MyFastingApp,license,,Open source,GPL-3.0,,https://github.com/rohanwinsor/MyFastingApp,live,GitHub API spdx_id GPL-3.0; README: GPLv3 fully offline Android fasting tracker
+MyFastingApp,platforms,,Android,,,https://github.com/rohanwinsor/MyFastingApp,live,Package org.myfastingapp.app; Jetpack Compose Android app
+Naps2,license,,Open source,GPL-2.0,,https://github.com/cyanfish/naps2,live,Raw LICENSE declares GNU GPL version 2; SourceForge lists GPLv2
+Naps2,platforms,,Windows; macOS; Linux,,,https://www.naps2.com/,live,Official site and SourceForge list Windows Mac and Linux builds
+Neutrinote,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/com.appmindlab.nano/,live,F-Droid lists GNU GPL v3.0 or later; product is neutriNote CE (appml/neutrinote)
+Neutrinote,platforms,,Android,,,https://f-droid.org/packages/com.appmindlab.nano/,live,F-Droid Android listing
+Nimbalyst,license,,Open source,MIT,,https://github.com/nimbalyst/nimbalyst,live,GitHub API spdx_id MIT; README: free open-source visual workspace for coding agents
+Nimbalyst,platforms,,macOS; Windows; Linux; iOS; Android,,,https://github.com/nimbalyst/nimbalyst,live,Desktop for macOS Windows Linux plus mobile companion for iOS and Android
+Norka,license,,Open source,MIT,,https://github.com/tender-owl/norka,live,Raw LICENSE verified as MIT License text
+Norka,platforms,,Linux,,,https://github.com/tender-owl/norka,live,Flathub flatpak com.github.tenderowl.norka; GNOME text editor
+Note Gen,license,,Open source,GPL-3.0,,https://github.com/codexu/note-gen,live,GitHub API spdx_id GPL-3.0; cross-platform Markdown AI note-taking app
+Note Gen,platforms,,Windows; macOS; Linux,,,https://github.com/codexu/note-gen,live,Desktop beta for Windows macOS Linux; Android alpha and iOS TestFlight also offered
+Notely Voice,license,,Open source,GPL-3.0,Android,https://github.com/Notely-Voice/NotelyVoice,live,100% private AI voice transcription app
+Notely Voice,platforms,,Android,,,https://github.com/Notely-Voice/NotelyVoice,live,F-Droid + Play Store badges in README
+NoteSR - Encrypted Notes,license,,Open source,MIT,Android,https://github.com/zHd4/NoteSR,live,Encrypted notes app for Android
+NoteSR - Encrypted Notes,platforms,,Android,,,https://github.com/zHd4/NoteSR,live,Repo description: encrypted notes app for Android
+Novel Dokusha,license,,Open source,GPL-3.0,Android,https://github.com/nanihadesuka/NovelDokusha,live,Android web novel reader
+Novel Dokusha,platforms,,Android,,,https://github.com/nanihadesuka/NovelDokusha,live,Repo description: Android web novel reader
+Nvim Neoclip Lua,license,,Open source,Vim License,"Windows, macOS, Linux",https://github.com/AckslD/nvim-neoclip.lua,live,LICENSE.md: distributed under the same terms as Vim itself
+Nvim Neoclip Lua,platforms,,"Windows, macOS, Linux",,,https://github.com/AckslD/nvim-neoclip.lua,live,Clipboard-manager plugin for Neovim
+Obsidian Omnisearch,license,,Open source,GPL-3.0,"Windows, macOS, Linux, Android, iOS",https://github.com/scambier/obsidian-omnisearch,live,Obsidian community search plugin
+Obsidian Omnisearch,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://github.com/scambier/obsidian-omnisearch,live,manifest.json isDesktopOnly false; Obsidian runs on all five
+OCRFlux,license,,Open source,Apache-2.0,,https://github.com/chatdoc-com/OCRFlux,live,Python OCR tool; license row only
+Office Break,license,,Open source,GPL-3.0,Android,https://github.com/Drumm3r/office-break,live,Android app reminding to take active breaks
+Office Break,platforms,,Android,,,https://github.com/Drumm3r/office-break,live,Repo description: Android app
+Olauncher CF,license,,Open source,GPL-3.0,Android,https://github.com/OlauncherCF/OlauncherCF,live,Simple clutter-free Android launcher
+Olauncher CF,platforms,,Android,,,https://github.com/OlauncherCF/OlauncherCF,live,Repo description: Android launcher
+Omni Notes,license,,Open source,GPL-3.0,Android,https://github.com/federicoiosue/Omni-Notes,live,Note-taking application for Android
+Omni Notes,platforms,,Android,,,https://github.com/federicoiosue/Omni-Notes,live,Repo description: note-taking app for Android
+Onedev,license,,Open source,MIT,,https://github.com/theonedev/onedev,live,self-hosted git/dev platform; license.txt verified as MIT
+Onedev,platforms,,Web,,,https://github.com/theonedev/onedev,live,self-hosted server app accessed via web UI; Docker deployment
+OnTime - Presentation Timer,license,,Open source,GPL-3.0-or-later,,https://github.com/cpvalente/ontime,live,LICENSE.md verified as GNU GPL v3 or any later version
+OnTime - Presentation Timer,platforms,,Windows; macOS; Linux,,,https://github.com/cpvalente/ontime,live,README release downloads: win64 exe; macOS arm64 and x64 dmg; Linux AppImage x86_64 and arm64
+Open Hitomi,license,,Open source,AGPL-3.0-or-later,,https://f-droid.org/packages/ai.agent1c.hitomi.open/,live,F-Droid listing: GNU Affero General Public License v3.0 or later; repo decentrity/hitomi-android
+Open Hitomi,platforms,,Android,,,https://f-droid.org/packages/ai.agent1c.hitomi.open/,live,Android floating AI assistant; F-Droid package ai.agent1c.hitomi.open
+Open Paperless,license,,Open source,Apache-2.0,,https://github.com/zhoubear/open-paperless,live,LICENSE file verified as Apache License 2.0; predecessor of Mayan EDMS
+Open Paperless,platforms,,Web,,,https://github.com/zhoubear/open-paperless,live,self-hosted document management web app
+OpenDocument Reader,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/en/packages/at.tomtasche.reader/,live,F-Droid listing: GNU General Public License v3.0 or later
+OpenDocument Reader,platforms,,Android,,,https://f-droid.org/en/packages/at.tomtasche.reader/,live,F-Droid package at.tomtasche.reader
+OpenTasks,license,,Open source,Apache-2.0,,https://github.com/dmfs/opentasks,live,LICENSE file verified as Apache License 2.0; Android task app
+OpenTasks,platforms,,Android,,,https://github.com/dmfs/opentasks,live,task management app for Android
+Orgzly Revived,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/en/packages/com.orgzlyrevived/,live,F-Droid listing: GNU General Public License v3.0 or later
+Orgzly Revived,platforms,,Android,,,https://f-droid.org/en/packages/com.orgzlyrevived/,live,outliner for notes and to-do lists; F-Droid package com.orgzlyrevived
+Padland,license,,Open source,Apache-2.0,,https://f-droid.org/en/packages/com.mikifus.padland/,live,F-Droid listing: Apache License 2.0
+Padland,platforms,,Android,,,https://f-droid.org/en/packages/com.mikifus.padland/,live,Etherpad client for Android; F-Droid package com.mikifus.padland
+Papermark,license,,Source-available,AGPL-3.0 (core) + Commercial (enterprise edition),,https://github.com/papermark/papermark,live,LICENSE: content outside ee/ and app/(ee) is AGPLv3; ee/ directories under Commercial License per ee/LICENSE
+Papermark,platforms,,Web,,,https://github.com/papermark/papermark,live,open-source DocSend alternative and secure data room; self-hosted or papermark.com
+Parsr,license,,Open source,Apache-2.0,,https://github.com/axa-group/Parsr,live,AXA document-to-data tool; repo warns project no longer maintained; self-hosted server via Docker
+Pendulums,license,,Open source,GPL-3.0,,https://github.com/Swing-team/pendulums-web-client,live,Project management tool; this repo holds the web client source; desktop clients in same org
+Pendulums,platforms,,"Web, Android",,,https://github.com/Swing-team/pendulums-web-client,live,Web client plus Android app; desktop clients also in same repo
+Persian Calendar,license,,Open source,GPL-3.0,,https://github.com/persian-calendar/persian-calendar,live,Android Persian (Jalali) calendar app
+Persian Calendar,platforms,,Android,,,https://github.com/persian-calendar/persian-calendar,live,
+Piknik,license,,Open source,BSD-2-Clause,,https://github.com/jedisct1/piknik,live,Copy/paste anything over the network; CLI tool
+Piknik,platforms,,"Windows, macOS, Linux",,,https://github.com/jedisct1/piknik,live,README lists precompiled binaries for macOS Linux Windows and BSDs
+Pix2 Text,license,,Open source,MIT,,https://github.com/breezedeus/Pix2Text,live,Catalog name has a space; canonical project is Pix2Text; Python OCR layout-recognition tool
+Planify,license,,Open source,GPL-3.0,,https://github.com/alainm23/planify,live,Task manager with Todoist Nextcloud and CalDAV support
+Planify,platforms,,Linux,,,https://github.com/alainm23/planify,live,GNOME desktop app via Flathub; useplanify.com
+PocketClaw,license,,Open source,MIT,,https://github.com/pocketclaw/pocketclaw,live,AI agent for old Android phones with Telegram bot interface
+PocketClaw,platforms,,Android,,,https://github.com/pocketclaw/pocketclaw,live,README badges target Android 5+
+Pomodor,license,,Proprietary — free,,,https://pomodor.app,live,Repo README states Pomodor.app is now a closed-source project; free progressive web app with optional donations
+Pomodor,platforms,,Web,,,https://pomodor.app,live,Progressive web app installable via browser
