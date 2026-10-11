@@ -1,5 +1,9 @@
 # elseware-metadata-shards
 
+![Elseware logo](assets/elseware-logo.png)
+
+**Verification data pipeline for [Elseware](https://elseware.tools)** — the software-alternatives directory, and its sister project [manuscriptOS.io](https://manuscriptos.io).
+
 **If you are a Shard worker, this README is your complete instruction manual. You need nothing else — no separate brief, no extra onboarding.**
 
 Give a new model three things and it can start: this repo URL, its shard number, and the repo token.
@@ -266,3 +270,7 @@ clear the Phase-1 quality probation (3 clean batches under deep audit).
 The repo token is scoped to this repository only (contents read+write). If it ever
 leaks, it can be revoked without affecting anything else. Worst case, junk gets
 pushed — validation rejects it before it ever reaches the master.
+
+---
+
+*Verification data pipeline for [Elseware](https://elseware.tools) — the software-alternatives directory — and its sister project [manuscriptOS.io](https://manuscriptos.io).*
