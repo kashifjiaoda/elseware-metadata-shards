@@ -1,0 +1,71 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+GeoWeather,license,,Open source,Apache-2.0 — raw LICENSE (master) is Apache License Version 2.0,,https://raw.githubusercontent.com/FreetimeMaker/GeoWeather/master/LICENSE,live,Official repo FreetimeMaker/GeoWeather; F-Droid package com.freetime.geoweather linked in repo
+GeoWeather,platforms,,,,Android,https://github.com/freetime-maker/geoweather,live,Repo download section links F-Droid Android package com.freetime.geoweather; described as Android weather app
+Get Iplayer,license,,Open source,GPL-3.0 — raw LICENSE.txt is GNU GPL Version 3,,https://raw.githubusercontent.com/get-iplayer/get_iplayer/master/LICENSE.txt,live,Official org get-iplayer/get_iplayer per AUR upstream URL
+Get Iplayer,platforms,,,,Windows; macOS; Linux,https://github.com/get-iplayer/get_iplayer,live,README states runs on Linux/BSD; macOS (10.10+); Windows (7/8/10)
+Ghost Commander,license,,Open source,GPL-3.0-only — F-Droid lists License: GNU General Public License v3.0 only,,https://f-droid.org/en/packages/com.ghostsq.commander/,live,F-Droid package com.ghostsq.commander; dual-panel Android file manager by Ghost Squared
+Ghost Commander,platforms,,,,Android,https://f-droid.org/en/packages/com.ghostsq.commander/,live,F-Droid is the Free and Open Source Android App Repository listing for this package
+Gigolo,license,,Open source,GPL-2.0 — raw COPYING is GNU GPL Version 2,,https://raw.githubusercontent.com/xfce-mirror/gigolo/master/COPYING,live,Xfce Gigolo remote filesystem frontend; official docs at docs.xfce.org/apps/gigolo
+Gitify,license,,Open source,MIT — raw LICENSE is MIT License,,https://raw.githubusercontent.com/gitify-app/gitify/main/LICENSE,live,Official org gitify-app/gitify
+Gitify,platforms,,,,Windows; macOS; Linux,https://github.com/gitify-app,live,Org listing describes Gitify as available on macOS; Windows & Linux
+Gladys,license,,Open source,Apache-2.0 — raw LICENSE is Apache License Version 2.0,,https://raw.githubusercontent.com/GladysAssistant/Gladys/master/LICENSE,live,Official repo GladysAssistant/Gladys; gladysassistant.com — note optional Gladys Plus subscription does not change core license
+Gladys,platforms,,,,Linux,https://gladysassistant.com,live,Official site states install on any Linux machine via Docker (mini-PC; NAS; Raspberry Pi; server)
+GNOME Authenticator,license,,Open source,GPL-3.0 — raw LICENSE on master is GNU GPL Version 3,,https://gitlab.gnome.org/World/Authenticator/-/raw/master/LICENSE,live,Official GNOME GitLab World/Authenticator; package com.belmoussaoui.Authenticator
+GNOME Authenticator,platforms,,,,Linux,https://flathub.org/apps/com.belmoussaoui.Authenticator,live,Flathub listing titled Install Authenticator on Linux for com.belmoussaoui.Authenticator
+GNOME Color Manager,license,,Open source,GPL-2.0 — raw COPYING is GNU GPL Version 2; distro metadata lists GPL-2.0-or-later,,https://gitlab.gnome.org/GNOME/gnome-color-manager/-/raw/master/COPYING,live,Official GNOME GitLab GNOME/gnome-color-manager upstream per Arch/Fedora package pages
+GNOME Color Manager,platforms,,,,Linux,https://archlinux.org/packages/extra/x86_64/gnome-color-manager/,live,Arch Linux package page for gnome-color-manager with upstream gitlab.gnome.org/GNOME/gnome-color-manager
+GNOME Control Center,license,,Open source,GPL-2.0-or-later; raw COPYING is GPL Version 2 and Arch lists GPL-2.0-or-later,,https://raw.githubusercontent.com/GNOME/gnome-control-center/main/COPYING,live,Official GNOME/gnome-control-center repo; COPYING fetched raw this run
+GNOME Control Center,platforms,,,,Linux,https://archlinux.org/packages/extra/x86_64/gnome-control-center/,live,Arch Linux package page for gnome-control-center with upstream apps.gnome.org/Settings
+GNOME Logs,license,,Open source,GPL-3.0-only; raw COPYING is GPL Version 3 and Arch lists GPL-3.0-only,,https://raw.githubusercontent.com/GNOME/gnome-logs/master/COPYING,live,Official GNOME/gnome-logs repo; COPYING fetched raw this run
+GNOME Logs,platforms,,,,Linux,http://apps.gnome.org/en/Logs/,live,Apps for GNOME page shows Linux keyword and Flathub install
+GNOME Package Updater,license,,Open source,GPL-2.0-or-later; raw COPYING is GPL Version 2 (gnome-packagekit provides org.gnome.PackageUpdater),,https://raw.githubusercontent.com/GNOME/gnome-packagekit/master/COPYING,live,Official GNOME/gnome-packagekit repo; COPYING fetched raw this run
+GNOME Package Updater,platforms,,,,Linux,https://packages.debian.org/sid/gnome-package-updater,live,Debian package page listed in search as gnome-package-updater for GNOME on Linux
+GNOME Power Statistics,license,,Open source,GPL-2.0-or-later; raw COPYING is GPL Version 2 and Arch lists GPL-2.0-or-later,,https://raw.githubusercontent.com/GNOME/gnome-power-manager/master/COPYING,live,GNOME Power Statistics is the gnome-power-manager app; COPYING fetched raw this run
+GNOME Power Statistics,platforms,,,,Linux,https://archlinux.org/packages/extra/x86_64/gnome-power-manager/,live,Arch Linux package page for gnome-power-manager describing system power statistics
+GNOME Shell Pomodoro,license,,Open source,GPL-3.0; raw COPYING is GPL Version 3,,https://raw.githubusercontent.com/gnome-pomodoro/gnome-pomodoro/master/COPYING,live,Official gnome-pomodoro/gnome-pomodoro repo (package gnome-shell-pomodoro); COPYING fetched raw this run
+GNOME Shell Pomodoro,platforms,,,,Linux,https://aur.archlinux.org/packages/gnome-shell-pomodoro,live,AUR package page in search shows upstream github.com/gnome-pomodoro/gnome-pomodoro and Arch Linux packaging
+GNOME System Monitor,license,,Open source,GPL-2.0; raw COPYING is GPL Version 2,,https://raw.githubusercontent.com/GNOME/gnome-system-monitor/main/COPYING,live,Official GNOME/gnome-system-monitor repo; COPYING fetched raw this run
+GNOME System Monitor,platforms,,,,Linux,https://github.com/gnome/gnome-system-monitor,live,Repo README shows Apt/DNF Linux distro build instructions and linux recommendation
+Gnuradio,license,,Open source,GPL-3.0; raw COPYING is GPL Version 3,,https://raw.githubusercontent.com/gnuradio/gnuradio/main/COPYING,live,Official gnuradio/gnuradio repo for GNU Radio; COPYING fetched raw this run
+Gnuradio,platforms,,,,Windows; macOS; Linux,https://wiki.gnuradio.org/index.php/CondaInstall,live,Official GNU Radio wiki page states conda supports Linux macOS and Windows and lists installers for all three
+Godot Dice Roller,license,,Open source,AGPL-3.0 raw LICENSE file,,https://raw.githubusercontent.com/vokimon/godot-dice-roller/main/LICENSE,live,Official repo vokimon/godot-dice-roller; standalone app distribution confirmed via F-Droid listing
+Godot Dice Roller,platforms,,,,Android,https://f-droid.org/categories/dice/,live,F-Droid Android repository listing for Godot Dice Roller
+Goobox,license,,Open source,GPL-2.0 COPYING file,,https://gitlab.gnome.org/GNOME/goobox/-/raw/master/COPYING,live,Identity is GNOME Goobox CD player and ripper; not the container or file-sharing projects of the same name
+Goobox,platforms,,,,Linux,https://packages.debian.org/sid/armhf/gnome/goobox,live,Debian package page describes GNOME 3 CD player and ripper
+Gopeed,license,,Open source,GPL-3.0 raw LICENSE file,,https://raw.githubusercontent.com/GopeedLab/gopeed/main/LICENSE,live,Official repo GopeedLab/gopeed
+Gopeed,platforms,,,,Windows; macOS; Linux; Android; iOS; Web,https://github.com/GopeedLab/gopeed,live,Repo README lists all claimed platforms in one cross-platform statement
+Gotty,license,,Open source,MIT raw LICENSE file,,https://raw.githubusercontent.com/yudai/gotty/master/LICENSE,live,Official original repo yudai/gotty; share terminal as web application
+Gpg Frontend,license,,Open source,GPL-3.0 COPYING file,,https://raw.githubusercontent.com/saturneric/GpgFrontend/main/COPYING,live,Official repo saturneric/GpgFrontend
+Gpg Frontend,platforms,,,,Windows; macOS; Linux,https://github.com/saturneric/GpgFrontend,live,Repo README states native support for all three claimed platforms
+GPSTest,license,,Open source,Apache-2.0 raw LICENSE file,,https://raw.githubusercontent.com/barbeau/gpstest/master/LICENSE,live,Official repo barbeau/gpstest
+GPSTest,platforms,,,,Android,https://github.com/barbeau/gpstest,live,Repo shows Google Play and F-Droid install badges for the Android app com.android.gpstest
+Gramps,license,,Open source,GPL-2.0 COPYING file,,https://raw.githubusercontent.com/gramps-project/gramps/master/COPYING,live,Official repo gramps-project/gramps
+Gramps,platforms,,,,Windows; macOS; Linux,https://www.gramps-project.org/wiki/index.php/Download,live,Official download page lists Linux and Microsoft Windows and Apple macOS sections
+Grdesktop,license,,Open source,GPL-2+ per Debian copyright file,,https://sources.debian.org/data/main/g/grdesktop/0.23+d040330-8/debian/copyright,live,Upstream source listed as Savannah grdesktop; GNOME frontend for rdesktop
+Grdesktop,platforms,,,,Linux,https://packages.debian.org/en/sid/armhf/x11/grdesktop,live,Debian package page for the GNOME frontend for the rdesktop client
+Gsmartcontrol,license,,Open source,GPL-3.0 (raw LICENSE.txt is GNU GPL Version 3),,https://raw.githubusercontent.com/ashaduri/gsmartcontrol/master/LICENSE.txt,live,Official repo ashaduri/gsmartcontrol linked from gsmartcontrol.shaduri.dev
+Gsmartcontrol,platforms,,,,Windows; macOS; Linux; FreeBSD,https://gsmartcontrol.shaduri.dev/,live,Official site Supported Platforms lists Linux Windows macOS FreeBSD and other BSD
+GTK Meteo,license,,Open source,MIT License (raw LICENSE in bailuk/gtk-meteo),,https://raw.githubusercontent.com/bailuk/gtk-meteo/main/LICENSE,live,Official repo bailuk/gtk-meteo; source code MIT per README and raw LICENSE
+GTK Meteo,platforms,,,,Linux,https://github.com/bailuk/gtk-meteo,live,Install via apt and Flathub only shown on official repo
+Gtop,license,,Open source,MIT License (raw LICENSE in aksakalli/gtop),,https://raw.githubusercontent.com/aksakalli/gtop/master/LICENSE,live,Official repo aksakalli/gtop system monitoring dashboard for terminal
+Gtop,platforms,,,,Windows; macOS; Linux,https://github.com/aksakalli/gtop,live,Requirements list Linux / OSX / Windows (partial support)
+Gucharmap,license,,Open source,GPL-3.0-or-later (COPYING is GNU GPL Version 3),,https://gitlab.gnome.org/GNOME/gucharmap/-/raw/master/COPYING,live,GNOME Character Map formerly Gucharmap; repo gitlab.gnome.org/GNOME/gucharmap cross-checked on Wikipedia
+Guiscrcpy,license,,Open source,GPL-3.0 (raw LICENSE is GNU GPL Version 3),,https://raw.githubusercontent.com/srevinsaju/guiscrcpy/main/LICENSE,live,Official repo srevinsaju/guiscrcpy GUI for scrcpy
+Guiscrcpy,platforms,,,,Windows; Linux,https://github.com/srevinsaju/guiscrcpy,live,Installation table shows Windows exe and Linux Flatpak/Snap/AUR/AppImage
+Gwakeonlan,license,,Open source,GPL-3.0+ (README states License: GPL-3+; no separate LICENSE file in repo root),,https://github.com/muflone/gwakeonlan,live,Official repo muflone/gwakeonlan GTK Wake on LAN utility by Fabio Castelli
+HalfDot for Umami,license,,Open source,MIT License,,https://raw.githubusercontent.com/davquar/halfdot/main/LICENSE,live,Raw LICENSE shows MIT; F-Droid package it.davquar.halfdot confirms identity
+HalfDot for Umami,platforms,,,,Android,https://f-droid.org/packages/it.davquar.halfdot/,live,F-Droid Android repository page requires Android 4.4 or newer
+HashVerifier,license,,Open source,MIT License,,https://raw.githubusercontent.com/ostapkonst/HashVerifier/master/LICENSE,live,Raw LICENSE on master shows MIT; repo ostapkonst/HashVerifier
+HashVerifier,platforms,,,,Windows; macOS; Linux,https://github.com/ostapkonst/HashVerifier,live,README shows Linux DEB/RPM/AppImage and Windows installer and macOS sections
+Hawaiian for AnySoftKeyboard,license,,Open source,Apache-2.0,,https://f-droid.org/packages/com.anysoftkeyboard.languagepack.hawaiian/,live,F-Droid lists License: Apache License 2.0 for package com.anysoftkeyboard.languagepack.hawaiian
+Hawaiian for AnySoftKeyboard,platforms,,,,Android,https://f-droid.org/packages/com.anysoftkeyboard.languagepack.hawaiian/,live,F-Droid Android page requires Android 5.0 or newer
+Healthy Battery Charging,license,,Open source,MIT License,,https://raw.githubusercontent.com/vbresan/HealthyBatteryCharging/master/LICENSE,live,Raw LICENSE shows MIT; F-Droid package biz.binarysolutions.healthybatterycharging confirms identity
+Healthy Battery Charging,platforms,,,,Android,https://f-droid.org/packages/biz.binarysolutions.healthybatterycharging/,live,F-Droid Android page requires Android 4.0.3 or newer
+HeliBoard,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/Helium314/HeliBoard/main/LICENSE,live,Raw LICENSE shows GNU GPL Version 3; F-Droid lists GPL-3.0 only
+HeliBoard,platforms,,,,Android,https://f-droid.org/packages/helium314.keyboard/,live,F-Droid Android page for helium314.keyboard requires Android 5.0 or newer
+Helpviewer.app,license,,Open source,GPL-2.0+,,https://salsa.debian.org/gnustep-team/helpviewer.app/-/raw/master/debian/copyright,live,Debian copyright file lists License: GPL-2+ for HelpViewer files
+Helpviewer.app,platforms,,,,Linux,https://packages.debian.org/unstable/helpviewer.app,live,Debian package page for GNUstep help viewer distributed as Linux .deb package
+Hex Launcher,license,,Open source,Apache-2.0,,https://raw.githubusercontent.com/MrMannWood/launcher/master/LICENSE,live,Raw LICENSE shows Apache License Version 2.0; Play listing links to github.com/MrMannWood/launcher
+Hex Launcher,platforms,,,,Android,https://play.google.com/store/apps/details?id=com.mrmannwood.hexlauncher&hl=en_US,live,Google Play listing for com.mrmannwood.hexlauncher Android home screen replacement
+HiddenProtectedWorkProfile,license,,Open source,Unlicense,,https://f-droid.org/packages/hidden.protectedwp.safespace/,live,F-Droid lists License: The Unlicense for hidden.protectedwp.safespace
+HiddenProtectedWorkProfile,platforms,,,,Android,https://f-droid.org/packages/hidden.protectedwp.safespace/,live,F-Droid Android page requires Android 11 or newer
