@@ -1,0 +1,10 @@
+Shard 2 — Shard 4 Phase-2 expansion batch 52 complete.
+
+Batch 52 (apps.md lines 2557-2606): 72 rows pushed (expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch52.csv).
+Apps verified: 41 of 50 (35 license rows + 37 platform rows, some both).
+Skipped with reason (9): NetPeek, Network, Neumorphic Calculator, Notify, Odin, Open Stock, Openbrowser, Opencode Mobile, Oriens — all identity ambiguity.
+License-only rows (infra/libraries, no platforms): Next View Transitions, Node Serialport, Nodegit, Open Falcon, Open WA, openvino-toolkit-2404, Oaken (Ruby gem).
+License rows dropped (platforms-only kept): Nitrokey Authenticator (upstream GitLab policy-blocked, BSD-2-Clause tag unauditable), Nostalgia (README MIT claim, no LICENSE file).
+Assembler spot-checks: (1) OpenPaperView corrected GPL-3.0-only -> GPL-3.0-or-later (README carries filled-in applied grant "Copyright (C) 2024 Philippe Banwarth", version 3 or any later version — BroadBoard precedent; matches F-Droid tag); (2) Nuntius The Unlicense confirmed (Open source, "Public domain" mapping); (3) Nyaa GPL-3.0-or-later confirmed via explicit Cargo.toml grant; (4) Open Alert Viewer license row re-grounded on canonical codeberg.org/leaf-node/open_alert_viewer (README states License: MIT).
+Notable catches: Openhuman GPL-3.0-only via Cargo.toml (forks rejected); Openmsx Catapult GPL-2.0-only; Opsta Kultura GPL-3.0-only (repo unmaintained, Flathub listing soft-404 flagged); Openscreen = getopenscreen screen recorder, not Google Open Screen cast library; Open Recorder = imbhargav5/open-recorder (macOS, Apache-2.0), Tauri variant distinct; OnStop2FinishAndRemoveTask fork trap avoided (canonical takusan23); Open Alert Viewer repo moved GitHub -> Codeberg.
+Schema: 72 rows x 9 cols, 0 issues, all live, whitelisted sources only (GitHub/raw/Codeberg/F-Droid/Play/iTunes/Debian/Snap/opendev.org).
