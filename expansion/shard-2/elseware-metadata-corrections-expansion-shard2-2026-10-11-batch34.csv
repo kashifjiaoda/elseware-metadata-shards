@@ -1,0 +1,71 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+MESH,license,,Open source,AGPL-3.0-or-later,Android,https://f-droid.org/en/packages/com.barghest.mesh/,live,F-Droid lists GNU Affero General Public License v3.0 or later; censorship-resisting overlay network fork of Tailscale protocol
+MESH,platforms,,Android,,,https://f-droid.org/en/packages/com.barghest.mesh/,live,Android 8.0+ APK on F-Droid
+Mullvadvpn App,license,,Open source,GPL-3.0,"Windows, macOS, Linux, Android, iOS",https://github.com/mullvad/mullvadvpn-app,live,GitHub API spdx GPL-3.0; the Mullvad VPN client app for desktop and mobile
+Mullvadvpn App,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://github.com/mullvad/mullvadvpn-app,live,README: built and signed releases for macOS Windows Linux and Android; iOS standalone implementation
+NextDNS Manager,license,,Open source,GPL-3.0,Android,https://github.com/doubleangels/NextDNSManager,live,GitHub API spdx GPL-3.0 on canonical doubleangels/NextDNSManager; unaffiliated with NextDNS
+NextDNS Manager,platforms,,Android,,,https://github.com/doubleangels/NextDNSManager,live,Android app; distributed via Google Play Store F-Droid and GitHub releases
+Oblivion Desktop,license,,Source-available,Restrictive custom license - no sale and modification limitation,"Windows, macOS, Linux",https://github.com/bepass-org/oblivion-desktop,live,LICENSE.md: Restrictive License - No Sale and Modification Limitation; unofficial Cloudflare WARP client
+Oblivion Desktop,platforms,,"Windows, macOS, Linux",,,https://github.com/bepass-org/oblivion-desktop,live,README: user-friendly Windows/Linux/MacOS app
+Openfortivpn,license,,Open source,GPL-3.0,Linux,https://github.com/adrienverge/openfortivpn,live,GitHub API spdx GPL-3.0; client for PPP+TLS VPN tunnel services
+Openfortivpn,platforms,,Linux,,,https://github.com/adrienverge/openfortivpn,live,README lists Fedora CentOS and Arch Linux distro packages
+Outline Keeper,license,,Open source,Apache-2.0,Android,http://f-droid.org/packages/org.sirekanyan.outline/,live,F-Droid: Apache License 2.0; source at github.com/sirekanyan/outline; manages Outline VPN servers
+Outline Keeper,platforms,,Android,,,http://f-droid.org/packages/org.sirekanyan.outline/,live,Android app on F-Droid and Google Play
+PCAPdroid,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/en/packages/com.emanuelef.remote_capture/,live,F-Droid: GNU General Public License v3.0 or later; canonical repo emanuele-f/PCAPdroid
+PCAPdroid,platforms,,Android,,,https://f-droid.org/en/packages/com.emanuelef.remote_capture/,live,Android network monitoring and capture tool
+Pritunl Client,license,,Source-available,Custom restrictive license - non-commercial no redistribution,"Windows, macOS, Linux",https://github.com/pritunl/pritunl-client-electron,live,LICENSE: non-commercial use only; source-code or binary products cannot be resold or distributed; cannot distribute modifications
+Pritunl Client,platforms,,"Windows, macOS, Linux",,,https://github.com/pritunl/pritunl-client-electron,live,README shows macOS and Windows packages plus Install from Source (Linux)
+Pywarp,license,,Open source,AGPL-3.0,"Windows, macOS, Linux",https://github.com/jadopcb/pywarp,live,GitHub API spdx AGPL-3.0 on jadopcb/pywarp; replacement UI for Cloudflare WARP app
+Pywarp,platforms,,"Windows, macOS, Linux",,,https://github.com/jadopcb/pywarp,live,README download badges for Windows macOS and Linux releases
+Rethink App,license,,Open source,Apache-2.0,Android,https://github.com/celzero/rethink-app,live,GitHub API spdx Apache-2.0; RethinkDNS + Firewall
+Rethink App,platforms,,Android,,,https://github.com/celzero/rethink-app,live,Android DNS firewall and VPN app
+Tunnelblick,license,,Open source,GPL-2.0,,https://github.com/Tunnelblick/Tunnelblick,live,README: released under the terms of the GNU General Public License version 2
+Tunnelblick,platforms,,macOS,,,https://github.com/Tunnelblick/Tunnelblick,live,README: GUI for OpenVPN on macOS
+ActivityWatch,license,,Open source,MPL-2.0,,https://github.com/ActivityWatch/activitywatch,live,GitHub API spdx_id MPL-2.0
+ActivityWatch,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/ActivityWatch/activitywatch,live,README Platforms table: all four platforms checked
+Skanuvaty,license,,Open source,MIT,,https://github.com/esc4icescesc/skanuvaty,live,README: License MIT 2021 (GitHub API returned no license; README text governs)
+Advanced Literate Machinery,license,,Open source,Apache-2.0,,https://github.com/AlibabaResearch/AdvancedLiterateMachinery,live,Research repo of OCR algorithms (Alibaba Tongyi Lab); license row only
+Alttab,license,,Open source,GPL-3.0,,https://alt-tab.app/,live,Free version GPL-3.0; Pro pre-built binaries are paid
+Alttab,platforms,,macOS,,,https://alt-tab.app/,live,macOS window switcher
+An Explorer,license,,Open source,Apache-2.0,,https://github.com/1hakr/AnExplorer,live,
+An Explorer,platforms,,Android,,,https://github.com/1hakr/AnExplorer,live,Android file manager
+Andesine,license,,Source-available,AGPL-3.0 (default); some components MIT or Elastic License 2.0,,https://github.com/vriteio/andesine,live,LICENSE declares mixed licensing: AGPL-3.0 default with MIT and Elastic License 2.0 components; Source-available per mixed restrictive licensing
+Andesine,platforms,,Web,,,https://github.com/vriteio/andesine,live,Self-hosted content workspace; Vrite Cloud managed option
+App Manager,license,,Open source,GPL-3.0-or-later,,https://github.com/MuntashirAkon/AppManager,live,README declares GPL-3.0-or-later (docs CC-BY-SA-4.0)
+App Manager,platforms,,Android,,,https://github.com/MuntashirAkon/AppManager,live,
+Asciidoc FX,license,,Open source,Apache-2.0,"Windows, macOS, Linux",https://github.com/asciidocfx/AsciidocFX,live,JavaFX AsciiDoc editor; official site has Install on Linux/Windows/Mac
+Asciidoc FX,platforms,,Windows; macOS; Linux,,,https://asciidocfx.com/,live,Official download page offers Linux/Windows/Mac installers
+Audapolis,license,,Open source,AGPL-3.0,"Windows, macOS, Linux",https://github.com/bugbakery/audapolis,live,Spoken-word audio editor with automatic transcription
+Audapolis,platforms,,Windows; macOS; Linux,,,https://github.com/bugbakery/audapolis/releases/latest,live,Release binaries for Windows Linux and macOS
+Axichat,license,,Open source,AGPL-3.0,"Android, macOS, Windows, Linux",https://github.com/axichat/axichat,live,Email chat and calendar in one; Flutter client
+Axichat,platforms,,Android; macOS; Windows; Linux,,,https://github.com/axichat/axichat,live,README badges: Play Store F-Droid macOS DMG Windows EXE Linux AppImage
+Backlog Tracker,license,,Open source,Apache-2.0,"Android, Windows, macOS, Linux",https://github.com/debojitsantra/backlogtracker,live,Offline-first app to track anything that piles up
+Backlog Tracker,platforms,,Android; Windows; macOS; Linux,,,https://github.com/debojitsantra/backlogtracker,live,F-Droid + Tauri desktop builds for Ubuntu Windows macOS
+Batnoter,license,,Open source,MIT,Web,https://github.com/batnoter/batnoter,live,Markdown-based self-hosted note-taking webapp storing notes in git
+Batnoter,platforms,,Web,,,https://batnoter.com,live,Self-hosted web app; official site batnoter.com
+Beaverhabits,license,,Open source,BSD-3-Clause,Web,https://github.com/daya0576/beaverhabits,live,Self-hosted habit tracker without Goals
+Beaverhabits,platforms,,Web,,,https://github.com/daya0576/beaverhabits,live,Docker-first deployment; official demo beaverhabits.com/demo
+BetterCounter,license,,Open source,GPL-2.0,Android,https://github.com/albertvaka/bettercounter,live,Multi-purpose daily counter to track habits
+BetterCounter,platforms,,Android,,,https://f-droid.org/packages/org.kde.bettercounter/,live,F-Droid package org.kde.bettercounter + Play Store
+Birday,license,,Open source,GPL-3.0,Android,https://github.com/m-i-n-a-r/birday,live,README links LICENSE.md; raw LICENSE.md verified as GNU GPL v3 text
+Birday,platforms,,Android,,,https://github.com/m-i-n-a-r/birday,live,Kotlin Android app to remember birthdays and events
+BirthDayDroid,license,,Open source,GPL-3.0-only,Android,http://f-droid.org/packages/com.tmendes.birthdaydroid/,live,F-Droid lists GNU General Public License v3.0 only
+BirthDayDroid,platforms,,Android,,,https://gitlab.com/tmendes/BirthDayDroid,live,Android birthday reminder for contacts; F-Droid + Play Store
+Blinko,license,,Open source,GPL-3.0,"Windows, macOS, Linux, Android, Web",https://github.com/blinkospace/blinko,live,Self-hosted AI-powered card note-taking app; Tauri native
+Blinko,platforms,,Windows; macOS; Linux; Android; Web,,,https://github.com/blinkospace/blinko,live,README: native macOS Windows Android Linux + self-hosted web
+BlueMail - Email & Calendar,license,,Proprietary — freemium,,Windows; macOS; Linux; Android; iOS,https://bluemail.me/pricing/,live,Free forever tier plus paid Plus/Team/Enterprise plans
+BlueMail - Email & Calendar,platforms,,Windows; macOS; Linux; Android; iOS,,,https://bluemail.me/pricing/,live,Cross-platform email and calendar client
+Bookokrat,license,,Open source,AGPL-3.0,macOS; Linux,https://github.com/bugzmanov/bookokrat,live,Terminal EPUB/PDF/DJVU reader
+Bookokrat,platforms,,macOS; Linux,,,https://github.com/bugzmanov/bookokrat,live,Homebrew (macOS) plus AUR/Nix/Linux binaries
+BoxingClock,license,,Open source,MIT,Android,https://github.com/Antoine-lab-pixel/BoxingClock,live,Kotlin/Jetpack Compose boxing timer app
+BoxingClock,platforms,,Android,,,https://f-droid.org/en/packages/com.antoinelabpixel.boxingclock,live,F-Droid listed Android app
+Butterfly,license,,Open source,AGPL-3.0,Android; iOS; Windows; macOS; Linux; Web,https://github.com/LinwoodDev/Butterfly,live,Cross-platform note-taking app
+Butterfly,platforms,,Android; iOS; Windows; macOS; Linux; Web,,,https://butterfly.linwood.dev/downloads,live,Phones tablets desktops and web per official downloads page
+CalEF (Calendar Entry Formatter),license,,Open source,GPL-3.0,Android,https://github.com/k3b/calef,live,Create and send appointment-confirmation messages from Android calendar entries
+CalEF (Calendar Entry Formatter),platforms,,Android,,,https://github.com/k3b/calef,live,Android app
+Calibre Web,license,,Open source,GPL-3.0,Web,https://github.com/janeczku/calibre-web,live,Web app for browsing reading and downloading eBooks from a Calibre database
+Calibre Web,platforms,,Web,,,https://github.com/janeczku/calibre-web,live,Self-hosted web app (pip/Docker)
+Calisthenics Memory,license,,Open source,GPL-3.0,Android,https://github.com/Gonbei774/CalisthenicsMemory,live,Privacy-focused bodyweight training tracker
+Calisthenics Memory,platforms,,Android,,,https://github.com/Gonbei774/CalisthenicsMemory,live,Android 8.0+ app
+Chibe,license,,Open source,GPL-3.0,Android,https://github.com/raatmarien/chibe,live,Android app that vibrates phone at set times
+Chibe,platforms,,Android,,,https://f-droid.org/en/packages/com.jmstudios.chibe,live,F-Droid listed Android app
