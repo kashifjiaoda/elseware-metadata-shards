@@ -1,0 +1,81 @@
+Denemo,license,,Open source,GPL-3.0-or-later,,https://raw.githubusercontent.com/denemo/denemo/master/src/core/cache.c,live,"Source header (src/core/cache.c): 'either version 3 of the License, or (at your option) any later version'; COPYING is GPL v3 text (GitHub mirror denemo/denemo)"
+Denemo,platforms,,"Linux, Mac, Windows",,,https://www.denemo.org/,live,"Official site: 'Linux, Mac OSX and Windows'; 'Mac OSX binary available'"
+Diurnals,license,,Open source,MIT,,https://raw.githubusercontent.com/SSS-Says-Snek/diurnals/main/LICENSE,live,"Raw LICENSE: MIT License, Copyright (c) 2024-present SSS-Says-Snek (GTK Todoist daily-notification app)"
+Diurnals,platforms,,Linux,,,https://github.com/SSS-Says-Snek/diurnals,live,"README install covers Arch Linux (AUR), Flathub, manual meson build — Linux-only distribution channels"
+Drumstick MIDI Monitor,license,,Open source,GPL-2.0-or-later,,https://raw.githubusercontent.com/pedrolcl/kmidimon/master/src/about.cpp,live,"Source header (src/about.cpp): 'either version 2 of the License, or (at your option) any later version'"
+Drumstick MIDI Monitor,platforms,,Linux,,,https://github.com/pedrolcl/kmidimon/blob/HEAD/doc/en/index.md,live,"Repo docs: requires Qt, Drumstick and ALSA drivers/library — ALSA is Linux-only"
+Eartag,license,,Open source,MIT,,https://raw.githubusercontent.com/knuxify/eartag/main/COPYING,live,"Raw COPYING: MIT License, Copyright (c) 2022-2024 knuxify and Ear Tag contributors (license text governs)"
+Eartag,platforms,,Linux,,,https://github.com/knuxify/eartag,live,"README: GTK4/libadwaita tag editor, desktop and mobile form factors; distributed via Flathub (app.drey.EarTag) and Linux distro repos"
+EasyTAG,license,,Open source,GPL-2.0-or-later,,https://raw.githubusercontent.com/GNOME/easytag/master/src/easytag.c,live,"Source header (src/easytag.c): 'either version 2 of the License, or (at your option) any later version'"
+EasyTAG,platforms,,"Linux, Windows",,,https://wiki.gnome.org/Apps/EasyTAG/FAQ,live,"Official GNOME wiki FAQ: 'EasyTAG is included in most Linux distributions'; 'For Windows, download the Windows installer'"
+Elektroid,license,,Open source,GPL-3.0-or-later,,https://raw.githubusercontent.com/dagargo/elektroid/master/src/audio.c,live,"Source header (src/audio.c): 'either version 3 of the License, or (at your option) any later version'"
+Elektroid,platforms,,"Linux, Mac",,,https://github.com/dagargo/elektroid,live,README: available in GNU/Linux distros and via Flatpak (io.github.dagargo.Elektroid); macOS app bundle build script included (macos-bundle.sh)
+Exfalso,license,,Open source,GPL-2.0-or-later,,https://raw.githubusercontent.com/quodlibet/quodlibet/master/exfalso.py,live,"Source header (exfalso.py): 'either version 2 of the License, or (at your option) any later version'; lives in the Quod Libet monorepo"
+FCast Sender,license,,Open source,MIT,,https://raw.githubusercontent.com/futo-org/fcast/master/LICENSE,live,"Raw LICENSE: MIT License, Copyright (c) 2023 FUTO — covers the fcast repo incl. desktop/terminal senders (released as sender-0.0.2-beta)"
+Ffado Mixer Qt4,platforms,,Linux,,,http://subversion.ffado.org/ffado/branches/2.4.x/libffado/README,live,FFADO official README: Free FireWire audio drivers for Linux; ffado-mixer-qt4 is the Linux mixer package
+Firefly Luciferin,license,,Open source,GPL-3.0,,https://github.com/sblantipodi/firefly_luciferin,live,GitHub license detection on upstream repo; 'or later' grant not verified from source headers
+Firefly Luciferin,platforms,,"Windows, Linux",,,https://github.com/sblantipodi/firefly_luciferin,live,README: multi platform Windows and Linux ready; macOS pending; also on Flathub and Snap Store
+Flmsg,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/gm5dna/homebrew-amateur-radio/commit/674d66e6f6c40e928913c6169d6b4d93b3f9af6b,live,W1HKJ suite: macOS cask via Homebrew (GitHub); Android via AndFlmsg apk on w1hkj.org; Windows setup.exe and Linux source builds on w1hkj.org; fldigi workshop docs list Windows/Mac/Linux
+Fmit,platforms,,Linux,,,https://github.com/flathub/io.github.gillesdegottex.fmit,live,Flathub entry for upstream gillesdegottex/fmit; Qt app using ALSA/JACK; packaged for Ubuntu/Debian/Fedora
+fooyin [Kyu version],license,,Open source,GPL-3.0-or-later,,https://GitHub.com/fooyin,live,"Upstream source headers grant 'either version 3 of the License, or (at your option) any later version' (upstream commit diff); GitHub org lists GPL-3.0; Kyu version is Kyuyrii's Snap Store packaging"
+fooyin [Kyu version],platforms,,Linux,,,https://snapcraft.io/fooyin,live,Snap Store listing by Kyu: 'Install fooyin [Kyu version] on Linux'
+Freedv,license,,Open source,LGPL-2.1-or-later,,https://github.com/boydsoftprez/freedv-gui,live,"Fork README: 'LGPL 2.1 or later, matching upstream freedv-gui. See COPYING'; official freedv.org states GNU Lesser Public License version 2.1"
+Freedv,platforms,,"Windows, macOS, Linux",,,https://github.com/boydsoftprez/freedv-gui,live,Build docs for Linux/macOS/Windows; freedv.org describes GUI app for Windows Linux and OSX
+Gapless,license,,Open source,GPL-3.0-or-later,,https://github.com/neithern/g4music,live,Flathub app page states 'GNU General Public License v3.0 or later'; upstream repo is neithern/g4music (Gapless AKA G4Music)
+Gapless,platforms,,Linux,,,https://github.com/neithern/g4music,live,Distributed via Flathub and Snap Store; GTK4 app
+Giada,license,,Open source,GPL-3.0-or-later,,https://github.com/theblobinc/giada,live,"README copyright notice: 'either version 3 of the License, or (at your option) any later version'; fork mirroring upstream monocasual/giada linked in README"
+Giada,platforms,,"Windows, macOS, Linux",,,https://github.com/theblobinc/giada,live,Audio backends: ALSA/JACK (Linux); CoreAudio (macOS); ASIO/DirectSound (Windows)
+Gmtp,platforms,,Linux,,,https://github.com/panuhorsmalahti/gMTP,live,README reports successful runs on Arch Linux/Debian/Ubuntu; project origin Oracle Solaris; packaged for GNU/Linux (Guix)
+Go2TV,license,,Open source,MIT,,https://github.com/alexballas/go2tv,live,GitHub license detection MIT; README section '## License' states MIT
+Go2TV,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/alexballas/go2tv,live,README Installation covers Windows GUI/CLI; macOS Homebrew and zips; Linux Flathub and zips; Android APK
+Google Play Music Desktop Player UNOFFICIAL,platforms,,"Linux, Mac, Windows",,,https://github.com/marshallofsound/google-play-music-desktop-player-unofficial-,live,"README: signed installers for Windows; linux (debian and fedora) and OS X (darwin) builds; unofficial client, not affiliated with Google"
+Gtranscribe,platforms,,Linux,,,https://github.com/innir/gtranscribe,live,"GTK4/libadwaita desktop app (runtime deps: GTK 4, libadwaita, GStreamer via meson build); Linux desktop"
+Hegelmote,platforms,,"Linux, Mac, Windows, FreeBSD",,,https://github.com/Jacalz/hegelmote,live,"README: release binaries for Linux, macOS, Windows and FreeBSD (plus experimental Android builds); unofficial, not affiliated with Hegel"
+High Tide,platforms,,Linux,,,https://github.com/Nokse22/high-tide,live,Libadwaita TIDAL streaming client; Flatpak/Flathub Linux distribution (flatpak uninstall instructions in README)
+JJazzLab,platforms,,"Linux, Mac, Windows",,,https://github.com/jjazzboss/JJazzLab,live,"README: ready-to-use installers for Win, Linux and Mac (www.jjazzlab.org)"
+Jtdx,platforms,,"Linux, Mac, Windows",,,https://github.com/jtdx-project/jtdx,live,"README: runs equally well on Windows, Macintosh and Linux; installation packages for all three"
+Google Play Music Desktop Player UNOFFICIAL,license,,Open source,MIT,,https://github.com/marshallofsound/google-play-music-desktop-player-unofficial-,live,"README License section quotes the full MIT License text (Copyright (c) 2016 Samuel Attard); unofficial client, not affiliated with Google"
+Gtranscribe,license,,Open source,GPL-3.0,,https://github.com/innir/gtranscribe,live,README: 'gTranscribe is free software... under the terms of the GNU General Public License version 3'; icon under LGPL-2.1
+High Tide,license,,Open source,GPL-3.0,,https://github.com/Nokse22/high-tide,live,README: 'licensed under the GNU General Public License v3.0 - see the [LICENSE](COPYING) file'; Libadwaita TIDAL client for Linux
+Jack Mixer,license,,Open source,GPL-2.0-or-later,,https://github.com/jack-mixer/jack_mixer,live,"README: 'licensed under GPL version 2 (or later), check the file COPYING'"
+JJazzLab,license,,Open source,LGPL-2.1,,https://github.com/jjazzboss/JJazzLab,live,README License section: 'Lesser GPL v2 (LGPL v2.1)'; installers for Win/Linux/Mac via www.jjazzlab.org
+Hegelmote,license,,Open source,Apache-2.0,,https://raw.githubusercontent.com/Jacalz/hegelmote/main/LICENSE,live,"GitHub license detection: Apache-2.0; raw LICENSE verified as Apache License v2.0 text; unofficial, not affiliated with Hegel"
+Jtdx,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/jtdx-project/jtdx/master/COPYING,live,COPYING preamble: 'licensed under the GPL Version 3 license' (derivative of WSJT-X); README: 'open-source project released under the GPL license'
+Kasts,license,,Open source,GPL-2.0-or-later,,https://snapcraft.io/install/kasts/ubuntu,live,Snap Store listing from KDE Publisher Verified account
+Kasts,platforms,,"Linux, Linux Mobile",,,https://github.com/podhound/podhound/blob/HEAD/docs/clients.md,live,Per Podhound compatible-clients doc
+Kluppe,platforms,,Linux,,,http://kluppe.klingt.org/,live,Official homepage states Linux only
+Knowthelist,license,,Open source,LGPL-3.0,,https://github.com/knowthelist/knowthelist,live,GitHub license detection and repo badge
+Knowthelist,platforms,,"Linux, macOS, Windows",,,https://github.com/knowthelist/knowthelist,live,README states runs natively on Linux macOS and Windows
+Kopuz,license,,Open source,EUPL-1.2,,https://github.com/Kopuz-org/kopuz,live,GitHub license detection and README EUPL v1.2 statement
+Kopuz,platforms,,"Android, Linux, macOS",,,https://github.com/Kopuz-org/kopuz,live,Flathub and AppImage and AUR on Linux plus Homebrew macOS plus Google Play
+Lalumo,license,,Open source,GPL-3.0-or-later,,https://github.com/eastcoast-laboratories/lalumo,live,README explicitly GPL-3.0-or-later and LICENSE file present
+Lalumo,platforms,,"Android, Web",,,https://github.com/eastcoast-laboratories/lalumo,live,F-Droid store changelog and lalumo.eu web deployment
+Let's Bend: Harmonica Tuner,license,,Open source,MIT,,https://github.com/egdels/bluesharpbendingapp,live,GitHub license detection and README MIT License
+Let's Bend: Harmonica Tuner,platforms,,"Android, Linux, macOS, Windows, Web",,,https://github.com/egdels/bluesharpbendingapp,live,README lists desktop macOS Debian Linux Windows plus Android plus browser web version
+Linux Show Player,license,,Open source,GPL-3.0,,https://github.com/FrancescoCeruti/linux-show-player,live,GitHub detection GPL-3.0 and License GPL badge
+Linux Show Player,platforms,,Linux,,,https://github.com/FrancescoCeruti/linux-show-player,live,README states developed and tested for GNU/Linux only
+Loomfy,license,,Proprietary — freemium,,,https://loomfy.ai/en/,live,Official pricing Free 0 USD plus Essencial 5 per month plus Pro 15 per month
+Loomfy,platforms,,"Linux, macOS, Windows",,,https://loomfy.ai/en/,live,Official homepage hero badge
+Lrc-R,license,,Open source,GPL-3.0,,https://github.com/resurrectdev1/lrc-r,live,GitHub detection and README GNU General Public License 3.0
+Lrc-R,platforms,,"Android, Web",,,https://github.com/resurrectdev1/lrc-r,live,F-Droid and GitHub Android releases plus live web demo
+Lyricade,license,,Open source,Apache-2.0,,https://github.com/weiteck/lyricade,live,GitHub detection and README Apache License 2.0
+Lyricade,platforms,,Linux,,,https://github.com/weiteck/lyricade,live,Flatpak via Flathub and AppImage releases
+Lyrics Finder,license,,Proprietary — free,Proprietary (LicenseRef-proprietary),,https://flathub.org/en/apps/com.mediahuman.LyricsFinder,live,Flathub metadata shows LicenseRef-proprietary with mediahuman.com TOS; dev site describes app as free
+Lyrics Finder,platforms,,"Windows, macOS, Linux",,,https://www.mediahuman.com/lyrics-finder/,live,Official download page lists all three OSes
+MasVisGtk,license,,Open source,GPL-2.0-or-later,,https://github.com/itprojects/masvisgtk,live,Raw LICENSE is GPL v2; src/main.py header grants version 2 or any later version
+MasVisGtk,platforms,,Linux,,,https://github.com/itprojects/masvisgtk/blob/HEAD/README.md,live,Python GTK app packaged as Flatpak on Flathub
+Melody,license,,Open source,LGPL-2.1-or-later,,https://github.com/artemanufrij/playmymusic,live,src/Application.vala header grants LGPL version 2 or any later version
+Melody,platforms,,Linux,,,https://github.com/artemanufrij/playmymusic,live,elementary OS Vala GTK app; upstream repo inactive per 2026 listings
+Mini EQ,license,,Open source,GPL-3.0-only,,https://github.com/bhack/mini-eq,live,Raw LICENSE is GPL v3; GitHub SPDX detection GPL-3.0; no or-later grant found
+Mini EQ,platforms,,Linux,,,https://github.com/bhack/mini-eq/blob/HEAD/README.md,live,System-wide parametric EQ for PipeWire desktops; on Flathub
+Monophony,license,,Open source,ISC,,https://gitlab.com/zehkira/monophony,live,Raw LICENSE is the ISC license text verbatim
+Monophony,platforms,,Linux,,,https://gitlab.com/zehkira/monophony,live,Python GTK4 libadwaita app; distributed via Flathub
+Mopidy,license,,Open source,Apache-2.0,,https://github.com/mopidy/mopidy,live,Raw LICENSE is Apache License 2.0; README confirms Apache License Version 2.0
+Mopidy,platforms,,"Linux, macOS",,,https://docs.mopidy.com/stable/installation/,live,Install docs cover Debian/Ubuntu Arch Fedora macOS and Raspberry Pi
+MPD,license,,Open source,GPL-2.0-or-later,,https://github.com/MusicPlayerDaemon/MPD,live,SPDX GPL-2.0-or-later in src/Main.cxx; COPYING file is GPL v2
+Muffon,license,,Open source,AGPL-3.0-only,,https://github.com/staniel359/muffon,live,Raw LICENSE is AGPL v3; package.json declares AGPL-3.0; no or-later grant found
+Muffon,platforms,,"Windows, macOS, Linux",,,https://github.com/staniel359/muffon/releases,live,Latest release ships win exe mac dmg and linux AppImage deb rpm flatpak builds
+Musekit,license,,Open source,GPL-3.0-only,,https://github.com/Kwasow/Musekit,live,Raw LICENSE.txt is GPL v3 with no or-later grant in repo text; F-Droid page says GPL-3.0-or-later so conservative reading
+Musekit,platforms,,Android,,,https://f-droid.org/en/packages/com.kwasow.musekit/,live,Published on F-Droid and Google Play as com.kwasow.musekit
+Music Assistant Desktop,license,,Open source,Apache-2.0,,https://github.com/music-assistant/desktop-app,live,Raw LICENSE is Apache License 2.0; README confirms Apache-2.0
+Music Assistant Desktop,platforms,,"Windows, macOS, Linux",,,https://github.com/music-assistant/desktop-app/releases,live,Release assets include exe msi dmg deb rpm AppImage and flatpak
