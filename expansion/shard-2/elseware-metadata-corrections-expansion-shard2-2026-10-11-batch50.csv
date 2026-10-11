@@ -1,0 +1,72 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Kfloppy,license,,Open source,"GNU General Public License v2.0 or later (source header: either version 2, or at your option any later version)",,https://raw.githubusercontent.com/KDE/kfloppy/master/main.cpp,live,"KDE floppy disk formatter; COPYING holds GPLv2 text, source headers add the or-later clause"
+Kfloppy,platforms,,Linux,,,https://github.com/KDE/kfloppy,live,README: for systems running Linux
+Kilo,license,,Open source,BSD 2-clause (README: released under the BSD 2 clause license),,https://github.com/antirez/kilo,live,"antirez terminal text editor; license row only (POSIX terminal app, no end-user OS platforms)"
+Kirigami Gallery,license,,Open source,"GNU Library GPL v2.0 or later (source header: either version 2, or at your option any later version)",,https://raw.githubusercontent.com/KDE/kirigami-gallery/master/src/main.cpp,live,KDE Kirigami component gallery; repo LICENSE.LGPL-2
+Kirigami Gallery,platforms,,Linux,,,https://github.com/KDE/kirigami-gallery,live,Flathub flatpak build manifest in repo; Kirigami desktop app
+Klavaro,license,,Open source,GNU General Public License version 3.0 (GPLv3),,https://sourceforge.net/projects/klavaro/,live,Touch typing tutor; official project page lists License: GNU General Public License version 3.0 (GPLv3)
+Klavaro,platforms,,"Windows, macOS, Linux",,,https://sourceforge.net/projects/klavaro/,live,"Project OS list: BSD, Linux, MinGW/MSYS2, Windows; official site links DarwinPorts (macOS)"
+Kmouth,license,,Open source,"GNU General Public License v2.0 or later (source header: either version 2, or at your option any later version)",,https://apps.kde.org/kmouth/,live,KDE type-and-say front end for speech synthesizers; apps.kde.org lists GPL-2
+Kmouth,platforms,,Linux,,,https://github.com/KDE/kmouth,live,KDE desktop app
+KRDC,license,,Open source,GPL-2.0-or-later (SPDX-License-Identifier in main.cpp),,https://apps.kde.org/krdc/,live,KDE remote desktop client; apps.kde.org lists GPL-2
+KRDC,platforms,,Linux,,,https://github.com/KDE/krdc,live,KDE desktop app
+Kronometer,license,,Open source,GPL-2.0-or-later,,https://apps.kde.org/kronometer/,authoritative,Authoritative KDE Applications catalog lists GPL-2.0+
+Kronometer,platforms,,Linux,,,https://apps.kde.org/kronometer/,authoritative,KDE stopwatch app for Linux
+KTailctl,license,,Open source,GPL-3.0,,https://github.com/f-koehler/KTailctl,authoritative,GitHub API SPDX GPL-3.0 on f-koehler/KTailctl
+KTailctl,platforms,,Linux,,,https://github.com/f-koehler/KTailctl,authoritative,GUI to monitor and manage Tailscale on the Linux desktop
+Ktorrent,license,,Open source,GPL-2.0-or-later,,https://apps.kde.org/ktorrent/,authoritative,Authoritative KDE Applications catalog lists GPL-2.0+
+Ktorrent,platforms,,Linux,,,https://apps.kde.org/ktorrent/,authoritative,BitTorrent client for the KDE desktop
+Kuiviewer,license,,Open source,LGPL-2.0,,https://apps.kde.org/kuiviewer/,authoritative,Authoritative KDE Applications catalog lists LGPL-2.0
+Kuiviewer,platforms,,Linux,,,https://apps.kde.org/kuiviewer/,authoritative,Qt Designer ui file viewer for Linux
+Kurento Media Server,license,,Open source,Apache-2.0,,https://github.com/Kurento/kurento-media-server,authoritative,GitHub API SPDX Apache-2.0 on Kurento/kurento-media-server; WebRTC media server
+Kxstitch,license,,Open source,GPL-2.0-or-later,,https://apps.kde.org/kxstitch/,authoritative,Authoritative KDE Applications catalog lists GPL-2.0-or-later
+Kxstitch,platforms,,Linux,,,https://apps.kde.org/kxstitch/,authoritative,Cross stitch pattern and chart creation for Linux
+Lagrange,license,,Open source,BSD-2-Clause,,https://github.com/skyjake/lagrange,authoritative,GitHub API SPDX BSD-2-Clause on skyjake/lagrange
+Lagrange,platforms,,Windows|macOS|Linux|Android,,,https://github.com/skyjake/lagrange,authoritative,"Release assets include Windows exe, macOS pkg, Linux AppImage, Android APK"
+Laptop Mode Tools,license,,Open source,GPL-2.0,,https://github.com/rickysarraf/laptop-mode-tools,authoritative,GitHub API SPDX GPL-2.0 on rickysarraf/laptop-mode-tools
+Laptop Mode Tools,platforms,,Linux,,,https://github.com/rickysarraf/laptop-mode-tools,authoritative,Power savings tool for Linux laptops
+Latarka,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/com.kuniec.latarka,authoritative,F-Droid metadata lists GPL-3.0-only; GitHub API SPDX GPL-3.0 on SebastianKuniec/Latarka
+Latarka,platforms,,Android,,,https://f-droid.org/en/packages/com.kuniec.latarka,authoritative,Flashlight app toggled with a shake gesture
+Launcher314,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/com.bearinmind.launcher314/,live,F-Droid page lists GNU GPL v3.0 only; beta one-screen Android launcher
+Launcher314,platforms,,Android,,,https://f-droid.org/packages/com.bearinmind.launcher314/,live,"F-Droid listing, Android 4.4+"
+Lc0,license,,Open source,GPL-3.0,,https://github.com/LeelaChessZero/lc0,live,"GitHub API spdx_id GPL-3.0; UCI chess engine, license row only"
+Leftwm,license,,Open source,MIT,,https://github.com/leftwm/leftwm,live,GitHub API spdx_id MIT; X11 tiling window manager
+Leftwm,platforms,,Linux,,,https://github.com/leftwm/leftwm,live,README requires xorg/X11 stack
+LG,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/org.basic.lg/,live,F-Droid page lists GNU GPL v3.0 only; IR remote for LG TVs
+LG,platforms,,Android,,,https://f-droid.org/packages/org.basic.lg/,live,"F-Droid listing, Android 4.4+"
+LibChecker,license,,Open source,Apache-2.0,,https://github.com/LibChecker/LibChecker,live,"GitHub API spdx_id Apache-2.0, raw LICENSE is Apache License 2.0"
+LibChecker,platforms,,Android,,,https://github.com/LibChecker/LibChecker,live,Android app to view libraries used in apps on your device
+Libre Contacts Backup,license,,Open source,GPL-3.0,,https://github.com/ashkanrafiee/libre-contacts-backup,live,"README states GPL-3.0, no proprietary bits, on F-Droid"
+Libre Contacts Backup,platforms,,Android,,,https://github.com/ashkanrafiee/libre-contacts-backup,live,"Native Android contact backup app, F-Droid com.ashkanrafiee.librecontactsbackup"
+Libre Weather,license,,Open source,AGPL-3.0-or-later,,https://f-droid.org/packages/com.libreweatherrn/,live,F-Droid page lists GNU Affero General Public License v3.0 or later
+Libre Weather,platforms,,Android,,,https://f-droid.org/packages/com.libreweatherrn/,live,"F-Droid Android app, requires Android 5.0+"
+Librenms,license,,Open source,GPL-3.0,,https://github.com/librenms/librenms,live,README states GNU General Public License version 3 or later
+Librenms,platforms,,Web,,,https://github.com/librenms/librenms,live,"Self-hosted PHP/MySQL/SNMP network monitoring system, browser-accessed"
+Limpazap,license,,Open source,MIT,,https://github.com/lewtec/limpazap,live,LICENSE verified as MIT License; Flutter Android app for cleaning old WhatsApp backups
+Limpazap,platforms,,Android,,,https://github.com/lewtec/limpazap,live,repo topics list android-app and flutter-app
+Linenoise,license,,Open source,BSD-2-Clause,,https://github.com/antirez/linenoise,live,LICENSE verified as 2-clause BSD text; small self-contained readline alternative library
+Linkwarden,license,,Open source,AGPL-3.0,,https://github.com/linkwarden/linkwarden,live,LICENSE.md verified as GNU Affero General Public License v3
+Linkwarden,platforms,,Web,,,https://github.com/linkwarden/linkwarden,live,self-hosted collaborative bookmark manager
+Linuxcnc,license,,Open source,GPL-2.0,,https://github.com/LinuxCNC/linuxcnc,live,COPYING verified as GNU General Public License Version 2 June 1991
+Linuxcnc,platforms,,Linux,,,https://github.com/LinuxCNC/linuxcnc,live,CNC machine control software for Linux
+Liri Calculator,license,,Open source,GPL-3.0,,https://github.com/lirios/calculator,live,LICENSE.GPLv3 verified as GNU GPL v3; development moved from archived liri-project/liri-calculator
+Liri Calculator,platforms,,Linux,,,https://github.com/lirios/calculator,live,Qt material design calculator; Snap build badge confirms Linux distribution
+Lithuanian for AnySoftKeyboard,platforms,,Android,,,https://play.google.com/store/apps/details?id=org.herrlado.ask.languagepack.lithuanian,live,third-party expansion pack by herrlado; license not declared on listing so license unverifiable per accuracy directive
+Live Video Magnification,license,,Open source,AGPL-3.0,,https://github.com/tschnz/Live-Video-Magnification,live,LICENSE verified as GNU Affero General Public License v3; Qt 6 GUI app (LiViM)
+Live Video Magnification,platforms,,"Linux, Windows, macOS",,,https://github.com/tschnz/Live-Video-Magnification,live,repo description states Linux/Windows/macOS; prebuilt packages on releases page
+Lnreader,license,,Open source,MIT,,https://github.com/LNReader/lnreader,live,LICENSE verified as MIT License
+Lnreader,platforms,,Android,,,https://github.com/LNReader/lnreader,live,light novel reader for Android
+LocalShare,license,,Open source,GPL-3.0,Android,https://github.com/defname/LocalShare,live,GitHub API spdx_id GPL-3.0 on defname/LocalShare; F-Droid + Play Store listings linked from README
+LocalShare,platforms,,Android,,,https://f-droid.org/en/packages/com.defname.localshare,live,F-Droid package com.defname.localshare; README describes lightweight Android app for local-network file sharing
+Logline - MovieApp,license,,Open source,GPL-3.0,Android,https://github.com/Patch4Code/Logline,live,GitHub API spdx_id GPL-3.0 on Patch4Code/Logline; F-Droid com.patch4code.logline
+Logline - MovieApp,platforms,,Android,,,https://f-droid.org/en/packages/com.patch4code.logline,live,F-Droid package com.patch4code.logline; open-source Android movie app
+LoopBoard,license,,Open source,Apache-2.0,Android,https://github.com/alexkang/loopboard,live,GitHub API spdx_id Apache-2.0; README: Dynamic soundboard for Android
+LoopBoard,platforms,,Android,,,https://github.com/alexkang/loopboard,live,README: Dynamic soundboard for Android (record/play/loop clips)
+Lshw,license,,Open source,GPL-2.0,Linux,https://github.com/lyonel/lshw,live,GitHub API spdx_id GPL-2.0 on lyonel/lshw (upstream lshw: HardWare LiSter for Linux)
+Lshw,platforms,,Linux,,,https://github.com/lyonel/lshw,live,Repo description: lshw HardWare LiSter for Linux
+LuckyBackup,license,,Open source,GPL-3.0,Linux,https://sourceforge.net/projects/luckybackup/,live,Official SourceForge project page lists License GNU General Public License version 3.0 (GPLv3)
+LuckyBackup,platforms,,Linux,,,https://sourceforge.net/projects/luckybackup/,live,Official project page; Qt/rsync backup & sync tool
+Lumux,license,,Open source,MIT,Linux,https://github.com/enginkirmaci/lumux,live,GitHub API spdx_id MIT on enginkirmaci/lumux; Flathub io.github.enginkirmaci.lumux
+Lumux,platforms,,Linux,,,https://flathub.org/apps/io.github.enginkirmaci.lumux,live,Flathub page; Philips Hue Sync for Wayland (Linux desktop)
+Mac Cleaner CLI,license,,Open source,MIT,macOS,https://github.com/guhcostan/mac-cleaner-cli,live,GitHub API spdx_id MIT on guhcostan/mac-cleaner-cli; free macOS CLI to clean disk space
+Mac Cleaner CLI,platforms,,macOS,,,https://github.com/guhcostan/mac-cleaner-cli,live,"README: free macOS CLI (caches, logs, Homebrew, Xcode)"
