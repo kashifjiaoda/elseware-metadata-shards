@@ -1,0 +1,81 @@
+Runna,license,,Proprietary — paid subscription,Proprietary subscription,,https://apps.apple.com/us/app/runna-running-plans-coach/id1594204443,live,App Store: Free with In-App Purchases; RUNNA PREMIUM subscription monthly or annual
+Runna,platforms,,iOS,,,https://apps.apple.com/us/app/runna-running-plans-coach/id1594204443,live,App Store listing; Apple Watch and watch integrations
+Wger,license,,Open source,AGPL-3.0-or-later,,https://github.com/wger-project/wger,live,Canonical repo license metadata AGPL-3.0; README states AGPL-3.0-or-later
+Wger,platforms,,"Android, iOS, Linux",,,https://github.com/wger-project/wger,live,"README: apps on Android, iOS, F-Droid and Flathub"
+AAT Another Activity Tracker,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/repository/browse/?fdid=ch.bailu.aat,live,F-Droid lists license as GNU General Public License v3.0 or later
+AAT Another Activity Tracker,platforms,,Android,,,https://f-droid.org/repository/browse/?fdid=ch.bailu.aat,live,F-Droid Android package ch.bailu.aat
+AHEALTH: Get Healthy Get Paid,license,,Proprietary — free,Proprietary,,https://apps.apple.com/us/app/ahealth-get-healthy-get-paid/id1638253339,live,App Store: Free by Gravity Labs Co. Ltd.; points redeemable for gift cards
+AHEALTH: Get Healthy Get Paid,platforms,,iOS,,,https://apps.apple.com/us/app/ahealth-get-healthy-get-paid/id1638253339,live,App Store: Only for iPhone
+Bati: Fitness RPG,license,,Open source,MIT License,,https://github.com/guiforge/bati,live,Raw LICENSE is MIT text for code; artwork separately CC BY-SA 4.0
+Bati: Fitness RPG,platforms,,Android,,,https://github.com/guiforge/bati,live,Published through the F-Droid catalogue; not on Google Play
+BoutScoring,license,,Open source,MIT,,https://github.com/razielo/boutscoring,live,GitHub license scan MIT; README License section and LICENSE file confirm
+BoutScoring,platforms,,Android,,,https://github.com/razielo/boutscoring,live,README: Android app; requires Android 13 or higher; Get it on F-Droid badge
+Bruno's Meditation Timer,license,,Open source,GPL-3.0,,https://github.com/brunoloff/meditation-timer,live,GitHub license scan GPL-3.0; README License section points to LICENSE file
+Bruno's Meditation Timer,platforms,,Android,,,https://github.com/brunoloff/meditation-timer,live,README states Android launcher label; fastlane F-Droid metadata present
+Cb_app: Client for using CommonBooking websites,license,,Open source,MIT,,https://f-droid.org/packages/com.theripper.cb_app/,live,F-Droid lists MIT License; built and signed by F-Droid from source tarball
+Cb_app: Client for using CommonBooking websites,platforms,,Android,,,https://f-droid.org/packages/com.theripper.cb_app/,live,F-Droid listing; Android 4.4 or newer
+ChromaDoze,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/net.pmarks.chromadoze/,live,F-Droid lists GPL-3.0-only; author Play Store listing states GPLv3
+ChromaDoze,platforms,,Android,,,https://f-droid.org/en/packages/net.pmarks.chromadoze/,live,F-Droid listing; Android 4.0 or newer
+Counter,license,,Open source,Apache-2.0,,http://f-droid.org/en/packages/me.tsukanov.counter/,live,F-Droid lists Apache License 2.0
+Counter,platforms,,Android,,,http://f-droid.org/en/packages/me.tsukanov.counter/,live,F-Droid listing; Android 7.0 or newer
+Daily Dozen,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/org.nutritionfacts.dailydozen/,live,F-Droid lists GPL-3.0-only; canonical repo README declares GPLv3
+Daily Dozen,platforms,,Android,,,https://f-droid.org/packages/org.nutritionfacts.dailydozen/,live,F-Droid listing; Android 8.0 or newer
+DeepWave: Binaural Beats,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/de.binauralbeats.app.foss/,live,F-Droid lists GPL-3.0-only; page states Open Source (GPL-3.0)
+DeepWave: Binaural Beats,platforms,,Android,,,https://f-droid.org/packages/de.binauralbeats.app.foss/,live,F-Droid listing; Android 8.0 or newer
+Diaguard: Diabetes Diary,license,,Open source,GPL-3.0,,https://github.com/Faltenreich/Diaguard,live,GitHub license scan GPL-3.0; LICENSE.txt in repo; README Legal quotes GPLv3 text
+Diaguard: Diabetes Diary,platforms,,Android,,,https://github.com/Faltenreich/Diaguard,live,README: Diaguard is an Android app; Play Store and F-Droid distribution
+Drift // Audio,license,,Open source,MIT,,https://github.com/probably-oxy/drift-audio,live,"Canonical repo probably-oxy/drift-audio: README, CREDITS.md and CONTRIBUTING.md all state MIT licence; F-Droid 'Drift // Audio' page lists MIT License"
+Drift // Audio,platforms,,Android,,,https://github.com/probably-oxy/drift-audio,live,"Native Android app (Kotlin/Jetpack Compose); F-Droid package io.github.probably_oxy.drift, Android 8.0+"
+EP Mobile,license,,Open source,GPL-3.0-or-later,,https://github.com/mannd/epmobile,live,"README: free, open source, licensed under GNU GPL v3 — 'either version 3 of the License, or (at your option) any later version'"
+EP Mobile,platforms,,Android,,,https://github.com/mannd/epmobile,live,README: 'EP Mobile is an Android application'; F-Droid and Google Play badges (org.epstudios.epmobile)
+exhale,license,,Open source,GPL-3.0-only,,https://F-droid.org/en/packages/net.retiolus.exhale/,live,F-Droid: ExHale (net.retiolus.exhale) — License: GNU General Public License v3.0 only; quit-smoking tracker
+exhale,platforms,,Android,,,https://F-droid.org/en/packages/net.retiolus.exhale/,live,F-Droid listing; requires Android 5.0 or newer
+FeelS,license,,Open source,GPL-3.0-or-later,,https://github.com/z3itt/feels,live,Author CONTRIBUTING.md: 'FeelS is free software under GPL-3.0-or-later'
+FeelS,platforms,,Android,,,https://github.com/z3itt/feels,live,Android app (Android Studio build; device or emulator on API 26+)
+FitBuddy,license,,Open source,GPL-3.0-only,,https://github.com/anantdark/FitBuddy,live,F-Droid lists License: GPL-3.0-only; repo README: 'GPL-3.0 — see LICENSE'
+FitBuddy,platforms,,Android,,,https://f-droid.org/en/packages/com.anant.fitbuddy/,live,F-Droid listing; Android 10 or newer
+Flask,license,,Open source,MIT,,http://f-droid.org/packages/edu.rit.csh.devin/,live,F-Droid: Flask (edu.rit.csh.devin) — License: MIT License; CSH vending-machine app
+Flask,platforms,,Android,,,http://f-droid.org/packages/edu.rit.csh.devin/,live,F-Droid listing; Android 4.3 or newer
+FOSS Warn,license,,Open source,GPL-3.0-only,,https://github.com/nucleus-ffm/foss_warn,live,Raw LICENSE is GPL-3.0 text; maintainer declined 'or later' grant (issue #85); aboutView states GPLv3 without later-version clause
+FOSS Warn,platforms,,"Android, Linux",,,https://github.com/nucleus-ffm/foss_warn,live,README: Flutter app; Get it on F-Droid badge; Linux section documents running on Linux with DBus service file
+GymWen,license,,Open source,GPL-3.0-or-later,,https://github.com/flxholle/gymwen/blob/HEAD/ATTRIBUTION.md,live,F-Droid catalogue metadata lists GNU General Public License v3.0 or later (author Felix Hollederer); canonical repo github.com/flxholle/gymwen
+GymWen,platforms,,Android,,,https://github.com/flxholle/gymwen/blob/HEAD/ATTRIBUTION.md,live,F-Droid listing: Android 4.4+ (package com.asdoi.gymwen); official app for Gymnasium Wendelstein
+Headi - Your headache diary,license,,Open source,MIT,,https://github.com/rafaelcecchin/headi,live,README License section contains full MIT license text (Copyright (c) 2021 MrReSc); GitHub license scan MIT
+Headi - Your headache diary,platforms,,Android,,,https://github.com/rafaelcecchin/headi,live,README: F-Droid Store and Google Play download badges (com.headi.app)
+Heylinda App,license,,Open source,AGPL-3.0,,https://github.com/heylinda/heylinda-app,live,README claims open source and free; License section names GNU Affero General Public License v3.0
+Heylinda App,platforms,,Web; Android,,,https://github.com/heylinda/heylinda-app,live,README install links: web build plus Android beta on Play; iOS coming soon
+J-K Bike - Mechanical Disaster Prevention,license,,Open source,EUPL-1.2,,https://f-droid.org/packages/com.exner.tools.jkbikemechanicaldisasterprevention/,live,F-Droid lists EUPL-1.2; official site confirms free open source
+J-K Bike - Mechanical Disaster Prevention,platforms,,Android,,,https://f-droid.org/packages/com.exner.tools.jkbikemechanicaldisasterprevention/,live,Android app on F-Droid
+KetoShare,license,,Proprietary — free,Proprietary,,https://snapcraft.io/install/ketoshare/ubuntu,live,Snap Store lists License: Proprietary; free snap install
+KetoShare,platforms,,Linux,,,https://snapcraft.io/install/ketoshare/ubuntu,live,Snap package for Linux by Custom Automated Systems
+Lens HRV,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.lenshrv.foss/,live,F-Droid lists GPL-3.0-only; repo README badge License: GPL v3
+Lens HRV,platforms,,Android,,,https://f-droid.org/packages/com.lenshrv.foss/,live,Android 8.0+ required
+LimeLog,platforms,,Android; Web,,,https://github.com/limekana/limelog,live,README: Capacitor Android build; runs on web via localhost:5173
+Luteal,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/fr.luteal.app/,live,F-Droid lists GNU GPL v3.0 or later; described as 100 percent free open source
+Luteal,platforms,,Android,,,https://f-droid.org/packages/fr.luteal.app/,live,Android app on F-Droid
+MarschRide,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/zh_Hans/packages/de.box2code.marschride/,live,F-Droid lists GNU GPL v3.0 or later
+MarschRide,platforms,,Android,,,https://f-droid.org/zh_Hans/packages/de.box2code.marschride/,live,Android 4.4+ required
+Meditation,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.nyxkn.meditation/,live,F-Droid lists GPL-3.0-only
+Meditation,platforms,,Android,,,https://f-droid.org/packages/com.nyxkn.meditation/,live,Android 6.0+ required
+MedTimer: Med & Pill Reminder,license,,Open source,MIT,,https://f-droid.org/packages/com.futsch1.medtimer/,live,F-Droid lists MIT License
+MedTimer: Med & Pill Reminder,platforms,,Android,,,https://f-droid.org/packages/com.futsch1.medtimer/,live,Android app; also published on Google Play
+Mensinator,license,,Open source,MIT License,,https://github.com/EmmaTellblom/Mensinator/blob/main/LICENSE,live,Raw LICENSE is MIT License text; repo README also states MIT
+Mensinator,platforms,,Android,,,https://github.com/emmatellblom/mensinator/blob/HEAD/README.md,live,README lists F-Droid and Google Play download sources
+Mindfulness Meditation,license,,Open source,MIT License,,https://github.com/vbresan/MindfulnessMeditation,live,GitHub repo license detection MIT; Play Store listing states open-sourced under MIT license
+Mindfulness Meditation,platforms,,Android,,,https://github.com/vbresan/MindfulnessMeditation,live,"F-Droid, IzzyOnDroid and Google Play badges in repo"
+Motivational App,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.takasu.motivational_app.direct/,live,F-Droid states GNU GPL v3.0 only; GitHub repo license detection GPL-3.0
+Motivational App,platforms,,Android,,,https://f-droid.org/packages/com.takasu.motivational_app.direct/,live,F-Droid page; requires Android 7.0 or newer
+NHS App,license,,Proprietary — free,Free app; developed in-house by NHS Digital and NHS England,,https://www.gov.uk/government/news/new-nhs-app-will-make-it-quicker-and-easier-to-access-health-services,live,GOV.UK: free app developed by NHS Digital and NHS England; no public source license
+NHS App,platforms,,"iOS, Android",,,https://www.gov.uk/government/news/new-nhs-app-will-make-it-quicker-and-easier-to-access-health-services,live,Available through the App Store or Google Play per GOV.UK
+Noise Timer,license,,Open source,MIT License,,https://github.com/chmouel/noise-timer,live,GitHub repo license detection MIT; LICENSE file at root; README states MIT
+Noise Timer,platforms,,Android,,,https://github.com/chmouel/noise-timer,live,Android app; install via F-Droid per README
+Om,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.enjoyingfoss.om/,live,F-Droid states GNU General Public License v3.0 only
+Om,platforms,,Android,,,https://f-droid.org/packages/com.enjoyingfoss.om/,live,F-Droid page; requires Android 4.0.3 or newer
+OpenAvisio,license,,Open source,AGPL-3.0,,https://github.com/openavisio/openavisio/blob/HEAD/CLAUDE.md,live,Repo CLAUDE.md states License AGPL-3.0 (Affero General Public License)
+OpenAvisio,platforms,,Web,,,https://github.com/openavisio/openavisio/blob/HEAD/CLAUDE.md,live,Web portal (Razor Pages + HTMX); mobile versions planned for future releases
+OpenPillReminder: Birth Control Pill Tracker,license,,Open source,GPL-3.0-only,,https://github.com/mariinkys/openpillreminder,live,GitHub repo license detection GPL-3.0; README states released under GPL-3.0
+OpenPillReminder: Birth Control Pill Tracker,platforms,,Android,,,https://github.com/mariinkys/openpillreminder,live,Android tracker; F-Droid and IzzyOnDroid badges in README
+PAIesque,license,,Open source,MIT License,,https://staging.f-droid.org/en/packages/org.ojrandom.paiesque/,live,F-Droid states MIT License
+PAIesque,platforms,,Android,,,https://staging.f-droid.org/en/packages/org.ojrandom.paiesque/,live,F-Droid page; requires Android 14 or newer
+Pausing Healthily (Privacy Friendly),license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/org.secuso.privacyfriendlypausinghealthily/,live,F-Droid states GNU General Public License v3.0 only
+Pausing Healthily (Privacy Friendly),platforms,,Android,,,https://f-droid.org/packages/org.secuso.privacyfriendlypausinghealthily/,live,F-Droid page; requires Android 5.0 or newer
