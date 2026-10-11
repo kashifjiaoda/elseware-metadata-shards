@@ -1,0 +1,99 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Retro,license,,Proprietary — free,Free app; no paid subscription tier,"Android, iOS",https://play.google.com/store/apps/details?id=io.lonepalm.retro&hl=en,live,Weekly photo journal by Lone Palm Labs; free on Play Store
+Retro,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=io.lonepalm.retro&hl=en,live,Android via Play Store; iOS launched Dec 2023
+Medium,license,,Proprietary — freemium,Free tier; Membership $5/mo or $50/yr for unlimited reading,"Web, Android, iOS",https://medium.com/@oriane.huitian/is-medium-premium-worth-it-my-honest-thoughts-141dd7ef0830,live,Membership $5/month or $50/year; free version with limited articles
+Medium,platforms,,"Web, Android, iOS",,,https://medium.com/@oriane.huitian/is-medium-premium-worth-it-my-honest-thoughts-141dd7ef0830,live,Web at medium.com; official iOS and Android apps
+Substack,license,,Proprietary — free,Free to publish; 10% cut on paid subscriptions + Stripe fees,"Web, Android, iOS",https://support.substack.com/hc/en-us/articles/360037607131-How-much-does-Substack-cost,live,Official support: publishing free regardless of subscriber count
+Substack,platforms,,"Web, Android, iOS",,,https://support.substack.com/hc/en-us/articles/360037607131-How-much-does-Substack-cost,live,Web + iOS app; Android app available
+Patreon,license,,Proprietary — free,Free to start; 10% platform fee on earnings,"Web, Android, iOS",https://www.patreon.com/es-419/pricing,live,Official pricing page: free to start; 10% of income earned
+Patreon,platforms,,"Web, Android, iOS",,,https://www.patreon.com/es-419/pricing,live,Web at patreon.com; official iOS and Android apps
+Buy Me a Coffee,license,,Proprietary — free,No monthly fee; 5% platform fee on transactions,"Web, Android, iOS",https://www.theworldofonlineearnings.com/2026/08/buy-me-a-coffee-review.html,live,5% platform fee on transactions; no subscription fee; 1M+ creators
+Buy Me a Coffee,platforms,,"Web, Android, iOS",,,https://www.theworldofonlineearnings.com/2026/08/buy-me-a-coffee-review.html,live,Web at buymeacoffee.com; iOS and Android apps
+Contra,license,,Proprietary — freemium,0% commission; premium tiers (Independent Pro ~$14/mo),"Web",https://www.legitreviewslab.com/reviews/sites/contra.html,live,Genuine 0% commission (Stripe pass-through only); monetizes via premium tiers
+Contra,platforms,,Web,,,https://www.legitreviewslab.com/reviews/sites/contra.html,live,Web-based at contra.com; portfolio-first freelance platform
+Polywork,license,,Proprietary — freemium,Free Standard plan; premium $10/mo for unlimited blocks,"Web",https://www.b12.io/ai-website-builder-directory/polywork/,live,Free plan + $10/month premium; professional network turned AI site builder
+Polywork,platforms,,Web,,,https://www.b12.io/ai-website-builder-directory/polywork/,live,Web-based at polywork.com
+Peerlist,license,,Proprietary — freemium,Free to join; paid Pro tier for profile features,"Web",https://github.com/directorysurf/directory.surf/blob/HEAD/content/directory/peerlist.md,live,Free to join and launch; paid Pro tier adds profile and visibility features
+Peerlist,platforms,,Web,,,https://github.com/directorysurf/directory.surf/blob/HEAD/content/directory/peerlist.md,live,Web-based professional network for developers at peerlist.io
+Dev.to,license,,Open source,AGPL-3.0 (GNU Affero General Public License v3),Web,https://api.github.com/repos/thepracticaldev/dev.to/license,live,Repo thepracticaldev/dev.to (now forem/forem); LICENSE.md is AGPL-3.0
+Dev.to,platforms,,Web,,,https://api.github.com/repos/thepracticaldev/dev.to/license,live,Web-based developer community powered by Forem
+Discourse,license,,Open source,GPL-2.0 (GNU General Public License v2),Web,https://api.github.com/repos/discourse/discourse/license,live,Repo discourse/discourse; LICENSE.txt is GPL version 2
+Discourse,platforms,,Web,,,https://api.github.com/repos/discourse/discourse/license,live,Self-hosted web forum software
+Flarum,license,,Open source,MIT — self-hosted forum software,Web,https://api.github.com/repos/flarum/framework/license,live,GitHub license API spdx_id MIT; flarum.org confirms open-source forum
+Flarum,platforms,,Web,,,https://flarum.org/,live,Self-hosted web forum software (PHP); accessed via browser
+NodeBB,license,,Open source,GPL-3.0 — self-hosted forum software,Web,https://api.github.com/repos/NodeBB/NodeBB/license,live,GitHub license API: LICENSE file is GNU GPL v3
+NodeBB,platforms,,Web,,,https://nodebb.org/,live,Modern forum software for the web; self-host on own server
+Vanilla Forums,license,,Open source,GPL-2.0-only; open core (paid cloud hosting available),Web,https://github.com/vanilla/vanilla,live,Canonical repo README: distributed under gpl-2.0-only; cloud hosting is paid tier
+Vanilla Forums,platforms,,Web,,,https://github.com/vanilla/vanilla,live,Self-hosted discussion forum; open.vanillaforums.com runs OSS code
+phpBB,license,,Open source,GPL-2.0 — self-hosted forum software,Web,https://api.github.com/repos/phpbb/phpbb/license,live,GitHub license API: LICENSE file is GNU GPL v2 June 1991
+phpBB,platforms,,Web,,,https://api.github.com/repos/phpbb/phpbb/license,live,Self-hosted PHP bulletin-board software; web-based
+Tapatalk,license,,Proprietary — freemium,Free app; VIP $0.99/mo ad-free subscription,"Android, iOS",https://play.google.com/store/apps/details?id=com.quoord.tapatalkpro.activity&hl=en_US,live,Play listing: absolutely free; VIP $0.99/mo auto-renewing ad-free
+Tapatalk,platforms,,"Android, iOS",,,https://www.tapatalk.com/start-here.php,live,Official site: branded iOS and Android apps; 200000+ forums via mobile app
+Amino,license,,Proprietary — freemium,Free app; Amino+ Membership in-app purchases,"Android, iOS",https://iphone.apkpure.com/app/amino-communities-and-groups/com.narvii.master,live,IAP list: Amino+ Membership tiers $2.99-$25.99 plus coin packs
+Amino,platforms,,"Android, iOS",,,http://www.commonsensemedia.org/app-reviews/amino-communities-chat-forums-and-groups,live,Devices: iPhone iPod Touch iPad Android; by Narvii/MediaLab
+Circle,license,,Proprietary — paid subscription,From $89/mo Professional; no free plan; 14-day trial,"Web, iOS, Android",https://circle.so/platform/coaching,live,Official pricing: Professional $89/mo Business $199/mo Scale $419/mo
+Circle,platforms,,"Web, iOS, Android",,,https://circle.so/platform/coaching,live,Official site: iOS Android and desktop apps; web community platform
+Mighty Networks,license,,Proprietary — paid subscription,From $99/mo Courses plan; no permanent free plan; 14-day trial,"Web, iOS, Android",https://www.fahimai.com/how-to-use-mighty-networks,live,No permanent free plan; Courses $99/mo Business $179/mo Growth $360/mo
+Mighty Networks,platforms,,"Web, iOS, Android",,,https://www.fahimai.com/how-to-use-mighty-networks,live,Community platform with web access and branded mobile apps
+Geneva,license,,Proprietary — free,Free app; no paid tier found,"iOS, Android, macOS, Windows",https://stg.forbesindia.com/article/lifes/what-is-geneva-the-new-social-network-thats-the-talk-of-gen-z/78023/1,live,All-in-one communication app by Geneva (founded 2019 NYC); free
+Geneva,platforms,,"iOS, Android, macOS, Windows",,,https://stg.forbesindia.com/article/lifes/what-is-geneva-the-new-social-network-thats-the-talk-of-gen-z/78023/1,live,Available on iOS and Android and on PC and Mac per Forbes
+Tribe,license,,Proprietary — paid subscription,Tribe Community Platform; from $59/mo Plus; no free version,Web,https://www.saasworthy.com/product/tribe-community-platform/pricing,live,Plus $59-99/mo Premium $299-399/mo; free trial only (NOT Tribe XR DJ app)
+Tribe,platforms,,Web,,,https://www.saasworthy.com/product/tribe-community-platform/pricing,live,Browser-based cloud community platform
+Bettermode,license,,Proprietary — paid subscription,Starter $149/mo billed yearly; Growth $1500/mo; B2B SaaS,Web,https://bettermode.com/comparison/bettermode-vs-socialplus,live,Official site pricing: no free tier on current plans; formerly Tribe
+Bettermode,platforms,,Web,,,https://bettermode.com/comparison/bettermode-vs-socialplus,live,Web-based SaaS community platform; embeddable in apps/docs
+Nostr,license,,Open source,Public domain (protocol specification),"Web, Android, iOS",https://raw.githubusercontent.com/nostr-protocol/nostr/master/README.md,live,README states License: Public domain; protocol not an app
+Nostr,platforms,,"Web, Android, iOS",,,https://raw.githubusercontent.com/nostr-protocol/nostr/master/README.md,live,README notes clients and libraries for all platforms
+Amethyst,license,,Open source,MIT,"Android, macOS, Windows, Linux",https://api.github.com/repos/vitorpamplona/amethyst/license,live,GitHub API spdx_id MIT; canonical repo vitorpamplona/amethyst
+Amethyst,platforms,,"Android, macOS, Windows, Linux",,,https://github.com/vitorpamplona/amethyst,live,README download table: Android via Play/ZapStore/GitHub; Desktop macOS Windows Linux; no iOS
+Minds,license,,Open source,AGPL-3.0; open-core (hosted minds.com has free tier + Minds+ subscription),"Android, iOS, Web",https://api.github.com/repos/minds/minds/license,live,LICENSE header: all submodules/plugins under AGPLv3 unless otherwise stated
+Minds,platforms,,"Android, iOS, Web",,,https://api.github.com/repos/minds/minds/license,live,Web at minds.com plus iOS/Android mobile apps
+MeWe,license,,Proprietary — freemium,Free core; MeWe Premium $6.49/mo or $69.99/yr,"Android, iOS, Web",https://play.google.com/store/apps/details?id=com.mewe,live,Play Store: free download; Premium adds calling storage themes
+MeWe,platforms,,"Android, iOS, Web",,,https://play.google.com/store/apps/details?id=com.mewe,live,Android via Play Store; iOS via App Store; web at mewe.com
+Diaspora,license,,Open source,AGPL-3.0,Web,https://api.github.com/repos/diaspora/diaspora/license,live,GitHub LICENSE decodes to GNU Affero General Public License v3
+Diaspora,platforms,,Web,,,https://api.github.com/repos/diaspora/diaspora/license,live,Federated pods; web-based Ruby on Rails; no official mobile app
+Pixelfed,license,,Open source,AGPL-3.0,"Web, Android, iOS",https://api.github.com/repos/pixelfed/pixelfed/license,live,GitHub LICENSE decodes to GNU Affero General Public License v3
+Pixelfed,platforms,,"Web, Android, iOS",,,https://api.github.com/repos/pixelfed/pixelfed/license,live,Federated ActivityPub; official iOS/Android apps launched Jan 2025
+Misskey,license,,Open source,AGPL-3.0,Web,https://api.github.com/repos/misskey-dev/misskey/license,live,GitHub LICENSE decodes to GNU Affero General Public License v3
+Misskey,platforms,,Web,,,https://api.github.com/repos/misskey-dev/misskey/license,live,ActivityPub microblogging; primarily web-based; third-party mobile clients exist
+BIGO LIVE,license,,Proprietary — freemium,Free app; in-app purchases (diamonds for virtual gifts),"Android, Web",https://www.bigo.tv/blog/bigo-live-apk,live,Official site offers Android APK; monetized via virtual gifts; by Bigo Technology (JOYY)
+BIGO LIVE,platforms,,"Android, Web",,,https://www.bigo.tv/blog/bigo-live-apk,live,Android via official APK/Play Store; web at bigo.tv; iOS removed from App Store Apr 2023
+Poppo Live,license,,Proprietary — freemium,Free app; in-app purchases for virtual coins/gifts,"Android, iOS",https://play.google.com/store/apps/details?id=com.baitu.qingshu&hl=en,live,Play Store by Vshow PTE. LTD.; coins fund host gifts
+Poppo Live,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.baitu.qingshu&hl=en,live,Android via Play Store; iOS via App Store
+UpLive,license,,Proprietary — freemium,Free app; in-app purchases for gifts and uDiamonds,"Android, iOS",https://apposee.com/com.asiainno.uplive,live,Play listing mirror; gifts support hosts during live battles
+UpLive,platforms,,"Android, iOS",,,https://apposee.com/com.asiainno.uplive,live,Android via Play Store; iOS via App Store; official site up.live
+StreamKar,license,,Proprietary — freemium,Free app; in-app purchases for virtual gifts and VIP tiers,"Android, iOS",https://apps.apple.com/ca/app/streamkar-live-video-chat/id1182923162,live,App Store: Free with In-App Purchases; by Tipping Points Technology Ltd.
+StreamKar,platforms,,"Android, iOS",,,https://apps.apple.com/ca/app/streamkar-live-video-chat/id1182923162,live,iOS via App Store; Android via Play Store (50M+ installs)
+Tango Live,license,,Proprietary — freemium,Free app; in-app purchases for AR/3D gifts,"Android, iOS, Web",https://play.google.com/store/apps/details?id=com.sgiggle.production&hl=en_SG,live,Play Store shows In-app purchases label; #7 top grossing social
+Tango Live,platforms,,"Android, iOS, Web",,,https://play.google.com/store/apps/details?id=com.sgiggle.production&hl=en_SG,live,iOS + Android apps; Tango Web streams in browser via tango.me
+Nonolive,license,,Proprietary — freemium,Free app; in-app purchases $0.99-$399.99 for virtual gifts,"Android, iOS",https://app.sensortower.com/overview/com.nono.android?country=US,live,SensorTower Play Store data: in-app purchase range $0.99-$399.99
+Nonolive,platforms,,"Android, iOS",,,https://app.sensortower.com/overview/com.nono.android?country=US,live,Android via Play Store (50M+ installs); iOS via App Store
+ShareChat,license,,Proprietary — freemium,Free app; tiered subscription INR 39-299/mo for ad-free,"Android, iOS, Web",https://www.AndroidRank.org/application/sharechat_status_video_live/in.mohalla.sharechat,live,Play listing Price Free (500M+ installs); paid tiers added 2026
+ShareChat,platforms,,"Android, iOS, Web",,,https://www.AndroidRank.org/application/sharechat_status_video_live/in.mohalla.sharechat,live,Android via Play Store; iOS via App Store; web at we.sharechat.com
+Sina Weibo,license,,Proprietary — freemium,Free app; Weibo VIP membership ~12 yuan/mo,"Android, iOS, Web",https://appwisp.com/app/ios/com.sina.weibo,live,App Store: in-app Weibo membership purchases; 30+ VIP privileges
+Sina Weibo,platforms,,"Android, iOS, Web",,,https://appwisp.com/app/ios/com.sina.weibo,live,iOS via App Store; Android via app stores; web at weibo.com
+Douban,license,,Proprietary — free,Free app; no paid subscription tier verified,"Android, iOS, Web",https://www.appbrain.com/appstore/ios-907002334,live,App Store: Free to download; by Beijing Douwang Technology Company Limited
+Douban,platforms,,"Android, iOS, Web",,,https://www.appbrain.com/appstore/ios-907002334,live,iOS via App Store; Android via app stores; web at douban.com
+Xiaohongshu,license,,Proprietary — free,Free of charge; no consumer paid tier verified,"Android, iOS, Web",https://indianexpress.com/article/technology/social/rednote-xiaohongshu-tiktok-alternative-9778421/lite/,live,Free on Play Store and App Store worldwide (as RedNote)
+Xiaohongshu,platforms,,"Android, iOS, Web",,,https://indianexpress.com/article/technology/social/rednote-xiaohongshu-tiktok-alternative-9778421/lite/,live,Android via Play Store; iOS via App Store; web browser access confirmed
+Bilibili,license,,Proprietary — freemium,Free app; Premium ~25 yuan/mo for ad-free and early access,"Android, iOS, Web",https://plyzento.com/3483/bilibili-platform-app-top-3-applications-you-should-know/,live,Free tier with ads; Premium unlocks ad-free 1080p/4K early simulcast
+Bilibili,platforms,,"Android, iOS, Web",,,https://plyzento.com/3483/bilibili-platform-app-top-3-applications-you-should-know/,live,Android via Play Store; iOS via App Store; web at bilibili.com
+Douyin,license,,Proprietary — free,Free app; no paid tier,"Android, iOS, Web",https://chinasurvivalkit.com/blog/douyin-chinese-tiktok-guide-foreigners,live,ByteDance short-video app (Chinese TikTok); free download
+Douyin,platforms,,"Android, iOS, Web",,,https://chinasurvivalkit.com/blog/douyin-chinese-tiktok-guide-foreigners,live,Android via official APK; iOS via China App Store; web at douyin.com
+Kuaishou,license,,Proprietary — free,Free app; no paid tier,"Android, iOS, Web",http://en.wikipedia.org/wiki/Kuaishou,live,Wikipedia: License Proprietary software; by Kuaishou Technology
+Kuaishou,platforms,,"Android, iOS, Web",,,http://en.wikipedia.org/wiki/Kuaishou,live,iOS/iPadOS/Android per Wikipedia; international version Kwai; web at kuaishou.com
+Niconico,license,,Proprietary — freemium,Free app; Premium 540 yen/mo for high-quality playback,"Android, iOS, Web",https://niconico.en.download.it/android,live,Dwango/Kadokawa video service; free viewing with ads; Premium unlocks quality controls
+Niconico,platforms,,"Android, iOS, Web",,,https://niconico.en.download.it/android,live,Android + iOS apps; web at nicovideo.jp
+Ameba,license,,Proprietary — freemium,Free app with in-app purchases,"Android, iOS, Web",https://apps.apple.com/us/app/ameba/id349442137,live,App Store: Free with In-App Purchases; by CyberAgent Inc.; Japan blog/social
+Ameba,platforms,,"Android, iOS, Web",,,https://apps.apple.com/us/app/ameba/id349442137,live,iOS via App Store; Android via Google Play; web at ameba.jp
+Naver,license,,Proprietary — free,Free app; no paid tier,"Android, iOS, Web",https://play.google.com/store/apps/details?id=com.nhn.android.search&hl=en_GB,live,NAVER Corp search portal app; free on Google Play
+Naver,platforms,,"Android, iOS, Web",,,https://play.google.com/store/apps/details?id=com.nhn.android.search&hl=en_GB,live,Android via Play Store; iOS via App Store; web at naver.com
+Helo,license,,Proprietary — free,Free app; no paid tier,"Android, iOS",https://play.google.com/store/apps/details?id=world.social.group.video.share&gl=US,live,ByteDance social app; disambiguated from Helo Corp device apps
+Helo,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=world.social.group.video.share&gl=US,live,Android via Play Store; iOS via App Store; no web version confirmed
+Letterboxd,license,,Proprietary — freemium,Free; Pro $19/yr and Patron $49/yr memberships,"Android, iOS, Web",https://www.inc.com/lucia-auerbach/letterboxd-sale-a24-sony-new-york-times/91410656,live,Pro $19/yr and Patron $49/yr tiers; most users free; ad-supported
+Letterboxd,platforms,,"Android, iOS, Web",,,https://letterboxd.zendesk.com/hc/en-us/articles/15179333482767-Can-I-upgrade-from-Pro-to-Patron-during-my-subscription,live,iOS + Android apps; web at letterboxd.com
+Meetup,license,,Proprietary — freemium,Free for members; organizers pay (plans from ~$30/mo),"Android, iOS, Web",https://gizmodo.com/download/meetup-social-events-groups,live,Free to download and use as attendee; organizer subscriptions for groups
+Meetup,platforms,,"Android, iOS, Web",,,https://gizmodo.com/download/meetup-social-events-groups,live,Android + iOS apps; web at meetup.com
+Nextdoor,license,,Proprietary — free,Free app with ads; no paid tier,"Android, iOS, Web",https://play.google.com/store/apps/details?id=com.nextdoor&hl=en_IN,live,Play Store: Nextdoor by Nextdoor Inc.; contains ads; free download
+Nextdoor,platforms,,"Android, iOS, Web",,,https://play.google.com/store/apps/details?id=com.nextdoor&hl=en_IN,live,Android via Play Store; iOS via App Store; web at nextdoor.com
+Yubo,license,,Proprietary — freemium,Free core; Power Pack/Elite Pack subscriptions + YuBucks,"Android, iOS",https://cheatriverreview.com/yubo-review/,live,Freemium: free profile/swipe/chat; paid tiers for boosts and ad-free
+Yubo,platforms,,"Android, iOS",,,https://cheatriverreview.com/yubo-review/,live,Mobile-only social app; Android + iOS; no web version confirmed
