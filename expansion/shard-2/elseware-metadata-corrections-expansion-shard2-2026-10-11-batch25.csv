@@ -1,0 +1,86 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Deepin Music,license,,Open source,GPL-3.0,,https://github.com/linuxdeepin/deepin-music,live,GitHub API spdx_id GPL-3.0; music player for deepin desktop environment
+Deepin Music,platforms,,Linux,,,https://github.com/linuxdeepin/deepin-music,live,deepin desktop music player
+Din,license,,Open source,,"GPL-2.0 on GNU/Linux, FreeBSD and NetBSD (Free Software); Windows and macOS binaries sold under paid proprietary license",https://dinisnoise.org/README/,live,Official README states released under GPL 2.0 license; Win/Mac binaries sold per official buy page
+Din,platforms,,"Linux, FreeBSD, NetBSD, Windows, macOS",,,https://dinisnoise.org/?what=docs,live,Official docs cover GNU/Linux Windows macOS Raspberry Pi and Free/Net BSD
+Dopamine,license,,Open source,GPL-3.0,,https://github.com/digimezzo/Dopamine,live,GitHub API spdx_id GPL-3.0
+Dopamine,platforms,,"Windows, macOS, Linux",,,https://github.com/digimezzo/Dopamine,live,Repo topics include electron linux mac windows
+Drumkv1,license,,Open source,GPL-2.0,,https://github.com/rncbc/drumkv1,live,GitHub API spdx_id GPL-2.0; old-school drum-kit sampler
+Drumkv1,platforms,,Linux,,,https://github.com/rncbc/drumkv1,live,rncbc JACK/LV2 instrument for Linux
+DSPatcher,license,,Open source,BSD-2-Clause,,https://github.com/cross-platform/dspatcher,live,GitHub API spdx_id BSD-2-Clause
+DSPatcher,platforms,,"Windows, macOS, Linux",,,https://github.com/cross-platform/dspatcher,live,Cross-platform graphical tool for DSPatch (Qt)
+Easyeffects,license,,Open source,GPL-3.0,,https://github.com/wwmm/easyeffects,live,GitHub API spdx_id GPL-3.0
+Easyeffects,platforms,,Linux,,,https://github.com/wwmm/easyeffects,live,PipeWire/PulseAudio audio effects for Linux
+Entagged,license,,Open source,GPL-2.0,,https://sourceforge.net/projects/entagged/,live,Project page: Java audio file tagger released under (L)GPL; Gentoo ebuild LICENSE GPL-2 or LGPL-2.1
+Entagged,platforms,,Linux,,,https://sourceforge.net/projects/entagged/,live,Java audio tagger; Gentoo ebuild keywords ~amd64
+Exadrums,license,,Open source,BSD-3-Clause,,https://github.com/SpintroniK/eXaDrums,live,GitHub API spdx_id BSD-3-Clause on canonical SpintroniK/eXaDrums repo
+Exadrums,platforms,,Linux,,,https://github.com/SpintroniK/eXaDrums,live,Software drum module for Linux (Raspberry Pi/Debian packages)
+FastLyrics,license,,Open source,GPL-3.0-only,Android,http://f-droid.org/packages/io.github.teccheck.fastlyrics/,live,lyrics fetched from Genius.com (NonFreeNet anti-feature per F-Droid)
+FastLyrics,platforms,,Android,,,http://f-droid.org/packages/io.github.teccheck.fastlyrics/,live,
+Fiddle Assistant,license,,Open source,GPL-3.0-or-later,Android,https://fdroid.gitlab.io/jekyll-fdroid/packages/com.github.gschwind.fiddle_assistant/,live,violin tuner app; license per F-Droid listing
+Fiddle Assistant,platforms,,Android,,,https://fdroid.gitlab.io/jekyll-fdroid/packages/com.github.gschwind.fiddle_assistant/,live,
+Flamp,license,,Open source,GPL-2.0,,https://github.com/w1hkj/flamp,live,amateur-radio file transfer utility from the fldigi suite; license per GitHub API
+foobar2000 (WINE),license,,Proprietary — free,freeware (closed source),,https://www.foobar2000.org/,live,official site calls it an advanced freeware audio player; Windows version works on Linux via Wine
+foobar2000 (WINE),platforms,,"Windows, macOS, Android, iOS, Linux (via Wine)",,,https://www.foobar2000.org/,live,Linux support via Wine per official site
+Freies Radio,license,,Open source,,Android,https://f-droid.org/packages/de.radiozeit.freiesradio.fdroid/,live,listed in F-Droid free and open source repository; specific license text not shown on package page
+Freies Radio,platforms,,Android,,,https://f-droid.org/packages/de.radiozeit.freiesradio.fdroid/,live,
+GMetronome,license,,Open source,GPL-3.0,Linux,https://gitlab.gnome.org/dqpb/gmetronome,live,COPYING is GNU GPL v3 text per official repo
+GMetronome,platforms,,Linux,,,https://gitlab.gnome.org/dqpb/gmetronome,live,per README: GNU/Linux and other Unix-like operating systems
+GNOME Music,license,,Open source,GPL-2.0 (license file notes an added exception clause; see bottom of LICENSE),Linux,https://gitlab.gnome.org/GNOME/gnome-music,live,LICENSE file verified as GPL v2 text with exception-clause header
+GNOME Music,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/gnome-music,live,GNOME desktop music player
+Goodvibes,license,,Open source,GPL-3.0 (COPYING verified as GPL v3 text),Linux,https://gitlab.com/goodvibes/goodvibes,live,canonical repo moved from GitHub (ElvishArtisan/goodvibes now 404) to GitLab
+Goodvibes,platforms,,Linux,,,https://gitlab.com/goodvibes/goodvibes,live,lightweight internet radio player for GNU/Linux
+Gramophone,license,,Open source,GPL-3.0 (raw LICENSE verified as GPL v3 text),Android,https://github.com/FoedusProgramme/Gramophone,live,repo renamed from Akanetan/Gramophone to FoedusProgramme/Gramophone
+Gramophone,platforms,,Android,,,https://github.com/FoedusProgramme/Gramophone,live,F-Droid badge in README; kotlin-android music player
+Groovebasin,license,,Open source,MIT (raw LICENSE verified as MIT text),Web,https://github.com/andrewrk/groovebasin,live,canonical repo is andrewrk/groovebasin (Andrew Kelley); old andymantell/groovebasin URL now 404
+Groovebasin,platforms,,Web,,,https://github.com/andrewrk/groovebasin,live,music player server with web-based user interface
+GuitarFretboardTrainer,license,,Open source,GPL-2.0 (raw LICENSE verified as GPL v2 text),Android,https://github.com/sslater11/guitarfretboardtrainer,live,exact name match sslater11/guitarfretboardtrainer (title Guitar Fretboard Trainer)
+GuitarFretboardTrainer,platforms,,Android,,,https://github.com/sslater11/guitarfretboardtrainer,live,repo contains android/ directory; mobile app screenshots
+Harmonoid,license,,Source-available,PolyForm Strict License 1.0.0 (README states project governed by PolyForm Strict 1.0.0; raw LICENSE verified),"Windows, macOS, Linux, Android, iOS",https://github.com/harmonoid/harmonoid,live,SELF-AUDIT: relicensed from GPL-3.0 to PolyForm Strict -> Source-available per playbook; never Open source
+Harmonoid,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://github.com/harmonoid/harmonoid,live,README download section lists all five platforms
+Helvum,license,,Open source,GPL-3.0 (LICENSE verified as GPL v3 text),Linux,https://gitlab.freedesktop.org/pipewire/helvum,live,canonical repo moved from GitHub (Helvum/helvum now 404) to GitLab freedesktop pipewire/helvum
+Helvum,platforms,,Linux,,,https://gitlab.freedesktop.org/pipewire/helvum,live,GTK-based patchbay for PipeWire
+Horgand,license,,Open source,GPL-2.0 (official project page lists GNU GPL v2),Linux,https://sourceforge.net/projects/horgand.berlios,live,SELF-AUDIT: GPLv2 on official SourceForge project page (original berlios site dead); Debian package confirms Linux
+Horgand,platforms,,Linux,,,https://sourceforge.net/projects/horgand.berlios,live,JACK capable organ softsynth
+Interactive Player View,license,,Open source,Apache-2.0 (README states Licensed under the Apache License Version 2.0),Android,https://github.com/iammert/InteractivePlayerView,live,Android UI library (custom music player view component by iammert)
+Interactive Player View,platforms,,Android,,,https://github.com/iammert/InteractivePlayerView,live,Android library (co.mobiwise.library)
+Jamulus,license,,Open source,AGPL-3.0-or-later (COPYING: distributed under AGPL 3.0 or later; code from 3.12.1dev AGPL-3.0+ and prior code GPL-3.0+),"Windows, macOS, Linux",https://github.com/jamulussoftware/jamulus,live,SELF-AUDIT: relicensed from GPL to AGPL-3.0-or-later; still Open source
+Jamulus,platforms,,"Windows, macOS, Linux",,,https://jamulus.io,live,requirements list Windows 10 macOS 10.11 Linux on jamulus.io
+Js8call,license,,Open source,GPL-3.0,,https://github.com/js8call/js8call,live,Official repository for JS8Call software
+Js8call,platforms,,Windows; macOS; Linux,,,https://js8call.com/,live,Downloads listed for Linux distros; Windows 10/11; macOS Intel and Apple Silicon
+Kalorite,license,,Open source,GPL-3.0,,https://github.com/Monsler/Kalorite,live,Qt6 audio player for KDE
+Kalorite,platforms,,Linux,,,https://github.com/Monsler/Kalorite,live,Qt6 app built for KDE on Linux
+Kew,license,,Open source,GPL-2.0,,https://github.com/ravachol/kew,live,Music for the Shell terminal music player
+Kew,platforms,,Linux; FreeBSD; Android; macOS; Windows,,,https://github.com/ravachol/kew,live,README: Available on Linux FreeBSD Android macOS Windows and others
+Kmetronome,license,,Open source,GPL-2.0,,https://github.com/pedrolcl/kmetronome,live,Author's own mirror of Drumstick MIDI Metronome
+Kmetronome,platforms,,Linux,,,https://github.com/pedrolcl/kmetronome,live,MIDI metronome with KDE interface based on ALSA sequencer
+kodi-omega,license,,Open source,GPL-2.0-or-later,,https://github.com/xbmc/xbmc,live,LICENSE.md SPDX GPL-2.0-or-later; Omega is Kodi v21 release line
+kodi-omega,platforms,,Windows; macOS; Linux; Android; iOS,,,https://github.com/xbmc/xbmc,live,README lists Android Linux Windows macOS iOS tvOS support
+Krecorder,license,,Open source,GPL-3.0,,https://invent.kde.org/utilities/krecorder,live,LICENSES dir contains GPL-3.0-or-later.txt
+Krecorder,platforms,,Linux,,,https://invent.kde.org/utilities/krecorder,live,Audio recorder for Plasma Mobile and other platforms
+last.fm,license,,Proprietary — free,,,https://www.last.fm/about,live,Music tracking and recommendation service; free account
+last.fm,platforms,,Web; Android; iOS,,,https://play.google.com/store/apps/details?id=fm.last.android,live,Official Android app on Play Store; iOS app on App Store (Last.fm by Last.fm Free)
+Lingot,license,,Open source,GPL-2.0,,https://github.com/ibancg/lingot,live,Musical instrument tuner
+Lingot,platforms,,Linux,,,https://github.com/ibancg/lingot,live,GNU/Linux instrument tuner
+Listen Moe,license,,Proprietary — free,,,https://listen.moe,live,Free anime radio streaming service
+Listen Moe,platforms,,Web; Android; iOS,,,https://github.com/listen-moe,live,Official listen-moe org hosts android-app and ios-app client repos
+Lotus,license,,Open source,GPL-3.0,,https://github.com/dn0ne/lotus,live,Music player for Android; README licensed under GPLv3
+Lotus,platforms,,Android,,,https://github.com/dn0ne/lotus,live,Android music player (also on F-Droid com.dn0ne.lotus)
+Lxmusic,license,,Source-available,Apache-2.0 with non-commercial restriction (supplemental terms),,https://github.com/lyswhut/lx-music-desktop,live,README license supplement §8 non-commercial restriction overrides Apache-2.0; NC restriction → Source-available per playbook; self-audited against raw README
+Lxmusic,platforms,,"Windows, macOS, Linux",,,https://github.com/lyswhut/lx-music-desktop,live,Electron desktop app with Windows/macOS/Linux releases
+Lyrics X,license,,Open source,MPL-2.0,,https://github.com/ddddxxx/LyricsX,live,License MPL-2.0 per GitHub API and repo page; self-audited
+Lyrics X,platforms,,macOS,,,https://github.com/ddddxxx/LyricsX,live,macOS 10.11+; distributed via Homebrew cask and Mac App Store
+Mediainfo GUI,license,,Open source,BSD-2-Clause,,https://github.com/MediaArea/MediaInfo,live,MediaInfo by MediaArea; GitHub API spdx_id BSD-2-Clause; self-audited
+Mediainfo GUI,platforms,,"Windows, macOS, Linux",,,https://mediaarea.net/en/MediaInfo,live,Official site lists Windows/macOS/Linux downloads
+Mhwaveedit,license,,Open source,GPL-2.0,,https://github.com/magnush/mhwaveedit,live,GitHub API spdx_id GPL-2.0; Flathub metainfo project_license GPL-2.0; self-audited
+Mhwaveedit,platforms,,Linux,,,https://github.com/magnush/mhwaveedit,live,GTK2 desktop audio editor for Linux (Flathub; FreeBSD ports entry)
+Mixxx DJ Software,license,,Open source,GPL-2.0-or-later,,https://raw.githubusercontent.com/mixxxdj/mixxx/main/LICENSE,live,Raw LICENSE verified: GNU GPL either version 2 or any later version; self-audited
+Mixxx DJ Software,platforms,,"Windows, macOS, Linux",,,https://mixxx.org/download/,live,Official download page lists Windows/macOS/Linux builds
+Moosync,license,,Open source,GPL-3.0,,https://github.com/Moosync/Moosync,live,GitHub API spdx_id GPL-3.0; self-audited
+Moosync,platforms,,"Windows, macOS, Linux",,,https://github.com/Moosync/Moosync,live,Repo README: Available on Windows and Linux and MacOS
+Mousai,license,,Open source,GPL-3.0,,https://github.com/SeaDve/Mousai,live,GitHub API spdx_id GPL-3.0 on SeaDve/Mousai; song-recognition app using audd.io; self-audited
+Mousai,platforms,,Linux,,,https://github.com/SeaDve/Mousai,live,Distributed via Flathub as io.github.seadve.Mousai
+Mtoc,license,,Open source,GPL-3.0,,https://github.com/asa-degroff/mtoc,live,Repo CLAUDE.md and 3fz.org site: License GPL v3; self-audited
+Mtoc,platforms,,Linux,,,https://github.com/asa-degroff/mtoc,live,Qt6/QML music library player; Linux X11/Wayland; Flathub org._3fz.mtoc
+MuseAmp,license,,Open source,MIT,,https://github.com/harren-collections/museamp,live,GitHub API spdx_id MIT on harren-collections/museamp; local-first music player; self-audited
+MuseAmp,platforms,,"iOS, macOS",,,https://github.com/harren-collections/museamp,live,Repo README: iOS/iPadOS 16+ and macOS 13+ (Mac Catalyst) targets
