@@ -1,0 +1,80 @@
+Palmier Pro,license,,Proprietary — freemium,GPL-3.0-only for published source through v0.7.6 (last-gpl-source); binary releases after v0.7.6 proprietary (BINARY_LICENSE.md),,https://github.com/palmier-io/palmier-pro,live,"Releases through v0.7.6 and source through last-gpl-source published under GPLv3; later binary releases proprietary. Prior official FAQ: editor free, generative AI features require login and subscription; current binary pricing not re-verified"
+Palmier Pro,platforms,,macOS,,,https://github.com/palmier-io/palmier-pro,live,"macOS 26 (Tahoe) or later on Apple Silicon (M series) only, per official README"
+Parolu,license,,Open source,GPL-3.0-only,,https://github.com/albanobattistella/parolu,live,GitHub license detection: GNU General Public License v3.0. GNOME text-to-speech app. IDENTITY AMBIGUITY: parolu.de (2014 German project-management SaaS) shares the name; this row covers the actively maintained GNOME app
+Parolu,platforms,,Linux,,,https://github.com/albanobattistella/parolu,live,GNOME app built with meson; Flatpak manifest im.bernard.Parolu.json present in repo
+Pencilsheep,license,,Proprietary — free,Proprietary (Snap Store listing),,https://snapcraft.io/install/pencilsheep/debian,live,Snap Store lists License: Proprietary; app described as 'free professional image editor'. Snap not updated since 2017-05-17; possibly unmaintained/abandoned
+Pencilsheep,platforms,,Linux,,,https://snapcraft.io/install/pencilsheep/debian,live,distributed via Snap Store as a Linux snap (install pages for Debian and Manjaro)
+Phosphor Cam,license,,Open source,MIT,,https://github.com/gooseheaded/phosphor-cam/blob/HEAD/README.md,live,MIT badge plus README license section ('licensed under the MIT License - see the LICENSE file'); consistent across upstream pshycodr/phosphor-cam and forks; MIT has no version variants
+Phosphor Cam,platforms,,Web,,,https://github.com/gooseheaded/phosphor-cam/blob/HEAD/README.md,live,"browser-based React/Vite app; requires getUserMedia and Canvas 2D (Chrome 90+, Firefox 88+, Safari 14+, Edge 90+)"
+Photo Frame Dashboard,platforms,,Android,,,https://github.com/wesbos/photo-frame-dashboard,live,NON-APP ENTITY: guide plus scripts for taking over locked-down Android photo frames (ADB/root procedures); no license declared in repo; includes small WebView kiosk app example (dashboard/kiosk/)
+Photocollage,license,,Open source,GPL-2.0-only,,https://github.com/adrienverge/PhotoCollage,live,GitHub license detection: GNU General Public License v2.0 (no or-later grant detected); upstream README: 'for free and with open-source code'
+Photocollage,platforms,,Linux,,,https://github.com/adrienverge/PhotoCollage,live,GTK app packaged for Fedora and Debian/Ubuntu; integrates into GNOME; Flatpak io.github.adrienverge.PhotoCollage
+Photoflare,license,,Open source,GPL-3.0-or-later,,https://github.com/photoflare/photoflare/blob/HEAD/.github/README.md,live,repo badge 'GPL v3+'; upstream man page in same repo states 'Distributed under the GNU GPL-3+ open source license'
+Photoqt,license,,Open source,GPL-2.0-or-later,,https://github.com/luspi/photoqt,live,"upstream README: 'PhotoQt is released under the GPLv2 (or later) license'; main repo is gitlab.com/lspies/photoqt, this GitHub repo is the mirror"
+Photoqt,platforms,,"Linux, Windows",,,https://github.com/luspi/photoqt,live,README: available in Linux distribution repositories; Windows installer and Flatpak offered
+PhotoSwooper,license,,Open source,AGPL-3.0-only,,http://f-droid.org/packages/com.example.photoswooper/,live,F-Droid license metadata: GNU Affero General Public License v3.0 only; source code on Codeberg
+PhotoSwooper,platforms,,Android,,,http://f-droid.org/packages/com.example.photoswooper/,live,F-Droid listing: requires Android 7.0 or newer
+PicCollage,license,,Proprietary — freemium,,,https://apps.apple.com/sg/app/piccollage-ai-photo-editor/id448639966,live,free download with in-app purchases and monthly/annual subscriptions per App Store
+PicCollage,platforms,,"iOS, iPadOS, visionOS",,,https://apps.apple.com/sg/app/piccollage-ai-photo-editor/id448639966,live,"App Store compatibility: iOS 17+, iPadOS 17+, visionOS 1.0+"
+Picography,platforms,,Web,,,https://picography.co/about/,live,Website (non-app entity)
+Pineapple Pictures,license,,Open source,MIT,,https://code.blumia.cn/blumia/pineapple-pictures/src/tag/1.0.0/README.md?display=source,live,Author README: whole project under MIT; individual files may carry compatible licenses
+Pineapple Pictures,platforms,,"Windows, Linux, macOS",,,https://code.blumia.cn/blumia/pineapple-pictures/src/tag/1.0.0/README.md?display=source,live,"README: builds under Windows, Linux, macOS (Qt desktop platforms)"
+PiPixiv,license,,Open source,Apache-2.0,,https://github.com/darriousliu/pipixiv/blob/HEAD/.github/README-en.md,live,Upstream README license badge Apache-2.0 linking repo /LICENSE; AUR packager claims MIT - packager claim overruled
+PiPixiv,platforms,,"Android, iOS, Windows, macOS, Linux",,,https://github.com/darriousliu/pipixiv/blob/HEAD/.github/README-en.md,live,"README: Android 8.0+, iOS 18+, Windows x86_64, macOS arm64, Linux x86_64"
+PixaPencil,license,,Source-available,Custom EULA; pre-2024-01-24 code GPL-3.0-only,,https://github.com/gaoypchina/pixapencil,live,Current code/binaries under custom EULA (not open source); legacy code GPL-3.0-only; abandoned; removed from Google Play Aug 2026
+PixaPencil,platforms,,Android,,,http://f-droid.org/packages/com.therealbluepandabear.pixapencil/,live,
+PixelFx - Photo Editor (Beta),license,,Open source,MIT,,https://snapcraft.io/pixelfx,live,Snap Store listing by the app author (keshavbhatt) declares MIT; raw LICENSE text not independently read
+PixelFx - Photo Editor (Beta),platforms,,Linux,,,https://snapcraft.io/pixelfx,live,Snap package: quick image retouching for Linux desktop
+PixiEditor,license,,Open source,LGPL-3.0,,https://github.com/PixiEditor/PixiEditor,live,GitHub repo license field detects LGPL-3.0 from LICENSE file; raw version-grant text not independently read
+Play NotePad,license,,Open source,GPL-3.0-or-later,,http://f-droid.org/packages/com.mshdabiola.playnotepad.foss/,live,F-Droid lists GNU General Public License v3.0 or later
+Play NotePad,platforms,,Android,,,http://f-droid.org/packages/com.mshdabiola.playnotepad.foss/,live,
+Plexamp,license,,Proprietary — freemium,,,https://www.plex.tv/en-gb/plexamp/,live,Free base app; extra features require Plex Pass membership
+Plexamp,platforms,,Android,,,https://play.google.com/store/apps/details?id=tv.plex.labs.plexamp&hl=en_IE,live,
+Polyphone,license,,Open source,GPL-3.0,,https://github.com/davy7125/polyphone,live,GitHub Licensee detection GPL-3.0; README: multiplatform open-source soundfont editor; no or-later grant in README
+Polyphone,platforms,,"Windows, macOS, Linux",,,https://github.com/davy7125/polyphone/blob/master/CONTRIBUTING.md,live,CONTRIBUTING lists build instructions for Windows / Mac OS X / Fedora / Ubuntu
+Popout3D,platforms,,Linux,,,https://github.com/popoutapps/popout3d,live,Flathub com.github.PopoutApps.popout3d (Linux/Flatpak) + Debian .deb packaging; license row dropped: GitHub detection NOASSERTION vs third-party GPLv3 claim
+PpdEditor,license,,Open source,MIT,,https://github.com/fralonra/ppd-editor,live,GitHub Licensee detection MIT; LICENSE file present; itch.io dev page also lists MIT License
+PpdEditor,platforms,,"Windows, macOS, Linux",,,https://zoron.itch.io/ppdeditor,live,itch.io Platforms field: Windows / macOS / Linux; also Flathub + AUR per README badges
+Privacy Friendly Sketching,license,,Open source,GPL-3.0-or-later,,https://github.com/secuso/privacy-friendly-sketching,live,"README: licensed under GPLv3, either version 3 or (at your option) any later version; F-Droid: GPL v3.0 or later"
+Privacy Friendly Sketching,platforms,,Android,,,https://f-droid.org/sq/packages/org.secuso.privacyfriendlysketching/,live,SECUSO Android sketching app; F-Droid + Google Play listing
+Proto.io,license,,Proprietary — freemium,Free limited plan after trial; paid tiers $29/$49/$99/$199 per month ($24/$40/$80/$160 billed annually),,https://proto.io/en/pricing/,live,Official pricing page: free limited featured plan after trial expires; all features on all plans
+Proto.io,platforms,,Web,,,https://proto.io/en/pricing/,live,Browser-based UX prototyping SaaS
+PyDPainter,license,,Open source,GPL-3.0-or-later,,https://github.com/mriale/PyDPainter,live,README: licensed under the GPLv3 or later; GitHub Licensee detection GPL-3.0; by Mark Riale
+PyDPainter,platforms,,"Windows, macOS, Linux",,,https://github.com/mriale/PyDPainter,live,README: Runs on Windows / Mac / Linux
+Q View,license,,Open source,GPL-3.0,,https://github.com/jurplel/qView,live,GitHub Licensee detection GPL-3.0; no or-later grant found in README
+Q View,platforms,,"Windows, macOS, Linux",,,https://github.com/jurplel/qView,live,Cross-platform Qt viewer; Flathub com.interversehq.qView (Linux); Homebrew cask (macOS); Windows installer builds
+Qtikz,license,,Open source,GPL-2.0-or-later,,https://github.com/fhackenberger/ktikz,live,"README license section: GPL version 2 or later, or (at your option) any later version; QtikZ is the Qt-variant binary of the KtikZ project (Arch packages it as qtikz); README notes poppler/xpdf GPLv2-only linkage caveat; distinct from newer unrelated bettisfr/qtikz rewrite"
+Qtikz,platforms,,"Linux, Windows",,,https://github.com/fhackenberger/ktikz,live,Repo has debian/ packaging (Linux) and win32/ + INSTALL.Windows (Windows)
+Quick Draw Everywhere,license,,Open source,GPL-3.0-only,,http://f-droid.org/packages/com.tomer.draw/,live,F-Droid lists GNU General Public License v3.0 only; by Tomer Rosenfeld (Rosenfeld Apps)
+Quick Draw Everywhere,platforms,,Android,,,http://f-droid.org/packages/com.tomer.draw/,live,Floating-bubble draw-anywhere Android app
+Qvidcap,license,,Open source,GPL-2.0,,https://github.com/Distrotech/v4l-utils,live,qvidcap is a v4l-utils utility; v4l-utils README states all non-library code is released under the GNU General Public License; recorded conservative as GPL-2.0 without -only/-or-later suffix
+Qvidcap,platforms,,Linux,,,https://man.archlinux.org/man/extra/v4l-utils/qvidcap.1.en,live,v4l2 video capture viewer per Arch man page; V4L2 is Linux-only
+React Color,license,,Open source,MIT,,https://github.com/casesandberg/react-color,live,"Raw LICENSE file is the standard MIT license text; this is a React color-picker COMPONENT LIBRARY, not an end-user app"
+React Color,platforms,,Web,,,https://github.com/casesandberg/react-color,live,React widget component; runs inside web apps
+React Native Gallery,license,,Open source,MIT,,https://github.com/microsoft/react-native-gallery,live,GitHub detects MIT; standard Microsoft MIT LICENSE file in repo
+React Native Gallery,platforms,,Windows,,,https://github.com/microsoft/react-native-gallery,live,React Native for Windows sample app; distributed via the Microsoft Store
+REAL Video Enhancer,license,,Open source,AGPL-3.0,,https://github.com/TNTwise/REAL-Video-Enhancer,live,GitHub detects AGPL-3.0 from LICENSE file and README badge matches; raw text not inspected for added exceptions; recorded without -only/-or-later suffix
+REAL Video Enhancer,platforms,,"Windows, macOS, Linux",,,https://github.com/TNTwise/REAL-Video-Enhancer,live,"README: Windows 10/11 64-bit, macOS 14+ arm/x86, Ubuntu 22.04+ Linux; also distributed via Flathub and Steam"
+Refloow Geo Forensics,license,,Open source,AGPL-3.0,,https://github.com/Refloow/Refloow-Geo-Forensics,live,Community edition is AGPL-3.0 per official README; a separate proprietary Enterprise License exists for institutions (dual-licensed)
+Refloow Geo Forensics,platforms,,"Windows, macOS, Linux",,,https://github.com/Refloow/Refloow-Geo-Forensics,live,"README: Windows 10/11, macOS Intel/Apple Silicon, Linux (Ubuntu/Debian); listed on Microsoft Store and Snap Store"
+Reshot,license,,Proprietary — free,Reshot Free License,,https://www.reshot.com/license/,live,Icon/illustration asset platform; assets free for commercial use without attribution under the Reshot Free License; platform retired by Envato Jan 2026 per third-party report but license page still live
+Reshot,platforms,,Web,,,https://www.reshot.com/license/,live,Web-based asset platform; no downloadable client
+RightFont,license,,Proprietary — paid,Commercial (one-time purchase),,https://rightfontapp.com,live,"Official site: one-time purchase, no subscription required; free trial offered"
+RightFont,platforms,,macOS,,,https://rightfontapp.com,live,Native macOS app; requires macOS 11 or newer
+Satrify,license,,Open source,GPL-3.0,,https://github.com/mo7mud/satrify,live,README states licensed under GNU General Public License v3.0 (GPLv3); raw LICENSE grant not inspected; recorded without -only/-or-later suffix; run-from-source Python desktop app
+Screengrab,license,,Open source,MIT,,https://github.com/fastlane/fastlane,live,"Standalone fastlane/screengrab repo merged into fastlane monorepo (screengrab/ dir); monorepo README states MIT license; automated Android-screenshot dev tool, not a consumer app"
+Send Reduced,license,,Open source,Apache-2.0,,https://github.com/arpruss/sendreduced,live,Full Apache License 2.0 text embedded in upstream repo README; code copyright Omega Centauri Software
+Send Reduced,platforms,,Android,,,https://github.com/nowaker/sendreduced-android,live,Described as Android app; original package mobi.omegacentauri.SendReduced
+Shotwell,license,,Open source,LGPL-2.1,,https://blogs.gnome.org/jnelson/2014/01/27/shotwell-elementary-and-pantheon-photos-what-it-all-means/,live,GNOME blog states LGPL 2.1; -only/-or-later grant not stated upstream; GitHub mirror shows NOASSERTION
+Shotwell,platforms,,Linux,,,https://github.com/GNOME/shotwell,live,README: digital photo manager designed for the GNOME desktop environment
+Shutter,license,,Open source,GPL-3.0-or-later,,https://github.com/shutter-project/shutter,live,README grants GPL 3 or at your option any later version
+Shutter,platforms,,Linux,,,https://github.com/shutter-project/shutter,live,Screenshot tool for Linux per official repo
+Simple Image Reducer,license,,Open source,GPL-2.0-only,,https://github.com/henrythasler/simple-image-reducer,live,GitHub license detection on upstream COPYING shows GPL-2.0 with no or-later grant; per-file headers not audited
+Simple Image Reducer,platforms,,Linux,,,https://github.com/henrythasler/simple-image-reducer,live,README requires Linux or other Unix-like OS
+Snapzy,license,,Open source,BSD-3-Clause,,https://github.com/duongductrong/Snapzy,live,GitHub license detection on LICENSE file
+Snapzy,platforms,,macOS,,,https://github.com/duongductrong/Snapzy,live,Native macOS app; requires macOS 13.0 or later
+sonarr,license,,Open source,GPL-3.0,,https://github.com/sonarr/sonarr,live,README states GNU GPL v3 and GitHub detects GPL-3.0; -only/-or-later grant not stated
+sonarr,platforms,,"Windows, Linux, macOS",,,https://github.com/sonarr/sonarr,live,README lists Windows Linux macOS Raspberry Pi etc
+Spydroid Ipcamera,license,,Open source,GPL-3.0,,https://github.com/fyhertz/spydroid-ipcamera,live,GitHub detects GPL-3.0 on LICENSE file; -only/-or-later grant not stated
+Spydroid Ipcamera,platforms,,Android,,,https://github.com/fyhertz/spydroid-ipcamera,live,Android app per README and Google Play listing
+Stegosuite,license,,Open source,GPL-3.0,,https://github.com/rolandihasz/stegosuite,live,GitHub detects GPL-3.0 on LICENSE in repo forked from upstream stegosuite; -only/-or-later grant not stated
