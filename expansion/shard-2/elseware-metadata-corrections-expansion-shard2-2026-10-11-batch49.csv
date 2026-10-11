@@ -1,0 +1,76 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Homebank,license,,Open source,GPL-2.0-or-later,,https://www.gethomebank.org/en/,live,Official site: licensed under GNU/GPL; Debian copyright for upstream (Maxime Doyen) lists GPL-2+
+Homebank,platforms,,"Windows, macOS, Linux",,,https://www.gethomebank.org/en/,live,"Official site: available for Linux, Windows, Mac OS X"
+Hoplite Polytonic Greek Keyboard,license,,Open source,GPL-3.0,,https://github.com/jeremymarch/HopliteKB-Android,live,LICENSE file verified as GNU GPL v3 text
+Hoplite Polytonic Greek Keyboard,platforms,,Android,,,https://github.com/jeremymarch/HopliteKB-Android,live,README: Hoplite Polytonic Greek Keyboard for Android
+Hot,license,,Open source,MIT,,https://github.com/macmade/Hot,live,Raw LICENSE verified as MIT License (Jean-David Gadina)
+Hot,platforms,,macOS,,,https://github.com/macmade/Hot,live,macOS menu bar app displaying CPU speed limit due to thermal issues
+htop,license,,Open source,GPL-2.0-or-later,,https://github.com/htop-dev/htop,live,Process.c header: Released under the GNU GPLv2+
+htop,platforms,,"Linux, macOS, FreeBSD",,,https://htop.dev/,live,"htop.dev lists Linux, FreeBSD, NetBSD, OpenBSD, DragonFly BSD, macOS"
+Hublin,license,,Open source,AGPL-3.0,,https://github.com/linagora/hublin,live,LICENSE: GNU Affero GPL version 3 (LINAGORA)
+Hublin,platforms,,Web,,,https://github.com/linagora/hublin,live,WebRTC video conference service
+Hupl,license,,Open source,GPL-3.0,,https://github.com/Rouji/Hupl,live,GitHub API SPDX GPL-3.0; also on F-Droid as eu.imouto.hupl
+Hupl,platforms,,Android,,,https://github.com/Rouji/Hupl,live,README: Simple Android app for uploading files via share menu
+I Glance,license,,Open source,GPL-3.0,,https://github.com/iglance/iGlance,live,LICENSE file verified as GNU GPL v3 text
+I Glance,platforms,,macOS,,,https://github.com/iglance/iGlance,live,Free system monitor for OSX and macOS (menu bar)
+I3wm Themer,license,,Open source,MIT,,https://github.com/stav121/i3wm-themer,live,LICENSE file verified as MIT License
+I3wm Themer,platforms,,Linux,,,https://github.com/stav121/i3wm-themer,live,Theme collection manager for i3-wm (Linux X11 window manager)
+Ibus Braille,license,,Open source,GPL-2.0-or-later,,https://github.com/zendalona/ibus-braille,live,COPYING is GPL v2 with or-any-later-version clause
+Ibus Braille,platforms,,Linux,,,https://github.com/zendalona/ibus-braille,live,Braille input method for IBus (Linux input method framework)
+Icelandic for AnySoftKeyboard,license,,Open source,Apache-2.0,,https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.icelandic/,live,F-Droid package page lists Apache License 2.0
+Icelandic for AnySoftKeyboard,platforms,,Android,,,https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.icelandic/,live,AnySoftKeyboard language pack (Android)
+IDD Sample Driver,license,,Open source,MS-PL (Microsoft Public License),,https://github.com/microsoft/Windows-driver-samples,live,Indirect Display Driver sample in Microsoft's Windows driver samples repo; repo license is MS-PL
+IDD Sample Driver,platforms,,Windows,,,https://github.com/microsoft/Windows-driver-samples,live,Windows driver sample
+IdiomReplaceX Browser App,license,,Open source,Apache-2.0,,https://github.com/idiomReplaceX/IdiomReplaceX-app,live,Repo license API SPDX Apache-2.0; net art browser project
+IdiomReplaceX Browser App,platforms,,Android,,,https://github.com/idiomReplaceX/IdiomReplaceX-app,live,F-Droid badge in README: de.idiomreplacex.browser_app (Flutter browser app)
+Ignis,license,,Open source,LGPL-2.1,,https://github.com/linkfrg/ignis,live,LICENSE file verified as GNU Lesser General Public License v2.1
+Ignis,platforms,,Linux,,,https://github.com/linkfrg/ignis,live,Widget framework for building Linux desktop shells
+Image Resizer,license,,Open source,MIT,,https://github.com/microsoft/PowerToys,live,Image Resizer is a PowerToys utility; repo license MIT
+Image Resizer,platforms,,Windows,,,https://github.com/microsoft/PowerToys,live,PowerToys is a collection of utilities for Windows
+Img Liquid,license,,Open source,MIT,,https://github.com/karacas/imgLiquid,live,"jQuery plugin to resize images to fit in a container; library, no end-user platforms"
+Impactor,license,,Proprietary — free,,,https://www.cydiaimpactor.com/,live,Cydia Impactor by saurik; free closed-source GUI tool for installing IPA/APK on mobile devices
+Impactor,platforms,,"Windows, macOS, Linux",,,https://www.cydiaimpactor.com/,live,"Official download page lists Mac, Windows and Linux versions"
+Infomaniak kDrive,license,,Proprietary — freemium,,,https://www.infomaniak.com/en/kdrive,live,Official site: free tier plus paid plans on pricing page; closed source
+Infomaniak kDrive,platforms,,"iOS, Android",,,https://www.infomaniak.com/en/kdrive,live,App Store exact-name match by Infomaniak Network SA (Free); Play Store package com.infomaniak.drive
+Insular,license,,Open source,Apache-2.0,Android,https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/,live,FLOSS fork of Island; F-Droid lists Apache License 2.0
+Insular,platforms,,Android,,,https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/,live,F-Droid Android package com.oasisfeng.island.fdroid
+Interview Coder,license,,Proprietary — freemium,"Free tier, Pro $299/mo, or $799 lifetime; closed source","Windows, macOS",https://www.interviewcoder.co/blog/best-ai-interview-tools-2026,live,"Native desktop app, free at $0, Monthly Pro $299, Lifetime Pro $799"
+Interview Coder,platforms,,"Windows, macOS",,,https://www.interviewcoder.co/,live,Structured data lists Windows and macOS; desktop app
+Investbrain,license,,Source-available,"Creative Commons Attribution-NonCommercial 4.0 (LICENSE.md, non-commercial) — per playbook Source-available",Web,https://github.com/investbrainapp/investbrain,live,LICENSE.md verified as CC BY-NC 4.0; self-hosted via Docker Compose
+Investbrain,platforms,,Web,,,https://github.com/investbrainapp/investbrain,live,"Self-hosted web app, Docker distribution"
+Ipscan,license,,Open source,GPL-2.0 (angryip/ipscan; Angry IP Scanner),"Windows, macOS, Linux",https://github.com/angryip/ipscan,live,GitHub API spdx GPL-2.0; canonical name Angry IP Scanner
+Ipscan,platforms,,"Windows, macOS, Linux",,,https://github.com/angryip/ipscan,live,"README: Windows, macOS and Linux installers"
+IR Blaster Remote,license,,Open source,GPL-3.0-only (F-Droid org.nslabs.ir_blaster),Android,https://f-droid.org/en/packages/org.nslabs.ir_blaster/,live,F-Droid lists GNU GPL v3.0 only; GitHub thazzbelly/android-ir-blaster
+IR Blaster Remote,platforms,,Android,,,https://f-droid.org/en/packages/org.nslabs.ir_blaster/,live,F-Droid Android package org.nslabs.ir_blaster
+Iroh,license,,Open source,"Apache-2.0 (n0-computer/iroh), (none)",,https://github.com/n0-computer/iroh,live,"P2P QUIC networking library, not an end-user app; GitHub API spdx Apache-2.0"
+Italian for AnySoftKeyboard,license,,Open source,Apache-2.0 (F-Droid com.anysoftkeyboard.languagepack.italian),Android,https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.italian/,live,F-Droid lists Apache License 2.0
+Italian for AnySoftKeyboard,platforms,,Android,,,https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.italian/,live,F-Droid Android language-pack package
+Japanese Traditional Time,license,,Open source,MIT (F-Droid com.aragaer.jtt),Android,https://f-droid.org/en/packages/com.aragaer.jtt/,live,F-Droid lists MIT License; GitHub aragaer/jtt_android
+Japanese Traditional Time,platforms,,Android,,,https://f-droid.org/en/packages/com.aragaer.jtt/,live,F-Droid Android package com.aragaer.jtt
+Jclic,license,,Open source,GPL-2.0,"Windows, macOS, Linux",https://github.com/projectestac/jclic,live,"GitHub API spdx GPL-2.0 on projectestac/jclic; README: supported on GNU/Linux, Windows, Mac OS X (Java app)"
+Jclic,platforms,,"Windows, macOS, Linux",,,https://github.com/projectestac/jclic,live,"README: supported only in GNU/Linux, Windows and Mac OS X"
+Jgmenu,license,,Open source,GPL-2.0,Linux,https://github.com/jgmenu/jgmenu,live,GitHub API spdx GPL-2.0 on jgmenu/jgmenu; X11 menu utility
+Jgmenu,platforms,,Linux,,,https://github.com/jgmenu/jgmenu,live,X11 menu for Linux
+Jitterbug,license,,Open source,Apache-2.0,iOS,https://github.com/osy/Jitterbug,live,GitHub API spdx Apache-2.0 on osy/Jitterbug; iOS JIT app launcher (pairs a second iOS device for debugging)
+Jitterbug,platforms,,iOS,,,https://github.com/osy/Jitterbug,live,Runs on iOS; uses WiFi pairing with another iOS device
+Jquery Fileapi,license,,Open source,MIT,,https://github.com/RubaXa/jquery.fileapi,live,README has MIT LICENSE section; package.json license field MIT
+Jquery Tabledit,license,,Open source,MIT,,https://github.com/markcell/jquery-tabledit,live,GitHub API spdx MIT on markcell/jquery-tabledit; jQuery table inline-editor plugin
+Jsgantt Improved,license,,Open source,BSD-3-Clause,,https://github.com/jsGanttImproved/jsgantt-improved,live,LICENSE is BSD 3-clause text (Copyright 2013-2018 Paul Geldart et al.); JS Gantt chart component
+Jue Jin Client,license,,Open source,MIT,"Android, iOS",https://github.com/wangdicoder/JueJinClient,live,GitHub API spdx MIT on wangdicoder/JueJinClient; React Native app simulating JueJin (Chinese dev community) on Android and iOS
+Jue Jin Client,platforms,,"Android, iOS",,,https://github.com/wangdicoder/JueJinClient,live,React Native app running on both Android and iOS
+Jupyterlab,license,,Open source,BSD-3-Clause,Web,https://github.com/jupyterlab/jupyterlab,live,GitHub API spdx BSD-3-Clause on jupyterlab/jupyterlab; browser-based computational environment
+Jupyterlab,platforms,,Web,,,https://github.com/jupyterlab/jupyterlab,live,Runs in the browser as a web app
+K4dirstat,license,,Open source,GPL-2.0,Linux,https://github.com/jeromerobert/k4dirstat,live,GitHub API spdx GPL-2.0 on jeromerobert/k4dirstat; KDE directory-statistics utility
+K4dirstat,platforms,,Linux,,,https://github.com/jeromerobert/k4dirstat,live,KDE desktop utility for Linux
+Kalm,license,,Open source,GPL-2.0-or-later,,https://apps.kde.org/kalm/,live,KDE app; license per apps.kde.org (authoritative KDE app catalog)
+Kalm,platforms,,Linux,,,https://apps.kde.org/kalm/,live,KDE desktop application
+Karabau,license,,Open source,GPL-3.0,,https://github.com/ruizlenato/karabau,live,Android Karakeep client; GPL-3.0 per GitHub API spdx and README License section
+Karabau,platforms,,Android,,,https://github.com/ruizlenato/karabau,live,Native Android app (F-Droid com.ruizlenato.karabau)
+Kcachegrind,license,,Open source,GPL-2.0-or-later,,https://apps.kde.org/kcachegrind/,live,KDE profiling data visualizer; license per apps.kde.org
+Kcachegrind,platforms,,Linux,,,https://apps.kde.org/kcachegrind/,live,KDE desktop application
+Kdf,license,,Open source,GPL-2.0-or-later,,https://apps.kde.org/kdf/,live,KDE disk usage viewer; apps.kde.org lists GPL-2.0+
+Kdf,platforms,,Linux,,,https://apps.kde.org/kdf/,live,KDE desktop application
+Keeptrack Space,license,,Open source,AGPL-3.0,,https://github.com/thkruz/keeptrack.space,live,Browser-based 3D satellite tracking; AGPL-3.0 per GitHub API spdx
+Keeptrack Space,platforms,,Web,,,https://github.com/thkruz/keeptrack.space,live,Runs in browser (keeptrack.space)
+Kexi,license,,Open source,GPL-2.0,,https://github.com/KDE/kexi,live,KDE visual database apps builder; GPL-2.0 per GitHub API spdx on KDE/kexi
+Kexi,platforms,,Linux,,,https://github.com/KDE/kexi,live,KDE desktop application
