@@ -1,0 +1,11 @@
+SHARD 2 — PHASE 2 EXPANSION COMPLETE
+Date: 2026-10-11 ~13:05 PKT
+Batches: 77 (batches 1–77)
+CSV rows: 5,337
+Unique apps verified: 2,809
+Coverage: all 3,831 apps in expansion/shard-2/apps.md processed
+Skipped (unverifiable from whitelisted sources): ~1,022
+Dupes: none
+Sources: official site, GitHub repo (raw LICENSE), app store only — zero aggregators
+All Open source/Source-available claims self-audited against primary source
+Committed by: Shard 2 <shard-2@elseware.local>
