@@ -1,0 +1,97 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Webflow,license,,Proprietary — freemium,"Free Starter plan; Basic $15/mo, Premium $25/mo billed yearly",Web,https://webflow.com/pricing,live,"Official: Start building for free; Starter free, Basic $15/mo, Premium $25/mo"
+Webflow,platforms,,Web,,,https://webflow.com/pricing,live,SaaS website builder; web-based platform
+Weebly,license,,Proprietary — freemium,"Free $0 plan; Personal $13/mo, Professional $15/mo, Performance $32/mo",Web,https://www.weebly.com/pricing,live,Official: Free $0/mo; paid plans from $13/mo billed annually
+Weebly,platforms,,Web,,,https://www.weebly.com/pricing,live,SaaS website builder; web-based
+Jimdo,license,,Proprietary — freemium,Free forever plan; premium plans available,Web,https://www.jimdo.com/,live,Official homepage: No credit card. Free forever; premium plans per pricing page
+Jimdo,platforms,,Web,,,https://www.jimdo.com/,live,SaaS website builder; web-based
+Duda,license,,Proprietary — paid subscription,Basic $19-25/mo; Team $29-39/mo; Agency $52-69/mo; 14-day trial no free tier,Web,https://www.duda.co/pricing,live,"Official pricing: all plans paid; 14-day free trial, no free tier"
+Duda,platforms,,Web,,,https://www.duda.co/pricing,live,SaaS website builder for agencies; web-based
+Strikingly,license,,Proprietary — freemium,"Unlimited free sites; Limited $8/mo, Pro $16/mo, VIP $49/mo",Web,https://www.strikingly.com/s/pricing,live,Official: unlimited free sites; paid plans from $8/mo billed yearly
+Strikingly,platforms,,Web,,,https://www.strikingly.com/s/pricing,live,SaaS website builder; web-based
+Hostinger Website Builder,license,,Proprietary — paid subscription,Premium $2.99/mo; Unlimited $3.99/mo; Cloud Startup $7.99/mo; no free tier,Web,https://www.hostinger.com/website-builder,live,Official: paid hosting-bundled plans; no free tier
+Hostinger Website Builder,platforms,,Web,,,https://www.hostinger.com/website-builder,live,SaaS website builder; web-based
+SITE123,license,,Proprietary — freemium,Free $0/mo plan; Premium packages (Basic/Advanced/Professional/Gold),Web,https://www.site123.com/pricing,live,Official: every website free indefinitely; Premium packages from $10.8/mo
+SITE123,platforms,,Web,,,https://www.site123.com/pricing,live,SaaS website builder; web-based
+Ucraft,license,,Proprietary — freemium,"Free Website; paid plans (Pro Website, Pro Shop, Unlimited); 14-day trial",Web,https://www.ucraft.com/pricing,live,Official: free website; upgrade to paid plans; 14-day free trial
+Ucraft,platforms,,Web,,,https://www.ucraft.com/pricing,live,SaaS website builder; web-based
+Tilda,license,,Proprietary — freemium,Free 1 website; Business $20-25/mo,Web,https://tilda.cc/pricing/,live,Official: Free 1 website; Business $20/mo annual or $25/mo
+Tilda,platforms,,Web,,,https://tilda.cc/pricing/,live,SaaS website builder; web-based
+Readymag,license,,Proprietary — freemium,"Free plan (1 published project, up to 10 pages); paid Personal, Freelancer, Business (Advanced) plans",,https://help.readymag.com/hc/en-us/articles/15790840333851-Understanding-Readymag-plans,live,Official help: Free plan plus paid Personal/Freelancer/Business tiers
+Readymag,platforms,,Web,,,https://readymag.com/pricing,live,Official pricing page; browser-based design tool
+Format,license,,Proprietary — paid subscription,"Basic $10/mo, Pro $12/mo, Pro Plus $15/mo (billed annually); 14-day trial, no free plan",,https://format.com/pricing-portfolio,live,"Official pricing page: three paid tiers, no free plan"
+Format,platforms,,Web,,,https://format.com/pricing-portfolio,live,Official pricing page; SaaS portfolio builder
+Blogger,license,,Proprietary — free,"Free blogspot.com blogs; no paid tier on official site",,https://www.blogger.com/,live,Official site offers free blogs with no pricing or paid plans listed
+Blogger,platforms,,Web,,,https://www.blogger.com/,live,Official site; browser-based blogging
+Write.as,license,,Proprietary — freemium,Free plan ($0); Pro from $6/mo; Team from $25/mo,,https://write.as/pricing,live,"Official pricing page: Free, Pro, Team tiers"
+Write.as,platforms,,Web,,,https://write.as/pricing,live,Official pricing page; web-based writing platform
+Bear Blog,license,,Proprietary — free,"Free blogs per official repo README",,https://github.com/HermanMartinus/bearblog,live,Official repo: Start a free blog in minutes; site's paid upgrades not verifiable (bearblog.dev blocked by fetch policy)
+Bear Blog,platforms,,Web,,,https://github.com/HermanMartinus/bearblog,live,Official repo; hosted blogging platform
+Micro.blog,license,,Proprietary — paid subscription,"Blog hosting starts at $5/mo",,https://micro.blog/about/pricing,live,Official pricing: Everything you need starts at $5
+Micro.blog,platforms,,Web,,,https://micro.blog/about/pricing,live,Official pricing page; hosted microblogging
+Pico CMS,license,,Open source,"MIT License",,https://github.com/picocms/Pico,live,Official repo: MIT; README carries end-of-life notice (development stopped)
+Pico CMS,platforms,,Web,,,https://github.com/picocms/Pico,live,Official repo; PHP flat-file CMS
+Blot.im,license,,Proprietary — paid subscription,"$6 per month per site; no free tier",,https://Blot.im/pricing,live,Official pricing page: $6/mo per site
+Blot.im,platforms,,Web,,,https://Blot.im/pricing,live,Official pricing page; folder-to-website service
+Gatsby,license,,Open source,"MIT License; free and open-source React framework",,https://github.com/gatsbyjs/gatsby,live,Official repo README: released under the MIT license
+Gatsby,platforms,,Web,,,https://github.com/gatsbyjs/gatsby,live,Official repo; builds websites and apps
+Astro,license,,Open source,"MIT License; free, open source software",,https://github.com/withastro/astro,live,Official repo: MIT license badge and link in README
+Astro,platforms,,Web,,,https://github.com/withastro/astro,live,Official repo; web framework for content-driven sites
+Eleventy,license,,Open source,MIT,Web,https://api.github.com/repos/11ty/eleventy/license,live,Repo LICENSE: MIT License (spdx MIT)
+Eleventy,platforms,,Web,,,https://github.com/11ty/eleventy,live,Node.js static site generator; outputs static websites
+Docusaurus,license,,Open source,MIT,Web,https://api.github.com/repos/facebook/docusaurus/license,live,Repo LICENSE: MIT License (spdx MIT)
+Docusaurus,platforms,,Web,,,https://github.com/facebook/docusaurus,live,React-based static site generator; web documentation sites
+VuePress,license,,Open source,MIT,Web,https://api.github.com/repos/vuejs/vuepress/license,live,Repo LICENSE: MIT License (spdx MIT)
+VuePress,platforms,,Web,,,https://github.com/vuejs/vuepress,live,Vue-powered static site generator; web documentation sites
+MkDocs,license,,Open source,BSD-2-Clause,Web,https://api.github.com/repos/mkdocs/mkdocs/license,live,Repo LICENSE: BSD 2-Clause Simplified License (spdx BSD-2-Clause)
+MkDocs,platforms,,Web,,,https://github.com/mkdocs/mkdocs,live,Python static site generator for project documentation; web output
+Publii,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://getpublii.com/,live,"Official site: Publii is open source, licensed under GPL-3.0"
+Publii,platforms,,"Windows, macOS, Linux",,,https://getpublii.com/,live,"Official site: desktop static CMS for Windows, macOS, and Linux"
+TinaCMS,license,,Open source,Apache-2.0,Web,https://api.github.com/repos/tinacms/tinacms/license,live,Repo LICENSE: Apache License 2.0 (spdx Apache-2.0)
+TinaCMS,platforms,,Web,,,https://github.com/tinacms/tinacms,live,Headless CMS; web-based content editing
+Decap CMS,license,,Open source,MIT,Web,https://api.github.com/repos/decaporg/decap-cms/license,live,Repo LICENSE: MIT License (spdx MIT)
+Decap CMS,platforms,,Web,,,https://github.com/decaporg/decap-cms,live,Git-based headless CMS; web-based admin UI
+Shopify,license,,Proprietary — paid subscription,Plans from $39/mo monthly ($29/mo yearly); no free tier,Web,https://www.shopify.com/pricing,live,Official pricing: paid plans from $39/mo monthly; 3-day trial then paid
+Shopify,platforms,,Web,,,https://www.shopify.com/pricing,live,SaaS e-commerce platform; web-based
+WooCommerce,license,,Open source,GPL-2.0-or-later,Web,https://api.github.com/repos/woocommerce/woocommerce/license,live,Repo license.txt: GNU GPL version 2 or any later version
+WooCommerce,platforms,,Web,,,https://github.com/woocommerce/woocommerce,live,WordPress e-commerce plugin; web-based stores
+Magento,license,,Open source,OSL-3.0,Web,https://api.github.com/repos/magento/magento2/license,live,Repo LICENSE.txt: Open Software License v3.0 (spdx OSL-3.0)
+Magento,platforms,,Web,,,https://github.com/magento/magento2,live,Self-hosted e-commerce platform (Adobe Commerce); web-based
+BigCommerce,license,,Proprietary — paid subscription,"Core $39/mo, Growth $105/mo, Scale $399/mo, Performance from $1,499/mo; 15-day free trial",Web,https://www.bigcommerce.com/pricing/,live,Official pricing: paid plans from $39/mo; 15-day free trial; no free tier
+BigCommerce,platforms,,Web,,,https://www.bigcommerce.com/pricing/,live,SaaS ecommerce platform; web-based
+PrestaShop,license,,Open source,"OSL-3.0 (core), AFL-3.0 (modules)",Web,https://api.github.com/repos/PrestaShop/PrestaShop/license,live,Repo LICENSE.md: PrestaShop Core under OSL-3.0; modules under AFL-3.0
+PrestaShop,platforms,,Web,,,https://api.github.com/repos/PrestaShop/PrestaShop/license,live,Self-hosted PHP ecommerce platform; web-based
+OpenCart,license,,Open source,GPL-3.0,Web,https://api.github.com/repos/opencart/opencart/license,live,Repo LICENSE.md is the GNU GPL version 3 text
+OpenCart,platforms,,Web,,,https://api.github.com/repos/opencart/opencart/license,live,Self-hosted ecommerce platform; web-based
+Shopware,license,,Open source,MIT,Web,https://api.github.com/repos/shopware/shopware/license,live,Repo LICENSE: MIT License (spdx MIT)
+Shopware,platforms,,Web,,,https://api.github.com/repos/shopware/shopware/license,live,Self-hosted ecommerce platform; web-based
+Ecwid,license,,Proprietary — paid subscription,"Starter $5/mo, Venture $35/mo, Business $65/mo, Unlimited $149/mo (monthly billing)",Web,https://www.ecwid.com/pricing,live,Official pricing: all plans paid; no free tier; 0 transaction fees
+Ecwid,platforms,,"Web, Android, iOS",,,https://www.ecwid.com/pricing,live,SaaS ecommerce; Android and iOS store management apps per official site
+Shift4Shop,license,,Proprietary — paid subscription,"Unlimited enterprise-grade plan $41/month (formerly 3dcart)",Web,https://www.shift4shop.com/,live,Official: unlimited enterprise-grade plan for $41/month; site live and active
+Shift4Shop,platforms,,Web,,,https://www.shift4shop.com/,live,Hosted ecommerce platform; web-based
+Volusion,license,,Proprietary — paid subscription,"Personal $35/mo, Professional $79/mo, Business $299/mo, Prime custom",Web,https://volusion.com/pricing,live,Official pricing: paid plans from $35/mo; no free tier
+Volusion,platforms,,Web,,,https://volusion.com/pricing,live,Hosted ecommerce platform; web-based
+Sylius,license,,Open source,MIT,Web,https://api.github.com/repos/Sylius/Sylius/license,live,Repo LICENSE: MIT License (spdx MIT)
+Sylius,platforms,,Web,,,https://api.github.com/repos/Sylius/Sylius/license,live,Self-hosted headless ecommerce (Symfony/PHP); web-based
+Solidus,license,,Open source,BSD-3-Clause,Web,https://api.github.com/repos/solidusio/solidus/license,live,Repo LICENSE: BSD 3-Clause New or Revised License (spdx BSD-3-Clause)
+Solidus,platforms,,Web,,,https://api.github.com/repos/solidusio/solidus/license,live,Self-hosted ecommerce (Ruby on Rails); web-based
+Bagisto,license,,Open source,MIT,Web,https://api.github.com/repos/bagisto/bagisto/license,live,"Repo LICENSE: MIT License, spdx MIT"
+Bagisto,platforms,,Web,,,https://api.github.com/repos/bagisto/bagisto/license,live,Self-hosted Laravel e-commerce framework; web-based
+Medusa,license,,Open source,MIT (Enterprise Edition materials under separate commercial license),Web,https://api.github.com/repos/medusajs/medusa/license,live,Repo LICENSE: MIT for repository except Enterprise Edition materials per ENTERPRISE-LICENSE.md
+Medusa,platforms,,Web,,,https://api.github.com/repos/medusajs/medusa/license,live,Self-hosted commerce platform; web-based
+Etsy,license,,Proprietary — free,Free app; seller listing and transaction fees apply,"iOS, Web",https://apps.apple.com/us/app/etsy-shop-from-real-people/id477128284?uo=4,live,"App Store: Free by Etsy, Inc.; web at etsy.com"
+Etsy,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/etsy-shop-from-real-people/id477128284?uo=4,live,iOS via App Store listing; web at etsy.com
+eBay,license,,Proprietary — free,Free app; seller fees apply,"iOS, Web",https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216?uo=4,live,App Store: Free by eBay Inc.; web at ebay.com
+eBay,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216?uo=4,live,iOS via App Store listing; web at ebay.com
+Poshmark,license,,Proprietary — free,Free app; seller fees apply,"iOS, Web",https://apps.apple.com/us/app/poshmark-shop-sell-fashion/id470412147?uo=4,live,"App Store: Free by Poshmark, Inc.; web at poshmark.com"
+Poshmark,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/poshmark-shop-sell-fashion/id470412147?uo=4,live,iOS via App Store listing; web at poshmark.com
+Depop,license,,Proprietary — free,Free app; seller fees apply,"iOS, Web",https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914?uo=4,live,App Store: Free by Depop Ltd; web at depop.com
+Depop,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914?uo=4,live,iOS via App Store listing; web at depop.com
+Mercari,license,,Proprietary — free,Free app; seller fees apply,"iOS, Web",https://apps.apple.com/us/app/mercari-buying-selling-app/id896130944?uo=4,live,"App Store: Free by Mercari, Inc."
+Mercari,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/mercari-buying-selling-app/id896130944?uo=4,live,iOS via App Store listing; web marketplace
+Vinted,license,,Proprietary — free,Free app; buyer protection fee on purchases,"iOS, Web",https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380?uo=4,live,App Store: Free by Vinted Limited; web at vinted.com
+Vinted,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380?uo=4,live,iOS via App Store listing; web at vinted.com
+StockX,license,,Proprietary — free,Free app; buyer/seller transaction fees apply,"iOS, Web",https://apps.apple.com/us/app/stockx-sneakers-and-apparel/id881599819?uo=4,live,App Store: Free by StockX LLC; web at stockx.com
+StockX,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/stockx-sneakers-and-apparel/id881599819?uo=4,live,iOS via App Store listing; web at stockx.com
+GOAT,license,,Proprietary — free,Free app; transaction fees apply,"iOS, Web",https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561?uo=4,live,"App Store: Free by 1661, Inc.; web at goat.com"
+GOAT,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/goat-sneakers-apparel/id966758561?uo=4,live,iOS via App Store listing; web at goat.com
