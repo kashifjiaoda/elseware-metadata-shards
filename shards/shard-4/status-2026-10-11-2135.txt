@@ -1,0 +1,9 @@
+Shard 4 — Phase-2 expansion batch 59 complete (Shard 2 takeover).
+
+Batch 59: 89 rows pushed, 48 of 50 apps verified (89 = 90 assembler rows minus 1 dropped at assembly).
+Skipped (2 apps): Lok L0ck: Watch TV drama,Movie (identity unresolvable; scam-prone signals — NOT-a-streaming-service disclaimer + individual seller + netlify privacy policy); Multiple Accounts: Dual Apps (scam-prone clone-app category, unverifiable individual seller, no brand match).
+Assembler spot-check catch: Legado license row DROPPED pre-push — verifier claimed GPL-3.0 from "raw LICENSE text" but upstream gedoor/legado publishes NO license text (no LICENSE file, GitHub NOASSERTION, README replaced with a copyright-takedown legal notice); platforms-only row kept with the evidence flagged.
+Partial skips (license-only): Hindu Panchang Kundli Rashifal, Islampedia Quran Belajar (price/IAP not visible in fetched Play listings — platforms rows kept). BabyBillion + Belajar Membaca Tanpa Mengeja platforms-only (price/IAP unconfirmable, not guessed).
+Notable: Elefante Letrado = Proprietary — paid subscription (school subscriptions); BeFreed = freemium ($12.99/mo tiered pricing per official site); Luzia = freemium (Luzia+ sold via web/WhatsApp); Platinumlist seller mismatch flagged (iOS seller Vassiliy Fartukov individual vs brand); NovelBite IAP undisclosed (audit-suggested); FivePrayer kept free w/ paid-tier note.
+
+49 batches remain (batch 60 next: apps.md lines 2957-3006).
