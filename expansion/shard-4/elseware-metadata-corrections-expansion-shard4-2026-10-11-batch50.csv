@@ -1,0 +1,67 @@
+Kinfocenter,license,,Open source,GPL-2.0-or-later,,https://github.com/kde/kinfocenter,live,In-repo org.kde.kinfocenter.appdata.xml declares project_license GPL-2.0-or-later; verified on official KDE GitHub mirror (invent.kde.org blocked in this environment)
+Kiview,license,,Open source,GPL-3.0-or-later,,https://github.com/Nyre221/Kiview,live,Raw LICENSE is GPL v3 text; LICENSES dir ships GPL-3.0-or-later.txt (no -only variant); author moved dev to invent.kde.org/danagost/Kiview (unreachable here) - verified on original GitHub repo
+Kiview,platforms,,Linux,,,https://github.com/Nyre221/Kiview,live,"README install targets are Flathub flatpak, KDE Neon .deb, openSUSE Tumbleweed - all Linux"
+Kleopatra,license,,Open source,GPL-2.0-or-later,,https://github.com/kde/kleopatra,live,SPDX-License-Identifier GPL-2.0-or-later in src/main.cpp header; REUSE.toml present; verified on official KDE GitHub mirror (canonical invent.kde.org/pim/kleopatra blocked here)
+Klipper,license,,Open source,GPL-2.0-or-later,,https://github.com/kde/plasma-workspace,live,SPDX-License-Identifier GPL-2.0-or-later in klipper/klipper.cpp; Klipper ships inside the plasma-workspace repo; KDE mirror used
+Kmenuedit,license,,Open source,GPL-2.0-or-later,,https://github.com/kde/kmenuedit,live,SPDX-License-Identifier GPL-2.0-or-later in main.cpp header; KDE mirror used
+Komi Store,license,,Open source,Apache-2.0,,https://github.com/komi-store/komi-store,live,Raw LICENSE is Apache License Version 2.0; canonical repo komi-store/komi-store (org renamed from kurikomi-labs); GitHub Store fork/mirror copies rejected
+Komi Store,platforms,,"Android, Windows, macOS, Linux",,,https://github.com/komi-store/komi-store/blob/HEAD/AGENTS.md,live,"AGENTS.md: targets Android (min API 26) and Desktop via JVM (Windows, macOS, Linux); README confirms F-Droid, WinGet/Scoop, Homebrew, deb"
+Konqueror,license,,Open source,GPL-2.0-or-later,,https://github.com/KDE/konqueror,live,SPDX-License-Identifier GPL-2.0-or-later in src/konqmainwindow.cpp header; KDE mirror used
+Kore,license,,Open source,Apache-2.0,,https://github.com/xbmc/Kore,live,Raw LICENSE.txt is Apache License Version 2.0; official Kodi remote for Android (not a KDE app)
+Kore,platforms,,Android,,,https://kodi.tv/article/kore-android-remote-v200-update/,live,Official kodi.tv: Kore (Android) with Google Play listing org.xbmc.kore; repo README is the Kore Android app with Play + F-Droid links
+Krfb,license,,Open source,GPL-2.0-or-later,,https://github.com/KDE/krfb,live,SPDX-License-Identifier GPL-2.0-or-later in krfb/main.cpp; repo has per-file REUSE split (COPYING/COPYING.LIB/COPYING.DOC); KDE mirror used
+Ktimer,license,,Open source,GPL-2.0-or-later,,https://github.com/KDE/ktimer,live,SPDX GPL-2.0-or-later on ktimer.cpp and main.cpp; canonical KDE upstream
+Ktimer,platforms,,Linux,,,https://github.com/KDE/ktimer,live,snap and flatpak manifests plus .desktop entry in repo
+KTrip,license,,Open source,GPL-2.0-only OR GPL-3.0-only OR LicenseRef-KDE-Accepted-GPL,,https://github.com/KDE/ktrip,live,SPDX header in src/main.cpp; canonical KDE upstream
+KTrip,platforms,,Linux; Android,,,https://github.com/KDE/ktrip,live,android/ sources plus flatpak manifest; public-transport departures app
+Kupfer,license,,Open source,GPL-3.0-or-later,,https://github.com/kupferlauncher/kupfer,live,explicit or-any-later-version grant in kupfer.py header and README.rst
+Kupfer,platforms,,Linux,,,https://kupferlauncher.github.io/,live,distributed via Ubuntu/Debian and Arch Linux repos per official site
+Kv4p Ht,license,,Open source,GPL-3.0-or-later,,https://github.com/vancevagell/kv4p-ht,live,explicit or-any-later-version grant in MainActivity.java; canonical upstream
+Kv4p Ht,platforms,,Android,,,https://github.com/vancevagell/kv4p-ht,live,android-src builds the Android APK; iOS client in development (ios-src); companion app for custom ESP32 ham-radio hardware
+Kõnele,license,,Open source,Apache-2.0,,https://github.com/Kaljurand/K6nele,live,LICENSE.txt is Apache License 2.0; canonical upstream of Estonian speech-recognition app
+Kõnele,platforms,,Android,,,https://github.com/Kaljurand/K6nele,live,Android app built with gradle; speech-to-text IME backed by kaldi/pocketsphinx servers
+Laravel Imageup,license,,Open source,MIT,,https://github.com/qcod/laravel-imageup,live,LICENSE.md is MIT (Mohd Saqueib Ansari); Laravel/PHP package not an installable app - no platforms row
+LayTray,license,,Open source,GPL-3.0-only,,https://gitlab.com/neothefox/LayTray,live,Raw LICENSE on canonical GitLab repo is GPL-3.0 text with no or-later grant; F-Droid tags GPL-3.0-only
+LayTray,platforms,,Android,,,http://f-droid.org/packages/space.neothefox.laytray/,live,Android keyboard-layout indicator (accessibility service); distributed via F-Droid
+LeanType,license,,Open source,GPL-3.0-only,,https://github.com/LeanBitLab/LeanType,live,Raw LICENSE is GPL-3.0 text; upstream README states GPL-3.0 with no or-later grant; GitHub license API reports GPL-3.0
+LeanType,platforms,,Android,,,https://github.com/LeanBitLab/LeanType,live,Android keyboard (InputMethodService) per repo docs; distributed via GitHub releases
+Let Me Downgrade,license,,Open source,AGPL-3.0-only,,https://github.com/DavidBerdik/Let-Me-Downgrade,live,Raw LICENSE is AGPL-3.0 text with no or-later grant; fdroiddata metadata tags AGPL-3.0-only
+Let Me Downgrade,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.berdik.letmedowngrade,live,Xposed/LSPosed module for Android 12 through 17; on Play Store and F-Droid
+Libadwaita 1 Examples,license,,Open source,LGPL-2.1+,,https://gitlab.gnome.org/GNOME/libadwaita,live,"Demo/example package of the libadwaita GNOME library; upstream README states the library is licensed LGPL-2.1+; library/demo package, no end-user platforms row"
+Libre Sprite,license,,Open source,GPL-2.0-only,,https://github.com/LibreSprite/LibreSprite,live,"Fork of Aseprite at its last GPL-2.0-covered commit; raw LICENSE.txt is GPL v2 text with no or-later grant; canonical README states distributed under GPL Version 2; later Aseprite versions moved to a proprietary EULA, this fork is independent"
+Libre Sprite,platforms,,"Linux, macOS, Windows, Android",,,https://github.com/LibreSprite/LibreSprite,live,"Canonical README: releases for Linux, MacOS, Windows or Android"
+LibreFind - Find FOSS Alternatives,license,,Open source,GPL-3.0-or-later,,https://github.com/jksalcedo/librefind,live,Canonical README explicitly grants GPL-3.0-or-later; raw LICENSE is GPL-3.0 text; F-Droid still tags MIT (stale label)
+LibreFind - Find FOSS Alternatives,platforms,,Android,,,https://f-droid.org/packages/com.jksalcedo.librefind/,live,Android app that scans installed packages to find proprietary apps and suggest FOSS alternatives; on F-Droid
+Libretorrent,license,,Open source,GPL-3.0-or-later,,https://gitlab.com/proninyaroslav/libretorrent,live,"Raw LICENSE.md is GPL-3.0 text; fdroiddata tags GPL-3.0-or-later; GitHub copies are mirrors/forks, canonical is GitLab"
+Libretorrent,platforms,,Android,,,https://gitlab.com/proninyaroslav/libretorrent,live,Android torrent client; F-Droid-listed package org.proninyaroslav.libretorrent
+Lichess Bot,license,,Open source,AGPL-3.0-or-later,,https://github.com/lichess-bot-devs/lichess-bot,live,Canonical README: licensed under AGPLv3 (or any later version at your option); raw LICENSE is AGPL-3.0 text
+Lichess Bot,platforms,,"Windows, macOS, Linux",,,https://github.com/lichess-bot-devs/lichess-bot,live,"Python bot framework; canonical README: runs on Windows, Linux and MacOS (plus Docker)"
+LightkeeperRM,license,,Open source,GPL-3.0-only,,https://github.com/kalaksi/lightkeeper,live,README states GNU General Public License 3 with no or-later grant; raw LICENSE is GPL-3 text
+LightkeeperRM,platforms,,Linux,,,https://flathub.org/en/apps/io.github.kalaksi.Lightkeeper,live,Published as Flatpak on Flathub
+Limbo x86 PC Emulator,license,,Open source,GPL-2.0-only,,https://github.com/limboemu/limbo,live,Raw COPYING is GPL-2 text; only or-later hits are unfilled FSF boilerplate (not a grant); F-Droid or-later tag overruled
+Limbo x86 PC Emulator,platforms,,Android,,,http://f-droid.org/packages/com.limbo.emu.main/,live,F-Droid listing for package com.limbo.emu.main
+Linux Theme Store,license,,Open source,GPL-3.0-or-later,,https://github.com/debasish-patra-1987/linuxthemestore,live,Canonical upstream (sabamdarif and generalkaos666 are forks); README declares GPL3+; raw LICENSE is GPL-3 text
+Linux Theme Store,platforms,,"Linux, Android",,,https://github.com/debasish-patra-1987/linuxthemestore,live,Desktop app for GNOME/GTK theme management; changelog notes Termux (Android) build support
+LinxShare,license,,Open source,WTFPL,,https://github.com/iksteen/LinxShare,live,Raw LICENSE is Do What The Fuck You Want To Public License v2 (WTFPL)
+LinxShare,platforms,,Android,,,https://play.google.com/store/apps/details?id=org.thegraveyard.linxshare,live,Unofficial Android client for linx-server; source repo iksteen/LinxShare
+Lite Speed Test,license,,Open source,GPL-3.0-only,,https://github.com/xxf098/LiteSpeedTest,live,Canonical upstream not a fork; raw LICENSE is GPL-3 text with no or-later grant
+Lite Speed Test,platforms,,"Linux, macOS",,,https://github.com/xxf098/LiteSpeedTest,live,GitHub release assets include linux and darwin (macOS) builds; also a freebsd-arm64 asset
+LNCTU Attendance,license,,Open source,Apache-2.0,,https://github.com/utkarshgupta188/lnctu-app,live,Raw LICENSE is Apache License 2.0 text
+LNCTU Attendance,platforms,,Android,,,https://github.com/utkarshgupta188/lnctu-app,live,Jetpack Compose Android app; listed on F-Droid under Internet
+Lobjur,license,,Open source,GPL-3.0-only,,https://github.com/ranfdev/lobjur,live,Raw LICENSE is GPL-3 text with no or-later grant; repo is not a fork
+Lobjur,platforms,,Linux,,,https://flathub.org/apps/details/com.ranfdev.Lobjur,live,GTK4 GNOME client distributed as Flatpak on Flathub
+Lock IME,license,,Open source,GPL-3.0-only,,https://github.com/oomol-lab/LockIME,live,"Raw LICENSE audited 2026-10-11: verbatim GPL-3.0 text; README badge ""GPL-3.0"" (not -or-later); no ""or later"" grant found; unfilled FSF appendix boilerplate not a grant; canonical oomol-lab/LockIME (forks crazyforks/anyshift/gofa67 mirror it)"
+Lock IME,platforms,,macOS,,,https://github.com/oomol-lab/LockIME,live,"macOS 14+ menu-bar app, Apple silicon & Intel; per README"
+Logcat Reader,license,,Open source,MIT,,https://github.com/darshanparajuli/LogcatReader,live,"Raw LICENSE audited 2026-10-11: MIT License, copyright 2017 Darshan Parajuli; canonical repo (Play listing + F-Droid package com.dp.logcatapp both point here; no torrua/LogcatReader found on GitHub)"
+Logcat Reader,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.dp.logcatapp,live,Play Store listing package com.dp.logcatapp; same app on F-Droid
+Lolra,platforms,,Embedded MCU firmware,,,https://github.com/cnlohr/lolra,live,"ESP8266/ESP32-S2/CH32V003 firmware project (Transmit LoRa Frames Without a Radio); no license row: per-file dual licensing (MIT for most files, AI-training-restricted terms for RF files), no single badge fits"
+Lorem,platforms,,Android,,,https://github.com/ishalyminov/lorem,live,"Location Reminder Android app; no license row: repo has no LICENSE file and README license section is informal (""as-is for educational purposes""), so no badge fits"
+Luakit,license,,Open source,GPL-3.0-or-later,,https://github.com/luakit/luakit,live,"Explicit grant in luakit.c header: ""either version 3 of the License, or (at your option) any later version""; license text in COPYING.GPLv3; canonical repo (default branch develop)"
+Luakit,platforms,,"Linux, BSD",,,https://github.com/luakit/luakit,live,WebKit/GTK browser framework; README lists Linux distro and FreeBSD/OpenBSD packages
+LukeLauncher,platforms,,Android,,,https://lukelauncher.de,live,"Open-source Android home-screen replacement per official site; no license row: upstream source on GitLab (outside whitelisted sources), no whitelisted source states the license"
+Lunar Launcher,license,,Open source,GPL-3.0-only,,https://github.com/iamrasel/lunar-launcher,live,"Raw LICENSE audited 2026-10-11: verbatim GPL-3.0 text; README badge ""License-GPL v3""; no ""or later"" grant located; recorded -only per never-assume rule"
+Lunar Launcher,platforms,,Android,,,https://github.com/iamrasel/lunar-launcher,live,Android home screen replacement; repo README carries Android badge and fastlane android metadata; F-Droid package rasel.lunar.launcher
+Lxqt Archiver,license,,Open source,GPL-2.0-or-later,,https://github.com/lxqt/lxqt-archiver,live,"LICENSE file is verbatim GPL-2.0 text; explicit grant in src/main.cpp: ""either version 2 of the License, or (at your option) any later version"" (Engrampa-derived block)"
+Lxqt Archiver,platforms,,Linux,,,https://github.com/lxqt/lxqt-archiver,live,"Qt file archiver, front-end to tar/zip; LXQt desktop component per README"
+Mac Packer,license,,Open source,GPL-3.0-only,,https://github.com/sarensw/MacPacker,live,"Raw LICENSE audited 2026-10-11: verbatim GPL-3.0 text; README license section ""GNU General Public License v3.0"" (not -or-later); no ""or later"" grant found"
+Mac Packer,platforms,,macOS,,,https://github.com/sarensw/MacPacker,live,Archive manager; README badge macOS 14.6+; also on Mac App Store (id6473273874)
