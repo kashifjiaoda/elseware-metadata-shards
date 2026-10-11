@@ -1,0 +1,91 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+majica～電子マネー公式アプリ～,license,,Proprietary — free,,,https://apps.apple.com/jp/app/majica-%E9%9B%BB%E5%AD%90%E3%83%9E%E3%83%8D%E3%83%BC%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id1001883210?uo=4,live,App Store JP: PAN PACIFIC INTERNATIONAL HOLDINGS CORPORATION (Don Quijote group e-money); price 無料; no open-source license stated
+majica～電子マネー公式アプリ～,platforms,,iOS,,,https://apps.apple.com/jp/app/majica-%E9%9B%BB%E5%AD%90%E3%83%9E%E3%83%8D%E3%83%BC%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id1001883210?uo=4,live,App Store JP listing is iOS (iPhone/iPad)
+Materials Live Wallpaper,license,,Open source,GPL-3.0,,https://f-droid.org/packages/com.reminimalism.materialslivewallpaper/,live,F-Droid listing; GitHub API spdx_id GPL-3.0 on Reminimalism/MaterialsLiveWallpaper
+Materials Live Wallpaper,platforms,,Android,,,https://f-droid.org/packages/com.reminimalism.materialslivewallpaper/,live,F-Droid + Play Store Android app (package com.reminimalism.materialslivewallpaper)
+MicroPinner,license,,Open source,WTFPL,,https://f-droid.org/packages/de.dotwee.micropinner/,live,F-Droid: Do What The F*ck You Want To Public License; GitHub API spdx_id WTFPL on dotWee/MicroPinner
+MicroPinner,platforms,,Android,,,https://f-droid.org/packages/de.dotwee.micropinner/,live,Android app (package de.dotwee.micropinner); statusbar pinning
+Mojave Themes for Snaps,license,,Open source,GPL-3.0,,https://snapcraft.io/mojave-themes,live,Snap Store details: License GPL-3.0; packaged from vinceliuice Mojave-gtk-theme repos
+Mojave Themes for Snaps,platforms,,Linux,,,https://snapcraft.io/mojave-themes,live,Snap package (mojave-themes) providing GTK/icon themes on Linux desktops
+Muzei Pixiv Source,license,,Open source,MIT,,https://github.com/james58899/MuzeiPixivSource,live,GitHub API spdx_id MIT on james58899/MuzeiPixivSource
+Muzei Pixiv Source,platforms,,Android,,,https://github.com/james58899/MuzeiPixivSource,live,Android Muzei wallpaper source (package one.oktw.muzeipixivsource)
+NASA APOD for Muzei,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/com.example.muzei.muzeiapod,live,F-Droid repo listing GPL-3.0-or-later; GitHub API spdx_id GPL-3.0 on igoralmeida/muzei-apod
+NASA APOD for Muzei,platforms,,Android,,,https://f-droid.org/packages/com.example.muzei.muzeiapod,live,Android Muzei plugin (package com.example.muzei.muzeiapod)
+Nebula HDR screensaver,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.jordanadema.nebula/,live,F-Droid: GNU General Public License v3.0 only; repo jordanade/nebula
+Nebula HDR screensaver,platforms,,Android,,,https://f-droid.org/packages/com.jordanadema.nebula/,live,Android screensaver (package com.jordanadema.nebula); optimized for NVIDIA Shield/HDR displays
+Night Mode Enabler,license,,Open source,Apache-2.0,,https://f-droid.org/packages/org.michaelevans.nightmodeenabler/,live,F-Droid: Apache License 2.0
+Night Mode Enabler,platforms,,Android,,,https://f-droid.org/packages/org.michaelevans.nightmodeenabler/,live,Android 7.0+ night mode quick tile (package org.michaelevans.nightmodeenabler)
+Nyan,license,,Source-available,Apache-2.0 code; bundled music CC-BY-NC-3.0,,https://f-droid.org/packages/com.powerje.nyan/,live,F-Droid: code Apache-2.0 but bundled music CC-BY-NC-3.0 with NonFreeAssets antif feature; NC restriction per playbook
+Nyan,platforms,,Android,,,https://f-droid.org/packages/com.powerje.nyan/,live,Android live wallpaper (package com.powerje.nyan; repo powerje/NyanDroid)
+Orchis Themes for Snaps,license,,Open source,GPL-3.0,,https://snapcraft.io/orchis-themes,live,Snap Store details page: License GPL-3.0; packaged from vinceliuice/Orchis-theme
+Orchis Themes for Snaps,platforms,,Linux,,,https://snapcraft.io/orchis-themes,live,GTK themes snap for Linux snapped applications
+papirus-extra-folders,license,,Open source,GPL-3.0-or-later,,https://snapcraft.io/papirus-extra-folders,live,Snap Store details page: License GPL-3.0-or-later; source github.com/Kyuyrii/Papirus-extra-folders
+papirus-extra-folders,platforms,,Linux,,,https://snapcraft.io/papirus-extra-folders,live,Icon-theme snap for Linux; Snap Store distribution
+Pkg2appimage,license,,Open source,MIT,,https://github.com/AppImageCommunity/pkg2appimage,live,GitHub API spdx_id MIT on AppImageCommunity/pkg2appimage (moved from AppImage/pkg2appimage)
+Pkg2appimage,platforms,,Linux,,,https://github.com/AppImageCommunity/pkg2appimage,live,Tool converting deb packages to AppImage (deb implies Linux)
+Qadaa,license,,Open source,MIT,,https://f-droid.org/en/packages/com.hassaneltantawy.qadaa/,live,F-Droid listing: License MIT License; missed-prayers tracker
+Qadaa,platforms,,Android,,,https://f-droid.org/en/packages/com.hassaneltantawy.qadaa/,live,"F-Droid Android app (arm64-v8a, armeabi-v7a, x86_64; Android 7.0+)"
+Recipe Sage,license,,Open source,AGPL-3.0,,https://github.com/JulianPoy/RecipeSage,live,"README: dual-licensed; AGPL-3.0 for non-commercial usage, commercial license on request"
+Recipe Sage,platforms,,Web,,,https://github.com/JulianPoy/RecipeSage,live,Collaborative recipe keeper in PWA form (repo description)
+Rossmann,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=de.rossmann.app.android,live,Google Play: Rossmann - Coupons & Angebote by Dirk Rossmann GmbH
+Rossmann,platforms,,Android,,,https://play.google.com/store/apps/details?id=de.rossmann.app.android,live,Google Play Android listing
+SpeedX - Realtime internet speed monitor,license,,Open source,MIT,,https://snapcraft.io/speedx,live,Snap Store details page: License MIT; source code github.com/rishabh3354/SPEEDX
+SpeedX - Realtime internet speed monitor,platforms,,Linux,,,https://snapcraft.io/speedx,live,"Linux system monitor snap (CPU, RAM, network speed)"
+Trianglify Wallpaper,license,,Open source,GPL-3.0,,https://github.com/VictorioBerra/trianglify-desktop-wallpaper,live,GitHub API spdx_id GPL-3.0 on VictorioBerra/trianglify-desktop-wallpaper
+Trianglify Wallpaper,platforms,,Linux,,,https://github.com/VictorioBerra/trianglify-desktop-wallpaper,live,Distributed as Snap (snapcraft.io/triangle-wallpaper); Linux desktop app
+uWidgets,license,,Source-available,CC BY-NC-SA 4.0 (LICENSE.txt on beta branch; non-commercial restriction),Windows,https://github.com/creewick/uWidgets,live,README confirms CC BY-NC-SA 4.0 license badge and Windows 8.1+ requirement; non-commercial → Source-available
+uWidgets,platforms,,Windows,,,https://github.com/creewick/uWidgets,live,README system requirements: Windows 8.1 or later
+Widgetsmith,license,,Proprietary — freemium,,,https://apps.apple.com/us/app/widgetsmith/id1523682319,live,App Store: Free with In-App Purchases; optional Widgetsmith Premium monthly/annual subscription
+Widgetsmith,platforms,,iOS,,,https://apps.apple.com/us/app/widgetsmith/id1523682319,live,"App Store: iPhone, iPad (also Mac Apple silicon, Apple Vision)"
+コメダ珈琲店,license,,Proprietary — free,,,https://apps.apple.com/jp/search?term=コメダ珈琲店,live,"App Store JP id1667214457: KOMEDA CO.,LTD., free; no open-source license stated"
+コメダ珈琲店,platforms,,iOS,,,https://apps.apple.com/jp/search?term=コメダ珈琲店,live,App Store JP listing
+タイミー | すぐに働ける単発アルバイトが見つかる求人アプリ,license,,Proprietary — free,,,https://apps.apple.com/jp/app/id1409383333,live,"App Store JP id1409383333: Timee, inc., free; no open-source license stated"
+タイミー | すぐに働ける単発アルバイトが見つかる求人アプリ,platforms,,iOS,,,https://apps.apple.com/jp/app/id1409383333,live,App Store JP listing
+マクドナルド,license,,Proprietary — free,,,https://apps.apple.com/jp/search?term=マクドナルド,live,"App Store JP id413618155: McDonald's JAPAN, free; no open-source license stated"
+マクドナルド,platforms,,iOS,,,https://apps.apple.com/jp/search?term=マクドナルド,live,App Store JP listing
+교촌치킨,license,,Proprietary — free,,,https://apps.apple.com/kr/search?term=교촌치킨,live,"App Store KR id1540029579: KYOCHON F&B CO., LTD, free; no open-source license stated"
+교촌치킨,platforms,,iOS,,,https://apps.apple.com/kr/search?term=교촌치킨,live,App Store KR listing
+맥도날드,license,,Proprietary — free,,,https://apps.apple.com/kr/search?term=맥도날드,live,"App Store KR id1217507712: McDonald's Global Markets LLC, free; no open-source license stated"
+맥도날드,platforms,,iOS,,,https://apps.apple.com/kr/search?term=맥도날드,live,App Store KR listing
+월드클래스,license,,Proprietary — free,,,https://apps.apple.com/kr/search?term=월드클래스,live,"App Store KR id6479704195: Bigpicture Interactive Co.,Ltd., free; no open-source license stated"
+월드클래스,platforms,,iOS,,,https://apps.apple.com/kr/search?term=월드클래스,live,App Store KR listing
+코스트코 홀세일 코리아,license,,Proprietary — free,,iOS,https://apps.apple.com/kr/app/id1477024315,live,"App Store KR: Costco Wholesale Corporation,  무료 (free)"
+코스트코 홀세일 코리아,platforms,,iOS,,,https://apps.apple.com/kr/app/id1477024315,live,App Store KR listing (iPhone/iPad)
+투썸하트,license,,Proprietary — free,,iOS,https://apps.apple.com/kr/app/id1225957208,live,"App Store KR: A TWOSOME PLACE CO. LTD,  무료 (free)"
+투썸하트,platforms,,iOS,,,https://apps.apple.com/kr/app/id1225957208,live,App Store KR listing (iPhone)
+6sense,license,,Proprietary — paid subscription,,Web,https://6sense.com,live,B2B revenue AI platform; enterprise quote-based pricing
+6sense,platforms,,Web,,,https://6sense.com,live,"SaaS platform,  no desktop/mobile app"
+Advanced Popups,license,,Proprietary — freemium,,Web,https://wordpress.org/plugins/advanced-popups/,live,"WordPress plugin; free on wordpress.org,  PRO on advancedpopups.com"
+Advanced Popups,platforms,,Web,,,https://wordpress.org/plugins/advanced-popups/,live,WordPress plugin
+BigMarker,license,,Proprietary — paid subscription,,Web,https://www.bigmarker.com/pricing,live,"Webinar platform; paid plans,  free trial only"
+BigMarker,platforms,,Web,,,https://www.bigmarker.com/pricing,live,Browser-based webinar platform
+BoldGrid Easy SEO,license,,Proprietary — freemium,,Web,https://wordpress.org/plugins/boldgrid-easy-seo/,live,"WordPress plugin; free on wordpress.org,  premium via BoldGrid"
+BoldGrid Easy SEO,platforms,,Web,,,https://wordpress.org/plugins/boldgrid-easy-seo/,live,WordPress plugin
+Burst Statistics,license,,Open source,GPL-3.0,,https://github.com/Burst-Statistics/burst-statistics,live,GitHub API spdx_id GPL-3.0
+Burst Statistics,platforms,,Web,,,https://github.com/Burst-Statistics/burst-statistics,live,WordPress analytics plugin
+ChatBot,license,,Proprietary — paid subscription,,Web,https://www.chatbot.com/pricing/,live,Paid plans from $52/mo; 14-day free trial only
+ChatBot,platforms,,Web,,,https://www.chatbot.com/pricing/,live,SaaS chatbot builder
+Clicks.so,license,,Proprietary — paid subscription,,Web,https://clicks.so,live,"SEO/AEO tool,  $15/mo; pricing page confirmed"
+Clicks.so,platforms,,Web,,,https://clicks.so,live,Web app
+Crayon,license,,Proprietary — paid subscription,,Web,https://www.crayon.co,live,Competitive intelligence software; enterprise pricing
+Crayon,platforms,,Web,,,https://www.crayon.co,live,SaaS platform
+DebugBear,license,,Proprietary — paid subscription,Free trial then paid plans,,https://www.debugbear.com/pricing,live,Commercial SaaS; Start Free Trial CTA; no permanent free tier verifiable (pricing page JS-rendered)
+DebugBear,platforms,,Web,,,https://www.debugbear.com/pricing,live,Web-based website performance monitoring service
+Divi,license,,Proprietary — paid subscription,Yearly plans; 30-day free trial,,https://www.elegantthemes.com/pricing,live,Elegant Themes WordPress theme; commercial yearly licensing
+Divi,platforms,,Web,,,https://www.elegantthemes.com/pricing,live,WordPress theme (runs on WordPress websites)
+Email Subscribers,license,,Open source,GPL-3.0 (free version); paid Pro plans,,https://wordpress.org/plugins/email-subscribers/,live,Freemium model: free core GPLv3 per official WP SVN readme; commercial Pro add-on by Icegram
+Email Subscribers,platforms,,Web,,,https://wordpress.org/plugins/email-subscribers/,live,WordPress plugin (Icegram)
+FluentSMTP,license,,Open source,GPL-2.0-or-later,,https://wordpress.org/plugins/fluent-smtp/,live,"License: GPLv2 or later per official WP SVN readme.txt; 100% free, no Pro version"
+FluentSMTP,platforms,,Web,,,https://wordpress.org/plugins/fluent-smtp/,live,WordPress SMTP plugin (WPManageNinja)
+Google Ads,license,,Proprietary — free,Free to use,,https://ads.google.com/,live,Google advertising platform; free to sign up (ad spend separate)
+Google Ads,platforms,,Web,,,https://ads.google.com/,live,Web service (ads.google.com)
+Google Trends,license,,Proprietary — free,Free to use,,https://trends.google.com/,live,Google search-trend analytics tool; free
+Google Trends,platforms,,Web,,,https://trends.google.com/,live,Web service (trends.google.com)
+GTM4WP,license,,Open source,GPL-3.0,,https://github.com/duracelltomi/gtm4wp,live,GitHub API spdx_id GPL-3.0 on duracelltomi/gtm4wp
+GTM4WP,platforms,,Web,,,https://github.com/duracelltomi/gtm4wp,live,WordPress plugin (Google Tag Manager for WordPress)
+Inspectlet,license,,Proprietary — freemium,Free plan; paid upgrades,,https://www.inspectlet.com/plans,live,Session replay/heatmaps; free tier with upgrade-anytime paid plans
+Inspectlet,platforms,,Web,,,https://www.inspectlet.com/plans,live,Web-based analytics service
+Kajabi,license,,Proprietary — paid subscription,Basic Monthly/Annual plans,,https://kajabi.com/pricing,live,"Online course/business platform; published paid plans, no free tier"
+Kajabi,platforms,,Web,,,https://kajabi.com/pricing,live,Web-based SaaS platform
+Klue,license,,Proprietary — paid subscription,Enterprise B2B; demo-based sales,,https://klue.com/,live,"Competitive intelligence SaaS; Get a Demo CTA, no public pricing or free tier"
+Klue,platforms,,Web,,,https://klue.com/,live,Web-based enterprise SaaS
