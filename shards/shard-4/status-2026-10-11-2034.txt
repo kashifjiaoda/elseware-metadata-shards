@@ -1,0 +1,1 @@
+Batch 53 — 2026-10-11-2034 PKT: 65 rows (38 apps verified, 12 skipped), assembled from 5 chunks, assembler spot-checks confirmed 3/3 (Pinvou MIT, Pantry Tracker Source-available NC, Policycoreutils GUI GPL-2.0-or-later), pushed to expansion/shard-4/ as elseware-metadata-corrections-expansion-shard4-2026-10-11-batch53.csv.
