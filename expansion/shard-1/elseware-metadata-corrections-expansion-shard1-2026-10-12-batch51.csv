@@ -1,0 +1,59 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Mac SVG,license,,Open source,MIT per LICENSE in dsward2/macSVG,,https://raw.githubusercontent.com/dsward2/macSVG/master/LICENSE,live,
+Mac SVG,platforms,,,,macOS,https://github.com/dsward2/macSVG,live,Repo description: macOS SVG art/animation app
+Macvim,platforms,,,,macOS,https://macvim.org,live,"Site: Vim - the text editor - for macOS, requires macOS 10.13+. License is Vim License; SPDX license-list data marks it isOsiApproved=False (FSF-libre), so no Open-source badge per batch taxonomy"
+Mainsail OS,license,,Open source,GPL-3.0 per LICENSE in mainsail-crew/mainsail,,https://raw.githubusercontent.com/mainsail-crew/mainsail/develop/LICENSE,live,
+Mainsail OS,platforms,,,,Web,https://github.com/mainsail-crew/mainsail,live,Repo description: web interface for managing and controlling 3D printers (web UI — not firmware)
+Malarm,license,,Open source,MIT per LICENSE in adriablo/malarm,,https://raw.githubusercontent.com/adriablo/malarm/main/LICENSE,live,
+Malarm,platforms,,,,Android,https://github.com/adriablo/malarm,live,Repo description: flexible no-frills alarm scheduler for Android
+Manyfold,license,,Open source,AGPL-3.0 per LICENSE.md in manyfold3d/manyfold,,https://raw.githubusercontent.com/manyfold3d/manyfold/main/LICENSE.md,live,
+Manyfold,platforms,,,,Web,https://raw.githubusercontent.com/manyfold3d/manyfold/main/README.md,live,README: open source self-hosted web application for managing 3d print files
+Material Files,license,,Open source,GPL-3.0 per LICENSE in zhanghai/MaterialFiles,,https://raw.githubusercontent.com/zhanghai/MaterialFiles/master/LICENSE,live,
+Material Files,platforms,,,,Android,https://github.com/zhanghai/MaterialFiles,live,Repo description: Material Design file manager for Android (Play ID me.zhanghai.android.files)
+Maxun,license,,Open source,AGPL-3.0 per LICENSE in getmaxun/maxun,,https://raw.githubusercontent.com/getmaxun/maxun/develop/LICENSE,live,"Identity: official repo getmaxun/maxun (maxun.dev); no-code web data extraction platform with visual UI — end-user app, not CLI-only"
+Maxun,platforms,,Web,,Web,https://raw.githubusercontent.com/getmaxun/maxun/develop/README.md,live,README: hosted version at app.maxun.dev (build/run/robots through visual dashboard); also self-hostable via Docker or local install
+Mediaconch GUI,license,,Open source,BSD-2-Clause per LICENSE in MediaArea/MediaConch_SourceCode,,https://raw.githubusercontent.com/MediaArea/MediaConch_SourceCode/master/LICENSE,live,"Identity: official MediaArea GUI source-code repo (PREFORMA project, mediaarea.net). Note: project README also declares GPL-3.0/MPL-2.0; both are OSI-approved, LICENSE file takes precedence"
+Mediaconch GUI,platforms,,"Windows, macOS, Linux",,"Windows, macOS, Linux",https://raw.githubusercontent.com/MediaArea/MediaConch/master/README.md,live,"Official project README lists: MS Windows, macOS, Linux (Ubuntu, Fedora, Debian, Suse)"
+Memreduct,license,,Open source,GPL-3.0 per LICENSE in henrypp/memreduct,,https://raw.githubusercontent.com/henrypp/memreduct/master/LICENSE,live,Identity: official repo henrypp/memreduct (Henry++); Windows real-time memory management utility
+Memreduct,platforms,,Windows,,Windows,https://raw.githubusercontent.com/henrypp/memreduct/master/README.md,live,"README: compatible with Windows 7 SP1 and higher (Windows 7, 8, 8.1, 10, 11 64-bit/ARM64)"
+MetaGer: Search & Browser,license,,Open source,AGPL-3.0-only per F-Droid listing (app source at gitlab.metager.de),,https://f-droid.org/en/packages/de.metager.metagerapp.fdroid/,live,Identity: official MetaGer browser by SUMA-EV (German nonprofit); F-Droid states the app source code is free (AGPL-3.0).
+MetaGer: Search & Browser,platforms,,,,Android,https://f-droid.org/en/packages/de.metager.metagerapp.fdroid/,live,F-Droid listing requires Android 7.0 or newer; Play Store package de.metager.metagerapp.
+Microsoft PC Manager,platforms,,,,Windows,https://pcmanager.microsoft.com/en-us,live,"Official Microsoft product page describes a Windows PC utility (Boost your PC, Windows tools); license not stated on the fetched page, so no license row emitted."
+Millisecond,license,,Open source,GPL-3.0 per raw COPYING in gaheldev/Millisecond,,https://raw.githubusercontent.com/gaheldev/Millisecond/main/COPYING,live,Identity: gaheldev's Linux low-latency audio optimizer (gtk app based on rtcqs); disambiguated from Millisecond Software (Inquisit).
+Millisecond,platforms,,,,Linux,https://flathub.org/apps/details/io.github.gaheldev.Millisecond,live,Flathub: Install Millisecond on Linux; repo also offers Ubuntu deb.
+Mini Text,license,,Open source,GPL-3.0 per COPYING in lruzicka/mini-text,,https://github.com/lruzicka/mini-text/blob/master/COPYING,live,Identity: lruzicka's GNOME scratch-pad app; disambiguated from iOS Mini Text editor and MiniText 0.94 (Windows/Pocket PC).
+Mini Text,platforms,,,,Linux,https://flathub.org/apps/details/io.github.nokse22.minitext,live,Flathub: Install Mini Text on Linux; also on Snap Store.
+MinkLauncher OpenSource,license,,Open source,Apache-2.0 per raw LICENSE in katoaapps/openminilaunch,,https://raw.githubusercontent.com/katoaapps/openminilaunch/main/LICENSE,live,Repo H1 is MinkLauncher OpenSource; TERMS.md confirms the open-source edition is Apache-2.0.
+MinkLauncher OpenSource,platforms,,,,Android,https://github.com/katoaapps/openminilaunch/blob/HEAD/README.md,live,"README: focused, keyboard-first Android home-screen launcher; distributed as GitHub APK and via F-Droid."
+Mirror Hall,license,,Open source,GPL-3.0 per raw COPYING in r/mirrorhall (default branch master),,https://gitlab.gnome.org/r/mirrorhall/-/raw/master/COPYING,live,GNOME GitLab repo r/mirrorhall (virtual second-monitor app by Raffaele T.).
+Mirror Hall,platforms,,,,Linux,https://flathub.org/kab/apps/eu.nokun.MirrorHall,live,Flathub: Install Mirror Hall on Linux; designed for Linux desktop and mobile devices.
+Mixxx,license,,Open source,GPL-2.0-or-later per raw LICENSE in mixxxdj/mixxx; also stated on mixxx.org/download,,https://raw.githubusercontent.com/mixxxdj/mixxx/main/LICENSE,live,mixxx.org/download states the source code is published under the GNU GPL v2 or later.
+Mixxx,platforms,,,,"Windows, macOS, Linux",https://mixxx.org/download/,live,"mixxx.org/download: 'Mixxx is available for Windows, macOS, and Linux.'"
+MMRL,license,,Open source,GPL-3.0 per LICENSE in MMRLApp/MMRL,,https://github.com/MMRLApp/MMRL,live,Magisk/KernelSU module manager (Magisk Module Repo Loader)
+MMRL,platforms,,Android,,Android,https://github.com/MMRLApp/MMRL,live,Android app; repo README shows Android features and fastlane android metadata
+MobiloSignal,license,,Open source,GPL-3.0 per License in Eb43/phonesignalstrength (package barilyuk.mobilosignal),,https://github.com/Eb43/phonesignalstrength/blob/main/License,live,Cellular signal strength viewer
+MobiloSignal,platforms,,Android,,Android,https://github.com/Eb43/phonesignalstrength/blob/HEAD/README.md,live,Min Android 8; APK distributed for Android
+Mole,license,,Proprietary — paid,$19 USD one-time license for two Macs with no subscription and free updates per official docs (tw93/mole-app README),,https://github.com/tw93/mole-app,live,Mole for Mac / Mole for Windows native desktop apps; CLI is separately free and open source
+Mole,platforms,,"macOS, Windows",,"macOS, Windows",https://github.com/tw93/mole-app,live,Mole for Mac: macOS 14+; Mole for Windows: Windows 10 22H2 / Windows 11
+Monitorets,license,,Open source,GPL-3.0 per COPYING in jorchube/monitorets,,https://github.com/jorchube/monitorets/blob/master/COPYING,live,Linux system resource monitor applet
+Monitorets,platforms,,Linux,,Linux,https://flathub.org/apps/details/io.github.jorchube.monitorets,live,Distributed via Flathub (Linux)
+Moosefs,license,,Open source,GPL-2.0 per COPYING in moosefs/moosefs; official download page states 'Open source under GPLv2 — free forever',,https://moosefs.com/download,live,Distributed fault-tolerant filesystem
+Moosefs,platforms,,"Linux, FreeBSD, macOS",,"Linux, FreeBSD, macOS",https://moosefs.com/download,live,Binary packages for Linux FreeBSD and macOS per official download page
+Motrix Webextension,license,,Open source,GPL-3.0 per LICENSE in gautamkrishnar/motrix-webextension,,https://github.com/gautamkrishnar/motrix-webextension,live,Browser extension that routes downloads to the Motrix download manager
+Motrix Webextension,platforms,,"Chrome, Edge, Opera, Firefox",,"Chrome, Edge, Opera, Firefox",https://github.com/gautamkrishnar/motrix-webextension,live,Installing sections list Chrome / Opera / Edge and Firefox builds
+Mouser,license,,Proprietary — free,Free app per Play Store listing (Mouser Electronics proprietary shopping app),,https://play.google.com/store/apps/details?id=com.mouser.mouserApplication&hl=en_IN,live,Official Mouser Electronics component shopping app
+Mouser,platforms,,Android,,Android,https://play.google.com/store/apps/details?id=com.mouser.mouserApplication&hl=en_IN,live,Google Play listing
+Mqtt Multimeter,license,,Open source,MIT per LICENSE in chkr1011/MQTTnetApp,,https://raw.githubusercontent.com/chkr1011/MQTTnetApp/main/LICENSE,live,MQTT testing/analysis app (MQTTnetApp alias)
+Mqtt Multimeter,platforms,,,,"Windows, macOS, Linux",https://github.com/chkr1011/MQTTnetApp,live,README OS support table (also Raspberry Pi OS)
+Mugshot,license,,Open source,GPL-3.0 per COPYING in bluesabre/mugshot,,https://raw.githubusercontent.com/bluesabre/mugshot/master/COPYING,live,Sean Davis (bluesabre) user-config utility
+Mugshot,platforms,,,,Linux,https://bluesabre.github.io,live,Author's page describes it as a utility for Linux
+Multica,license,,Source-available,Custom Multica License: Apache-2.0 + hosted-service/branding restrictions per LICENSE in multica-ai/multica,,https://raw.githubusercontent.com/multica-ai/multica/main/LICENSE,live,AI-agent workspace by multica-ai; not OSI-approved (SaaS use restricted without commercial license)
+Multica,platforms,,,,"Web, Windows, macOS, Linux",https://raw.githubusercontent.com/multica-ai/multica/main/apps/docs/content/docs/desktop-app.mdx,live,Official docs: Desktop for macOS/Windows/Linux plus web app
+MusicBrainz Picard,license,,Open source,GPL-2.0 per COPYING.txt in metabrainz/picard,,https://raw.githubusercontent.com/metabrainz/picard/master/COPYING.txt,live,Official music tagger (picard.musicbrainz.org)
+MusicBrainz Picard,platforms,,,,"Windows, macOS, Linux",https://picard.musicbrainz.org/downloads/,live,Official download page lists all three platforms
+My Leaf,license,,Open source,MIT per GitHub license record for Tobiaswk/carwingsflutter,,https://github.com/Tobiaswk/carwingsflutter,live,NissanConnect alternative app (mirror of official GitLab repo)
+My Leaf,platforms,,,,"Android, iOS",https://github.com/Tobiaswk/carwingsflutter,live,"README: on Google Play, App Store, F-Droid"
+Mygeo,license,,Open source,GPL-3.0-or-later per F-Droid listing,,https://f-droid.org/packages/org.calantas.mygeo/,live,Geo-location share app (org.calantas.mygeo)
+Mygeo,platforms,,,,Android,https://f-droid.org/packages/org.calantas.mygeo/,live,F-Droid APK listing
+Nagstamon,license,,Open source,GPL-2.0 per LICENSE in HenriWahl/nagstamon,,https://raw.githubusercontent.com/HenriWahl/nagstamon/master/LICENSE,live,Nagios status monitor
+Nagstamon,platforms,,,,"Windows, macOS, Linux",https://nagstamon.de/download,live,Chocolatey/Winget (Windows); Homebrew (macOS); Debian/Fedora/RHEL/Flatpak (Linux)
