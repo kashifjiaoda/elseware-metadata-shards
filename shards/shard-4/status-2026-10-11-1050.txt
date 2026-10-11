@@ -1,0 +1,10 @@
+Shard 4 Phase-2 batch 19 COMPLETE (Shard 2 takeover, apps.md lines 907-956).
+81 rows pushed: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch19.csv.
+41 of 50 apps verified (40 license rows, 41 platform rows). 9 skipped with reason:
+Jogger, Noir Gym, Out Run, Baby Monito, Binaural Beat, BmiCalc, Calorimeter,
+Heart Rate Monitor (ambiguous/canonical-identity issues); HydrateMe (no exact-name match).
+Schema-validated: 9 cols/row, valid badges, all live, platforms column empty on all rows,
+zero aggregator sources. Every Open source claim self-audited against raw LICENSE text.
+Notable catches: LimeLog license row dropped (README claims open source but declares no license);
+Bati MIT via raw text (GitHub detector NOASSERTION); FOSS Warn GPL-3.0-only (maintainer declined or-later).
+Next: batch 20 (apps.md lines 957-1006).
