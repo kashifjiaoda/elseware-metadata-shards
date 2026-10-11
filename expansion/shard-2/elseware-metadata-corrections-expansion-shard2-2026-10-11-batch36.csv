@@ -1,0 +1,59 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Gantt Elastic,license,,Open source,MIT license,,https://github.com/neuronetio/gantt-elastic,live,Vue.js gantt chart component library — no end-user platforms
+GDF HEMA Timer,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/com.gdf.hema_timer/,live,F-Droid lists GNU GPL v3.0 only; HEMA bout timer and scoring app
+GDF HEMA Timer,platforms,,Android; iOS,,,https://f-droid.org/en/packages/com.gdf.hema_timer/,live,F-Droid + App Store listings
+Genoffice,license,,Open source,Apache-2.0,,https://github.com/genspark-ai/genoffice,live,Open-source AI office suite; README license badge + GitHub API SPDX
+Genoffice,platforms,,Windows; macOS; Linux,,,https://github.com/genspark-ai/genoffice,live,README: open-source alternative to Microsoft Office for macOS Windows and Linux
+ghostscript-printer-app,license,,Open source,Apache-2.0,,https://github.com/OpenPrinting/ghostscript-printer-app,live,OpenPrinting Ghostscript printer application
+ghostscript-printer-app,platforms,,Linux,,,https://github.com/OpenPrinting/ghostscript-printer-app,live,Distributed as Snap
+Gnome Shell Extension Clipboard Indicator,license,,Open source,MIT,,https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator,live,GNOME clipboard manager extension
+Gnome Shell Extension Clipboard Indicator,platforms,,Linux,,,https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator,live,GNOME Shell extension
+Gobby,license,,Open source,ISC,,https://github.com/gobby/gobby,live,Collaborative editor; GitHub API SPDX ISC
+Gobby,platforms,,Windows; macOS; Linux,,,https://github.com/gobby/gobby,live,README: Microsoft Windows Linux Mac OS X and other Unix-like ones
+GoodNotes,license,,Proprietary — freemium,Free tier plus paid subscription,,https://www.goodnotes.com/pricing,live,Pricing page lists Free tier and subscription plans
+GoodNotes,platforms,,iOS; macOS,,,https://itunes.apple.com/lookup?bundleId=com.goodnotesapp.x,live,App Store supportedDevices include iPhone iPad and MacDesktop
+GPA Whiz,license,,Open source,GPL-3.0,,https://github.com/Dee-Hem/GPA-Whiz,live,README: Licensed under the GNU General Public License v3.0
+GPA Whiz,platforms,,Android,,,https://github.com/Dee-Hem/GPA-Whiz,live,README: Platform Android
+Greenclip,license,,Open source,BSD-3-Clause,,https://github.com/erebe/greenclip,live,X clipboard manager integrated with rofi
+Greenclip,platforms,,Linux,,,https://github.com/erebe/greenclip,live,X11 clipboard manager
+Gtm,license,,Open source,MIT,,https://github.com/git-time-metric/gtm,live,Terminal time tracker for Git; MIT license verified via GitHub API
+Gtm,platforms,,"Windows, macOS, Linux",,,https://github.com/git-time-metric/gtm,live,"README install section covers Mac OS X, Windows, and Linux"
+H M M,license,,Open source,GPL-3.0,,https://github.com/nadrad/h-m-m,live,Hackers Mind Map terminal tool; GPL-3.0 via GitHub API
+H M M,platforms,,"Linux, macOS",,,https://github.com/nadrad/h-m-m,live,Single PHP file; Windows not directly supported (WSL suggested in README)
+Hyper MD,license,,Open source,MIT,,https://github.com/laobubu/HyperMD,live,WYSIWYG Markdown editor component for browsers (CodeMirror); library not an end-user app
+Hyprshell,license,,Open source,MIT,,https://github.com/H3rmt/hyprshell,live,GTK4 window switcher and app launcher for Hyprland; MIT via GitHub API
+Hyprshell,platforms,,Linux,,,https://github.com/H3rmt/hyprshell,live,Requires Hyprland compositor (Linux-only); AUR and NixOS packages
+Infomaniak Euria,license,,Open source,GNU General Public License v3.0 only,"Android, iOS, Web",https://f-droid.org/packages/com.infomaniak.euria/,live,F-Droid lists GPL-3.0 only; free AI assistant by Infomaniak
+Infomaniak Euria,platforms,,"Android, iOS, Web",,,https://f-droid.org/packages/com.infomaniak.euria/,live,Android app on F-Droid; iOS app on App Store; web at euria.infomaniak.com
+IRCCloud,license,,Proprietary — freemium,Free limited plan plus Solo subscription $5/month,"Web, iOS, Android",https://blog.irccloud.com/lower-prices-and-team-accounts/,live,Official IRCCloud blog confirms $5/mo pricing and limited free accounts; service is proprietary
+IRCCloud,platforms,,"Web, iOS, Android",,,https://blog.irccloud.com/lower-prices-and-team-accounts/,live,Web client plus free apps for iOS and Android
+Just Another Workout Timer,license,,Open source,MIT,Android,https://github.com/blockbasti/just_another_workout_timer,live,README License section: Distributed under the MIT License
+Just Another Workout Timer,platforms,,Android,,,https://github.com/blockbasti/just_another_workout_timer,live,Flutter app distributed via F-Droid
+Karui ToDo,license,,Open source,GPL-3.0,Android,https://github.com/ronynn/karui,live,GitHub API spdx GPL-3.0; offline Google Tasks alternative
+Karui ToDo,platforms,,Android,,,https://github.com/ronynn/karui,live,F-Droid package io.github.ronynn.karui
+Klick'r - Smart AutoClicker,license,,Open source,GPL-2.0-or-later,Android,https://f-droid.org/packages/com.buzbuz.smartautoclicker/,live,Renamed from Smart AutoClicker (Nain57/Smart-AutoClicker)
+Klick'r - Smart AutoClicker,platforms,,Android,,,https://f-droid.org/packages/com.buzbuz.smartautoclicker/,live,
+Kolab Notes,license,,Open source,LGPL-3.0,Android,https://github.com/konradrenner/kolabnotes-android,live,Note-taking app with Kolab v3 sync
+Kolab Notes,platforms,,Android,,,https://github.com/konradrenner/kolabnotes-android,live,
+L3afpad,license,,Open source,GPL-2.0,Linux,https://github.com/stevenhoneyman/l3afpad,live,Raw COPYING verified as GNU GPL v2; Leafpad fork with GTK+ 3.x support
+L3afpad,platforms,,Linux,,,https://github.com/stevenhoneyman/l3afpad,live,
+Lbry Desktop,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/lbryio/lbry-desktop,live,Decentralized browser and wallet for LBRY
+Lbry Desktop,platforms,,"Windows, macOS, Linux",,,https://github.com/lbryio/lbry-desktop,live,
+Lemonade Server,license,,Open source,Apache-2.0,"Windows, macOS, Linux",https://github.com/lemonade-sdk/lemonade,live,Local LLM server; README: Lemonade Server installs a service connectable via OpenAI/Anthropic/Ollama APIs
+Lemonade Server,platforms,,"Windows, macOS, Linux",,,https://github.com/lemonade-sdk/lemonade,live,
+LibreNotes,license,,Open source,AGPL-3.0,"Android, Linux, Windows",https://github.com/Piliii/LibreNotes,live,README license badge AGPLv3; self-hosted E2E-encrypted notes
+LibreNotes,platforms,,"Android, Linux, Windows",,,https://github.com/Piliii/LibreNotes,live,
+Linwood Flow Nightly,license,,Open source,AGPL-3.0,"Android, Windows, Linux, Web",https://github.com/LinwoodDev/Flow,live,Nightly build channel of Linwood Flow event/time management app
+Linwood Flow Nightly,platforms,,"Android, Windows, Linux, Web",,,https://github.com/LinwoodDev/Flow,live,
+Liteparse,license,,Open source,Apache-2.0,,https://github.com/run-llama/liteparse,live,run-llama/liteparse; API spdx_id Apache-2.0; document parser library with no end-user platforms
+Lora Svc,license,,Open source,MIT,,https://github.com/PlayVoice/lora-svc,live,PlayVoice/lora-svc; API spdx_id MIT; singing voice conversion research repo with no stated end-user platforms
+Lxtask,license,,Open source,GPL-2.0,,https://github.com/lxde/lxtask,live,lxde/lxtask; API spdx_id GPL-2.0; LXDE task manager
+Lxtask,platforms,,Linux,,,https://github.com/lxde/lxtask,live,LXDE desktop task manager for Linux
+MA Openassistant,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/com.vayunmathur.openassistant/,live,F-Droid package com.vayunmathur.openassistant lists GNU GPL v3.0 only; a simple open-source local AI app
+MA Openassistant,platforms,,Android,,,https://f-droid.org/en/packages/com.vayunmathur.openassistant/,live,Android app on F-Droid
+Magpie,license,,Open source,GPL-3.0,,https://github.com/Blinue/Magpie,live,Blinue/Magpie; API spdx_id GPL-3.0; general-purpose window upscaler
+Magpie,platforms,,Windows 10/11,,,https://github.com/Blinue/Magpie,live,README describes it as a window upscaler for Windows 10 and 11
+Markdown Monster,license,,Proprietary — freemium,,,https://markdownmonster.west-wind.com/download.aspx,live,Official download page: free to download and evaluate; a paid license must be purchased for continued use
+Markdown Monster,platforms,,Windows,,,https://markdownmonster.west-wind.com/,live,Official site: The Markdown Editor for Windows
+Markwhen,license,,Open source,MIT,,https://github.com/mark-when/markwhen,live,mark-when/markwhen; API spdx_id MIT; cascading timeline from markdown-like text
+Markwhen,platforms,,Web,,,https://markwhen.com,live,Official site markwhen.com hosts the web app
