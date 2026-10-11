@@ -1,0 +1,77 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Post & DHL,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=de.dhl.paket,live,Official Deutsche Post AG postal/parcel app; free download
+Post & DHL,platforms,,Android,,,https://play.google.com/store/apps/details?id=de.dhl.paket,live,Play Store listing
+Preswald,license,,Open source,Apache-2.0,,https://github.com/StructuredLabs/preswald,live,GitHub API SPDX Apache-2.0; WASM packager for Python data apps
+ProgressBars,license,,Open source,MIT,,https://github.com/mattvchandler/ProgressBars,live,GitHub API SPDX MIT; README license badge
+ProgressBars,platforms,,Android,,,https://github.com/mattvchandler/ProgressBars,live,README: Android timer app; F-Droid + Play badges
+ps-printer-app,license,,Open source,Apache-2.0,,https://github.com/OpenPrinting/ps-printer-app,live,GitHub API SPDX Apache-2.0
+ps-printer-app,platforms,,Linux,,,https://github.com/OpenPrinting/ps-printer-app,live,Repo ships snap/ + rockcraft.yaml; Snap distribution
+Quiver Launcher,license,,Open source,MIT,,https://github.com/tgeorgiadis/quiver-launcher,live,GitHub API SPDX MIT; README license badge
+Quiver Launcher,platforms,,"Windows, Linux, Android",,,https://github.com/tgeorgiadis/quiver-launcher,live,README platform badges
+React Native Executorch,license,,Open source,MIT,,https://github.com/software-mansion/react-native-executorch,live,MIT License verified from raw LICENSE file (Software Mansion); React Native on-device AI inference library
+Remarkable,license,,Open source,MIT,,https://github.com/jamiemcg/remarkable,live,MIT License via GitHub API; markdown editor for Linux
+Remarkable,platforms,,Linux,,,https://github.com/jamiemcg/remarkable,live,
+Rnote,license,,Open source,GPL-3.0,,https://github.com/flxzt/rnote,live,GPL-3.0 via GitHub API; handwritten notes app
+Rnote,platforms,,"Linux, macOS, Windows",,,https://github.com/flxzt/rnote,live,"README: Flathub for Linux, macOS app bundle, Windows builds"
+RTranslator,license,,Open source,Apache-2.0,,https://github.com/niedev/RTranslator,live,Apache-2.0 via GitHub API; real-time translation app
+RTranslator,platforms,,Android,,,https://github.com/niedev/RTranslator,live,README: open source real-time translation app for Android
+Safeeyes,license,,Open source,GPL-3.0,,https://github.com/slgobinath/SafeEyes,live,GPL-3.0 via GitHub API; eye-strain break reminder
+Safeeyes,platforms,,Linux,,,https://github.com/slgobinath/SafeEyes,live,Linux break-reminder tool
+Seelen UI,license,,Open source,AGPL-3.0,,https://github.com/eythaann/Seelen-UI,live,AGPL-3.0 via GitHub API; customizable desktop environment
+Seelen UI,platforms,,Windows,,,https://github.com/eythaann/Seelen-UI,live,README: for Windows 10/11 (Microsoft Store)
+Shiori Bookmarks,license,,Open source,MIT,,https://github.com/go-shiori/shiori,live,MIT License via GitHub API; self-hosted bookmark manager
+Shiori Bookmarks,platforms,,Web,,,https://github.com/go-shiori/shiori,live,"Self-hosted web application (also CLI, distributed as single binary/Docker)"
+Sioyek,license,,Open source,GPL-3.0,,https://github.com/ahrm/sioyek,live,GPL-3.0 via GitHub API; PDF viewer for textbooks and research papers
+Sioyek,platforms,,"Windows, macOS, Linux",,,https://github.com/ahrm/sioyek,live,"README: installers for Windows, macOS and Linux"
+Smart Taskbar,license,,Open source,MIT,,https://github.com/ChanpleCai/SmartTaskbar,live,MIT License verified in raw LICENSE file; lightweight Windows taskbar auto-hide utility
+Smart Taskbar,platforms,,Windows,,,https://github.com/ChanpleCai/SmartTaskbar,live,Windows taskbar utility
+Sokuji,license,,Open source,AGPL-3.0,,https://github.com/kizuna-ai-lab/sokuji,live,README license badge AGPL-3.0; real-time two-way speech translation for bilingual meetings
+Sokuji,platforms,,"Windows, macOS, Linux, Web",,,https://github.com/kizuna-ai-lab/sokuji,live,cross-platform desktop and browser app; README platforms badge
+Stable Ts,license,,Open source,MIT,,https://github.com/jianfch/stable-ts,live,MIT License verified in raw LICENSE; Whisper transcription/forced-alignment Python tool
+Stemdeck,license,,Open source,Apache-2.0,,https://github.com/stemdeckapp/stemdeck,live,Apache-2.0 verified via README license badge; modern stem extraction platform for musicians
+Stemdeck,platforms,,"Windows, macOS, Linux",,,https://github.com/stemdeckapp/stemdeck,live,README download table lists Windows/macOS/Linux builds
+Sudoku Resolv,license,,Open source,Apache-2.0,,https://github.com/Haoest/SudokuResolv,live,Apache License 2.0 verified in raw LICENSE; legacy iOS sudoku solver with OCR
+Sudoku Resolv,platforms,,iOS,,,https://github.com/Haoest/SudokuResolv,live,iOS app (iTunes App Store listing)
+Surf Sense,license,,Source-available,Apache-2.0 with BSL 1.1 portion,,https://github.com/MODSetter/SurfSense,live,LICENSE: surfsense_backend/app/proprietary/ under Business Source License 1.1 -> Source-available per playbook
+Surf Sense,platforms,,"Windows, macOS, Linux",,,https://www.surfsense.com/downloads,live,desktop downloads for Windows/macOS/Linux; air-gapped NotebookLM alternative
+Swift OCR,license,,Open source,Apache-2.0,,https://github.com/NMAC427/SwiftOCR,live,"Apache-2.0; fast Swift OCR library, not an end-user app"
+Table Magic,license,,Open source,MIT,,https://github.com/guntrip/table-magic,live,MIT License verified in raw LICENSE; CSV/TSV/HTML/SQL/Markdown table converter
+Table Magic,platforms,,Web,,,http://table-magic.guntrip.co.uk/,live,hosted on GitHub Pages
+Task Explorer,license,,Open source,GPL-3.0,,https://github.com/DavidXanatos/TaskExplorer,live,GPL-3.0; powerful task manager
+Task Explorer,platforms,,"Windows, Linux",,,https://github.com/DavidXanatos/TaskExplorer,live,"README: runs on Windows and Linux (x86-64, ARM64)"
+Tasknotes,license,,Open source,MIT,,https://github.com/callumalpass/tasknotes,live,"MIT; Obsidian task and time-tracking plugin, not an end-user app"
+Telegram Desktop - Unofficial Asahi only,license,,Open source,GPL-3.0,,https://snapcraft.io/telegram-asahi,live,Unofficial rebuild of telegramdesktop/tdesktop for Asahi Linux; Snap Store declares GPL-3.0
+Telegram Desktop - Unofficial Asahi only,platforms,,Linux,,,https://snapcraft.io/telegram-asahi,live,Snap package; arm64 build for Asahi Linux
+Tesserocr,license,,Open source,MIT,,https://github.com/sirfz/tesserocr,live,Python wrapper for the tesseract-ocr API; license row only (library)
+Textarea,license,,Open source,MIT,,https://github.com/antonmedv/textarea,live,Minimalist text editor that lives in the browser URL
+Textarea,platforms,,Web,,,https://github.com/antonmedv/textarea,live,Runs at textarea.my; pure client-side single-page app
+Tiimo,license,,Proprietary — freemium,,,https://www.tiimoapp.com/,live,Official site offers free trial plus paid Premium subscription
+Tiimo,platforms,,"iOS, Android",,,https://www.tiimoapp.com/,live,App Store listing Tiimo: To-Do List Planner by tiimo ApS; official site lists Android/Google Play
+Timeoff Management Application,license,,Open source,MIT,,https://github.com/Rahman3030/timeoff-management-application,live,Exact catalog-name match; absence management web app
+Timeoff Management Application,platforms,,Web,,,https://github.com/Rahman3030/timeoff-management-application,live,Self-hosted web app (Docker/AWS deployment)
+Timewarrior,license,,Open source,MIT,,https://github.com/GothenburgBitFactory/timewarrior,live,Command-line time tracking utility
+Timewarrior,platforms,,"Linux, macOS",,,https://timewarrior.net/docs/install/,live,Official install docs list Linux distro packages and macOS Homebrew/MacPorts; no Windows build
+Tldraw Offline,platforms,,"macOS, Windows, Linux",,,https://github.com/tldraw/tldraw-offline,live,Desktop whiteboard app; license skipped - repo declares no license
+Todometer,license,,Open source,MIT,,https://github.com/cassidoo/todometer,live,Task app with a progress bar by cassidoo
+Todometer,platforms,,Web,,,https://github.com/cassidoo/todometer,live,Hosted at cassidoo.github.io/todometer
+Transcribee,license,,Open source,AGPL-3.0,,https://github.com/bugbakery/transcribee,live,Audio and video transcription software
+Transcribee,platforms,,Web,,,https://github.com/bugbakery/transcribee,live,Self-hosted web app with hosted beta instance
+Tuba,license,,Open source,GPL-3.0,,https://github.com/GeopJr/Tuba,live,Fediverse client (Browse the Fediverse)
+Tuba,platforms,,"Linux, Windows, Android",,,https://github.com/GeopJr/Tuba,live,Flathub for Linux; Windows and Android via nightly builds per README
+Turtl,license,,Open source,GPL-3.0,Windows;macOS;Linux,https://github.com/turtl/desktop,live,GitHub API spdx_id on turtl/desktop
+Turtl,platforms,,Windows;macOS;Linux,,,https://github.com/turtl/desktop,live,Desktop README: native apps for Windows;Linux;macOS
+Ulauncher,license,,Open source,GPL-3.0,Linux,https://github.com/Ulauncher/Ulauncher,live,README License section: GNU GPL v3.0
+Ulauncher,platforms,,Linux,,,https://github.com/Ulauncher/Ulauncher,live,Application launcher for Linux
+Unstract,license,,Open source,AGPL-3.0,Web,https://github.com/Zipstack/unstract,live,GitHub API spdx_id on Zipstack/unstract
+Unstract,platforms,,Web,,,https://github.com/Zipstack/unstract,live,Self-hosted via Docker Compose
+Vim Common,license,,Open source,Vim,Windows;macOS;Linux,https://github.com/vim/vim,live,GitHub API spdx_id Vim on vim/vim
+Vim Common,platforms,,Windows;macOS;Linux,,,https://github.com/vim/vim,live,Vim runs on all major desktop OSes
+Voice Change O Matic,license,,Open source,CC0-1.0,Web,https://github.com/mdn/voice-change-o-matic,live,GitHub API spdx_id CC0-1.0; MDN web audio demo
+Voice Change O Matic,platforms,,Web,,,https://mdn.github.io/webaudio-examples/voice-change-o-matic/,live,Runs as a web demo in the browser
+Vscode Office,license,,Open source,MIT,,https://github.com/cweijan/vscode-office,live,GitHub API spdx_id MIT; VS Code extension for previewing Office files
+Vue Form Generator,license,,Open source,MIT,,https://github.com/vue-generators/vue-form-generator,live,GitHub API spdx_id MIT; Vue.js form-generator component library
+Whishper,license,,Open source,AGPL-3.0,Web,https://github.com/pluja/whishper,live,GitHub API spdx_id AGPL-3.0; local Whisper transcription web app
+Whishper,platforms,,Web,,,https://github.com/pluja/whishper,live,Self-hosted web UI via Docker
+Win Toast,license,,Open source,MIT,,https://github.com/mohabouje/WinToast,live,GitHub API spdx_id MIT; C++ Windows toast-notification library
+Wl Clipboard,license,,Open source,GPL-3.0,Linux,https://github.com/bugaevc/wl-clipboard,live,GitHub API spdx_id GPL-3.0; Wayland clipboard utilities
+Wl Clipboard,platforms,,Linux,,,https://github.com/bugaevc/wl-clipboard,live,Wayland command-line copy/paste utilities
