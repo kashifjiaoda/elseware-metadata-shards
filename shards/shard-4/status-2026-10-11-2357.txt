@@ -1,0 +1,11 @@
+PHASE-2 EXPANSION — Shard 4 (Shard 2 covering)
+Batch 73 (apps.md lines 3607-3656): 55 rows pushed (commit "shard4 expansion batch73 - Shard 2")
+Apps verified: 32 of 50 (30 license rows, 25 platforms rows; k1 8r/4a, k2 11r/6a, k3 8r/6a, k4 16r/10a, k5 13r/7a)
+Skipped with reason (18): Fake115 (Tampermonkey userscript, not an app), Flutter Novel, Free PEP, Info Spider, Input Tip (unresolvable/generic), Good Weather (4 distinct products), GPS Location & Phone Tracker (generic), Get Qzonehistory (anti-scraping circumvention - SKIPPED), I Script, Iterm2 Zmodem (ambiguous, not iTerm2 itself), Karnataka Traffic Mod Bussid, Kongshoudao Fangdai (scam-prone), La Qoo (anime-scraper vs salon app ambiguity), M3u8 Downloader H (6 same-name repos), Ninja VPN (2 packages/2 dev IDs), Notebook Quiz & Flashcards LM, Novel Reader, Open Box (unresolvable)
+Assembler spot-checks (3 confirmed, 0 corrections):
+- LX Music Desktop -> Source-available CONFIRMED: raw Apache-2.0 LICENSE + README section declaring supplementary agreement overrides Apache-2.0 on conflict, §8 non-commercial research/exploration-only (no commercial cooperation/donations)
+- Feng Yun Weather -> Source-available CONFIRMED: raw GPL-3.0 (unfilled boilerplate -> -only) + readme.md line 111 "GPL3.0协议...不得将代码用于商用" (no commercial use)
+- Geekez Browser -> Source-available CONFIRMED: raw LICENSE is PolyForm Noncommercial 1.0.0; README CC BY-NC-SA badge applies to brand assets only (no conflict); anti-detect browser purpose flagged in notes
+Assembler dedupe: Jetpack MVVM appeared in k2 ("JetpackMvvm") and k3 ("Jetpack MVVM") — same entity (hegaojian/JetpackMvvm), kept ONE license-only Apache-2.0 row normalized to source name
+Notable: HP Smart Printer App is a KNOCKOFF (seller SMART PRINTER PVT LTD, not HP Inc.) flagged; MyRadar brand-owner mismatch (ACME AtronOmatic LLC vs Aviation Data Systems, Inc.) flagged; Pixelmator acquired by Apple (Nov 2024, closed Feb 2025) flagged; HiwatchPro $4.95/mo review kept free w/ caveat (no IAP marker)
+All 55 rows x 9 cols schema-valid, all `live`, whitelisted sources only (apps.apple.com, github.com, play.google.com, raw.githubusercontent.com); dual-write byte-identical on all 5 chunks; trailing-newline rule applied pre-concat; staged by exact path (batch-68 lesson)
