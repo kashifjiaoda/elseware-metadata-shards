@@ -1,0 +1,75 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Imprimis,license,,Open source,zlib-acknowledgement,"Linux, Windows",https://snapcraft.io/imprimis-game,live,Snap Store lists license as zlib-acknowledgement; repo README states open source game with all assets open sourced
+Imprimis,platforms,,"Linux, Windows",,,https://github.com/project-imprimis/imprimis,live,Repo has snap (Linux) and imprimis.bat/vcpp (Windows) builds
+Infra Arcana,license,,Open source,AGPL-3.0-or-later,Android,https://github.com/tyrannotorus/cpp-infra-arcana-android,live,Port README states upstream by Martin Tornqvist is AGPL-3.0-or-later; GitHub API confirms AGPL-3.0 on the port
+Infra Arcana,platforms,,Android,,,https://github.com/tyrannotorus/cpp-infra-arcana-android,live,Android port (Gradle); upstream desktop game also on Linux via AUR
+Ish,license,,Open source,GPLv3,iOS,https://github.com/ish-app/ish,live,Raw LICENSE.md: iSH is licensed under the GPLv3
+Ish,platforms,,iOS,,,https://github.com/ish-app/ish,live,iOS app (iSH.xcodeproj); Linux usermode emulation on iOS
+Jahresarbeit 2003,license,,Open source,GPL-2.0-or-later,Linux,https://github.com/christianrauch/Jahresarbeit-2003,live,main.c header: freie Software under GPL Version 2 or any later version
+Jahresarbeit 2003,platforms,,Linux,,,https://flathub.org/pl/apps/com.github.christianrauch.Jahresarbeit-2003,live,"Flathub listing (x86_64, aarch64)"
+Jass board,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/zh_Hant/packages/ch.simonste.jasstafel/,live,F-Droid listing: GNU General Public License v3.0 only
+Jass board,platforms,,Android,,,https://f-droid.org/zh_Hant/packages/ch.simonste.jasstafel/,live,F-Droid Android app (ch.simonste.jasstafel)
+Jellyfin Ani Sync,license,,Open source,GPL-3.0,Web,https://github.com/vosmiic/jellyfin-ani-sync,live,GitHub API spdx_id GPL-3.0
+Jellyfin Ani Sync,platforms,,"Windows, macOS, Linux",,,https://github.com/vosmiic/jellyfin-ani-sync,live,Jellyfin server plugin (.NET); Jellyfin runs on Windows/macOS/Linux
+Julius,license,,Open source,AGPL-3.0,"Windows, macOS, Linux, Android",https://github.com/bvschaik/julius,live,GitHub API spdx AGPL-3.0; open-source Caesar III re-implementation
+Julius,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/bvschaik/julius,live,Release assets: windows.zip mac.dmg linux AppImage android.apk
+Juvavum,license,,Open source,GPL-2.0-only,Android,https://f-droid.org/packages/io.github.martinschneider.juvavum/,live,F-Droid listing: GNU General Public License v2.0 only
+Juvavum,platforms,,Android,,,https://f-droid.org/packages/io.github.martinschneider.juvavum/,live,F-Droid Android app
+Kajongg,license,,Open source,GPL-2.0,Linux,https://github.com/kde/kajongg,live,GitHub API spdx GPL-2.0; KDE Mahjongg
+Kajongg,platforms,,Linux,,,https://apps.kde.org/kajongg/,live,KDE apps page lists Linux
+Katawa Shoujo: Re-Engineered,license,,Open source,MPL-2.0,"Windows, macOS, Linux, Android",https://github.com/fleetingheart/ksre,live,GitHub API spdx MPL-2.0 (code; assets CC-BY-NC-ND)
+Katawa Shoujo: Re-Engineered,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/fleetingheart/ksre,live,Release assets: win.zip mac.zip linux tar apk
+kblocks,license,,Open source,GPL-2.0,"Linux, Windows",https://github.com/kde/kblocks,live,GitHub API spdx GPL-2.0; KDE falling blocks game
+kblocks,platforms,,"Linux, Windows",,,https://apps.kde.org/kblocks/,live,KDE apps page lists Linux and Windows
+KDiamond,license,,Open source,GPL-2.0-or-later,"Linux, Windows",https://github.com/kde/kdiamond,live,Repo ships LICENSES/GPL-2.0-or-later.txt (REUSE)
+KDiamond,platforms,,"Linux, Windows",,,https://apps.kde.org/kdiamond/,live,KDE apps page lists Linux and Windows
+King Pong,license,,Open source,GPL-3.0,"Android, Windows, Linux, Web",https://github.com/kingalexgilbert/king-pong,live,GitHub API spdx GPL-3.0
+King Pong,platforms,,"Android, Windows, Linux, Web",,,https://github.com/kingalexgilbert/king-pong,live,README: browsers Android Linux Windows; F-Droid listed
+knetwalk,license,,Open source,GPL-2.0-or-later,Linux,https://github.com/KDE/knetwalk,live,LICENSES/GPL-2.0-or-later.txt in repo (REUSE); KDE game
+knetwalk,platforms,,Linux,,,https://github.com/KDE/knetwalk,live,KDE desktop game
+ksnakeduel,license,,Open source,GPL-2.0-or-later,Linux,https://github.com/KDE/ksnakeduel,live,LICENSES/GPL-2.0-or-later.txt in repo (REUSE); KDE game
+ksnakeduel,platforms,,Linux,,,https://github.com/KDE/ksnakeduel,live,KDE desktop game
+ktuberling,license,,Open source,GPL-2.0-or-later,Linux,https://github.com/KDE/ktuberling,live,LICENSES/GPL-2.0-or-later.txt in repo (REUSE); KDE game
+ktuberling,platforms,,Linux,,,https://github.com/KDE/ktuberling,live,KDE desktop game
+Kobo Deluxe,license,,Open source,GPL-2.0,"Windows, Linux, macOS",https://github.com/os2world/game-action-kobo_deluxe,live,Repo README states GNU GPL V2; official site olofson.net/kobodl mentions GPL; GNU Guix lists GPL 2+
+Kobo Deluxe,platforms,,"Windows, Linux, macOS",,,http://www.olofson.net/kobodl/,live,Official site: desktop game for Windows/Linux/macOS
+Komga,license,,Open source,MIT,,https://github.com/gotson/komga,live,GitHub license API spdx_id MIT
+Komga,platforms,,"Web, Windows, macOS, Linux",,,https://github.com/gotson/komga,live,Self-hosted media server (Java) with web UI; komga.org
+Kotatsu,license,,Open source,GPL-3.0,Android,https://github.com/KotatsuApp/Kotatsu,live,GitHub license API spdx_id GPL-3.0
+Kotatsu,platforms,,Android,,,https://github.com/KotatsuApp/Kotatsu,live,Manga reader for Android
+Kraptor,license,,Open source,MIT,"DOS, Windows, Linux",https://sourceforge.net/projects/kraptor/,live,MIT License confirmed via DOS Games Archive and pc-freak.net; official SourceForge project page
+Kraptor,platforms,,"DOS, Windows, Linux",,,https://sourceforge.net/projects/kraptor/,live,Multi-platform shooter (DOS/Win32/Linux)
+Klock,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/packages/com.koshai_limited.klock/,live,F-Droid listing: GNU General Public License v3.0 or later
+Klock,platforms,,Android,,,https://f-droid.org/packages/com.koshai_limited.klock/,live,Chess clock app for Android
+L5RCM Companion,license,,Open source,GPL-3.0,,https://github.com/openningia/l5rcm-player-app,live,GitHub license API spdx_id GPL-3.0; native Android companion app for L5RCM desktop
+L5RCM Companion,platforms,,Android,,,https://github.com/openningia/l5rcm-player-app,live,Kotlin/Compose Android app; package com.l5rcm.companion
+Lbreakouthd,license,,Open source,GPL-3.0-or-later,,https://github.com/flathub/net.sourceforge.lgames.LBreakoutHD,live,Flathub manifest project_license GPL-3.0-or-later (LGames by Michael Speck)
+Lbreakouthd,platforms,,Linux,,,https://github.com/flathub/net.sourceforge.lgames.LBreakoutHD,live,Flathub net.sourceforge.lgames.LBreakoutHD
+LearnTube,license,,Open source,GPL-3.0,,https://github.com/gff219/learntube,live,README badge License: GPL v3; NewPipe fork
+LearnTube,platforms,,Android,,,https://f-droid.org/packages/com.learntube.app/,live,F-Droid com.learntube.app
+LettersFall 110%,license,,Open source,MIT,,https://github.com/savantsavior/lettersfall,live,GitHub license API spdx_id MIT; Godot word game
+LettersFall 110%,platforms,,"Android, Linux",,,https://github.com/savantsavior/lettersfall,live,F-Droid/Android build plus Flathub io.github.savantsavior.lettersfall
+Li-Ri,license,,Open source,GPL-2.0-or-later,,https://f-droid.org/packages/org.liri.liri/,live,F-Droid license: GNU General Public License v2.0 or later; toy train arcade game
+Li-Ri,platforms,,Android,,,https://f-droid.org/packages/org.liri.liri/,live,F-Droid org.liri.liri
+LibreCuts Beta,license,,Open source,MIT,,https://f-droid.org/packages/com.tharunbirla.librecuts/,live,F-Droid license: MIT License; tharunbirla/LibreCuts
+LibreCuts Beta,platforms,,Android,,,https://f-droid.org/packages/com.tharunbirla.librecuts/,live,F-Droid com.tharunbirla.librecuts
+LibreStatus,license,,Open source,MIT,,https://github.com/vaishnav-mandlik/librestatus,live,"README: License MIT (c) Vaishnav Mandlik; WhatsApp status saver, F-Droid listed"
+LibreStatus,platforms,,Android,,,https://github.com/vaishnav-mandlik/librestatus,live,React Native Android app; offline status saver
+Lightsoff,license,,Open source,GPL-2.0,,https://github.com/GNOME/lightsoff,live,GitHub license API spdx_id GPL-2.0; GNOME puzzle game
+Lightsoff,platforms,,Linux,,,https://github.com/GNOME/lightsoff,live,GNOME app
+Linux Tycoon,license,,Open source,GPL-2.0,"Linux, Windows, macOS",https://github.com/BryanLunduke/Linux-Tycoon,live,LICENSE is GPL v2 text (read directly from repo)
+Linux Tycoon,platforms,,"Linux, Windows, macOS",,,https://github.com/BryanLunduke/Linux-Tycoon,live,"Repo description: modern desktop version (Linux, Windows, Mac)"
+Liquidwar,license,,Open source,GPL-2.0-or-later,"Windows, Linux",https://github.com/ufoot/liquidwar5,live,README: GPL v2 or (at your option) any later version
+Liquidwar,platforms,,"Windows, Linux",,,https://github.com/ufoot/liquidwar5,live,README: Windows download link plus Debian/Ubuntu/Fedora packages
+Little File Explorer,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/en/packages/com.martinmimigames.simplefileexplorer/,live,F-Droid: GNU General Public License v3.0 only
+Little File Explorer,platforms,,Android,,,https://f-droid.org/en/packages/com.martinmimigames.simplefileexplorer/,live,F-Droid Android listing
+Lix,license,,Open source,CC0-1.0 (public domain dedication),"Windows, Linux, macOS",https://github.com/SimonN/LixD,live,README: code released into public domain via CC0
+Lix,platforms,,"Windows, Linux, macOS",,,https://github.com/SimonN/LixD,live,README: Windows download; Debian/openSUSE/Flatpak packages; macOS build from source
+Lona,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/packages/io.github.lufte.lona/,live,F-Droid: GNU General Public License v3.0 or later
+Lona,platforms,,Android,,,https://f-droid.org/packages/io.github.lufte.lona/,live,F-Droid Android listing; snake-like HTML5 game
+LSkat,license,,Open source,GPL-2.0-or-later,Linux,https://apps.kde.org/lskat/,live,Arch Linux package lists GPL-2.0-or-later; KDE card game
+LSkat,platforms,,Linux,,,https://apps.kde.org/lskat/,live,KDE application page (apps.kde.org)
+LunaChron,license,,Open source,Apache-2.0,Android,https://github.com/garemat/lunachron,live,README: application source code licensed under Apache License 2.0
+LunaChron,platforms,,Android,,,https://github.com/garemat/lunachron,live,F-Droid io.github.garemat.lunachron; Moonstone tabletop companion app
+Lxterminal,license,,Open source,GPL-2.0,Linux,https://github.com/lxde/lxterminal,live,COPYING is GPL v2 text (read directly from repo)
+Lxterminal,platforms,,Linux,,,https://github.com/lxde/lxterminal,live,LXDE VTE-based terminal emulator (Unix-like)
