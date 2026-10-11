@@ -1,0 +1,8 @@
+Shard 4 Phase-2 EXPANSION BATCH 39 COMPLETE (Shard 2 takeover).
+Apps.md lines 1907-1956 (50 apps, no duplicates).
+Pushed: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch39.csv (58 rows).
+Verified: 35 of 50 apps (25 license-verified, 33 platform-verified).
+Skipped with reason (15): Authenticator, App Locker, Yt X, Zenchat, Xjed, Xpad (identity ambiguity / no whitelisted license); BEWGor (dual-use offensive tooling); CryptoPass (2 distinct products); Keymaker, LineShield, MetaPurge, OPNsense Manager (ambiguity / no whitelisted source); File Shows, Gtkcrypto, PaperCript, Passchain, Passwords (unverifiable on whitelisted sources).
+Self-audit catches: Ente Auth AGPL-3.0-only (raw LICENSE); Buttercup Desktop GPL-3.0-only (raw, no or-later grant); Kwalletmanager GPL-2.0-or-later (raw header, packager LGPL overruled); Nextcloud Passwords AGPL-3.0-only; OneKeePass GPL-3.0-only; Conceal Authenticator + BlueGate license rows dropped (conflicting/fork-thin); MA Passwords + NC Passwords platforms-only (upstream unverified).
+Schema-validated: 58 rows x 9 cols, 0 issues, valid badges, all live, whitelisted sources only.
+Next: batch 40 (lines 1957-2006).
