@@ -1,0 +1,5 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+OpenEduCat,license,,Proprietary — paid,build your plan and get an instant quote. 70+ modules from $79/year Cloud or on-premise No per-stud,,https://openeducat.org/pricing/,live,one-time/lifetime pricing observed (https://openeducat.org/pricing/)
+OpenEduCat,platforms,,"Windows, Linux, Android, Web",,,https://openeducat.org/download/,live,platform signals on https://openeducat.org/download/; merged store evidence: Android via https://play.google.com/store/apps/details?id=com.inc.openeducat&hl=en
+OpenSIS,license,,Proprietary — paid subscription,"Start with 5 staff, get 50 student and 100 parent accounts $4 / staff / month, billed annually Star",,https://opensis.com/pricing,live,"recurring paid plans observed, no free tier found (https://opensis.com/pricing)"
+OpenSIS,platforms,,"Android, iOS",,,https://apps.apple.com/in/app/opensis-saas-mobile-connect/id6755990280,live,platform signals on https://apps.apple.com/in/app/opensis-saas-mobile-connect/id6755990280; merged store evidence: Android via https://play.google.com/store/apps/details?id=com.opensis_v2&hl=en
