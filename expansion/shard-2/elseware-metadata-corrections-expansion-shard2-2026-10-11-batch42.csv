@@ -1,0 +1,80 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+GraphHopper Maps,license,,Open source,Apache-2.0,Android,http://f-droid.org/packages/com.graphhopper.maps/,live,F-Droid lists Apache License 2.0
+GraphHopper Maps,platforms,,Android,,,http://f-droid.org/packages/com.graphhopper.maps/,live,Android navigation app on F-Droid
+Heading Calculator,license,,Open source,GPL-3.0-only,Android,http://f-droid.org/packages/org.debian.eugen.headingcalculator/,live,F-Droid lists GNU General Public License v3.0 only; README confirms GPL v3
+Heading Calculator,platforms,,Android,,,http://f-droid.org/packages/org.debian.eugen.headingcalculator/,live,Aircraft heading/ground-speed calculator on F-Droid
+Insigno,license,,Open source,GPL-3.0-only,Android,http://f-droid.org/packages/org.mindshub.insigno/,live,F-Droid lists GNU General Public License v3.0 only
+Insigno,platforms,,Android,,,http://f-droid.org/packages/org.mindshub.insigno/,live,City-cleanliness reporting app on F-Droid
+Kochi Transit Go,license,,Open source,MIT,Android,https://github.com/agnelfranciso/Kochi-Transit-Go,live,README MIT badge; native Android Kochi Metro companion
+Kochi Transit Go,platforms,,Android,,,https://github.com/agnelfranciso/Kochi-Transit-Go,live,Native Android app per README platform badge
+Kwik EFIS,license,,Open source,Apache-2.0,Android,https://f-droid.org/uk/packages/player.efis.pfd/,live,F-Droid lists Apache License 2.0
+Kwik EFIS,platforms,,Android,,,https://f-droid.org/uk/packages/player.efis.pfd/,live,EFIS/glass-cockpit app on F-Droid
+Local NLP Backend,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/de/packages/helium314.localbackend/,live,F-Droid lists GNU General Public License v3.0 or later
+Local NLP Backend,platforms,,Android,,,https://f-droid.org/de/packages/helium314.localbackend/,live,UnifiedNlp/microG location backend on F-Droid
+Look4 Sat,license,,Open source,GPL-3.0,Android,https://github.com/rt-bishop/Look4Sat,live,Canonical name Look4Sat; satellite tracker and pass predictor for Android
+Look4 Sat,platforms,,Android,,,https://github.com/rt-bishop/Look4Sat,live,Android app; also on F-Droid and Play Store
+MapComplete,license,,Open source,GPL-3.0,Web,https://github.com/pietervdvn/MapComplete,live,README states GPLv3.0; easy-to-use webapp to edit OpenStreetMap
+MapComplete,platforms,,Web,,,https://github.com/pietervdvn/MapComplete,live,Static webapp at mapcomplete.org
+Marble,license,,Open source,LGPL-2.1-or-later,"Windows, macOS, Linux, Android",https://invent.kde.org/education/marble,live,Official repo LICENSE.txt references LICENSES/LGPL-2.1-or-later.txt
+Marble,platforms,,"Windows, macOS, Linux, Android",,,https://invent.kde.org/education/marble,live,KDE virtual globe; Wikipedia lists Unix-like Windows Android; OSM wiki lists Windows macOS Linux
+Merkaartor,license,,Open source,GNU General Public License,"Windows, macOS, Linux",https://www.merkaartor.be/p/download/,live,Official site: available under the GNU General Public License (no version stated)
+Merkaartor,platforms,,"Windows, macOS, Linux",,,https://www.merkaartor.be/p/download/,live,Official download page lists Linux Windows and Mac OS X binaries
+Nextcloud Maps Geofavorites,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/it.danieleverducci.nextcloudmaps/,live,"F-Droid ""Nextcloud Maps Geobookmarks"" lists GNU General Public License v3.0 only; unofficial FOSS client for Nextcloud Maps geofavorites"
+Nextcloud Maps Geofavorites,platforms,,Android,,,https://f-droid.org/en/packages/it.danieleverducci.nextcloudmaps/,live,Android package it.danieleverducci.nextcloudmaps
+NOL : 야놀자와 인터파크의 새로운 이름,license,,Proprietary — free,,,https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843?uo=4,live,"App Store KR exact match by YANOLJA CO.,LTD; price $0.00; closed source"
+NOL : 야놀자와 인터파크의 새로운 이름,platforms,,iOS,,,https://apps.apple.com/kr/app/nol-%EC%95%BC%EB%86%80%EC%9E%90%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%9D%B4%EB%A6%84/id436731843?uo=4,live,"iOS confirmed via App Store lookup; Android package not verifiable from whitelisted sources, omitted per accuracy directive"
+Open Dronelog,license,,Open source,AGPL-3.0,,https://github.com/arpanghosh8453/open-dronelog,live,GitHub API spdx_id on arpanghosh8453/open-dronelog; DJI/Litchi flight-log analyzer
+Open Dronelog,platforms,,"macOS, Linux",,,https://github.com/arpanghosh8453/open-dronelog/releases,live,Release assets: darwin dmg + Linux AppImage/deb/rpm (Tauri v2 desktop); no Windows asset shown
+OpenMultiMaps,license,,Open source,GPL-3.0,,https://github.com/aakumykov/openmaps,live,LICENSE.md verified as GNU GPL v3 text; README license badge GPL v3
+OpenMultiMaps,platforms,,Android,,,https://f-droid.org/en/packages/app.fedilab.openmaps/,live,Android package app.fedilab.openmaps
+Organic Maps・Offline Map & GPS,license,,Open source,Apache-2.0,,https://github.com/organicmaps/organicmaps,live,Repo LICENSE references LICENSES/Apache-2.0.txt (REUSE-compliant)
+Organic Maps・Offline Map & GPS,platforms,,"Android, iOS",,,https://github.com/organicmaps/organicmaps,live,README download badges: F-Droid (Android) and App Store (iOS)
+PeakOrama,license,,Open source,GPL-3.0,,https://github.com/woheller69/PeakOrama,live,Raw LICENSE verified as GNU GPL v3 text
+PeakOrama,platforms,,Android,,,https://f-droid.org/en/packages/org.woheller69.PeakOrama/,live,Android package org.woheller69.PeakOrama
+PinPoi,license,,Open source,GPL-3.0,,https://github.com/fvasco/pinpoi,live,GitHub API spdx_id GPL-3.0 on fvasco/pinpoi
+PinPoi,platforms,,Android,,,https://github.com/fvasco/pinpoi,live,README: imports POI collections for GPS navigator on Android phone
+QGroundControl,license,,Open source,"Apache-2.0, GPL-3.0 (dual)",,https://github.com/mavlink/qgroundcontrol,live,Repo ships both LICENSE-APACHE and LICENSE-GPL files
+QGroundControl,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/mavlink/qgroundcontrol/releases,live,"Release assets: Windows exe, macOS dmg, Linux AppImage, Android apk"
+RKFRead,license,,Open source,GPL-3.0,,https://github.com/norenh/RKFRead,live,LICENSE.txt verified as GNU GPL v3 text
+RKFRead,platforms,,Android,,,https://github.com/norenh/RKFRead,live,README: Android NFC app for reading Scandinavian travelcards; APK via GitHub releases
+Skiddle: Events and Tickets,license,,Proprietary — free,,iOS,https://itunes.apple.com/lookup?id=1061406283,live,App Store exact match by Skiddle Ltd; free download
+Skiddle: Events and Tickets,platforms,,iOS,,,https://itunes.apple.com/lookup?id=1061406283,live,App Store listing for Skiddle Ltd events app
+Traccar,license,,Open source,Apache-2.0,Web,https://github.com/traccar/traccar,live,LICENSE.txt verified as Apache License 2.0; self-hosted GPS tracking platform
+Traccar,platforms,,Web,,,https://github.com/traccar/traccar,live,Self-hosted server app with web UI
+Vym,license,,Open source,GPL-2.0,"Windows, Linux",https://github.com/insilmaril/vym,live,LICENSE.txt verified as GNU GPL v2; Qt mind-mapping app
+Vym,platforms,,"Windows, Linux",,,https://github.com/insilmaril/vym,live,README mentions Debian/Linux and Windows builds
+アソビュー！：休日の便利でお得な遊び予約アプリ,license,,Proprietary — free,,iOS,https://itunes.apple.com/lookup?id=1303314426,live,JP App Store exact match by ASOVIEW Inc.; free leisure booking app
+アソビュー！：休日の便利でお得な遊び予約アプリ,platforms,,iOS,,,https://itunes.apple.com/lookup?id=1303314426,live,App Store JP listing
+着信音 - 着信音メーカー · 着信音作成,license,,Proprietary — free,,iOS,https://itunes.apple.com/lookup?id=1450585366,live,JP App Store exact match; free ringtone maker app
+着信音 - 着信音メーカー · 着信音作成,platforms,,iOS,,,https://itunes.apple.com/lookup?id=1450585366,live,App Store JP listing
+지니뮤직 - genie,license,,Proprietary — free,,iOS,https://itunes.apple.com/lookup?id=858266085,live,KR App Store exact match by GENIE MUSIC CORP.; free music streaming app
+지니뮤직 - genie,platforms,,iOS,,,https://itunes.apple.com/lookup?id=858266085,live,App Store KR listing
+10-bit Clock Widget,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/en/packages/com.github.ashutoshgngwr.tenbitclockwidget/,live,F-Droid lists GNU GPL v3.0 only; binary-clock widget by ashutoshgngwr
+10-bit Clock Widget,platforms,,Android,,,https://f-droid.org/en/packages/com.github.ashutoshgngwr.tenbitclockwidget/,live,F-Droid Android listing
+8-Bit Wonders,license,,Open source,GPL-2.0,Android,https://gitlab.com/eightbitwonders/app,live,LICENSE file verified as GNU GPL v2 (June 1991); Commodore 8-bit emulator by Rainer Hock
+8-Bit Wonders,platforms,,Android,,,https://gitlab.com/eightbitwonders/app,live,"Official site: Android app (F-Droid, Google Play, Amazon Appstore)"
+Ab Download Manager,license,,Open source,Apache-2.0,,https://raw.githubusercontent.com/amir1376/ab-download-manager/master/LICENSE,live,raw LICENSE is Apache License 2.0 text
+Ab Download Manager,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/amir1376/ab-download-manager,live,README: Multiplatform (Android / Windows / Linux / Mac)
+Ace Step UI,license,,Open source,MIT,,https://github.com/fspecii/ace-step-ui,live,README license badge MIT; no LICENSE file in repo
+Ace Step UI,platforms,,Web,,,https://github.com/fspecii/ace-step-ui,live,browser-based web UI for ACE-Step music generation
+Actiona,license,,Open source,GPL-3.0,,https://github.com/Jmgr/actiona,live,GitHub API SPDX GPL-3.0; README GPLv3 badge
+Actiona,platforms,,"Windows, Linux",,,https://github.com/Jmgr/actiona,live,cross-platform Qt automation; CI builds for Windows and Linux
+Adaptive Brightness Tile,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/rascarlo/AdaptiveBrightnessTile/master/LICENSE,live,raw LICENSE is GNU GPL v3 text
+Adaptive Brightness Tile,platforms,,Android,,,https://github.com/rascarlo/AdaptiveBrightnessTile,live,quick settings tile for Android 7.0+ (API 24)
+Advanced Charging Controller (ACCA),license,,Open source,GPL-3.0,,https://github.com/VR-25/acc,live,README LICENSE section is GPL text; GitHub API SPDX GPL-3.0
+Advanced Charging Controller (ACCA),platforms,,Android,,,https://f-droid.org/en/packages/mattecarra.accapp/,live,F-Droid accA battery charging controller
+AF Weather Widget,license,,Open source,Public domain,,https://github.com/Gitsaibot/AF-Weather-Widget,live,README: source code made public domain; no license file present
+AF Weather Widget,platforms,,Android,,,https://f-droid.org/en/packages/net.gitsaibot.af/,live,Android weather graph widget (F-Droid net.gitsaibot.af)
+Agrume,license,,Open source,MIT,,https://raw.githubusercontent.com/JanGorman/Agrume/master/LICENSE,live,raw LICENSE is MIT text; iOS Swift image-viewer component/library so no end-user platform row
+AI Vocabulary Builder,license,,Open source,BSD-3-Clause,,https://github.com/piglei/ai-vocabulary-builder,live,GitHub API spdx_id BSD-3-Clause
+AionTask,license,,Open source,GPL-2.0-or-later,,https://gitlab.gnome.org/powimod/aion-task,live,GitLab API license key gpl-2.0+
+AionTask,platforms,,Linux,,,https://flathub.org/en-GB/apps/org.gnome.gitlab.powimod.aion-task,live,Flatpak distribution
+Airmessage Android,license,,Open source,Apache-2.0,,https://f-droid.org/en/packages/me.tagavari.airmessage/,live,F-Droid lists Apache License 2.0
+Airmessage Android,platforms,,Android,,,https://f-droid.org/en/packages/me.tagavari.airmessage/,live,F-Droid Android package
+Akizip,license,,Open source,GPL-3.0,,https://github.com/AkiZip/AkiZip,live,GitHub API spdx_id GPL-3.0
+Akizip,platforms,,Linux,,,https://github.com/AkiZip/AkiZip,live,README: distributed as Flatpak
+Alarm Klock,license,,Open source,Apache-2.0,,https://f-droid.org/packages/com.angrydoughnuts.android.alarmclock/,live,F-Droid lists Apache License 2.0
+Alarm Klock,platforms,,Android,,,https://f-droid.org/packages/com.angrydoughnuts.android.alarmclock/,live,F-Droid Android package
+Alkimia Bin,license,,Open source,LGPL-2.1,,https://github.com/KDE/alkimia,live,KDE/alkimia spdx_id LGPL-2.1; alkimia-bin is the financial library binaries package
+AlwaysOn | Always On Display,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/io.github.domi04151309.alwayson/,live,F-Droid lists GNU General Public License v3.0 only
+AlwaysOn | Always On Display,platforms,,Android,,,https://f-droid.org/packages/io.github.domi04151309.alwayson/,live,F-Droid Android package
