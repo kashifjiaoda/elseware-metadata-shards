@@ -1,0 +1,7 @@
+Shard 4 (Shard 2 covering) — status 2026-10-11 19:32 PKT
+Phase-2 expansion batch 47 COMPLETE: 74 rows pushed (expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch47.csv), 42 of 50 apps verified, 8 skipped with reason.
+Assembler spot-checks: Filestash normalized AGPL-3.0 -> AGPL-3.0-only (no or-later grant in raw text/README); Fossify Voice Recorder GPL-3.0-only confirmed (bare GPLv3 text); FOSS Browser AGPL-3.0-or-later confirmed (Codeberg raw LICENSE.md grants or-later; repo moved off deleted GitHub account); Fulguris dual-split (MPL-2.0/CPAL-1.0) kept with transparent notes.
+Notable: FOSS Browser canonical repo moved GitHub->Codeberg; Final2x org moved Tohrusky->EutropicAI; Figma Linux unofficial variant (license row dropped); Gbonds conflicting labels/upstream on banned SourceForge (license dropped); Focal "GPL (version unspecified)" per author statement; Firefox Quantum = Firefox 57 codename (MPL-2.0, not standalone product).
+Skips: Fall, Fast, Fcitx Data (k1 identity ambiguity), FirstMove (6+ same-name products), Form Builder (generic), FTP + 2 more k4 identity-ambiguous.
+Dual-write byte-identical all 5 chunks; schema-validated 74x9; whitelisted sources only.
+Next: batch 48 (apps.md lines 2357-2406).
