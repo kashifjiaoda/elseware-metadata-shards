@@ -1,0 +1,75 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Janus Glossa,license,,Open source,Apache License 2.0 (Apache-2.0),,https://github.com/AnySoftKeyboard/janus,live,GitHub API spdx_id Apache-2.0 confirmed
+Janus Glossa,platforms,,Android,,,https://f-droid.org/packages/com.anysoftkeyboard.janus/,live,F-Droid listing com.anysoftkeyboard.janus
+JASP,license,,Open source,AGPL-3.0,,https://github.com/jasp-stats/jasp-desktop,live,GitHub API spdx_id AGPL-3.0 confirmed
+JFLAP,license,,Source-available,JFLAP 7.1 license (custom restrictive — no fee-charging products; modifications must be shared with maintainer),,https://github.com/jargonzhou/jflap,live,Not OSI-approved; source available under restrictions per repo LICENSE
+JFLAP,platforms,,"Windows, macOS, Linux",,,https://www.jflap.org,live,Java SE desktop application per official site
+Jotdown,license,,Open source,GPL-3.0-or-later,,https://search.f-droid.org/?q=Jotdown,live,F-Droid listing: Offline PDF reader with OCR; GPL-3.0-or-later
+Jotdown,platforms,,Android,,,https://search.f-droid.org/?q=Jotdown,live,F-Droid is Android-only
+Jupyter Notebook,license,,Open source,BSD-3-Clause,,https://github.com/jupyter/notebook,live,GitHub API spdx_id BSD-3-Clause confirmed
+Jupyter Notebook,platforms,,Web,,,https://jupyter.org,live,Web-based interactive computing per official site
+KAlgebra,license,,Open source,GPL-2.0,,https://github.com/kde/kalgebra,live,GitHub API spdx_id GPL-2.0 confirmed
+KC3ICT Ham Study,license,,Open source,MIT,,https://search.f-droid.org/?q=KC3ICT,live,F-Droid listing: Free offline ham radio exam flashcards; MIT
+KC3ICT Ham Study,platforms,,Android,,,https://search.f-droid.org/?q=KC3ICT,live,F-Droid is Android-only
+Keyman,license,,Open source,MIT License,"Android, iOS, Linux, macOS, Windows",https://github.com/keymanapp/keyman,live,SIL cross-platform input methods; LICENSE.md MIT
+Keyman,platforms,,"Android, iOS, Linux, macOS, Windows",,,https://github.com/keymanapp/keyman,live,Repo: runs on Android iOS Linux macOS Windows
+kgeography,license,,Open source,GPL-2.0,Linux,https://github.com/KDE/kgeography,live,GitHub API spdx GPL-2.0; COPYING is GPL v2 text
+kgeography,platforms,,Linux,,,https://github.com/KDE/kgeography,live,KDE education geography trainer
+kiten,license,,Open source,GPL-2.0-or-later,Linux,https://apps.kde.org/kiten/,live,apps.kde.org lists GPL-2.0+; LICENSES has GPL-2.0-or-later.txt
+kiten,platforms,,Linux,,,https://apps.kde.org/kiten/,live,KDE Japanese reference/study tool
+Kolibri,license,,Open source,MIT License,"Windows, macOS, Linux, Android, Raspberry Pi",https://github.com/learningequality/kolibri,live,GitHub API spdx MIT; Learning Equality offline learning platform
+Kolibri,platforms,,"Windows, macOS, Linux, Android, Raspberry Pi",,,https://kolibri.readthedocs.io/en/latest/install/install.html,live,Docs list Windows Debian/Ubuntu RPi macOS Android installers
+Kst,license,,Open source,GPL-2.0,"Linux, macOS, Windows",https://github.com/Kst-plot/kst,live,GitHub API spdx GPL-2.0 on canonical Kst-plot/kst repo
+Kst,platforms,,"Linux, macOS, Windows",,,https://github.com/Kst-plot/kst,live,Real-time plotting; Wikipedia: Linux Mac Windows via MinGW
+La et Le,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/packages/com.languageapp.laetle/,live,F-Droid listing; French noun gender trainer by Seweryn Polec
+La et Le,platforms,,Android,,,https://f-droid.org/packages/com.languageapp.laetle/,live,F-Droid Android app
+Learning Memory,license,,Open source,AGPL-3.0-or-later,Android,https://f-droid.org/packages/eu.quelltext.memory/,live,F-Droid page lists GNU AGPL v3.0 or later
+Learning Memory,platforms,,Android,,,https://f-droid.org/packages/eu.quelltext.memory/,live,F-Droid memory game app
+LG4X-V2,license,,Open source,MIT License,"Windows, macOS, Linux",https://github.com/julian-hochhaus/lg4x-v2,live,LICENSE file: MIT Copyright 2022 Julian Hochhaus; XPS curve fitting GUI
+LG4X-V2,platforms,,"Windows, macOS, Linux",,,https://github.com/julian-hochhaus/lg4x-v2,live,Python PyQt5 pip-installable desktop app
+Library App VideLibri,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/de.benibela.videlibri/,live,F-Droid lists GNU GPL v3.0 only; universal library OPAC app
+Library App VideLibri,platforms,,Android,,,https://f-droid.org/packages/de.benibela.videlibri/,live,F-Droid Android library app
+LibreRandonaut,license,,Open source,GNU General Public License v3.0 (GPL-3.0),Android,https://api.github.com/repos/librerandonaut/librerandonaut/license,live,GitHub API spdx_id GPL-3.0 on librerandonaut/librerandonaut
+LibreRandonaut,platforms,,Android,,,https://f-droid.org/packages/com.github.librerandonaut.librerandonaut/,live,F-Droid listing com.github.librerandonaut.librerandonaut
+Lightwave Explorer,license,,Open source,MIT License,Windows,https://api.github.com/repos/NickKarpowicz/LightwaveExplorer/license,live,GitHub API spdx_id MIT on NickKarpowicz/LightwaveExplorer
+Lightwave Explorer,platforms,,"Windows, macOS, Linux",,,https://github.com/xpr3ss0/lightwaveexplorer,live,README documents Windows exe install and macOS install; Flathub build covers Linux
+linotte,license,,Open source,GNU General Public License v3.0 (GPL-3.0),"Windows, macOS, Linux",https://api.github.com/repos/cpc6128/LangageLinotte/license,live,GitHub API spdx_id GPL-3.0 on cpc6128/LangageLinotte (French programming language)
+linotte,platforms,,"Windows, macOS, Linux",,,https://github.com/cpc6128/LangageLinotte,live,Java-based language (repo topics: java); cross-platform desktop
+Lissen: Audiobookshelf client,license,,Open source,MIT License,Android,https://api.github.com/repos/GrakovNe/lissen-android/license,live,GitHub API spdx_id MIT on GrakovNe/lissen-android
+Lissen: Audiobookshelf client,platforms,,Android,,,https://github.com/GrakovNe/lissen-android/,live,Android client for Audiobookshelf; on Play Store and F-Droid per README
+LogarithmPlotter,license,,Open source,GNU General Public License v3.0 (GPL-3.0),"Windows, macOS, Linux",https://api.github.com/repos/ad5001/logarithmplotter/license,live,GitHub API spdx_id GPL-3.0 on ad5001/logarithmplotter
+LogarithmPlotter,platforms,,"Windows, macOS, Linux",,,https://github.com/ad5001/logarithmplotter,live,Official download page lists Windows exe macOS and Linux; Flathub eu.ad5001.LogarithmPlotter
+LoloTrans,license,,Open source,Apache License 2.0 (Apache-2.0),Android,https://api.github.com/repos/immerzu/lolotrans/license,live,GitHub API spdx_id Apache-2.0 on immerzu/lolotrans; IzzyOnDroid submission confirms Apache 2.0
+LoloTrans,platforms,,Android,,,https://github.com/immerzu/lolotrans/blob/HEAD/IZZYONDROID_SUBMISSION.md,live,Android translator with floating bubble; APK via GitHub releases
+Lute V3,license,,Open source,MIT License,Web,https://api.github.com/repos/LuteOrg/lute-v3/license,live,GitHub API spdx_id MIT on LuteOrg/lute-v3 (Learning Using Texts)
+Lute V3,platforms,,Web,,,https://github.com/LuteOrg/lute-v3,live,Self-hosted Python web app (language learning reader)
+MA Astronomy,license,,Open source,GNU General Public License v3.0 (GPL-3.0),Android,https://api.github.com/repos/vayun-mathur/Modern-Apps/license,live,GitHub API spdx_id GPL-3.0 on vayun-mathur/Modern-Apps
+MA Astronomy,platforms,,Android,,,https://github.com/vayun-mathur/modern-apps/issues/422,live,AR night sky viewer; issue tracker confirms Android app (on F-Droid per TWIF 2026-08-07)
+Massxpert2,license,,Open source,GPL-3.0,,https://manpages.debian.org/unstable/massxpert2/massxpert2.1.en.html,live,GPL-3.0 per user manual and Debian package metadata
+Massxpert2,platforms,,"Windows, macOS, Linux",,,https://ecosystem.code.gouv.fr/hosts/forgemia.inra.fr/repositories/pappso%2Fmassxpert2/readme,live,Upstream describes desktop-oriented program; Debian ships Linux build
+Mathomatic,license,,Open source,LGPL-2.1,,https://api.github.com/repos/mathomatic/mathomatic/license,live,GitHub license API LGPL-2.1
+mdbook,license,,Open source,MPL-2.0,,https://api.github.com/repos/rust-lang/mdBook/license,live,GitHub license API MPL-2.0
+mdbook,platforms,,"Windows, macOS, Linux",,,https://api.github.com/repos/rust-lang/mdBook/releases/latest,live,Release binaries for Windows/macOS/Linux (x86_64 and aarch64)
+MiniZinc,license,,Open source,MPL-2.0,,https://www.minizinc.org/license/,live,Official license page states Mozilla Public License 2.0
+MiniZinc,platforms,,"Windows, macOS, Linux",,,https://www.minizinc.org/downloads/,live,Official downloads for Windows/macOS/Linux
+molden,license,,Proprietary — free for personal use,,,https://server.ccl.net/cca/software/SOURCES/FORTRAN/molden/CopyRight.shtml,live,Shipped CopyRight grants private use to non-profit organisations only; not an OSI license
+Muezzin,license,,Open source,MIT,,https://api.github.com/repos/dbchoco/muezzin/license,live,GitHub license API MIT
+Muezzin,platforms,,Linux,,,https://flathub.org/api/v2/appstream/io.github.dbchoco.muezzin,live,Flathub listing (Islamic prayer times app; app since EOL/archived)
+MuPDF viewer,license,,Open source,AGPL-3.0,,https://api.github.com/repos/ArtifexSoftware/mupdf/license,live,GitHub license API AGPL-3.0
+MuPDF viewer,platforms,,"Android, Linux, macOS, Windows",,,https://mupdf.com/downloads/,live,Official downloads page lists Android/Linux/macOS/Windows
+Myne: Download & Read eBooks,license,,Open source,Apache License 2.0,Android,https://f-droid.org/packages/com.starry.myne/,live,"F-Droid lists Apache-2.0; identity is com.starry.myne, not stefan-niedermann/myne"
+Myne: Download & Read eBooks,platforms,,Android,,,https://f-droid.org/packages/com.starry.myne/,live,F-Droid Android listing
+NATINFo+,license,,Open source,GNU General Public License v3.0 or later,Android,http://f-droid.org/packages/net.retiolus.natinfo/,live,F-Droid license listing
+NATINFo+,platforms,,"Android, iOS, Linux",,,https://retiolus.net/about/,live,Author page lists F-Droid / Google Play / App Store / Linux
+NEST Desktop,license,,Open source,MIT License,Web,https://api.github.com/repos/nest-desktop/nest-desktop/license,live,GitHub API spdx_id MIT; web-based GUI for NEST Simulator
+NEST Desktop,platforms,,Web,,,https://api.github.com/repos/nest-desktop/nest-desktop,live,Web-based GUI per repo description
+Nheengaré,license,,Open source,GNU General Public License v3.0 only,Android,https://f-droid.org/en/packages/simbio.se.nheengare/,live,F-Droid license listing
+Nheengaré,platforms,,Android,,,https://f-droid.org/en/packages/simbio.se.nheengare/,live,F-Droid Android listing
+Nonius,license,,Open source,GNU General Public License v3.0,Android,https://api.github.com/repos/john-athan/nonius/license,live,GitHub API spdx_id GPL-3.0; measuring-instruments app
+Nonius,platforms,,Android,,,https://github.com/john-athan/nonius,live,Repo README: Android measuring instruments app; F-Droid listed
+Numerus,license,,Open source,GNU General Public License v3.0,Android,https://api.github.com/repos/konverner/numerus-app/license,live,GitHub API spdx_id GPL-3.0; LICENSE file governs over privacy-policy MIT mention
+Numerus,platforms,,Android,,,https://github.com/konverner/numerus-app/blob/HEAD/README.md,live,README: android application for language learning; F-Droid xyz.numerus
+Olam,license,,Open source,MIT License,Android,https://fxedel.gitlab.io/fdroid-website/en/packages/com.olam/,live,F-Droid mirror: MIT License; English-Malayalam dictionary
+Olam,platforms,,Android,,,https://fxedel.gitlab.io/fdroid-website/en/packages/com.olam/,live,F-Droid Android listing
+OpalaTex,license,,Open source,MIT License,"Windows, macOS, Linux",https://api.github.com/repos/opalacoderdev/OpalaTex/license,live,GitHub API spdx_id MIT; LaTeX editor with AI assistant
+OpalaTex,platforms,,"Windows, macOS, Linux",,,https://github.com/opalacoderdev/opalatex/blob/HEAD/README.md,live,README: Linux Ubuntu 24.04/26.04; Windows 10/11; macOS install
