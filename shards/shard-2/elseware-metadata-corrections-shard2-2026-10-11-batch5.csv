@@ -1,0 +1,99 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Wizz,license,,Proprietary — freemium,Free download; Wizz Gold $6.99/wk-$13.99/mo Wizz Infinity $14.99/wk,"Android, iOS",https://apps.apple.com/us/app/wizz-app-chat-now/id1452906710,live,App Store lists in-app purchases; Android app free with 5M+ installs (NOT Wizz Air airline)
+Wizz,platforms,,"Android, iOS",,,https://apps.apple.com/us/app/wizz-app-chat-now/id1452906710,live,iOS via App Store; Android via Play Store (5M+ installs)
+Slowly,license,,Proprietary — freemium,Unlimited letters free; optional premium features via in-app purchase,"Android, iOS",https://play.google.com/store/apps/details?id=com.slowlyapp,live,Play Store: unlimited letters always free; optional premium features
+Slowly,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.slowlyapp,live,Android via Play Store; iOS via App Store per slowly.app
+Bottled,license,,Proprietary — freemium,Free to download; Cruise Member subscription tiers; contains ads,"Android, iOS",https://play.google.com/store/apps/details?id=com.bottledapp.bottled,live,Play Store: contains ads + in-app purchases; Cruise Member tiers (NOT the MIT web demo)
+Bottled,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.bottledapp.bottled,live,Android via Play Store (5M+); iOS via App Store
+HypeAuditor,license,,Proprietary — freemium,Free account with limited tools; Basic $299/mo billed annually,Web,https://productlondondesign.com/hypeauditor-review/,live,Review of official pricing: Basic/Starter/Pro/Enterprise tiers; free account available
+HypeAuditor,platforms,,Web,,,https://productlondondesign.com/hypeauditor-review/,live,Web-based SaaS at hypeauditor.com; no native apps
+Social Blade,license,,Proprietary — freemium,Free tier with public stats; Bronze $3.99/mo Silver $9.99/mo higher tiers,Web,https://www.spotsaas.com/blog/social-blade-pricing-features,live,Free plan + tiered premium (Bronze/Silver/Business/Enterprise)
+Social Blade,platforms,,Web,,,https://www.spotsaas.com/blog/social-blade-pricing-features,live,Web-based analytics at socialblade.com
+NotJustAnalytics,license,,Proprietary — freemium,Free tier; Light/Standard EUR24.17/mo Pro EUR74.17/mo,"Web, iOS, Android",https://www.notjustanalytics.com/landing/smm,live,Official pricing: Light/Standard/Pro tiers; mobile app free
+NotJustAnalytics,platforms,,"Web, iOS, Android",,,https://www.notjustanalytics.com/landing/smm,live,Web at notjustanalytics.com; iOS/Android apps
+Flick,license,,Proprietary — paid subscription,Solo GBP14/mo Pro GBP30/mo Agency GBP68/mo; 7-day trial; no free plan,Web,https://www.unite.ai/flick-review/,live,Paid subscription tiers; no free plan
+Flick,platforms,,Web,,,https://www.unite.ai/flick-review/,live,Web-based at flick.social
+Linktree,license,,Proprietary — freemium,Free $0; Starter $8/mo; Pro $15/mo; Premium $35/mo,Web,https://linklay.io/guides/kb/linktree-vs-linklay-for-pricing,live,Pricing verified against official page Sep 2026: 4 tiers
+Linktree,platforms,,Web,,,https://linklay.io/guides/kb/linktree-vs-linklay-for-pricing/,live,Web-based at linktr.ee
+Beacons,license,,Proprietary — freemium,Free $0 forever; Creator Pro $10/mo; Store Pro $30/mo,Web,https://beacons.bio/i/blog/komi-vs-milkshake,live,Official Beacons blog: Free + 3 paid tiers
+Beacons,platforms,,Web,,,https://beacons.bio/i/blog/komi-vs-milkshake,live,Web-based at beacons.ai
+Stan Store,license,,Proprietary — paid subscription,Creator $29/mo; Creator Pro $99/mo; no free plan; 14-day trial,Web,https://help.stan.store/article/31-creator-vs-creator-pro,live,Official help center: 2 paid plans no free plan 0% platform fees
+Stan Store,platforms,,Web,,,https://help.stan.store/article/31-creator-vs-creator-pro,live,Web-based at stan.store
+Milkshake,license,,Proprietary — freemium,Free; Lite $2.99/mo; Pro $6.99/mo; Pro annual $59.99,"Android, iOS, Web",https://milkshake.app/how-it-works/,live,Official FAQ: free download; Pro lowers per-sale fees and unlocks premium features
+Milkshake,platforms,,"Android, iOS, Web",,,https://milkshake.app/how-it-works/,live,Official site confirms iOS and Android apps; sites work on desktop and mobile web
+Gab,license,,Proprietary — freemium,Free account with ads; GabPRO optional paid tier removes ads,"Android, iOS, Web",https://gab.com/about,live,Official FAQ: creating account posting browsing free; GabPRO optional paid
+Gab,platforms,,"Android, iOS, Web",,,https://gab.com/about,live,No native store apps (removed 2017/2018); PWA via Add to Home Screen; web at gab.com
+Hacker News,license,,Proprietary — free,Free website run by Y Combinator; no official app,Web,https://github.com/topics/ycombinator-hacker-news,live,news.ycombinator.com is free website; third-party clients only
+Hacker News,platforms,,Web,,,https://github.com/topics/ycombinator-hacker-news,live,Website only at news.ycombinator.com; no official iOS/Android app
+Tildes,license,,Open source,AGPL-3.0 (GNU Affero General Public License v3),Web,https://github.com/elyessto/tildes,live,README states AGPL-3.0; official repo at gitlab.com/tildes/tildes
+Tildes,platforms,,Web,,,https://github.com/elyessto/tildes,live,Website only at tildes.net; no official mobile app
+Lobsters,license,,Open source,BSD 3-clause permissive license,Web,https://github.com/zsarge/lobsters,live,README: code under permissive 3-clause BSD license
+Lobsters,platforms,,Web,,,https://github.com/zsarge/lobsters,live,Website only at lobste.rs; no official mobile app
+Hashnode,license,,Proprietary — freemium,Free plan for individuals; Startup $199/mo; Enterprise custom,"Android, iOS, Web",https://play.google.com/store/apps/details?id=com.hashnode.hashnode&hl=en_US,live,Play Store: free blogging platform for developers; Startup $199/mo
+Hashnode,platforms,,"Android, iOS, Web",,,https://play.google.com/store/apps/details?id=com.hashnode.hashnode&hl=en_US,live,Android app; iOS app via TestFlight/store; web at hashnode.com
+Dribbble,license,,Proprietary — freemium,Free tier; Dribbble Pro recurring subscription; Job Board $150/mo,Web,http://help.dribbble.com/en/articles/11062025-dribbble-pricing-and-payment-terms,live,Official help center: Dribbble Pro recurring subscription; job board $150/mo
+Dribbble,platforms,,Web,,,https://dribbble.com/stories/2021/01/29/sunsetting-dribbble-mobile-apps,live,Official blog: iOS and Android apps sunset Jan 2021; web-only since
+Behance,license,,Proprietary — free,Completely free; no paid tier (Adobe Creative Cloud separate),"Android, iOS, Web",https://apptopia.com/ios/app/489667151/about,live,Apptopia: Free by Adobe Inc on iOS App Store and Google Play
+Behance,platforms,,"Android, iOS, Web",,,https://apptopia.com/ios/app/489667151/about,live,iOS App Store and Google Play apps by Adobe Inc; web at behance.net
+Seamless,license,,Proprietary — freemium,Free app; Grubhub+ $9.99/mo for $0 delivery fees,"Android, iOS, Web",https://play.google.com/store/apps/details?id=com.seamlessweb.android.view&hl=en_US,live,Play Store: free food delivery app powered by Grubhub (NOT design tool)
+Seamless,platforms,,"Android, iOS, Web",,,https://play.google.com/store/apps/details?id=com.seamlessweb.android.view&hl=en_US,live,Android app; iOS App Store app; web ordering at seamless.com
+Caviar,license,,Proprietary — freemium,Free app; DashPass $9.99/mo benefits apply to Caviar orders,"Android, iOS, Web",https://food-delivery-by-caviar.apps112.com,live,Acquired by DoorDash 2019; order at trycaviar.com
+Caviar,platforms,,"Android, iOS, Web",,,https://food-delivery-by-caviar.apps112.com,live,Android via Play Store; iOS via App Store; web ordering at trycaviar.com
+Slice,license,,Proprietary — free,Free app; no paid subscription tier,"Android, iOS, Web",https://aapks.app/apk/slice-pizza-delivery-pick-up/version/74572853/,live,By Slice Pizza App; supports independent pizzerias; loyalty rewards free
+Slice,platforms,,"Android, iOS, Web",,,https://aapks.app/apk/slice-pizza-delivery-pick-up/version/74572853/,live,Android package com.slicelife.storefront; iOS App Store listing; web ordering at slice.com
+Toast TakeOut,license,,Proprietary — free,Free app; no in-app purchases; rebranded as Local by Toast,"Android, iOS, Web",https://play.google.com/store/apps/details?id=com.toasttab.consumer&hl=en_IN,live,Play Store: now called Local by Toast; by Toast Inc.; order ahead and pay in app
+Toast TakeOut,platforms,,"Android, iOS, Web",,,https://play.google.com/store/apps/details?id=com.toasttab.consumer&hl=en_IN,live,Android via Play Store; iOS via App Store; web ordering via toasttab.com
+EatStreet,license,,Proprietary — free,Free consumer app; no paid subscription tier,"Android, iOS, Web",https://eatstreet.com/new-york-city-ny/home,live,Official site: online food ordering marketplace; 15000+ restaurants
+EatStreet,platforms,,"Android, iOS, Web",,,https://eatstreet.com/new-york-city-ny/home,live,Official site offers Download The App (iOS/Android); web ordering at eatstreet.com
+BeyondMenu,license,,Proprietary — free,Free download; no paid subscription tier,"Android, iOS",https://play.google.com/store/apps/details?id=com.beyondmenu&hl=en_IE,live,Play Store: order from independent restaurants; low transparent prices
+BeyondMenu,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.beyondmenu&hl=en_IE,live,Android via Play Store; iOS via App Store; web ordering not confirmed from sources
+Yandex Eda,license,,Proprietary — free,Free app; pay per order; first delivery free,"Android, iOS, Web",https://play.google.com/store/apps/details?id=ru.foodfox.client&hl=en_GB,live,Play Store listing; Yandex subsidiary; 60000+ restaurants and stores
+Yandex Eda,platforms,,"Android, iOS, Web",,,https://play.google.com/store/apps/details?id=ru.foodfox.client&hl=en_GB,live,Android via Play Store; iOS app exists; web at eda.yandex.ru
+Delivery Club,license,,Proprietary — free,Free app; pay per order; loyalty points program,"Android, iOS, Web",https://delivery-club.en.uptodown.com/android/download/1029750962,live,Uptodown: Pricing Free / License Proprietary; acquired by Yandex Sep 2022
+Delivery Club,platforms,,"Android, iOS, Web",,,https://delivery-club.en.uptodown.com/android/download/1029750962,live,Android package com.deliveryclub; iOS/iPadOS apps; web at delivery-club.ru
+Pyszne.pl,license,,Proprietary — free,Free app; no paid subscription tier; same prices as restaurants,"Android, iOS, Web",https://play.google.com/store/apps/details?id=com.yourdelivery.pyszne&hl=en_CA,live,Play Store by Takeaway.com; largest food-ordering site in Poland
+Pyszne.pl,platforms,,"Android, iOS, Web",,,https://play.google.com/store/apps/details?id=com.yourdelivery.pyszne&hl=en_CA,live,Android via Play Store; iOS via App Store; web ordering at pyszne.pl
+SberMarket,license,,Proprietary — free,Free consumer app; pay for groceries and delivery,"Android, iOS, Web",https://scamminder.com/website/sbermarket.ru,live,Operated by Sber; online grocery delivery; 150 cities across Russia
+SberMarket,platforms,,"Android, iOS, Web",,,https://scamminder.com/website/sbermarket.ru,live,Mobile apps on iOS/Android; web ordering at sbermarket.ru
+Forks Over Knives,license,,Proprietary — paid,One-time purchase $9.99; not a subscription (official FAQ),"iOS, Web",https://www.forksoverknives.com/recipe-app/,live,Official FAQ: one-time charge not subscription; recipe app not delivery
+Forks Over Knives,platforms,,"iOS, Web",,,https://www.forksoverknives.com/recipe-app/,live,App Store $9.99 iPhone-only; Android listing no longer resolves; web recipes at forksoverknives.com
+MealBoard,license,,Proprietary — freemium,Free; Full Version Upgrade $12.99 one-time (unlimited recipes cloud sync),"iOS, Web",https://www.AppBrain.com/appstore/mealboard-meal-planner/ios-333425918,live,Free tier limited to 20 recipes; Premium is one-time purchase not subscription
+MealBoard,platforms,,"iOS, Web",,,https://www.AppBrain.com/appstore/mealboard-meal-planner/ios-333425918,live,iOS via App Store (iPhone/iPad); web interface for computer access
+My CookBook,license,,Proprietary — freemium,Free up to 105 recipes; Premium $1.99/mo auto-renewing,"Android, iOS, Web",https://www.appbrain.com/appstore/my-cookbook-recipe-manager/ios-1015322975,live,This is the mycookbook-online.net app — NOT CookBook by cookbook.company
+My CookBook,platforms,,"Android, iOS, Web",,,https://www.appbrain.com/appstore/my-cookbook-recipe-manager/ios-1015322975,live,Syncs between apps and online account; view on any computer or device
+Anylist,license,,Proprietary — freemium,Free; AnyList Complete $9.99/yr individual or $14.99/yr household,"Android, iOS, Web, macOS",https://listonic.com/best-grocery-list-apps/listonic-vs-anylist,live,Complete unlocks web app Mac app meal-planning calendar unlimited recipe import
+Anylist,platforms,,"Android, iOS, Web, macOS",,,https://listonic.com/best-grocery-list-apps/listonic-vs-anylist,live,Free on iOS/Android; Web and macOS apps require Complete subscription
+Bring!,license,,Proprietary — freemium,Free ad-supported; Bring! Premium ~$1.99/mo or ~$9/yr,"iOS, Android, Web",https://play.google.com/store/apps/details?id=ch.publisheria.bring&hl=en_AU,live,By Bring! Labs AG; free tier includes icon catalog sharing item photos recipe feed
+Bring!,platforms,,"iOS, Android, Web",,,https://play.google.com/store/apps/details?id=ch.publisheria.bring&hl=en_AU,live,iOS Android Web; also Alexa/Siri and smartwatch integrations
+OurGroceries,license,,Proprietary — freemium,Free ad-supported; single low-cost upgrade removes ads for family,"Android, iOS, Web",https://www.ourgroceries.com/faq,live,Official FAQ: OurGroceries is free with unobtrusive ads; upgrade covers all devices
+OurGroceries,platforms,,"Android, iOS, Web",,,https://play.google.com/store/apps/details?id=com.headcode.ourgroceries&hl=en&gl=US,live,Android via Play Store; iPhone/iPad via App Store; web from any laptop
+Listonic,license,,Proprietary — freemium,Full shopping feature set free; premium removes ads + personalization,"Android, iOS, Web",https://listonic.com/best-grocery-list-apps/listonic-vs-samsung-food,live,Official comparison: whole shopping feature set on free side; paywall is ad removal
+Listonic,platforms,,"Android, iOS, Web",,,https://listonic.com/best-grocery-list-apps/listonic-vs-anylist,live,Android 10M+ downloads; iOS 4.8/5; full web app free
+Grocery Gadget,license,,Proprietary — freemium,Free with ads; subscriptions remove ads: Yearly $9.99 / Monthly $0.99,"iOS, Web",https://apptail.io/app/grocery-gadget-xb/kuwait,live,App Store: serves ads to cover development; yearly sub includes free trial
+Grocery Gadget,platforms,,"iOS, Web",,,https://apptail.io/app/grocery-gadget-xb/kuwait,live,iOS via App Store; free online portal at GroceryGadgets.com
+Out of Milk,license,,Proprietary — freemium,Free; Out of Milk Pro paid unlocker (ad-free supports development),Android,https://appwisp.com/app/android/com.capigami.outofmilk,live,By InMarket Media LLC; 8.2M installs; creating/syncing/sharing completely free
+Out of Milk,platforms,,Android,,,https://appwisp.com/app/android/com.capigami.outofmilk,live,Android via Play Store (updated Oct 2025); iOS/web not confirmed from primary source
+Plurk,license,,Proprietary — freemium,Free; Plurk Coins buy 30-day premium features (ad removal),"Android, iOS, Web",https://www.plurk.com/help/en/plurk-coins,live,Official FAQ: premium features via Plurk Coins purchasable in-app
+Plurk,platforms,,"Android, iOS, Web",,,https://www.plurk.com/help/en/plurk-coins,live,iOS app and Android app; web at plurk.com
+Ello,license,,Proprietary — freemium,Free; paid special features (freemium model),Web,https://alchetron.com/Ello-(social-network),live,Free to use; ad-free art social network (ello.co now serves unrelated content — defunct)
+Ello,platforms,,Web,,,https://alchetron.com/Ello-(social-network),live,Historical service; ello.co domain now unrelated — flagged for catalog review
+DeviantArt,license,,Proprietary — freemium,Free tier; Core membership $6.67-$16.67/mo,"Android, iOS, Web",https://www.deviantart.com/core-membership,live,Free basic membership; paid Core tiers per official pricing page
+DeviantArt,platforms,,"Android, iOS, Web",,,https://www.apkmirror.com/apk/deviantart/deviantart/deviantart-2-1-1-release/,live,Official mobile app on Android and iOS; web at deviantart.com
+ArtStation,license,,Proprietary — freemium,Free tier; Plus $6.99/mo; Pro $9.95/mo; Studio $29.99/mo,"Android, iOS, Web",https://www.morningdough.com/ai-tools/artstation/,live,Free plan with revenue share; Plus/Pro/Studio paid tiers
+ArtStation,platforms,,"Android, iOS, Web",,,https://magazine.artstation.com/2017/11/publish-artwork-app/,live,Official ArtStation app on App Store and Google Play; web at artstation.com
+Cara,license,,Proprietary — freemium,Free to use; optional in-app purchases,"Android, iOS, Web",http://worldsapps.com/discussion-cara-art-social,live,Free entry level; optional in-app purchases for upgrades
+Cara,platforms,,"Android, iOS, Web",,,https://gizmodo.com/download/cara-art-social,live,Android and iOS apps plus web presence at cara.app
+Newgrounds,license,,Proprietary — freemium,Free; $25/12-month ad-free subscription option,Web,https://alchetron.com/Newgrounds,live,Free community site; ad-free subscription option $25/year
+Newgrounds,platforms,,Web,,,https://alchetron.com/Newgrounds,live,Web portal (Movie/Game/Art portals); no official mobile app
+IFunny,license,,Proprietary — freemium,Free app; Premium ~$2.99-$4.99/mo,"Android, iOS",https://www.remodelormove.com/who-is-the-owner-of-ifunny/,live,Free app with coins and premium subscription in-app purchases
+IFunny,platforms,,"Android, iOS",,,https://www.remodelormove.com/who-is-the-owner-of-ifunny/,live,iOS App Store and Google Play Store apps
+9GAG,license,,Proprietary — freemium,Free; in-app purchases (9GAG Pro ~$4.99/mo),"Android, iOS, Web",https://apptail.io/app/9gag-best-lol-pics-gifs-UAc/united-kingdom,live,App Store lists in-app purchases: Unlock 9GAG Pro PRO+ upgrades
+9GAG,platforms,,"Android, iOS, Web",,,https://www.saashub.com/compare-9gag-vs-feedly,live,Website 9gag.com; iOS/Android mobile apps
+Memedroid,license,,Proprietary — free,Free; no paid tier,"Android, iOS, Web",https://slashdot.org/software/comparison/Jokr.bar-vs-Memedroid/,live,Pricing listed as Free with free version available
+Memedroid,platforms,,"Android, iOS, Web",,,https://slashdot.org/software/comparison/Jokr.bar-vs-Memedroid/,live,Web-Based plus iPhone iPad and Android apps; web at memedroid.com
+Imgur,license,,Proprietary — freemium,Free; Emerald ad-free subscription $5/mo via Coil,"Android, iOS, Web",https://mobilesyrup.com/2020/08/19/imgur-emerald-subscription-coil-online-payments/,live,Emerald subscription $5/month for ad-free browsing
+Imgur,platforms,,"Android, iOS, Web",,,https://mobilesyrup.com/2020/08/19/imgur-emerald-subscription-coil-online-payments/,live,Web platform plus Android and iOS apps
+LiveMe,license,,Proprietary — freemium,Free; coins in-app purchases $0.99-$99.99; VIP $19.99/mo,"Android, iOS, Web",https://justuseapp.com/en/app/1089836344/liveme-live-stream-video-chat/reviews,live,Free live streaming; coins and VIP subscriptions via in-app purchase
+LiveMe,platforms,,"Android, iOS, Web",,,https://www.mtcgame.com/en-CA/liveme/liveme-coins/liveme-629-coin,live,LiveMe app on mobile plus liveme.com web platform
+YouNow,license,,Proprietary — freemium,Free; coins for virtual gifts via in-app purchase,"Android, iOS, Web",https://www.apkmirror.com/apk/younow-inc/younow-live-stream-video-chat-2/,live,Free to use for broadcasters and viewers; virtual gifts require purchased coins
+YouNow,platforms,,"Android, iOS, Web",,,https://www.apkmirror.com/apk/younow-inc/younow-live-stream-video-chat-2/,live,Android app via Play Store; iOS app; web at younow.com
