@@ -1,0 +1,71 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+SolanaFM,license,,Proprietary — free,Free Solana block explorer; no paid tier,Web,https://solana.fm,live,Free web-based Solana explorer (acquired by Jupiter Sep 2024); explorer use requires no signup
+SolanaFM,platforms,,Web,,,https://solana.fm,live,Web-based block explorer at solana.fm
+"Status - Chat, Wallet, Browser",license,,Open source,Mozilla Public License 2.0 (MPL-2.0),,https://api.github.com/repos/status-im/status-go/license,live,GitHub API: status-im/status-go and status-im/status-mobile LICENSE.md is MPL-2.0; OSI-approved; status.im confirms open source and free
+"Status - Chat, Wallet, Browser",platforms,,"Android, iOS, Windows, macOS, Linux",,,https://status.im/,live,Official site: messenger/wallet/browser with Status desktop app; mobile and desktop clients
+Swan Bitcoin,license,,Proprietary — free,Free Bitcoin investment platform; no paid tier,,https://www.swanbitcoin.com,live,Official: free Swan app to buy/learn/earn Bitcoin; fees on trades only
+Swan Bitcoin,platforms,,"Web, iOS, Android",,,https://www.swanbitcoin.com,live,Official site plus Swan mobile app
+Tokocrypto,license,,Proprietary — free,Free Indonesian crypto exchange; no paid tier,,https://www.tokocrypto.com,live,Official: free exchange; apps for Android and iOS
+Tokocrypto,platforms,,"Web, Android, iOS",,,https://www.tokocrypto.com,live,Official: web exchange; download apps for Android and iOS
+Unstoppable Crypto Wallet,license,,Open source,MIT license,,https://api.github.com/repos/horizontalsystems/unstoppable-wallet-android/license,live,GitHub API: horizontalsystems/unstoppable-wallet-android LICENSE is MIT (spdx_id MIT); iOS repo also MIT; NOT Unstoppable Domains - this is Horizontal Systems' Unstoppable wallet
+Unstoppable Crypto Wallet,platforms,,"Android, iOS",,,https://github.com/horizontalsystems/unstoppable-wallet-android,live,"Android and iOS repos (unstoppable-wallet-android, unstoppable-wallet-ios); homepage unstoppable.money"
+velaHita,license,,Proprietary — free,"Free stock and crypto analytics; token-based reports, no subscription",Web,https://www.velahita.com/,live,"Official: Start free - reports token-based, no subscription required"
+velaHita,platforms,,Web,,,https://www.velahita.com/,live,Web-based analytics workspace
+WhiteBit,license,,Proprietary — free,Free crypto exchange signup; no paid tier,,https://whitebit.com,live,Official: free signup; website and mobile app
+WhiteBit,platforms,,"Web, iOS, Android",,,https://whitebit.com,live,Official: website plus mobile app
+XRPScan,license,,Proprietary — free,Free XRP Ledger explorer; no paid tier,,https://xrpscan.com,live,Free XRPL explorer with public API; explorer frontend not under an open-source license (xrpscan GitHub org repos carry no license)
+XRPScan,platforms,,Web,,,https://xrpscan.com,live,Web-based XRP Ledger explorer
+Zengo,license,,Proprietary — free,,Free MPC crypto wallet app; no paid tier,https://zengo.com,live,Official: free wallet; App Store and Google Play badges on site
+Zengo,platforms,,"iOS, Android",,,https://zengo.com,live,Official site links App Store and Google Play
+Zodl: Zcash Wallet,license,,Open source,MIT License,,https://tobias_groza.gitlab.io/fdroid-website/en/packages/co.electriccoin.zcash.foss/,live,F-Droid: MIT License by Zerocoin Electric Coin Company; rebranded Zashi to Zodl Feb 2026
+Zodl: Zcash Wallet,platforms,,"Android, iOS",,,https://github.com/dolepee/zechub/blob/HEAD/site/Zcash_Organizations/ZODL.md,live,"iOS App Store, Android Play Store, F-Droid"
+Aard 2,license,,Open source,GNU General Public License v3.0 only,,https://hackintosh5.gitlab.io/fdroid-website/packages/itkach.aard2/,live,"F-Droid: GPL-3.0-only; offline dictionary, successor to aarddict.android"
+Aard 2,platforms,,Android,,,https://hackintosh5.gitlab.io/fdroid-website/packages/itkach.aard2/,live,F-Droid: requires Android 4.4+
+AELF - Bible and day's reading,license,,Open source,MIT License,,https://f-droid.org/fr/packages/co.epitre.aelf_lectures/,live,F-Droid canonical: MIT License; no ads or trackers; package co.epitre.aelf_lectures
+AELF - Bible and day's reading,platforms,,Android,,,https://f-droid.org/fr/packages/co.epitre.aelf_lectures/,live,F-Droid: requires Android 5.0+
+Aggregator,license,,Open source,GNU General Public License v3.0 only,,https://fdroid.gitlab.io/jekyll-fdroid/packages/com.tughi.aggregator/,live,F-Droid: GPL-3.0-only; GitHub tughi/aggregator-android README confirms GPLv3
+Aggregator,platforms,,Android,,,https://fdroid.gitlab.io/jekyll-fdroid/packages/com.tughi.aggregator/,live,F-Droid: requires Android 5.0+
+Al-Quran - Simple,license,,Open source,AGPL-3.0-only,,https://f-droid.org/packages/com.github.meypod.al_quran,live,F-Droid: AGPL-3.0-only; simple open-source Quran reader by Meypod
+Al-Quran - Simple,platforms,,Android,,,https://f-droid.org/packages/com.github.meypod.al_quran,live,F-Droid listing; Android app
+AlphaPlot,license,,Open source,GNU General Public License v3.0,,https://github.com/narunlifescience/alphaplot/blob/HEAD/README.md,live,GitHub README: GPL3 license badge; scientific data analysis and visualization
+AlphaPlot,platforms,,"Windows, Linux, macOS",,,https://github.com/narunlifescience/alphaplot/blob/HEAD/README.md,live,"README: for Windows, Linux and Mac OS X"
+AndBible: Bible Study,license,,Open source,GNU General Public License v3.0,,https://github.com/AndBible/and-bible,live,Canonical repo: License GPL-3.0; README states free software under GPL v3 or later
+AndBible: Bible Study,platforms,,Android,,,https://github.com/AndBible/and-bible,live,README: offline Bible study application for Android
+AnkiDroid: Flashcards,license,,Open source,GNU General Public License v3.0,,https://api.github.com/repos/ankidroid/Anki-Android/license,live,GitHub API: COPYING is GPL v3 text; ankidroid/Anki-Android
+AnkiDroid: Flashcards,platforms,,Android,,,https://api.github.com/repos/ankidroid/Anki-Android/license,live,Repo ankidroid/Anki-Android: Android flashcard app
+Apod MD,license,,Open source,MIT License,,http://f-droid.org/packages/com.jvillalba.apod.md/,live,F-Droid: MIT License; NASA Astronomy Picture of the Day with Material Design
+Apod MD,platforms,,Android,,,http://f-droid.org/packages/com.jvillalba.apod.md/,live,F-Droid: requires Android 5.0+
+Areada,license,,Open source,Apache License 2.0,,https://f-droid.org/packages/app.areada/,live,F-Droid canonical: Apache-2.0; minimal offline reader (EPUB/PDF/TXT/FB2)
+Areada,platforms,,Android,,,https://f-droid.org/packages/app.areada/,live,F-Droid: Android reader app
+Atomify LAMMPS,license,,Open source,GNU General Public License v3.0 (GPL-3.0),Android,https://api.github.com/repos/ovilab/atomify-lammps/license,live,"GitHub API: ovilab/atomify-lammps LICENSE is GPL v3 text; app description confirms ""Atomify LAMMPS is open source (GPLv3)"""
+Atomify LAMMPS,platforms,,Android,,,https://api.github.com/repos/ovilab/atomify-lammps/license,live,Android app (com.compphys.atomify); GitHub repo is the desktop Qt version of the same GPLv3 codebase
+Bibel-Kapitel-Losung,license,,Open source,GNU Affero General Public License v3.0 only (AGPL-3.0),Android,https://f-droid.org/bo/packages/de.bernd.bikalo/index.html,live,F-Droid: license listed as GNU Affero General Public License v3.0 only; free and open source Android app repository
+Bibel-Kapitel-Losung,platforms,,Android,,,https://f-droid.org/bo/packages/de.bernd.bikalo/index.html,live,F-Droid listing; requires Android 5.0+
+Blue Line Solar Info,license,,Open source,Apache License 2.0 (Apache-2.0),Android,https://github.com/nhirokinet/bluelinesolarinfo,live,GitHub API: LICENSE is Apache-2.0 text; F-Droid lists net.nhiroki.bluelinesolarinfo (sun and moon information)
+Blue Line Solar Info,platforms,,Android,,,https://github.com/nhirokinet/bluelinesolarinfo,live,F-Droid package net.nhiroki.bluelinesolarinfo; Android app
+Boky Fivavahana Anglikana,license,,Open source,GNU General Public License v3.0 (GPL-3.0),Android,https://github.com/ulightm111/boky-fivavahana-ion,live,GitHub API: LICENSE is GPL-3.0 text; F-Droid package com.uli.bokyfivavahana2. Note: this is the FOSS F-Droid/GitHub version; a separate proprietary Play Store app (brichard.com.fivavahana by Lead Code Group) shares the name
+Boky Fivavahana Anglikana,platforms,,Android,,,https://github.com/ulightm111/boky-fivavahana-ion,live,F-Droid package com.uli.bokyfivavahana2; Android 7.0+
+BookStash,license,,Open source,GNU General Public License v3 (GPLv3),Android,https://f-droid.org/packages/com.bookstash.app/,live,"F-Droid listing: Free and open. GPLv3. No paywalled features, no ads, no tracking; private offline-first reader for web fiction and books"
+BookStash,platforms,,Android,,,https://f-droid.org/packages/com.bookstash.app/,live,F-Droid package com.bookstash.app; Android app
+Braincup - Brain Training,license,,Open source,Apache License 2.0 (Apache-2.0),"Android, iOS, Web, Windows, macOS, Linux",https://github.com/SimonSchubert/Braincup,live,GitHub API: LICENSE is Apache-2.0 text; F-Droid package com.inspiredandroid.braincup
+Braincup - Brain Training,platforms,,"Android, iOS, Web, Windows, macOS, Linux",,,https://github.com/SimonSchubert/Braincup,live,"Repo README: F-Droid + Play Store (Android), App Store (iOS), braincup.app (Web), DMG/MSI/DEB/RPM/AppImage (macOS/Windows/Linux)"
+Calculator You: Math & Units,license,,Open source,GNU General Public License v3.0 (GPL-3.0),Android,https://github.com/forzzzzz/Calculator-You,live,GitHub API: LICENSE.txt is GPL-3.0 text; F-Droid package com.marktka.calculatorYou
+Calculator You: Math & Units,platforms,,Android,,,https://github.com/forzzzzz/Calculator-You,live,F-Droid package com.marktka.calculatorYou; Play Store com.marktka.calculatorYou; Android app
+Cantonese Keyboard - Jyutping,license,,Open source,Creative Commons Zero v1.0 Universal (CC0-1.0),"Android, iOS",https://github.com/yuetyam/jyutping-android,live,GitHub API: COPYING.txt is CC0-1.0 (spdx_id CC0-1.0); F-Droid package org.jyutping.jyutping lists CC0-1.0
+Cantonese Keyboard - Jyutping,platforms,,"Android, iOS",,,https://github.com/yuetyam/jyutping-android,live,F-Droid org.jyutping.jyutping (Android); App Store id1509367629 (iOS)
+CBETA 電子佛典 2 (非官方),license,,Open source,MIT License (MIT),Android,https://github.com/MrMYHuang/cbetar2,live,GitHub API: LICENSE.txt is MIT (spdx_id MIT); Play Store listing io.github.mrmyhuang.cbetar2 states open source code pointing to this repo
+CBETA 電子佛典 2 (非官方),platforms,,Android,,,https://github.com/MrMYHuang/cbetar2,live,Play Store io.github.mrmyhuang.cbetar2; Android app
+Chaka Book Reader,license,,Open source,GNU Affero General Public License v3.0 (AGPL-3.0),Android,https://github.com/elementdavv/chaka,live,GitHub API: COPYING is GNU AGPL v3 text; F-Droid package net.timelegend.chaka.viewer.app; MuPDF-based reader
+Chaka Book Reader,platforms,,Android,,,https://github.com/elementdavv/chaka,live,F-Droid package net.timelegend.chaka.viewer.app; Android app
+ChemistryLab,license,,Open source,MIT License (MIT),Android,https://f-droid.org/en/packages/com.chemistry.admin.chemistrylab/,live,F-Droid listing states MIT License; chemical laboratory simulation app for Android; source on GitLab
+ChemistryLab,platforms,,Android,,,https://f-droid.org/en/packages/com.chemistry.admin.chemistrylab/,live,F-Droid package com.chemistry.admin.chemistrylab; Android 4.2+
+Clay Tablet,license,,Open source,GNU General Public License v3.0 or later,Android,https://f-droid.org/packages/com.mehrphilalethes.claytablet/,live,F-Droid: cuneiform practice app; License: GNU General Public License v3.0 or later
+Clay Tablet,platforms,,Android,,,https://f-droid.org/packages/com.mehrphilalethes.claytablet/,live,F-Droid listing; Android app
+CO3,license,,Open source,GNU General Public License v3.0 or later,Android,https://f-droid.org/packages/com.co3/,live,F-Droid: AO3 mobile client; License: GNU General Public License v3.0 or later
+CO3,platforms,,Android,,,https://f-droid.org/packages/com.co3/,live,F-Droid listing; Android app
+Comfort Reader,license,,Open source,GNU General Public License v3.0 only,Android,https://f-droid.org/packages/com.mschlauch.comfortreader/,live,F-Droid: streams text directly to your eyes; GPL-3.0-only
+Comfort Reader,platforms,,Android,,,https://f-droid.org/packages/com.mschlauch.comfortreader/,live,F-Droid listing; Android app
+Dahdidahdit — The Morse Trainer,license,,Open source,GNU General Public License v3.0 only,Android,https://f-droid.org/packages/com.paddlesandbugs.dahdidahdit/,live,F-Droid: The Morse Trainer; License: GNU General Public License v3.0 only
+Dahdidahdit — The Morse Trainer,platforms,,Android,,,https://f-droid.org/packages/com.paddlesandbugs.dahdidahdit/,live,F-Droid listing; Android app
+DayExam,license,,Open source,GNU Affero General Public License v3.0 or later,Android,https://f-droid.org/packages/com.gorden.dayexam,live,F-Droid: exam question bank management and learning tool; AGPL-3.0-or-later
+DayExam,platforms,,Android,,,https://f-droid.org/packages/com.gorden.dayexam,live,F-Droid listing; Android app
