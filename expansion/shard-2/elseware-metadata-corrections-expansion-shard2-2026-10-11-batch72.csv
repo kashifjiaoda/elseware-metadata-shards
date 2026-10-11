@@ -1,0 +1,60 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Track My Train - Live Status,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=track.my.train.live.status.train.tracker,live,Closed-source train status app; Play listing price 0 with no In-App Purchases marker
+Track My Train - Live Status,platforms,,Android,,,https://play.google.com/store/apps/details?id=track.my.train.live.status.train.tracker,live,"Android only — no exact-name iOS listing (iOS candidates are differently-titled ""Where is My Train"" apps)"
+Traveloka: Book Hotel & Flight,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.traveloka.android,live,Closed-source travel booking app by Trinusa Travelindo; free download no In-App Purchases marker on Play
+Traveloka: Book Hotel & Flight,platforms,,"Android, iOS",,,https://apps.apple.com/app/id898244857,live,Android (Play com.traveloka.android) + iOS (App Store id 898244857 by Trinusa Travelindo PT)
+Unidas - Aluguel de Carros,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=br.com.unidas.apprac.android,live,Closed-source car rental app by Unidas Locadora; free no In-App Purchases marker on Play
+Unidas - Aluguel de Carros,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1436660799,live,"Android (Play br.com.unidas.apprac.android) + iOS (App Store id 1436660799 by Unidas Locadora SA; store title variant ""Unidas Aluguel de Carros"" no hyphen)"
+Water Eject & Speaker Cleaner,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.motivateapps.watereject,live,Closed-source speaker cleaner utility; Play listing shows In-App Purchases marker
+Water Eject & Speaker Cleaner,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6499516431,live,"Android (Play com.motivateapps.watereject) + iOS (App Store id 6499516431 by TINY BOOM LIMITED); punctuation title variants (""Water Eject: Speaker Cleaner"" / ""Water Eject ‒ Speaker Cleaner""); different publishers per store noted"
+Yango Music: Online & offline,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.yango.saft.music,live,Closed-source music streaming app; Play listing shows In-App Purchases marker
+Yango Music: Online & offline,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6742648873,live,"Android (Play com.yango.saft.music) + iOS (App Store id 6742648873 by FUNTECH LOYALTY CARD SERVICES L.L.C.; store title variant ""Yango Music: Listen to songs"")"
+Zofeur - Hire a Safe Driver.,license,,Proprietary — free,,,https://apps.apple.com/app/id1520275979,live,Closed-source driver-hire app by Zofeur FZ-LLC; Free on App Store
+Zofeur - Hire a Safe Driver.,platforms,,iOS,,,https://apps.apple.com/app/id1520275979,live,iOS only — no exact-name Android listing found on Play Store
+9Weather: Weather forecast,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=amobi.weather.forecast.storm.radar,live,Closed-source weather app by AMOBI; Play listing shows In-App Purchases marker
+9Weather: Weather forecast,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6467690935,live,Android (Play amobi.weather.forecast.storm.radar) + iOS (App Store id 6467690935 by AMOBI LAB INFORMATICS COMPANY LIMITED)
+AccuWeather Weather Forecast,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.accuweather.android,live,Closed-source weather app; Play listing shows In-App Purchases marker (freemium is the safer grounded badge)
+AccuWeather Weather Forecast,platforms,,"Android, iOS",,,https://apps.apple.com/app/id300048137,live,"Android (Play com.accuweather.android titled ""AccuWeather: Weather Radar"") + iOS (App Store id 300048137 ""AccuWeather: Weather Forecast"" by AccuWeather International Inc.)"
+AdBlock Pro für Safari-Browser,license,,Proprietary — free,,,https://apps.apple.com/app/id1018301773,live,Closed-source Safari content blocker by Crypto Inc.; Gratis on App Store DE with no in-app-purchase features
+AdBlock Pro für Safari-Browser,platforms,,"iOS, macOS",,,https://apps.apple.com/app/id1018301773,live,iOS + macOS (supportedDevices lists MacDesktop plus iPhone/iPad); German-localized store title exact match
+AI Agent Interview Guide,license,,Open source,MIT License,,https://github.com/bcefghj/ai-agent-interview-guide,live,GitHub API: MIT license on bcefghj/ai-agent-interview-guide (3.1k stars); interview-guide docs repo — license-only row no end-user platform
+AI Cleaner: Clean up Storage,license,,Proprietary — free,,,https://apps.apple.com/app/id6448330325,live,Free on App Store by GRIMLAX TRADE S.L.; no In-app purchases section
+AI Cleaner: Clean up Storage,platforms,,iOS,,,https://apps.apple.com/app/id6448330325,live,iOS only — no exact-name Android listing on Play Store
+Animeko,license,,Proprietary — free,,,https://apps.apple.com/app/id6762345858,live,Free on App Store by seller Yang Yongqing; store title variant noted (Animeko + Chinese suffix)
+Animeko,platforms,,iOS,,,https://apps.apple.com/app/id6762345858,live,iOS only — no exact-name Android listing on Play Store
+Apex Clean: Security AntiVirus,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.winde.apex,live,Free on Play Store; no In-app purchases marker; Contains ads
+Apex Clean: Security AntiVirus,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.winde.apex,live,Android only — no exact-name iOS listing on App Store
+Apple Configurator,license,,Proprietary — free,,,https://apps.apple.com/app/id1588794674,live,Free on App Store by Apple Inc.; no In-app purchases section
+Apple Configurator,platforms,,iOS,,,https://apps.apple.com/app/id1588794674,live,iOS only
+Astrbot Plugin Qq Group Daily Analysis,license,,Open source,MIT License,,https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis,live,AstrBot plugin; raw LICENSE is MIT License text
+AuroraWatch UK Aurora Alerts,license,,Proprietary — free,,,https://apps.apple.com/app/id946141347,live,Free on App Store by Progress Concepts Limited; no IAP features
+AuroraWatch UK Aurora Alerts,platforms,,iOS,,,https://apps.apple.com/app/id946141347,live,iOS only — Play Store listing is an unofficial third-party wrapper (Mountain Goat Apps); not the official app
+AXISnet Cek & Beli Kuota Data,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.axis.net,live,Play exact catalog-name title; no In-app purchases markers; App Store AXISNet id 497146073 by PT XL Axiata Tbk Free
+AXISnet Cek & Beli Kuota Data,platforms,,"Android, iOS",,,https://apps.apple.com/app/id497146073,live,Android (Play com.axis.net) + iOS (App Store id 497146073)
+Billd Desk,license,,Open source,MIT License,,https://github.com/galaxy-s10/billd-desk,live,LICENSE.txt is MIT License text (catalog name is spaced variant of BilldDesk)
+Billd Desk,platforms,,"Windows, macOS, Android",,,https://github.com/galaxy-s10/billd-desk,live,Open-source edition README: win mac Android (Vue3 + WebRTC + Nodejs + Electron + Flutter)
+Bookkeeping I OS,license,,Open source,MIT License,,https://github.com/378056350/bookkeeping-iOS,live,Raw LICENSE is MIT License text (catalog name is spaced variant of bookkeeping-iOS)
+Bookkeeping I OS,platforms,,iOS,,,https://github.com/378056350/bookkeeping-iOS,live,iOS accounting app (Shark accounting iOS clone)
+Burp APIFinder,platforms,,"Windows, macOS, Linux",,,https://github.com/shuanx/BurpAPIFinder,live,Burp Suite extension (JDK 9+); repo declares no license; Burp Suite runs on Windows macOS Linux
+Calculator Lock - Secure Vault,license,,Proprietary — free,,,https://apps.apple.com/us/app/id6446200267,live,"Free on App Store by Zipo Apps Ltd.; iTunes lookup API price 0.00, no IAP indicators in lookup data"
+Calculator Lock - Secure Vault,platforms,,iOS,,,https://apps.apple.com/us/app/id6446200267,live,iOS only — no exact-name Android listing found on Play Store
+Carteira de Trabalho Digital,license,,Proprietary — free,,,https://apps.apple.com/us/app/id1295257499,live,"Free on App Store by Servicos e Informacoes do Brasil; iTunes lookup API price 0.00, no IAP indicators in lookup data"
+Carteira de Trabalho Digital,platforms,,iOS,,,https://apps.apple.com/us/app/id1295257499,live,iOS only — no exact-name Android listing surfaced by Play Store search
+CekSaldo: e-Money & Flazz,license,,Proprietary — free,,,https://apps.apple.com/us/app/id6800284313,live,"Free on App Store by Robihamanto Robihamanto; iTunes lookup API price 0.00, no IAP indicators in lookup data"
+CekSaldo: e-Money & Flazz,platforms,,iOS,,,https://apps.apple.com/us/app/id6800284313,live,iOS only — no exact-name Android listing found on Play Store
+Clean Manager: Storage Cleaner,license,,Proprietary — free,,,https://apps.apple.com/us/app/id1579881271,live,"Free on App Store by Quiet; iTunes lookup API price 0.00, no IAP indicators in lookup data"
+Clean Manager: Storage Cleaner,platforms,,iOS,,,https://apps.apple.com/us/app/id1579881271,live,iOS only — no exact-name Android listing found on Play Store
+Cleanio: AI Phone Cleaner,license,,Proprietary — free,,,https://apps.apple.com/us/app/id6759313435,live,"Free on App Store by MARSBY TEKNOLOJI ANONIM SIRKETI; iTunes lookup API price 0.00, no IAP indicators in lookup data"
+Cleanio: AI Phone Cleaner,platforms,,iOS,,,https://apps.apple.com/us/app/id6759313435,live,iOS only — no exact-name Android listing found on Play Store
+Damini : Lightning Alert,license,,Proprietary — free,,,https://apps.apple.com/app/id1502385645,live,"Free on App Store by sudhir pawar; features show iosUniversal only, no IAP"
+Damini : Lightning Alert,platforms,,iOS,,,https://apps.apple.com/app/id1502385645,live,iOS only — exact title match id 1502385645; Android Play listing unconfirmed from whitelisted sources this run
+DiskDigger photo/file recovery,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.defianttech.diskdigger,live,Free Play listing by defianttech; no In-app purchases or Contains ads markers
+DiskDigger photo/file recovery,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.defianttech.diskdigger,live,Android only — exact og:title match; iOS has only differently-titled clones
+Doubao Downloader,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/LauZzL/doubao-downloader/HEAD/LICENSE,authoritative,Raw LICENSE text is GPL-3.0; catalog name is spaced variant of repo doubao-downloader
+Doubao Downloader,platforms,,Web,,,https://github.com/LauZzL/doubao-downloader,live,README: browser extension / Tampermonkey userscript for doubao/Dola downloads
+Dsh Context,license,,Open source,Apache License 2.0,,https://raw.githubusercontent.com/bowenliang123/dsh-context/HEAD/LICENSE,authoritative,Raw LICENSE text is Apache License 2.0; catalog name is spaced variant of repo dsh-context; DeepSeek Harness plugin (npm package) — license-only row
+EAC Desktop,license,,Open source,MIT License,,https://raw.githubusercontent.com/Ebony-Vinyl/EAC-Desktop/HEAD/LICENSE,authoritative,Raw LICENSE text is MIT; catalog name is spaced variant of repo EAC-Desktop; README does not declare end-user OS platforms — license-only row
+EasyShare - device switch tool,license,,Proprietary — free,,,https://apps.apple.com/app/id1098549780,live,"Free on App Store by vivo Mobile Communication Co. Ltd.; features show iosUniversal only, no IAP"
+EasyShare - device switch tool,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.vivo.easyshare,live,"Android (Play com.vivo.easyshare, no IAP/ads markers) + iOS (App Store id 1098549780)"
+Ehentai Qt,license,,Open source,LGPL-3.0,,https://raw.githubusercontent.com/tonquer/ehentai-qt/HEAD/LICENSE,authoritative,Raw LICENSE text is LGPL-3.0; catalog name is spaced variant of repo ehentai-qt
+Ehentai Qt,platforms,,"Windows, macOS, Linux",,,https://github.com/tonquer/ehentai-qt,live,"README: Ehentai PC client (Support Window, Linux and macOS)"
