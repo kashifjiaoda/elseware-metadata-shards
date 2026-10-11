@@ -1,0 +1,64 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+IndianOil ONE,license,,Proprietary — free,,,https://apps.apple.com/in/app/indianoil-one/id1444511410?uo=4,live,"Exact-name App Store (IN) match by Indian Oil Corporation Limited, price $0.00; closed source"
+IndianOil ONE,platforms,,iOS,,,https://apps.apple.com/in/app/indianoil-one/id1444511410?uo=4,live,App Store (IN) listing; Android listing not identifiable from whitelisted sources
+Jobstreet: Smart job matching,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.jobstreet.jobstreet,live,"Exact-name Play Store match (SEEK Asia / Jobstreet.com Private Limited), price $0; closed source"
+Jobstreet: Smart job matching,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.jobstreet.jobstreet,live,Play Store listing; iOS not confirmed from whitelisted sources
+Kisan Bhai - Munafa Double,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=in.animall.agri,live,"Exact-name Play Store match (Animall agritech app), price $0; closed source"
+Kisan Bhai - Munafa Double,platforms,,Android,,,https://play.google.com/store/apps/details?id=in.animall.agri,live,Play Store listing
+Mahindra For You,license,,Proprietary — free,,,https://apps.apple.com/us/app/mahindra-for-you/id670246123?uo=4,live,"Exact-name App Store match by Mahindra & Mahindra Ltd, price $0.00; closed source"
+Mahindra For You,platforms,,iOS,,,https://apps.apple.com/us/app/mahindra-for-you/id670246123?uo=4,live,App Store listing; Android listing not found from whitelisted sources
+MyPertamina,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.dafturn.mypertamina,live,"Exact-name Play Store match (PT Pertamina (Persero)), price $0; closed source"
+MyPertamina,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.dafturn.mypertamina,live,Android via Play Store; iOS via exact-name App Store match https://apps.apple.com/us/app/mypertamina/id1295039064?uo=4 (price $0.00)
+NPS by Protean eGov,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=nps.nps,live,"Exact-name Play Store match (Protean eGov Technologies Ltd), price $0; closed source"
+NPS by Protean eGov,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=nps.nps,live,Android via Play Store; iOS via exact-name App Store match https://apps.apple.com/us/app/nps-by-protean-egov/id1095960980?uo=4 (price $0.00)
+PAK IDENTITY,license,,Proprietary — free,Free closed-source government app by National Database and Registration Authority,,https://apps.apple.com/app/id1563975817,live,"App Store listing: Free,  no in-app purchases"
+PAK IDENTITY,platforms,,iOS; Android,,,https://play.google.com/store/apps/details?id=pk.gov.nadra.pakid,live,"Android listing title is ""Pak Identity"" (case variant),  price 0,  same NADRA developer"
+Pila8,license,,Proprietary — free,Free closed-source by Besimple Inc.,,https://apps.apple.com/app/id6793327431,live,"App Store listing: Free,  no in-app purchases"
+Pila8,platforms,,iOS; Android,,,https://play.google.com/store/apps/details?id=com.besimple.pila8,live,"Play listing ""Pila8 Besimple"",  price 0"
+PopBox Asia,license,,Proprietary — free,Free closed-source smart-locker app by PopBox Asia,,https://play.google.com/store/apps/details?id=asia.popbox.consumer,live,"Play exact-title match,  price 0"
+PopBox Asia,platforms,,Android,,,https://play.google.com/store/apps/details?id=asia.popbox.consumer,live,Play exact-title match
+Secullum RH,license,,Proprietary — free,Free closed-source HR app by Secullum Softwares,,https://apps.apple.com/app/id1434571841,live,"App Store listing: Free,  no in-app purchases"
+Secullum RH,platforms,,iOS,,,https://apps.apple.com/app/id1434571841,live,App Store exact-title match
+Shell Box: Abasteça e ganhe,license,,Proprietary — free,Free closed-source fuel loyalty app by Raizen Combustiveis,,https://apps.apple.com/app/id1037433060,live,"App Store listing: Free,  no in-app purchases"
+Shell Box: Abasteça e ganhe,platforms,,iOS,,,https://apps.apple.com/app/id1037433060,live,App Store exact-title match
+Shory Insurance | شوري,license,,Proprietary — free,Free closed-source insurance app by SHORY TECHNOLOGY L.L.C.,,https://apps.apple.com/app/id1601026503,live,App Store listing: Free
+Shory Insurance | شوري,platforms,,iOS,,,https://apps.apple.com/app/id1601026503,live,App Store exact-title match
+SPX Motorista Parceiro,license,,Proprietary — free,Free closed-source driver app by SHPX Logistica Ltda,,https://play.google.com/store/apps/details?id=com.shopee.spx.driver.brazil,live,"Play exact-title match,  price 0"
+SPX Motorista Parceiro,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.shopee.spx.driver.brazil,live,Play exact-title match
+Talenta,license,,Proprietary — free,Free closed-source HR app by MID SOLUSI NUSANTARA PT,,https://apps.apple.com/app/id1459958693,live,"App Store listing: Free,  no in-app purchases"
+Talenta,platforms,,iOS,,,https://apps.apple.com/app/id1459958693,live,App Store exact-title match
+Unimed,license,,Proprietary — free,Free closed-source health app by Unimed do Brasil confederation,,https://apps.apple.com/app/id6741066760,live,App Store exact-title match by national confederation; regional Unimed apps exist separately
+Unimed,platforms,,iOS,,,https://apps.apple.com/app/id6741066760,live,App Store exact-title match
+Zoom Rooms,license,,Proprietary — free,,,https://apps.apple.com/us/app/zoom-rooms/id900259081?uo=4,live,"Closed source; free download, requires paid Zoom Rooms license"
+Zoom Rooms,platforms,,"iOS, Android",,,https://apps.apple.com/us/app/zoom-rooms/id900259081?uo=4,live,"iOS app by Zoom Communications, Inc.; Android 'Zoom Rooms Controller' (us.zoom.zrc) on Play Store"
+Wheelseye: Trucks in 30 Mins,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.wheelseye.consigner,live,By WheelsEye Technology India Pvt. Ltd.; price 0 on Play Store
+Wheelseye: Trucks in 30 Mins,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.wheelseye.consigner,live,Android only confirmed (iOS listing not confirmed in App Store US search)
+Brisacliente Móvel,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=br.com.brisanet.brisaclientemovel,live,BrisaNet ISP customer app; price 0 on Play Store
+Brisacliente Móvel,platforms,,Android,,,https://play.google.com/store/apps/details?id=br.com.brisanet.brisaclientemovel,live,Android
+Virtual Browser,license,,Proprietary — free,,,https://apps.apple.com/us/app/virtualbrowser/id6736765113?uo=4,live,"App Store listing titled 'VirtualBrowser' by seller VirtualBrowser, Free; matches catalog name modulo spacing"
+Virtual Browser,platforms,,iOS,,,https://apps.apple.com/us/app/virtualbrowser/id6736765113?uo=4,live,Navigation-genre iOS app (virtual browsing sessions in isolated bubble)
+Jev Chat Jarvis,license,,Open source,MIT,Android,https://github.com/jev-chat/jev-chat-jarvis,live,MIT-licensed chat decision assistant (source-built Android APK; no Play Store listing)
+Jev Chat Jarvis,platforms,,Android,,,https://github.com/jev-chat/jev-chat-jarvis,live,Kotlin Android app (debug APK via Gradle)
+LKY Office Tools,license,,Open source,GPL-3.0,Windows,https://github.com/OdysseusYuan/LKY_OfficeTools,live,Open source .NET tool automating Office download/install/activation
+LKY Office Tools,platforms,,Windows,,,https://github.com/OdysseusYuan/LKY_OfficeTools,live,Windows (.NET desktop tool)
+"MiChat - Chat, Make Friends",license,,Proprietary — free,,Android,https://play.google.com/store/apps/details?id=com.michatapp.im&hl=en_IN&gl=US,live,Exact Play Store listing (com.michatapp.im); no open-source license
+"MiChat - Chat, Make Friends",platforms,,Android,,,https://play.google.com/store/apps/details?id=com.michatapp.im&hl=en_IN&gl=US,live,Android (Google Play listing)
+Opera Mini browser beta,license,,Proprietary — free,,Android,https://play.google.com/store/apps/details?id=com.opera.mini.native.beta&hl=en_AU,live,Closed source under Opera mobile EULA; always free to install and use
+Opera Mini browser beta,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.opera.mini.native.beta&hl=en_AU,live,Android (beta browser app)
+Private Proxy Browser Hub,license,,Proprietary — free,,Android,https://play.google.com/web/store/apps/details?id=com.browserantiblokir.browserhub.browservpnproxy&hl=en_US,live,Closed source browser by Scramble Codes; free with no premium tier per Play Store description
+Private Proxy Browser Hub,platforms,,Android,,,https://play.google.com/web/store/apps/details?id=com.browserantiblokir.browserhub.browservpnproxy&hl=en_US,live,Android (Google Play listing)
+Res Downloader,license,,Open source,Apache-2.0,"Windows, macOS, Linux",https://github.com/putyy/res-downloader,live,putyy/res-downloader; network media resource downloader (proxy-based capture)
+Res Downloader,platforms,,"Windows, macOS, Linux",,,https://github.com/putyy/res-downloader,live,Windows / macOS / Linux (per project README)
+UC Mini-Download Video Status,license,,Proprietary — free,,Android,https://play.google.com/store/apps/details?id=com.uc.browser.en&hl=en_AU,live,Exact Play Store listing (com.uc.browser.en by UCWeb); no open-source license
+UC Mini-Download Video Status,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.uc.browser.en&hl=en_AU,live,Android (Google Play listing)
+X Java Fx Tool,license,,Open source,Mulan Permissive Software License Version 2,,https://raw.githubusercontent.com/864381832/xJavaFxTool/master/LICENSE,live,LICENSE text verified: 木兰宽松许可证 第2版 (MulanPSL-2.0) an OSI-approved permissive license; self-audited against primary source (GitHub API returned NOASSERTION so LICENSE text governs)
+Airlearn - Language Learning,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.unacademy.antonio,live,Play Store price 0 for com.unacademy.antonio; also App Store listing by UNACADEMY INC Free — closed source no license grant
+Airlearn - Language Learning,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.unacademy.antonio,live,Play Store com.unacademy.antonio; App Store listing by UNACADEMY INC
+Al Quran Kareem 16 lines Quran,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.quranmajeed.sixteenline,live,Play Store exact title match price 0 — closed source no license grant
+Al Quran Kareem 16 lines Quran,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.quranmajeed.sixteenline,live,Play Store com.quranmajeed.sixteenline listing
+ALKITAB & Kidung,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.gulbers.alkitabkidung,live,Play Store exact title match price 0 — closed source no license grant
+ALKITAB & Kidung,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.gulbers.alkitabkidung,live,Play Store com.gulbers.alkitabkidung listing
+ARY Plus,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.release.arylive,live,Play Store exact title match price 0; App Store listing by ARY Services Limited Free — closed source no license grant
+ARY Plus,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.release.arylive,live,Play Store com.release.arylive; App Store ARY Plus by ARY Services Limited
+"Aya Books: audiolivros, livros",license,,Proprietary — free,,,https://apps.apple.com/search?term=Aya%20Books%20audiolivros,live,App Store exact title match by It Games Comercio e Servicos de Informatica Ltda formattedPrice Free — closed source no license grant; no exact-name Android listing found on Play Store
+"Aya Books: audiolivros, livros",platforms,,iOS,,,https://apps.apple.com/search?term=Aya%20Books%20audiolivros,live,App Store listing iTunes entity software iOS
