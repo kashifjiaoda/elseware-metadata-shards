@@ -1,0 +1,58 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Emby Crx,license,,Open source,MIT License,Web,https://github.com/Nolovenodie/emby-crx,live,Raw LICENSE text is MIT; browser extension (Emby plugin for Chromium browsers)
+Emby Crx,platforms,,Web,,,https://github.com/Nolovenodie/emby-crx,live,Chrome/EmbyServer browser extension per repo description
+F2etest,license,,Open source,MIT License,,https://github.com/alibaba/f2etest,live,GitHub API license field = MIT; raw LICENSE.md confirmed MIT text
+Fast Github,license,,Open source,MIT License,"Windows, macOS, Linux",https://github.com/creazyboyone/FastGithub,live,Raw LICENSE text is MIT; releases include win/linux/osx builds
+Fast Github,platforms,,"Windows, macOS, Linux",,,https://github.com/creazyboyone/FastGithub,live,Release assets: fastgithub-win-x64.zip / fastgithub-linux-x64.tar.gz / fastgithub-osx-x64.tar.gz
+File Code Box,license,,Open source,GNU Lesser General Public License v3.0,Web,https://github.com/vastsa/FileCodeBox,live,Raw LICENSE text is LGPL-3.0; self-hosted file/text sharing service (FastAPI + Vue)
+File Code Box,platforms,,Web,,,https://github.com/vastsa/FileCodeBox,live,Self-hosted web service
+Gemini Nexus,license,,Open source,MIT License,Web,https://github.com/yeahhe365/Gemini-Nexus,live,Raw LICENSE text is MIT; AI assistant browser extension
+Gemini Nexus,platforms,,Web,,,https://github.com/yeahhe365/Gemini-Nexus,live,Browser extension (Gemini Web/API + OpenAI-compatible)
+Flip Uhr: Tischuhr & Widgets,license,,Proprietary — free,,iOS,https://apps.apple.com/app/id1181028777,live,App Store DE exact-title id 1181028777 — Free; features iosUniversal only (no IAP)
+Flip Uhr: Tischuhr & Widgets,platforms,,iOS,,,https://apps.apple.com/app/id1181028777,live,iOS only — no exact-name Play Store listing found
+Google Assistant,license,,Proprietary — free,,"Android, iOS",https://apps.apple.com/app/id1220976145,live,App Store id 1220976145 by Google LLC — Free; Play-page IAP text is a content descriptor only not an app IAP marker
+Google Assistant,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant,live,Android (Play) + iOS (App Store id 1220976145)
+Gridea,license,,Open source,MIT License (raw LICENSE text),,https://github.com/getgridea/gridea,live,Raw LICENSE is MIT text by EryouHao; GitHub API license field MIT
+Gridea,platforms,,"Windows, macOS, Linux",,,https://github.com/getgridea/gridea,live,README: supports Windows macOS or Linux (desktop blog writing client)
+Halo Weather: Weather Forecast,license,,Proprietary — free,,,https://apps.apple.com/app/id6451142003,live,Free on App Store by ZHONGZHI YOLO HK LIMITED; no IAP features in lookup
+Halo Weather: Weather Forecast,platforms,,iOS,,,https://apps.apple.com/app/id6451142003,live,iOS only - no exact-name Android listing confirmed from whitelisted sources
+Hongguo Desktop Releases,platforms,,Windows,,,https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases,live,Repo declares no license; description is a Windows 10/11 free short-drama EXE player
+Hw Txt Reader,platforms,,Android,,,https://github.com/bifan-wei/HwTxtReader,live,Repo declares no license (GitHub API license null); Android txt reading component/library
+iGOT Karmayogi,license,,Proprietary — free,,,https://apps.apple.com/app/id6443949491,live,Free on App Store by Karmayogi Bharat; no IAP features in lookup
+iGOT Karmayogi,platforms,,iOS,,,https://apps.apple.com/app/id6443949491,live,iOS only - Android unconfirmed from whitelisted sources this run
+Iqiyi Parser,license,,Open source,MIT License (raw LICENSE text),,https://github.com/ZSAIm/iqiyi-parser,live,Raw LICENSE is MIT text by ZSAIm; project discontinued; license-only row
+Iyuuplus Dev,license,,Open source,MIT License (raw LICENSE text),,https://github.com/ledccn/iyuuplus-dev,live,Raw LICENSE is MIT text; PHP CLI auto-seed tool with web UI; license-only row
+Js Rpc,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/jxhczhl/JsRpc/master/LICENSE,live,Catalog name is spaced variant of repo JsRpc (jxhczhl/JsRpc); raw LICENSE is GNU GPL v3 text; JS reverse-engineering tool with no end-user platform
+Keep Accounts V2 0,platforms,,Windows,,,https://github.com/MickLife/KeepAccounts_v2.0,live,README distributes KeepAccounts.exe for WeChat/Alipay bill merging; repo declares no license so no license row per accuracy directive
+Kou Share DL,license,,Open source,The Unlicense (public domain),,https://raw.githubusercontent.com/yliu7949/KouShare-dl/master/LICENSE,live,Catalog name is spaced variant of repo KouShare-dl (yliu7949/KouShare-dl); raw LICENSE is Unlicense public-domain text
+Kou Share DL,platforms,,"Windows, macOS, Linux",,,https://github.com/yliu7949/KouShare-dl,live,README: CLI tool runs on Windows macOS and Linux
+Lan Proxy Gateway,license,,Open source,MIT License,,https://raw.githubusercontent.com/Tght1211/lan-proxy-gateway/master/LICENSE,live,Raw LICENSE is MIT text (Tght1211/lan-proxy-gateway)
+Lan Proxy Gateway,platforms,,macOS,,,https://github.com/Tght1211/lan-proxy-gateway,live,Repo requires a Mac or Mac mini as gateway host; no Windows support
+Leet Code Rating,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/zhang-wangz/LeetCodeRating/master/LICENSE,live,Catalog name is spaced variant of repo LeetCodeRating (zhang-wangz/LeetCodeRating); raw LICENSE is GNU GPL v3 text
+Leet Code Rating,platforms,,Web,,,https://github.com/zhang-wangz/LeetCodeRating,live,TamperMonkey browser userscript for LeetCode contest rating
+Light Novel Library Wenku8 Android,license,,Open source,GPL-2.0,,https://raw.githubusercontent.com/MewX/light-novel-library_Wenku8_Android/master/LICENSE,live,Raw LICENSE is GNU GPL v2 text (MewX/light-novel-library_Wenku8_Android)
+Light Novel Library Wenku8 Android,platforms,,Android,,,https://github.com/MewX/light-novel-library_Wenku8_Android,live,Third-party Wenku8 light-novel Android app
+Loklok:Online Movies&Dramas,license,,Proprietary — free,,,https://loklok.tv/,live,Official site: Watch HD movies online for free; all contents free after login
+Loklok:Online Movies&Dramas,platforms,,"Android, iOS, Windows",,,https://loklok.tv/,live,Official site lists loklok for iOS and Android plus a Windows App nav link
+MacDroid - Manager für Android,license,,Proprietary — freemium,,,https://macdroid.app/,live,Catalog name is DE-localized title variant of App Store title MacDroid - Manager for Android by Electronic Team Inc.; site: free version transfers Android to Mac only; PRO version adds both directions
+MacDroid - Manager für Android,platforms,,macOS,,,https://apps.apple.com/app/id1476545828,live,Mac app for Android file transfer
+Manju Laoli Skill,license,,Open source,MIT License,,https://raw.githubusercontent.com/lixiaoxiao9888-create/manju-laoli-skill/main/LICENSE,live,Catalog name is spaced variant of repo manju-laoli-skill (lixiaoxiao9888-create); raw LICENSE is MIT text; AIGC short-drama skill with no end-user platform
+Meu Social - Gás do Povo,license,,Proprietary — free,,,https://apps.apple.com/app/id6754226503,live,App Store BR exact-name by Servicos e Informacoes do Brasil Free no IAP features
+Meu Social - Gás do Povo,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=br.gov.mds.meusocial,live,Play br.gov.mds.meusocial exact title no IAP or Contains ads markers + App Store id 6754226503
+Mineradio Paused,license,,Open source,GPL-3.0,,https://github.com/XxHuberrr/Mineradio-paused,live,raw LICENSE is GPL-3.0 full text; GitHub API shows 'other' but raw text governs; catalog name is spaced variant of repo
+Mineradio Paused,platforms,,Windows,,,https://github.com/XxHuberrr/Mineradio-paused,live,README: Windows desktop music player with lyric stage and desktop mode
+Miss Zzz Reader,license,,Open source,Apache License 2.0,,https://github.com/MissZzz1/MissZzzReader,live,raw LICENSE is Apache-2.0 text; catalog name is spaced variant of MissZzzReader
+Miss Zzz Reader,platforms,,Android,,,https://github.com/MissZzz1/MissZzzReader,live,README: Android novel reader app based on Android
+Moe Koe Music,license,,Open source,GPL-2.0,,https://github.com/MoeKoeMusic/MoeKoeMusic,live,raw LICENSE is GPL Version 2 text; open-source third-party Kugou music client; catalog name is spaced variant of repo
+Moe Koe Music,platforms,,"Windows, macOS, Linux",,,https://github.com/MoeKoeMusic/MoeKoeMusic,live,README platform mentions: Windows macOS Linux
+Mooc Downloader,license,,Open source,Mozilla Public License 2.0,,https://github.com/MoocDownloader/MoocDownloader,live,raw LICENSE is MPL-2.0 text; catalog name is spaced variant of repo MoocDownloader
+Mooc Downloader,platforms,,Windows,,,https://github.com/MoocDownloader/MoocDownloader,live,.NET MOOC downloader with Windows 10 badge; release assets for Windows
+Msime Windows,license,,Open source,GPL-3.0,,https://github.com/metasequoiaime/msime-windows,live,raw LICENSE is GPL-3.0 text; GitHub API cross-checked
+Msime Windows,platforms,,Windows,,,https://github.com/metasequoiaime/msime-windows,live,Windows TSF input method product (Server GUI settings installer)
+MySmartfren,license,,Proprietary — free,,,https://apps.apple.com/app/id1209898190,live,App Store exact-name by SMARTFREN TELECOM PT TBK Free no IAP features
+MySmartfren,platforms,,iOS,,,https://apps.apple.com/app/id1209898190,live,Play Store exact-name listing not found from whitelisted sources — iOS-only per accuracy directive
+Nosub,platforms,,"Windows, macOS, Linux",,,https://github.com/patui/Nosub,live,"No license declared in repo (GitHub API reports none); README lists Windows 10/11, macOS and Linux builds"
+Pake Plus Win7,license,,Open source,MIT License,,https://github.com/sjj1024/pakeplus-win7,live,README states PakePlus is an MIT-licensed open source project; parent Sjj1024/PakePlus LICENSE file is MIT text
+Pake Plus Win7,platforms,,Windows,,,https://github.com/sjj1024/pakeplus-win7,live,Win7-supporting variant targets Windows 7 SP1 and later per README
+OiTube - Local Video Player,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.skipads.oitube.official&hl=en&gl=us,live,Play Store listing shows In-App Purchases marker; published by PINNACLE INN LTD
+OiTube - Local Video Player,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.skipads.oitube.official&hl=en&gl=us,live,No exact-name iOS listing found on App Store
