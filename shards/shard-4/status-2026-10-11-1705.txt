@@ -1,0 +1,6 @@
+Shard 4 Phase-2 expansion batch 26 COMPLETE (Shard 2 takeover) — 2026-10-11 17:05 PKT.
+apps.md lines 1257-1306. 75 CSV rows pushed (expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch26.csv).
+42 of 50 apps verified (license and/or platforms, schema-validated 0 issues, whitelisted sources only).
+Skipped with reason (10): MusicRadar-Identify music (discontinued 2013-14, banned sources only), OPL3 RetroWave MIDI Player (no exact-name product), Quisk license (README vs GitHub NOASSERTION conflict), R Audio license (no LICENSE file), Snd Nox (no whitelisted license statement), Spotify Player (identity ambiguous, many same-name projects), subsonic-arubislander (Snap Proprietary vs upstream GPL conflict), Tauon (fork vs AUR version-grant conflict), Vocalis (name collision), Zita Dc1 (no whitelisted source confirms license).
+Self-audit catches: version grants from raw text only (Pasystray LGPL-2.1-or-later via header; ProTracker BSD-3; pogo GPL-2.0-only; Phonograph Plus GPL-3.0-only conservative; Sonic Pi MIT w/ AGPL-3.0-or-later web nuance; Termusic dual MIT/GPL-3.0 podcast module; Tomahawk abandoned-note; Timemachine license-only as Linux implied not stated).
+Dual-write intact on all 5 chunks (byte-identical, no loss). Next: batch 27 (lines 1307-1356).
