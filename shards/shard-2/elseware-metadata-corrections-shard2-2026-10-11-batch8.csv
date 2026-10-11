@@ -1,0 +1,93 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Dillo,license,,Open source,GPL-3.0,"Linux, macOS",https://dillo.org/,live,Official site: free software under GNU GPLv3
+Dillo,platforms,,"Linux, macOS",,,https://dillo.org/,live,Official site: multi-platform graphical browser; builds on Linux/Unix and macOS
+NetSurf,license,,Open source,GPL-2.0,"Windows, Linux",https://api.github.com/repos/netsurf-browser/netsurf/contents/COPYING,live,Repo COPYING: free software under GNU GPL version 2
+NetSurf,platforms,,"Windows, Linux",,,https://api.github.com/repos/netsurf-browser/netsurf/contents/frontends,live,"Repo frontends include windows, gtk, qt (plus amiga, riscos, etc.)"
+Avast Secure Browser,license,,Proprietary — freemium,Free version; PRO paid upgrade with built-in VPN,"Windows, macOS, Android, iOS",https://www.avast.com/secure-browser,live,Official: free private browser; PRO upgrade for VPN/IP hiding
+Avast Secure Browser,platforms,,"Windows, macOS, Android, iOS",,,https://www.avast.com/secure-browser,live,Official: for PCs and mobile devices; iOS app on App Store
+AVG Secure Browser,license,,Proprietary — free,Completely free; no paid tier,"Windows, macOS, Android",https://www.avg.com/secure-browser,live,Official: Best of all? It is absolutely free
+AVG Secure Browser,platforms,,"Windows, macOS, Android",,,https://www.avg.com/secure-browser,live,"Official: for Windows, Mac, and Android; not available for iOS"
+Puffin Browser,license,,Proprietary — free,Free cloud browser; Puffin 365 paid packages also offered,"Android, iOS",https://apps.apple.com/us/app/puffin-cloud-browser/id472937654,live,"App Store: Free by CloudMosa, Inc.; price 0.00"
+Puffin Browser,platforms,,"Android, iOS",,,https://www.puffin.com/,live,Official site: over 200 million downloads across Android and iOS
+Aloha Browser,license,,Proprietary — freemium,Free browser with free VPN; Premium subscription unlocks extra features,"Windows, macOS, Android, iOS",https://alohabrowser.com/,live,Official: free VPN browser; premium features via subscription
+Aloha Browser,platforms,,"Windows, macOS, Android, iOS",,,https://alohabrowser.com/,live,Official: desktop versions plus iOS App Store and Google Play apps
+Gmail,license,,Proprietary — freemium,Free with ads; Google Workspace paid plans remove ads,"Web, Android, iOS",https://www.google.com/gmail/about/,live,Official: no-cost Gmail account; Workspace plans for business
+Gmail,platforms,,"Web, Android, iOS",,,https://www.google.com/gmail/about/,live,Official: web at mail.google.com; Gmail app for mobile devices
+Outlook,license,,Proprietary — freemium,Free app; Microsoft 365 subscription ($6.99/mo) for premium,"Windows, macOS, iOS, Web",https://apps.apple.com/us/app/microsoft-outlook/id951937596,live,App Store: Free by Microsoft; M365 subscription in-app
+Outlook,platforms,,"Windows, macOS, iOS, Web",,,https://apps.apple.com/us/app/microsoft-outlook/id951937596,live,App Store listing: iOS app; M365 installs Outlook on PCs/Macs; web at outlook.live.com
+Apple Mail,license,,Proprietary — free,Free; built into iOS and macOS,"iOS, macOS",https://apps.apple.com/eg/app/mail/id1108187098,live,App Store: Free by Apple; preinstalled on iPhone/iPad and Mac
+Apple Mail,platforms,,"iOS, macOS",,,https://apps.apple.com/eg/app/mail/id1108187098,live,App Store Mail app for iPhone/iPad; Mail built into macOS
+Spike,license,,Proprietary — freemium,Free $0 plan; Pro $6/user/mo; Ultimate $12/user/mo billed annually,"Windows, macOS, Android, iOS, Web",https://www.spikenow.com/pricing/,live,Official pricing page: Free/Pro/Ultimate tiers
+Spike,platforms,,"Windows, macOS, Android, iOS, Web",,,https://www.spikenow.com/pricing/,live,Official site: mobile desktop and web apps
+Edison Mail,license,,Proprietary — free,Free email client,"iOS, Android, macOS, Windows",https://www.edisonmail.com/,live,Official site: free email client; iOS Android Mac and Windows apps
+Edison Mail,platforms,,"iOS, Android, macOS, Windows",,,https://www.edisonmail.com/,live,Official site: download badges for iOS/Android; Mac and Windows apps announced
+BlueMail,license,,Proprietary — free,Free,"iOS, Android, macOS, Windows, Linux",https://bluemail.me/,live,Official site: Free beautifully designed; no paid tier mentioned on homepage
+BlueMail,platforms,,"iOS, Android, macOS, Windows, Linux",,,https://bluemail.me/,live,Official site lists iOS Android macOS Windows Linux
+Aqua Mail,license,,Proprietary — freemium,Free with ads; Premium adds unlimited accounts no ads Exchange push S/MIME,Android,https://play.google.com/store/apps/details?id=org.kman.AquaMail,live,Play Store: free with ads; Premium unlocks features
+Aqua Mail,platforms,,Android,,,https://play.google.com/store/apps/details?id=org.kman.AquaMail,live,Play Store: Android phones and tablets Android 7+
+Nine,license,,Proprietary — paid,Not free; 2-week trial then US $14.99 license,"Android, iOS",https://play.google.com/store/apps/details?id=com.ninefolders.hd3,live,Play Store: $14.99 license after 2-week trial
+Nine,platforms,,"Android, iOS",,,http://9folders.com/,live,Official site: full-fledged email app for Android and iOS
+myMail,license,,Proprietary — free,Free email client,"iOS, Android",https://mymail.my.com/,live,Official site: free email client for iOS iPhone/iPad and Android
+myMail,platforms,,"iOS, Android",,,https://mymail.my.com/,live,Official site: available for Apple iOS and Android smartphones
+Yahoo Mail,license,,Proprietary — free,Free; 20 GB free storage,"iOS, Android, Web",https://apps.apple.com/us/app/yahoo-mail-your-email-inbox/id577586159?uo=4,live,App Store: Free by Yahoo Inc; iOS app plus Android app and webmail
+Yahoo Mail,platforms,,"iOS, Android, Web",,,https://apps.apple.com/us/app/yahoo-mail-your-email-inbox/id577586159?uo=4,live,App Store iOS app verified; Android app and webmail at mail.yahoo.com
+AOL Mail,license,,Proprietary — free,Free,"iOS, Android, Web",https://apps.apple.com/us/app/aol-mail-news-weather/id646100661?uo=4,live,App Store: Free by AOL Media LLC
+AOL Mail,platforms,,"iOS, Android, Web",,,https://apps.apple.com/us/app/aol-mail-news-weather/id646100661?uo=4,live,App Store iOS app verified; Android app and webmail at mail.aol.com
+Zoho Mail,license,,Proprietary — freemium,Free trial and free plan; paid plans with 24x7 support,"Windows, macOS, Android, iOS, Web",https://www.zoho.com/mail/,live,Official site: free trial; paid plans; Product price 0 USD free tier
+Zoho Mail,platforms,,"Windows, macOS, Android, iOS, Web",,,https://www.zoho.com/mail/,live,Official site: native desktop apps mobile apps and offline access
+Fastmail,license,,Proprietary — paid subscription,"Individual $6/mo; no free tier (free trial available)","Windows, macOS, Android, iOS, Web",https://www.fastmail.com/pricing/,live,"Official pricing: all plans paid; As a paid service, we only serve you, our customer"
+Fastmail,platforms,,"Windows, macOS, Android, iOS, Web",,,https://www.fastmail.com/pricing/,live,"Official: Fastmail apps are available for all of your desktop and mobile devices; web at app.fastmail.com"
+Posteo,license,,Proprietary — paid subscription,"€1/month; 100% user-financed, ad-free, no free tier","Web",https://posteo.de/en,live,"Official: 1 Euro per month; 100% financed by our users"
+Posteo,platforms,,"Web",,,https://posteo.de/en,live,Official: Posteo web app/webmail; compatible with all devices via IMAP/POP3
+Mailbox.org,license,,Proprietary — paid subscription,"Light €1/mo, Standard €4/mo, Premium €12/mo; 30-day free trial","Web, Android, iOS",https://mailbox.org/en/prices,live,"Official pricing page; all plans paid, 30 days free trial"
+Mailbox.org,platforms,,"Web, Android, iOS",,,https://mailbox.org/en/prices,live,Official: web portal + compatible with the standard iOS and Android apps
+Runbox,license,,Proprietary — paid subscription,"Subscription required; trial accounts limited (100 MB)","Web",https://runbox.com/pricing/,live,Official pricing page: type of subscription purchased; trial accounts restricted
+Runbox,platforms,,"Web",,,https://runbox.com/pricing/,live,Official: Webmail + POP/IMAP client access
+Kolab Now,license,,Proprietary — paid subscription,"5.00 CHF/mo (just email); 9.90 CHF/mo (full kolab); 30-day free trial","Web",https://kolabnow.com/pricing,live,"Official pricing: paid plans, first 30 days free"
+Kolab Now,platforms,,"Web",,,https://kolabnow.com/pricing,live,Official: webmail with file storage integration; mobile access via IMAP/ActiveSync
+Migadu,license,,Proprietary — paid subscription,"Paid plans only; free plan discontinued (Micro yearly replaces it)","Web",https://www.migadu.com/pricing/,live,Official: What happened to the free plan? ... we now ask a minimal contribution
+Migadu,platforms,,"Web",,,https://www.migadu.com/pricing/,live,Official: webmail + standard email client support (IMAP)
+Canary Mail,license,,Proprietary — freemium,"Free-forever plan; Growth $36/yr; Pro+ $100/yr","macOS, iOS, Windows, Android",https://canarymail.io/pricing/,live,Official pricing: free-forever plan; paid Growth/Pro+ yearly or lifetime
+Canary Mail,platforms,,"macOS, iOS, Windows, Android",,,https://canarymail.io/pricing/,live,Official: apps across macOS
+Mimestream,license,,Proprietary — paid,"Free trial; paid license required; native macOS Gmail client","macOS",https://mimestream.com/,live,Official: Download Free Trial; commercial native macOS email client
+Mimestream,platforms,,"macOS",,,https://mimestream.com/,live,Official: A native macOS email client for Gmail; requires macOS 12+
+MailMate,license,,Proprietary — paid,"Commercial IMAP email client for macOS; paid license","macOS",https://freron.com/,live,"Official site: IMAP email client for macOS; commercial product, no free tier"
+MailMate,platforms,,"macOS",,,https://freron.com/,live,Official: MailMate is an IMAP email client for macOS
+eM Client,license,,Proprietary — freemium,"Free tier (2 accounts, individual use only); paid Pro licenses","Windows, macOS, Android, iOS",https://emclient.com/pricing,live,Official pricing: Free vs paid tiers; 30-day trial; subscription or one-time payment
+eM Client,platforms,,"Windows, macOS, Android, iOS",,,https://www.emclient.com/,live,"Official site: best email client for Windows, macOS, Android and iOS"
+Mailbird,license,,Proprietary — freemium,"Free version (1 account, no time limit); Premium paid","Windows, macOS, Android",https://www.getmailbird.com/,live,Official: try free 7 days then keep going free or go Premium; free has no time limit
+Mailbird,platforms,,"Windows, macOS, Android",,,https://www.getmailbird.com/,live,Official: Windows and macOS; Android app in public beta; iOS coming soon
+Claws Mail,license,,Open source,GPL,"Linux, macOS, Windows",https://www.claws-mail.org/,live,Official site: Claws Mail is distributed under the GPL
+Claws Mail,platforms,,"Linux, macOS, Windows",,,https://www.claws-mail.org/,live,GTK+ email client and news reader for Unix-like systems and Windows
+Mutt,license,,Open source,GPL-2.0-or-later,"Linux, macOS",https://api.github.com/repos/muttmua/mutt/license,live,Repo COPYRIGHT file: free software under GNU GPL v2 or any later version
+Mutt,platforms,,"Linux, macOS",,,https://www.mutt.org/,live,Official site: text-based email client for Unix-like systems; actively maintained (2.4.3 released Oct 2026)
+Roundcube,license,,Open source,GPL-3.0-or-later,Web,https://api.github.com/repos/roundcube/roundcubemail/license,live,Repo LICENSE.md is the GNU GPL version 3 text
+Roundcube,platforms,,Web,,,https://roundcube.net/,live,Official site: browser-based multilingual IMAP client; free and open source webmail
+RainLoop,license,,Open source,MIT,Web,https://api.github.com/repos/RainLoop/rainloop-webmail/license,live,"Repo LICENSE: MIT License, Copyright 2022 RainLoopTeam (spdx MIT)"
+RainLoop,platforms,,Web,,,https://www.rainloop.net/,live,Official site: simple modern fast web-based email client; site live
+Cypht,license,,Open source,LGPL-2.1,Web,https://cypht.org/,live,"Official site: Open Source (LGPL v2.1), written in PHP and JavaScript"
+Cypht,platforms,,Web,,,https://cypht.org/,live,Official site: webmail combining all accounts into a single browser-based inbox
+Hiri,license,,Proprietary — paid subscription,7-day free trial; paid subscription plans,"Windows, macOS, Linux",https://www.hiri.com/,live,"Official site live: try free for 7 days, no credit card required; commercial Exchange/Office 365 client"
+Hiri,platforms,,"Windows, macOS, Linux",,,https://www.hiri.com/,live,"Official site title: best email client for Windows, Mac and Linux"
+Proton Mail Bridge,license,,Proprietary — paid subscription,"Included with paid Proton Mail plans (Mail Plus/Unlimited/Business); not on Free plan","Windows, macOS, Linux",https://proton.me/mail/bridge,live,Official Proton page: desktop app adding E2E encryption to Outlook/Thunderbird/Apple Mail
+Proton Mail Bridge,platforms,,"Windows, macOS, Linux",,,https://proton.me/support/operating-systems-supported-bridge,live,"Official Proton support: supported on Windows 10/11, macOS 15/26, Linux (DEB/RPM/PKGBUILD)"
+Mailfence,license,,Proprietary — freemium,Free 1GB plan; Base/Entry/Pro/Ultra paid plans,"Android, iOS, Web",https://mailfence.com/,live,Official site: free plan 1GB; paid tiers Base/Entry/Pro/Ultra
+Mailfence,platforms,,"Android, iOS, Web",,,https://mailfence.com/,live,"Official site: iOS/Android apps, PWA, browser-based web access, IMAP/SMTP"
+StartMail,license,,Proprietary — paid subscription,Personal $4.99/mo ($59.88/yr); Business $6.99/mo; 7-day free trial,"Android, Web",https://www.startmail.com/en/pricing/,live,Official pricing: no free tier; paid Personal/Business plans
+StartMail,platforms,,"Android, Web",,,https://www.startmail.com/en/pricing/,live,Official: Android app (iOS coming soon); webmail + IMAP for desktop/mobile
+iCloud Drive,license,,Proprietary — freemium,5GB free; iCloud+ paid subscription for more storage,"Windows, macOS, iOS, Web",https://www.apple.com/icloud/,live,Official: 5GB free with Apple Account; upgrade to iCloud+ for more
+iCloud Drive,platforms,,"Windows, macOS, iOS, Web",,,https://www.apple.com/icloud/,live,"Official: Files app iOS/iPadOS, Finder on Mac, iCloud for Windows, iCloud.com web"
+Box,license,,Proprietary — freemium,Individual free plan; paid plans from $5/user/mo,"Windows, macOS, Android, iOS, Web",https://www.box.com/pricing,live,Official pricing: free Box account available; paid from $5/user/mo
+Box,platforms,,"Windows, macOS, Android, iOS, Web",,,https://www.box.com/resources/downloads,live,"Official downloads: Box Drive Mac/Windows, iPhone/iPad, Android; web browser"
+Jottacloud,license,,Proprietary — freemium,Personal 5GB free; Pro/Home/Business paid plans,"Windows, macOS, Linux, Android, iOS, Web",https://jottacloud.com/en/pricing/,live,Official pricing: Personal 5GB free; paid Pro/Home/Business tiers
+Jottacloud,platforms,,"Windows, macOS, Linux, Android, iOS, Web",,,https://www.jottacloud.com/en/download/,live,"Official downloads: macOS/Windows desktop, iOS App Store, Android Google Play, CLI, web"
+Backblaze B2,license,,Proprietary — paid,Pay-as-you-go $6.95/TB/30-days; no flat subscription,Web,https://www.backblaze.com/cloud-storage/pricing,live,Official B2 pricing: usage-based $6.95/TB/30-days; billed monthly on byte-hours
+Backblaze B2,platforms,,Web,,,https://www.backblaze.com/cloud-storage/pricing,live,"Object storage service; managed via web console, CLI, APIs and SDKs"
+IDrive,license,,Proprietary — freemium,Free 10GB Basic account; Personal/Team/Business paid plans,"Windows, macOS, Linux, Android, iOS, Web",https://www.idrive.com/pricing,live,Official pricing: free 10GB IDrive Basic; paid Mini/Personal/Team/Business
+IDrive,platforms,,"Windows, macOS, Linux, Android, iOS, Web",,,https://www.idrive.com/pricing,live,"Official: backup PCs, Macs, Linux, iPhones, iPads, Android; web console"
+Carbonite,license,,Proprietary — paid subscription,Basic $6.40/mo; Plus $7.15/mo; Prime $8.77/mo; no free tier,"Windows, macOS, Android, iOS, Web",https://www.carbonite.com/en/cloud-backup/personal/,live,Official pricing: paid-only Safe plans; no free tier
+Carbonite,platforms,,"Windows, macOS, Android, iOS, Web",,,https://www.carbonite.com/en/cloud-backup/personal/,live,Official: Windows 7+/macOS 10.10+ clients; web browser + Android/iOS companion app
+Acronis,license,,Proprietary — paid subscription,True Image $49.99; Advanced/Premium subscriptions,"Windows, macOS, Android, iOS, Web",https://acronis.com/en-us/products/true-image/,live,Official: paid product $49.99; subscription tiers; no free tier
+Acronis,platforms,,"Windows, macOS, Android, iOS, Web",,,https://acronis.com/en-us/products/true-image/,live,"Official system requirements: Windows 10/11, macOS, iOS 15+, Android 10+; web-based console"
+CrashPlan,license,,Proprietary — paid subscription,Small business $7.33/user/mo; free trial no free tier,"Windows, macOS, Linux",https://www.crashplan.com/pricing/,live,Official pricing: paid-only plans from $7.33/user/mo; no free tier
+CrashPlan,platforms,,"Windows, macOS, Linux",,,https://www.crashplan.com/pricing/,live,"Official pricing page: clients for Windows, macOS and Linux"
