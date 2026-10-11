@@ -1,0 +1,83 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Lexis+ AI,license,,Proprietary,paid subscription (custom per-user pricing; 2-day free trial),,https://spellbook.com/learn/lexisnexis-pricing,live,
+Lexis+ AI,platforms,,Web,,Web,https://spellbook.com/learn/lexisnexis-pricing,live,
+Needles,license,,Proprietary,paid subscription (~$70/user/mo),,https://www.itqlick.com/needles-case-management/pricing,live,
+Needles,platforms,,Web,,Web,https://www.itqlick.com/needles-case-management/pricing,live,
+Notarity,license,,Proprietary,"paid (pay-per-notarization, price via quote)",,https://notarity.com/en/notarize-signature/,live,
+Notarity,platforms,,Web,,Web,https://notarity.com/en/notarize-signature/,live,
+Notary Launchpad,license,,Proprietary,"paid subscription ($9.95/mo + 20% revenue share; free 30-day trial)",,https://www.einpresswire.com/article/900331082/notary-launchpad-launches-five-in-one-platform-for-document-service-entrepreneurs,live,
+Notary Launchpad,platforms,,Web,,Web,https://www.einpresswire.com/article/900331082/notary-launchpad-launches-five-in-one-platform-for-document-service-entrepreneurs,live,
+NotaryLive,license,,Proprietary,"paid subscription (free Basic account with $25/session pay-per-use; Business and Business Premier monthly plans)",,https://notarylive.com/blog/what-is-notarylive,live,
+NotaryLive,platforms,,Web,,Web,https://notarylive.com/blog/what-is-notarylive,live,
+OneTrust,license,,Proprietary,paid subscription (custom enterprise quotes),,https://sprinto.com/blog/onetrust-review/,live,
+OneTrust,platforms,,Web,,Web,https://sprinto.com/blog/onetrust-review/,live,
+Osano,license,,Proprietary,freemium (free Solo plan + Plus $199/mo + Premier custom),,https://www.enzuzo.com/blog/osano-competitors-alternatives,live,
+Osano,platforms,,Web,,Web,https://www.enzuzo.com/blog/osano-competitors-alternatives,live,
+Plexus,license,,Proprietary,paid subscription (~$30K/yr enterprise),,https://www.softwareadvice.com.au/software/367927/legal-gateway/,live,
+Plexus,platforms,,Web,,Web,https://www.softwareadvice.com.au/software/367927/legal-gateway/,live,
+Sign.Plus,license,,Proprietary,freemium (free option + paid tiers from ~$120/yr),,https://www.techradar.com/reviews/signplus,live,
+Sign.Plus,platforms,,Web,,Web,https://www.techradar.com/reviews/signplus,live,Web only claimed; mobile app availability not verified from primary source
+SIGNiX,license,,Proprietary,paid subscription (from $15/mo),,https://www.softwareadvice.com/electronic-signature/signix-profile/,live,
+SIGNiX,platforms,,Web,,Web,https://www.softwareadvice.com/electronic-signature/signix-profile/,live,
+Simplifile,license,,Proprietary,"paid subscription (~$390 first year + $340/yr + per-document fees)",,https://ourtechtalk.com/simplifile/,live,
+Simplifile,platforms,,Web,,Web,https://ourtechtalk.com/simplifile/,live,
+SnapDragon,license,,Proprietary,"paid subscription (tiered, via sales)",,https://snapdragon-ip.com/,live,
+SnapDragon,platforms,,Web,,Web,https://snapdragon-ip.com/,live,
+SpotDraft,license,,Proprietary,paid subscription (custom pricing),,https://www.spotdraft.com/blog/best-contract-lifecycle-management-software,live,
+SpotDraft,platforms,,Web,,Web,https://www.spotdraft.com/blog/best-contract-lifecycle-management-software,live,
+TaxJar,license,,Proprietary,"paid subscription (Starter $39/mo, Pro $99/mo; Stripe-owned)",,https://trykintsugi.com/blog/is-taxjar-still-right-for-you-in-2026-what-the-stripe-acquisition-changed,live,
+TaxJar,platforms,,Web,,Web,https://trykintsugi.com/blog/is-taxjar-still-right-for-you-in-2026-what-the-stripe-acquisition-changed,live,
+Time59,license,,Proprietary,paid subscription ($199/yr flat rate; unlimited users),,https://www.softwareadvice.ie/software/72235/time59/,live,
+Time59,platforms,,"Web, Android, iOS",,"Web, Android, iOS",https://www.softwareadvice.ie/software/72235/time59/,live,SoftwareAdvice listing shows native mobile apps alongside web
+TrialWorks,license,,Proprietary,paid (one-time $1500/user + SaaS subscription option),,https://slashdot.org/software/p/TrialWorks/,live,
+TrialWorks,platforms,,"Windows, Web, Android, iOS",,"Windows, Web, Android, iOS",https://slashdot.org/software/p/TrialWorks/,live,"Weak evidence: platform set from directory comparison data, not vendor page"
+Wordsmith,license,,Proprietary,"paid subscription (unpublished pricing; 14-day free trial)",,https://gc.ai/blog/ironclad-vs-wordsmith,live,
+Wordsmith,platforms,,Web,,Web,https://gc.ai/blog/ironclad-vs-wordsmith,live,
+4KWALL - Wallpaper Manager & Downloader,license,,Proprietary,freemium (free download and use; one-time Pro upgrade unlocks full feature set; no subscription),,https://raw.githubusercontent.com/rishabh3354/4kwall/HEAD/README.md,live,"TRAP CATCH: public GitHub repo is releases/packaging/issue-tracker only; README FAQ states explicitly 'No. 4KWALL is a proprietary desktop application' - not open source"
+4KWALL - Wallpaper Manager & Downloader,platforms,,"Linux, Windows",,"Linux, Windows",https://raw.githubusercontent.com/rishabh3354/4kwall/HEAD/README.md,live,"README: desktop app for Linux and Windows; Flathub/Snap/AppImage + Microsoft Store/WinGet"
+adw-gtk3,license,,Open source,LGPL-2.1-only,,https://ArchLinux.org/packages/extra/any/adw-gtk-theme/,live,adw-gtk3 GTK theme package
+adw-gtk3,platforms,,Linux,,Linux,https://ArchLinux.org/packages/extra/any/adw-gtk-theme/,live,
+aliyazdi,license,,Open source,BSD-3-Clause,,https://snapcraft.io/install/aliyazdi/centos,live,"Weak evidence: personal portfolio site of developer Ali Yazdi packaged as snap/APK; license per Snap Store listing"
+aliyazdi,platforms,,"Linux, Android, Web",,"Linux, Android, Web",https://github.com/aliyazdi75/aliyazdi75.github.io/blob/HEAD/README.md,live,"README shows Linux release on Snapcraft, Android release APK, web release via GitHub Actions"
+Appstract Icon Pack,license,,Proprietary,free,,https://apkpure.com/appstract-icon-pack/com.melon.appstract,live,"Melon Productions; free on Play Store; unmaintained since ~2021"
+Appstract Icon Pack,platforms,,Android,,Android,https://apkpure.com/appstract-icon-pack/com.melon.appstract,live,
+Arcticons Material You,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.donnnno.arcticons.you/,live,
+Arcticons Material You,platforms,,Android,,Android,https://f-droid.org/packages/com.donnnno.arcticons.you/,live,
+Auto Dark Mode,license,,Open source,GPL-3.0-only,,https://github.com/AutoDarkMode/Windows-Auto-Night-Mode,live,"Disambiguated: canonical AutoDarkMode/Windows-Auto-Night-Mode (9.7k stars, repo renamed to 'Auto Dark Mode'); not the F-Droid AutoDark (me.ranko.autodark)"
+Auto Dark Mode,platforms,,Windows,,Windows,https://github.com/AutoDarkMode/Windows-Auto-Night-Mode,live,"Windows 10/11 app; also distributed via Microsoft Store"
+"bhc 치킨 - Tasty, Crispy, Juicy!",license,,Proprietary,free,,https://play.google.com/store/apps/details?id=com.foodtechkorea.bhc,live,"Official app by Dining Brands Group Co., Ltd. (com.foodtechkorea.bhc)"
+"bhc 치킨 - Tasty, Crispy, Juicy!",platforms,,Android,,Android,https://play.google.com/store/apps/details?id=com.foodtechkorea.bhc,live,iOS version also published (App Store KR) but Play listing supports Android only
+CHARGESPOT チャージスポット スマホ充電レンタル,license,,Proprietary,free,,https://play.google.com/store/apps/details/ChargeSPOT?id=com.chachastation.app,live,"Disambiguated: Japanese portable-charger rental app by Inforich Asia Hong Kong Limited (com.chachastation.app); NOT the Greek EV-charging 'Chargespot by Protergia' (gr.chargespot.app)"
+CHARGESPOT チャージスポット スマホ充電レンタル,platforms,,Android,,Android,https://play.google.com/store/apps/details/ChargeSPOT?id=com.chachastation.app,live,Also available on iOS App Store worldwide; Play listing supports Android only
+Circo,license,,Open source,Apache-2.0,,https://f-droid.org/packages/com.mookie.circo/,live,
+Circo,platforms,,Android,,Android,https://f-droid.org/packages/com.mookie.circo/,live,
+cursor-theme-googledot,license,,Open source,GPL-3.0,,https://github.com/ful1e5/google_cursor/blob/HEAD/CONTRIBUTING.md,live,License stated in CONTRIBUTING.md of ful1e5/google_cursor (GoogleDot cursor variant)
+cursor-theme-googledot,platforms,,"Linux, Windows",,"Linux, Windows",https://github.com/elliotgrigor/google_cursor,live,"Weak evidence: fork README shows Xcursor sizes (Linux) and Windows cursor sizes"
+De Fide,license,,Open source,AGPL-3.0-only,,https://github.com/tristinbaker/defide/commit/ec0b904c909a10011034b8d15921a6b6152e3754,live,"Commit 'make license unambiguous': License AGPL-3.0-only, per F-Droid metadata; README confirms AGPL-3.0"
+De Fide,platforms,,Android,,Android,https://github.com/tristinbaker/defide/blob/HEAD/README.md,live,"README: 'A free, open-source Catholic app for Android'"
+Discreet Launcher,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.vincent_falzon.discreetlauncher/,live,
+Discreet Launcher,platforms,,Android,,Android,https://f-droid.org/packages/com.vincent_falzon.discreetlauncher/,live,
+DroidStar,license,,Open source,unspecified (author states open source; no LICENSE file in repo),,https://raw.githubusercontent.com/nostar/DroidStar/HEAD/README.md,live,"PARTIAL ROW: README asserts 'This is and always will be an open source project' but names no license; LICENSE fetch returned 404 on 2026-10-11; third-party ham-radio sources claim GPL-3.0, unverified - do not badge a specific license"
+DroidStar,platforms,,"Linux, Windows, macOS, Android, iOS",,"Linux, Windows, macOS, Android, iOS",https://raw.githubusercontent.com/nostar/DroidStar/HEAD/README.md,live,"README: 'will build and run on Linux, Windows, MacOS, Android, and iOS'"
+EDEKA,license,,Proprietary,free,,https://www.androidrank.org/application/edeka/de.edeka.genuss,live,Official app by EDEKA ZENTRALE Stiftung & Co. KG; 10M+ installs
+EDEKA,platforms,,Android,,Android,https://www.androidrank.org/application/edeka/de.edeka.genuss,live,
+feren-os-theme,license,,Open source,GPL-3.0+,,https://snapcraft.io/feren-os-theme,live,"Official Feren OS style snap; listing notes it may be unmaintained (last updated March 2022)"
+feren-os-theme,platforms,,Linux,,Linux,https://snapcraft.io/feren-os-theme,live,
+GoL Screensaver,license,,Open source,MIT,,https://f-droid.org/packages/me.haroldmartin.golwallpaper/,live,"F-Droid listing of hbmartin/onyx-boox-screensaver-gol; license shown as MIT License"
+GoL Screensaver,platforms,,Android,,Android,https://f-droid.org/packages/me.haroldmartin.golwallpaper/,live,"Conway's Game of Life screensaver/wallpaper for Onyx Boox Android devices"
+gtk-theme-colloid,license,,Open source,GPL-3.0,,https://github.com/vinceliuice/Colloid-gtk-theme,live,
+gtk-theme-colloid,platforms,,Linux,,Linux,https://github.com/vinceliuice/Colloid-gtk-theme,live,
+gtk-theme-matcha,license,,Open source,GPL-3.0-or-later,,https://forum.manjaro.org/t/the-matcha-gtk-theme-package-repository-still-doesn-t-contain-the-year-old-fixes/186964,live,"Matcha-gtk-theme by vinceliuice; GPL-3.0-or-later per distro package metadata"
+gtk-theme-matcha,platforms,,Linux,,Linux,https://forum.manjaro.org/t/the-matcha-gtk-theme-package-repository-still-doesn-t-contain-the-year-old-fixes/186964,live,
+gtk-theme-vimix,license,,Open source,GPL-3.0-or-later,,https://AUR.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=vimix-gtk-themes,live,"AUR vimix-gtk-themes PKGBUILD; upstream vinceliuice/vimix-gtk-themes"
+gtk-theme-vimix,platforms,,Linux,,Linux,https://AUR.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=vimix-gtk-themes,live,
+Guzman y Gomez (GYG) Mexican,license,,Proprietary,free,,https://play.google.com/store/apps/details/Guzman_y_Gomez_Mexican_Kitchen?id=com.syn_inc.gyg&hl=en_SG,live,"Official app 'Guzman y Gomez Mexican Kitchen' (com.syn_inc.gyg); free with GOMEX loyalty"
+Guzman y Gomez (GYG) Mexican,platforms,,Android,,Android,https://play.google.com/store/apps/details/Guzman_y_Gomez_Mexican_Kitchen?id=com.syn_inc.gyg&hl=en_SG,live,Also on iOS App Store with Apple CarPlay ordering; Play listing supports Android only
+Hit Factor Calculator,license,,Proprietary,free,,https://www.AppBrain.com/app/hit-factor/net.melmac.hitfactor,live,By Melmac Network; free with no ads or in-app purchases
+Hit Factor Calculator,platforms,,Android,,Android,https://www.AppBrain.com/app/hit-factor/net.melmac.hitfactor,live,
+icon-theme-fluent,license,,Open source,GPL-3.0,,https://github.com/vinceliuice/Fluent-icon-theme,live,"Fluent icon theme by vinceliuice; COPYING (GPL-3.0) in repo root"
+icon-theme-fluent,platforms,,Linux,,Linux,https://github.com/vinceliuice/Fluent-icon-theme,live,
+icon-theme-vimix,license,,Open source,GPL-3.0+,,https://snapcraft.io/icon-theme-vimix,live,"Vimix icon theme snap (Kyuyrii packaging of vinceliuice/Vimix-icon-theme); GPL-3.0+"
+icon-theme-vimix,platforms,,Linux,,Linux,https://snapcraft.io/icon-theme-vimix,live,
+InPost,license,,Proprietary,free,,https://play.google.com/store/apps/details?id=pl.inpost.inmobile,live,"Canonical app is 'InPost Mobile' by InPost Paczkomaty (pl.inpost.inmobile); free parcel-locker app"
+InPost,platforms,,Android,,Android,https://play.google.com/store/apps/details?id=pl.inpost.inmobile,live,"Also on iOS (InPost Mobile App, App Store); Play listing supports Android only"
