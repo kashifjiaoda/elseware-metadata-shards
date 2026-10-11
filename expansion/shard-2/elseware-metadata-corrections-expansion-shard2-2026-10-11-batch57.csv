@@ -1,0 +1,71 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Webcontainer Core,license,,Open source,MIT,,https://github.com/stackblitz/webcontainer-core,live,WebContainers dev-environment JS library; no end-user OS platforms
+Webrtc Streamer,license,,Open source,The Unlicense,,https://github.com/mpromonet/webrtc-streamer,live,
+Webrtc Streamer,platforms,,Web,,,https://github.com/mpromonet/webrtc-streamer,live,
+Webssh2,license,,Open source,MIT,,https://github.com/billchurch/webssh2,live,
+Webssh2,platforms,,Web,,,https://github.com/billchurch/webssh2,live,
+White VPN Desktop,license,,Open source,GPL-3.0,,https://github.com/WhiteDNS/WhiteVPN-Desktop,live,
+White VPN Desktop,platforms,,"Windows, macOS, Linux",,,https://github.com/WhiteDNS/WhiteVPN-Desktop,live,
+Wi Fi Widget,license,,Open source,GPL-3.0,,https://github.com/w2sv/WiFi-Widget,live,
+Wi Fi Widget,platforms,,Android,,,https://github.com/w2sv/WiFi-Widget,live,
+Wipr 2,license,,Proprietary — paid,$4.99,,https://apps.apple.com/us/app/wipr-2/id1662217862?uo=4,live,Content blocker for Safari by Kaylee Calderolla
+Wipr 2,platforms,,"iOS, macOS",,,https://apps.apple.com/us/app/wipr-2/id1662217862?uo=4,live,Universal purchase listing under both iOS and macOS entities
+Wtftw,license,,Open source,BSD-3-Clause,,https://github.com/Kintaro/wtftw,live,Window Tiling For The Win - Rust tiling window manager
+X1 Plus,license,,Open source,Apache-2.0,,https://github.com/X1Plus/X1Plus,live,Custom firmware for Bambu Lab X1 printers; raw LICENSE grants Apache 2.0
+Xastir,license,,Open source,GPL-2.0,,https://github.com/Xastir/Xastir,live,APRS client; repo LICENSE states majority of source under GPLv2
+Xfburn,license,,Open source,GPL-2.0,,https://gitlab.xfce.org/apps/xfburn,live,CD/DVD burning software for Xfce; raw COPYING is GNU GPL v2
+Xfburn,platforms,,Linux,,,https://gitlab.xfce.org/apps/xfburn,live,Burning software for the Xfce desktop environment per README
+Xfce4 Sensors Plugin,license,,Open source,GPL-2.0,,https://gitlab.xfce.org/panel-plugins/xfce4-sensors-plugin,live,Sensors plugin for the Xfce Panel; raw COPYING is GNU GPL v2
+Xfce4 Sensors Plugin,platforms,,Linux,,,https://gitlab.xfce.org/panel-plugins/xfce4-sensors-plugin,live,Xfce Panel plugin per official GitLab project
+Xplorer,license,,Open source,AGPL-3.0,,https://github.com/kimlimjustin/xplorer,live,Customizable modern file manager
+Xplorer,platforms,,"Windows, macOS, Linux",,,https://github.com/kimlimjustin/xplorer,live,README states it runs on Windows macOS or Linux
+Ya Webadb,license,,Open source,MIT,,https://github.com/yume-chan/ya-webadb,live,ADB in your browser (Tango)
+Ya Webadb,platforms,,Web,,,https://github.com/yume-chan/ya-webadb,live,Browser-based ADB tool per README
+Yazi,license,,Open source,MIT,,https://github.com/sxyazi/yazi,live,Blazing fast terminal file manager written in Rust
+Yazi,platforms,,"Windows, macOS, Linux",,,https://github.com/sxyazi/yazi,live,Release assets include apple-darwin pc-windows-msvc and linux-gnu builds
+You Transfer,license,,Open source,Apache-2.0,,https://github.com/YouTransfer/YouTransfer,live,self-hosted file transfer & sharing solution
+You Transfer,platforms,,Web,,,https://github.com/YouTransfer/YouTransfer,live,self-hosted web app
+Yt Downloader,license,,Open source,GPL-3.0,,https://github.com/aandrew-me/ytDownloader,live,desktop app to download audio/video from hundreds of sites
+Yt Downloader,platforms,,"Windows, macOS, Linux",,,https://github.com/aandrew-me/ytDownloader,live,README states available on Linux Windows and macOS
+Zbd Utils,license,,Open source,GPL-3.0-or-later,,https://github.com/westerndigitalcorporation/libzbd,live,libzbd README: tools directory distributed under GPL-3.0-or-later
+Zbd Utils,platforms,,Linux,,,https://github.com/westerndigitalcorporation/libzbd,live,Debian zbd-utils package; zoned block device utilities
+Zincsearch,license,,Open source,Apache-2.0,,https://github.com/zincsearch/zincsearch,live,raw LICENSE is Apache License 2.0 text
+Zincsearch,platforms,,Web,,,https://github.com/zincsearch/zincsearch,live,self-hosted search engine with web UI
+ウェザーニュース - 天気・レーダー・気象ニュース,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=wni.WeathernewsTouch.jp,live,Weathernews Inc.; free to use with some paid features
+ウェザーニュース - 天気・レーダー・気象ニュース,platforms,,Android,,,https://play.google.com/store/apps/details?id=wni.WeathernewsTouch.jp,live,Play Store listing
+대한민국 모바일 신분증,license,,Proprietary — free,Free app,iOS,https://apps.apple.com/us/app/id1599450372,live,Mobile IDentification App by Ministry of the Interior and Safety (Korean government)
+대한민국 모바일 신분증,platforms,,iOS,,,https://apps.apple.com/us/app/id1599450372,live,iOS app confirmed via App Store listing
+"바다로드 - 해루질 낚시 물때표, 해상날씨 어장지도",license,,Proprietary — free,Free app,iOS,https://apps.apple.com/kr/app/id6795500931,live,by taehyung kim; Korean fishing tide-table and sea-weather app
+"바다로드 - 해루질 낚시 물때표, 해상날씨 어장지도",platforms,,iOS,,,https://apps.apple.com/kr/app/id6795500931,live,iOS app confirmed via App Store (KR)
+ACT Fibernet,license,,Proprietary — free,Free app,"Android, iOS",https://play.google.com/store/apps/details?id=com.act.mobile.apps,live,by Atria Convergence Technologies Ltd; also on App Store (id 1135015234)
+ACT Fibernet,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.act.mobile.apps,live,Play Store listing; iOS version on App Store id 1135015234
+AI Banner Maker: Design Banner,license,,Proprietary — free,Free app,Android,https://play.google.com/store/apps/details?id=com.cutewallpaperstudio.thumbnail.creater.banner.maker,live,exact title match on Play Store; no in-app purchases listed
+AI Banner Maker: Design Banner,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.cutewallpaperstudio.thumbnail.creater.banner.maker,live,Android app confirmed via Play Store listing
+Animall Bhai,license,,Proprietary — free,Free app,Android,https://play.google.com/store/apps/details?id=in.animall.bhai,live,by पशु मेला - Animall; cattle-trading app
+Animall Bhai,platforms,,Android,,,https://play.google.com/store/apps/details?id=in.animall.bhai,live,Android app confirmed via Play Store listing
+AppSheet,license,,Proprietary — freemium,"Free tier plus paid plans (Starter $5/user/mo, Core $10/user/mo)",iOS,https://about.appsheet.com/pricing/,live,Google no-code app platform; mobile app itself is free
+AppSheet,platforms,,iOS,,,https://apps.apple.com/us/app/id732548900,live,AppSheet by Solvebot Inc. on App Store
+BBO,license,,Proprietary — freemium,Free with in-app purchases (BBO$),"Android, iOS",https://apps.apple.com/us/app/bridge-base-online-bbo/id529258853,live,App Store page lists In-App Purchases: Yes; Android app is BBO – Bridge Base Online (com.bridgebase.BridgeBase)
+BBO,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.bridgebase.BridgeBase,live,Android via Play Store; iOS via App Store (Bridge Base Online - BBO id 529258853)
+Cash Book- daily expenses,license,,Proprietary — free,Free app,Android,https://play.google.com/store/apps/details?id=cashbook.cashbook,live,exact title match on Play Store; by ANKIT SARAF; no in-app purchases listed
+Cash Book- daily expenses,platforms,,Android,,,https://play.google.com/store/apps/details?id=cashbook.cashbook,live,Android app confirmed via Play Store listing
+Copel,license,,Proprietary — free,,,https://play.google.com/store/apps/details/Copel?id=com.copel.mbf&hl=en_US,live,Closed-source official utility app by Companhia Paranaense de Energia; free on Google Play (1M+ installs)
+Copel,platforms,,"Android, iOS",,,https://apps.apple.com/br/app/copel/id1600470669?uo=4,live,Play Store lists Android app; App Store listing confirms iOS version
+Dak Sewa 2.0,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=info.indiapost.daksewa,live,Closed-source official Department of Posts (India) app; free on Google Play
+Dak Sewa 2.0,platforms,,"Android, iOS",,,https://apps.apple.com/in/app/dak-sewa-2-0/id6748644547?uo=4,live,Play Store lists Android app; App Store listing confirms iOS version by Department of Posts
+Dubai REST,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=ae.gov.dubailand.selfregistration&hl=en,live,Closed-source official Dubai Land Department app; free to download on both platforms
+Dubai REST,platforms,,"Android, iOS",,,https://apps.apple.com/us/app/dubai-rest/id1437805105?uo=4,live,Play Store lists Android app (ae.gov.dubailand.selfregistration); App Store listing confirms iOS version
+Energisa On,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.sync.energisa&hl=en_NZ,live,Closed-source official app by GRUPO ENERGISA; listed as Free on Google Play
+Energisa On,platforms,,"Android, iOS",,,https://apps.apple.com/br/app/energisa-on/id590289704?uo=4,live,Play Store lists Android app; App Store listing confirms iOS version
+ezykam+,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.cpplusworld.ezykamp,live,Closed-source CP PLUS camera companion app by Aditya Infotech Ltd; free on Google Play
+ezykam+,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.cpplusworld.ezykamp,live,Play Store listing; exact-name iOS listing not confirmed from whitelisted source
+Flipkart Seller : Sell Online,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.flipkart.seller&hl=en,live,Closed-source official Flipkart seller app; free on Google Play
+Flipkart Seller : Sell Online,platforms,,"Android, iOS",,,https://apps.apple.com/br/app/flipkart-seller-hub/id1097721446?uo=4,live,Play Store lists Android app; App Store listing (as Flipkart Seller Hub) confirms iOS version
+GoFood Merchant,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.gojek.resto&hl=en,live,Closed-source GoFood merchant app; official listing states all services are free
+GoFood Merchant,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.gojek.resto&hl=en,live,Play Store listing; iOS version not confirmed from whitelisted source
+GreatDay 8,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.greatday.app,live,Closed-source HR app by GreatDay HR; listed as Free on Google Play
+GreatDay 8,platforms,,"Android, iOS",,,https://apps.apple.com/br/app/greatday-8/id1525103769?uo=4,live,Play Store lists Android app; App Store listing confirms iOS version
+"Housing: Buy, Rent, Sell & Pay",license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.locon.housing&hl=en_IN,live,Closed-source property app by Housing; free with in-platform services
+"Housing: Buy, Rent, Sell & Pay",platforms,,"Android, iOS",,,https://apps.apple.com/br/app/housing-buy-rent-sell-pay/id967257660?uo=4,live,Play Store lists Android app; App Store listing confirms iOS version
+iFood para Entregadores,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=br.com.ifood.driver.app&hl=en_US&gl=US,live,Closed-source courier app by iFood Delivery de Comida e Mercado; freely available on Google Play
+iFood para Entregadores,platforms,,Android,,,https://play.google.com/store/apps/details?id=br.com.ifood.driver.app&hl=en_US&gl=US,live,Play Store listing; iOS version not confirmed from whitelisted source
