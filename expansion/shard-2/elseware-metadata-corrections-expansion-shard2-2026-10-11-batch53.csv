@@ -1,0 +1,72 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Orion Torrent Client,license,,Proprietary — free,LicenseRef-proprietary; all-rights-reserved grant,,https://flathub.org/apps/com.ktechpit.orion,live,Flathub lists LicenseRef-proprietary pointing to a warranty-only copyright notice with no granted rights
+Orion Torrent Client,platforms,,Linux,,,https://flathub.org/apps/com.ktechpit.orion,live,Flathub app page; also distributed via Snap Store
+Ossec Hids,license,,Open source,GPL-2.0,,https://github.com/ossec/ossec-hids,live,GitHub API spdx_id on the canonical ossec/ossec-hids repository
+Ossec Hids,platforms,,"Windows, Linux",,,https://github.com/ossec/ossec-hids,live,Server/agent architecture documented on ossec.net
+Over Sight,license,,Open source,GPL-3.0,,https://github.com/objective-see/OverSight,live,GitHub API spdx_id; official site links this as the source code
+Over Sight,platforms,,macOS,,,https://objective-see.org/products/oversight.html,live,Official site: Supported OS macOS 12+; mic/webcam monitor
+OwnTracks,license,,Open source,EPL-1.0,,https://github.com/owntracks/android,live,"GitHub API spdx_id on owntracks/android (Eclipse Public License 1.0, OSI-approved)"
+OwnTracks,platforms,,Android,,,https://github.com/owntracks/android,live,Android app repository
+P2Play - Peertube client,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/org.libre.agosto.p2play/,live,F-Droid package page lists GNU General Public License v3.0 only
+P2Play - Peertube client,platforms,,Android,,,https://f-droid.org/packages/org.libre.agosto.p2play/,live,Unofficial PeerTube Android client
+Packetsender,license,,Open source,GPL-2.0,,https://github.com/dannagle/PacketSender,live,GitHub API spdx_id on dannagle/PacketSender (canonical Packet Sender repo)
+Packetsender,platforms,,"Windows, macOS, Linux",,,https://packetsender.com/,live,Official site download page lists all three desktop platforms
+Paho Mqtt Android,license,,Open source,EPL-2.0,,https://github.com/eclipse-paho/paho.mqtt.android,live,Raw LICENSE verified: Eclipse Public License v2.0 (with EDL v1.0); Android client library
+Paho Mqtt Rust,license,,Open source,EPL-2.0,,https://github.com/eclipse-paho/paho.mqtt.rust,live,Raw LICENSE verified: Eclipse Public License v2.0 (with EDL v1.0); Rust client library
+Pantheon Tweaks,license,,Open source,GPL-3.0,,https://github.com/pantheon-tweaks/pantheon-tweaks,live,GitHub API spdx_id on pantheon-tweaks/pantheon-tweaks
+Pantheon Tweaks,platforms,,Linux,,,https://github.com/pantheon-tweaks/pantheon-tweaks,live,System customization app for the Pantheon (elementary OS) desktop
+PaperKnife,license,,Open source,GNU Affero General Public License v3.0,"Android, Web",https://github.com/potatameister/PaperKnife,live,"Privacy-first PDF utility (merge, compress, sign, protect); APK + web app"
+PaperKnife,platforms,,"Android, Web",,,https://github.com/potatameister/PaperKnife,live,README download section lists APK and live web app
+Paranoid's Pal - Privacy Lock,license,,Open source,GNU General Public License v3.0,Android,https://github.com/hardalgorithm/ParanoidsPal-PrivacyLock,live,"Privacy lock app with lockscreen, quicktile, shake detection"
+Paranoid's Pal - Privacy Lock,platforms,,Android,,,https://github.com/hardalgorithm/ParanoidsPal-PrivacyLock,live,Android topics on repo
+Partitionmanager,license,,Open source,GNU General Public License v3.0 or later,Linux,https://apps.kde.org/partitionmanager/,authoritative,apps.kde.org KDE catalog lists GPL-3.0+
+Partitionmanager,platforms,,Linux,,,https://apps.kde.org/partitionmanager/,authoritative,KDE Partition Manager for Linux
+PDF Stitcher,license,,Open source,Mozilla Public License 2.0,"Windows, macOS, Linux",https://github.com/cfcurtis/pdfstitcher,live,Utility to stitch PDF sewing-pattern tiles
+PDF Stitcher,platforms,,"Windows, macOS, Linux",,,https://github.com/cfcurtis/pdfstitcher,live,README download section: Windows exe; macOS Intel/ARM dmg; Flathub
+Pell,license,,Open source,MIT License,,https://github.com/jaredreich/pell,live,Smallest WYSIWYG text editor for web; JS library with no end-user OS platforms
+Permission Manager X,license,,Open source,GNU Affero General Public License v3.0,Android,https://github.com/mirfatif/PermissionManagerX,live,eXtended Permission Manager for Android
+Permission Manager X,platforms,,Android,,,https://github.com/mirfatif/PermissionManagerX,live,Android app
+Persepolis,license,,Open source,GNU General Public License v3.0,"Windows, macOS, Linux",https://github.com/persepolisdm/persepolis,live,Download manager written in Python
+Persepolis,platforms,,"Windows, macOS, Linux",,,https://github.com/persepolisdm/persepolis,live,"README: developed for GNU/Linux, BSDs, macOS, Microsoft Windows"
+Phpliteadmin,license,,Open source,GPL-3.0-or-later,,https://github.com/phpLiteAdmin/pla/blob/master/readme.md,live,Official README License section: GNU GPL version 3 or any later version; PHP SQLite admin tool
+Phpliteadmin,platforms,,Web,,,https://github.com/phpLiteAdmin/pla/blob/master/readme.md,live,Single-file PHP web application; runs in browser against any web server
+PhoneTrack SMS,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.gideontek.phonetrack/,live,F-Droid package page lists GNU General Public License v3.0 only
+PhoneTrack SMS,platforms,,Android,,,https://f-droid.org/packages/com.gideontek.phonetrack/,live,Privacy-friendly SMS-based location sharing; Android 8.0+
+Picom Conf,license,,Open source,LGPL-2.1,,https://github.com/qtilities/picom-conf/,live,GitHub API SPDX license id LGPL-2.1 on qtilities/picom-conf
+Picom Conf,platforms,,Linux,,,https://github.com/qtilities/picom-conf/,live,Qt GUI configuration tool for the picom X composite manager
+Pidgin,license,,Open source,GPL-2.0-or-later,,https://pidgin.im/about/,live,Official site: licensed under the GNU General Public License; project COPYING is GPL v2 or later
+Pidgin,platforms,,"Windows, Linux",,,https://pidgin.im/about/,live,Official site: runs on Windows Linux BSD and other UNIX-like operating systems
+Picfit,license,,Open source,MIT,,https://github.com/thoas/picfit,live,GitHub API SPDX license id MIT on thoas/picfit; image resizing server written in Go
+Pim Data Exporter,license,,Open source,GPL-2.0-or-later,,https://github.com/KDE/pim-data-exporter,live,SPDX-License-Identifier GPL-2.0-or-later in gui/main.cpp of KDE repo
+Pim Data Exporter,platforms,,Linux,,,https://github.com/KDE/pim-data-exporter,live,KDE application for backing up and archiving PIM data
+Pineapple Lock Screen (OSS),license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/net.blumia.pineapple.lockscreen.oss/,live,F-Droid package page lists GNU General Public License v3.0 or later
+Pineapple Lock Screen (OSS),platforms,,Android,,,https://f-droid.org/packages/net.blumia.pineapple.lockscreen.oss/,live,One-tap screen lock app; Android 9.0+
+Pinot,license,,Open source,GPL-2.0,,https://github.com/FabriceColin/pinot,live,Raw COPYING is GNU GPL Version 2; desktop search tool by Fabrice Colin
+Pinot,platforms,,Linux,,,https://github.com/FabriceColin/pinot,live,Personal search and metasearch for the Free Desktop
+Piping Server,license,,Open source,MIT,,https://github.com/nwtgck/piping-server,live,GitHub API SPDX; infinitely transfer between devices over pure HTTP
+Pixel Picker,license,,Open source,GPL-3.0,,https://github.com/acheronfail/pixel-picker,live,GitHub API SPDX on acheronfail/pixel-picker
+Pixel Picker,platforms,,macOS,,,https://github.com/acheronfail/pixel-picker,live,Menu bar app; Homebrew cask and dmg releases
+Plank,license,,Open source,GPL-3.0,,https://github.com/ricotz/plank,live,GitHub API SPDX on ricotz/plank; Launchpad project page lists GNU GPL v3
+Plank,platforms,,Linux,,,https://github.com/ricotz/plank,live,Simple dock for Linux desktops
+Plasma Discover,license,,Open source,GPL-2.0-or-later,,https://apps.kde.org/discover/,authoritative,KDE authoritative catalog lists license GPL-2.0+
+Plasma Discover,platforms,,Linux,,,https://apps.kde.org/discover/,authoritative,KDE software center for Linux
+PlayOnLinux 4,license,,Open source,GPL-3.0,,https://github.com/PlayOnLinux/POL-POM-4,live,GitHub API SPDX on PlayOnLinux/POL-POM-4
+PlayOnLinux 4,platforms,,Linux,,,https://github.com/PlayOnLinux/POL-POM-4,live,Wine frontend for running Windows software on Linux
+Plus Plus Battery,license,,Open source,MIT,,https://github.com/dijia1124/PlusPlusBattery,live,GitHub API SPDX; README License section states MIT
+Plus Plus Battery,platforms,,Android,,,https://github.com/dijia1124/PlusPlusBattery,live,Battery info and health estimation tool; F-Droid com.dijia1124.plusplusbattery
+Poedit,license,,Proprietary — freemium,,,https://poedit.com/,live,Closed-source translation editor; free download with paid Pro tier
+Poedit,platforms,,"Windows, macOS, Linux",,,https://poedit.com/,live,Official download page lists Windows Mac and Linux
+Polished Recognition,license,,Open source,MIT,,https://github.com/georgernstgraf/polished-recognition,live,GitHub API spdx_id MIT on georgernstgraf/polished-recognition
+Polished Recognition,platforms,,Android,,,https://f-droid.org/packages/com.georgernstgraf.polishedrecognition,live,F-Droid package page; also Play closed testing
+Pomfshare,license,,Open source,GPL-2.0-or-later,,https://f-droid.org/en/packages/science.itaintrocket.pomfshare/,live,F-Droid package page License section
+Pomfshare,platforms,,Android,,,https://f-droid.org/en/packages/science.itaintrocket.pomfshare/,live,F-Droid package page
+Portuguese for AnySoftKeyboard,license,,Open source,Apache-2.0,,https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.portuguese/,live,F-Droid package page License section
+Portuguese for AnySoftKeyboard,platforms,,Android,,,https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.portuguese/,live,F-Droid package page
+Power App | Simple Power Menu [Root only],license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/io.github.domi04151309.powerapp/,live,F-Droid package page License section
+Power App | Simple Power Menu [Root only],platforms,,Android,,,https://f-droid.org/en/packages/io.github.domi04151309.powerapp/,live,F-Droid package page
+Power Shell IPv4 Network Scanner,license,,Open source,GPL-2.0,,https://github.com/BornToBeRoot/PowerShell_IPv4NetworkScanner,live,GitHub API spdx_id on BornToBeRoot/PowerShell_IPv4NetworkScanner; PowerShell script so no end-user OS platforms
+Počasí v krajích,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/cz.jirkovsky.lukas.chmupocasi/,live,F-Droid package page License section
+Počasí v krajích,platforms,,Android,,,https://f-droid.org/en/packages/cz.jirkovsky.lukas.chmupocasi/,live,F-Droid package page
+Prek,license,,Open source,MIT,,https://github.com/j178/prek,live,GitHub API spdx_id on j178/prek; developer CLI tool so no end-user OS platforms
+Privacy Indicators,license,,Open source,MIT,,https://f-droid.org/en/packages/com.nitish.privacyindicator/,live,F-Droid package page License section
+Privacy Indicators,platforms,,Android,,,https://f-droid.org/en/packages/com.nitish.privacyindicator/,live,F-Droid package page
