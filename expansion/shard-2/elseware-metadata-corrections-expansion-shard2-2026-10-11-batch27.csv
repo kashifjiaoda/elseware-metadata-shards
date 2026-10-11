@@ -1,0 +1,65 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Zita At1,license,,Open source,GPL-2.0,Linux,http://kokkinizita.linuxaudio.org/linuxaudio/downloads/,live,COPYING in official zita-at1-0.8.2 source tarball verified as GNU GPL v2 text; official downloads page lists license column as GPL
+Zita At1,platforms,,Linux,,,http://kokkinizita.linuxaudio.org/linuxaudio/downloads/,live,JACK audio autotuner application by Fons Adriaensen
+Zita Rev1,license,,Open source,GPL-2.0,Linux,http://kokkinizita.linuxaudio.org/linuxaudio/downloads/,live,COPYING in official zita-rev1-0.2.2 source tarball verified as GNU GPL v2 text; official downloads page lists license column as GPL
+Zita Rev1,platforms,,Linux,,,http://kokkinizita.linuxaudio.org/linuxaudio/downloads/,live,JACK audio reverb application by Fons Adriaensen
+スマートニュース｜ニュースアプリ・ポイ活・クーポン・天気,license,,Proprietary — free,,iOS,https://apps.apple.com/jp/app/id579581125,live,App Store JP exact-name match: SmartNews Inc. 無料 (free)
+スマートニュース｜ニュースアプリ・ポイ活・クーポン・天気,platforms,,iOS,,,https://apps.apple.com/jp/app/id579581125,live,App Store JP listing id 579581125
+뉴스보이 - 매일 분야별 TOP 10 뉴스 보기,license,,Proprietary — free,,iOS,https://apps.apple.com/kr/app/id6667097167,live,App Store KR exact-name match: curved road 무료 (free)
+뉴스보이 - 매일 분야별 TOP 10 뉴스 보기,platforms,,iOS,,,https://apps.apple.com/kr/app/id6667097167,live,App Store KR listing id 6667097167
+한국경제 - 한경 프리미엄9,license,,Proprietary — free,,iOS,https://apps.apple.com/kr/app/id406614875,live,App Store KR exact-name match: The Korea Economic Daily 무료 (free)
+한국경제 - 한경 프리미엄9,platforms,,iOS,,,https://apps.apple.com/kr/app/id406614875,live,App Store KR listing id 406614875
+Alligator,license,,Open source,GPL-2.0-or-later,Linux,https://apps.kde.org/alligator/,live,apps.kde.org app page states license GPL-2.0-or-later with SPDX link; part of KDE Plasma Mobile app collection
+Alligator,platforms,,Linux,,,https://apps.kde.org/alligator/,live,Plasma Mobile RSS feed reader for mobile Linux devices
+bulletty,license,,Open source,MIT,Linux,https://github.com/crocidb/bulletty,live,GitHub API spdx_id MIT on crocidb/bulletty; TUI RSS/Atom feed reader
+bulletty,platforms,,Linux,,,https://github.com/crocidb/bulletty,live,Terminal RSS reader packaged for Arch Linux via pacman; prebuilt binaries on GitHub releases
+clinews,license,,Open source,MIT,"Windows, macOS, Linux",https://github.com/mmckeaveney/clinews,live,Raw LICENSE on mmckeaveney/clinews verified as MIT License text (copyright Martin McKeaveney)
+clinews,platforms,,"Windows, macOS, Linux",,,https://github.com/mmckeaveney/clinews,live,Node.js CLI installed via npm -g (runs wherever Node runs)
+Droidrops,license,,Open source,GPL-3.0,Android,https://github.com/thekester/Droidrops,live,GitHub API spdx_id GPL-3.0 on thekester/Droidrops; fork of Readrops multi-services RSS client
+Droidrops,platforms,,Android,,,https://github.com/thekester/Droidrops,live,Android RSS feed reader (F-Droid submission in progress per repo docs)
+Folo,license,,Open source,AGPL-3.0,"iOS, Android, macOS, Windows, Linux, Web",https://github.com/RSSNext/Folo,live,Open source AI RSS reader; raw LICENSE verified as GNU AGPL v3 text (API spdx AGPL-3.0); platforms per README
+Folo,platforms,,"iOS, Android, macOS, Windows, Linux, Web",,,https://github.com/RSSNext/Folo,live,Platforms per official README
+Geekttrss,license,,Open source,GPL-3.0,Android,https://github.com/fbarthelery/geekttrss,live,Tiny Tiny RSS reader for Android; GitHub API spdx GPL-3.0; topics include android and f-droid
+Geekttrss,platforms,,Android,,,https://github.com/fbarthelery/geekttrss,live,Repo description states Android platform
+GNOME Feeds,license,,Open source,GPL-3.0,Linux,https://gitlab.gnome.org/World/gfeeds,live,GNOME feed reader; raw LICENSE in repo verified as GNU GPL v3 text
+GNOME Feeds,platforms,,Linux,,,https://gitlab.gnome.org/World/gfeeds,live,GNOME desktop feed reader
+Hacki for Hacker News,license,,Open source,GPL-3.0,"iOS, Android",https://github.com/Livinglist/Hacki,live,"Flutter Hacker News client; GitHub API spdx GPL-3.0; README lists App Store, Google Play and F-Droid releases"
+Hacki for Hacker News,platforms,,"iOS, Android",,,https://github.com/Livinglist/Hacki,live,"README shows App Store (iPhone), Google Play and F-Droid badges"
+Jackett,license,,Open source,GPL-2.0,"Windows, macOS, Linux",https://github.com/Jackett/Jackett,live,Self-hosted torrent indexer API; raw LICENSE verified as GNU GPL v2 text (API spdx GPL-2.0)
+Jackett,platforms,,"Windows, macOS, Linux",,,https://github.com/Jackett/Jackett,live,"README quick reference shows config paths for Linux, Windows and macOS"
+LeMondeRssReader,license,,Open source,GPL-3.0,Android,https://github.com/MBach/LeMondeRssReader,live,LeMonde.fr RSS reader app; GitHub API spdx GPL-3.0; published on F-Droid (org.mbach.lemonde)
+LeMondeRssReader,platforms,,Android,,,https://github.com/MBach/LeMondeRssReader,live,F-Droid published Android app; react-native-paper RSS reader
+Mousam,license,,Open source,GPL-3.0,,https://github.com/amit9838/mousam,live,GTK4 libadwaita weather app
+Mousam,platforms,,Linux,,,https://github.com/amit9838/mousam,live,GTK4 Linux desktop app
+Newsboat,license,,Open source,MIT,,https://github.com/newsboat/newsboat,live,terminal RSS reader; homepage newsboat.org
+Newsboat,platforms,,"Linux, macOS",,,https://newsboat.org/,live,terminal-based per official site
+Nunti,license,,Open source,GPL-3.0,,https://gitlab.com/ondrejfoltyn/nunti,live,F-Droid com.nunti lists GPL-3.0 only
+Nunti,platforms,,Android,,,https://f-droid.org/packages/com.nunti,live,F-Droid listing
+PodAura,license,,Open source,GPL-3.0,,https://github.com/SkyD666/PodAura,live,all-in-one podcast RSS app
+PodAura,platforms,,"Android, Windows",,,https://github.com/SkyD666/PodAura,live,Compose Multiplatform; Microsoft Store + F-Droid
+Read You,license,,Open source,GPL-3.0,,https://github.com/ReadYouApp/ReadYou,live,Android RSS reader Material You style
+Read You,platforms,,Android,,,https://github.com/ReadYouApp/ReadYou,live,Android per repo description
+Selfoss,license,,Open source,GPL-3.0,,https://github.com/fossar/selfoss,live,raw COPYING verified as GNU GPL v3
+Selfoss,platforms,,Web,,,https://github.com/fossar/selfoss,live,PHP web application
+쏘카일레클 - 모든 이동의 시작과 끝,license,,Proprietary — free,,,https://apps.apple.com/kr/app/%EC%8F%98%EC%B9%B4%EC%9D%BC%EB%A0%88%ED%81%B4-%EB%AA%A8%EB%93%A0-%EC%9D%B4%EB%8F%99%EC%9D%98-%EC%8B%9C%EC%9E%91%EA%B3%BC-%EB%81%9D/id1456461872?uo=4,live,App Store KR exact-name match; seller Nine2One Incorporation; 무료 (Free)
+쏘카일레클 - 모든 이동의 시작과 끝,platforms,,iOS,,,https://apps.apple.com/kr/app/%EC%8F%98%EC%B9%B4%EC%9D%BC%EB%A0%88%ED%81%B4-%EB%AA%A8%EB%93%A0-%EC%9D%B4%EB%8F%99%EC%9D%98-%EC%8B%9C%EC%9E%91%EA%B3%BC-%EB%81%9D/id1456461872?uo=4,live,Socar e-bike sharing app; iPhone/iPad listing
+카카오맵 - 대한민국 No.1 지도앱,license,,Proprietary — free,,,https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%A7%B5-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-no-1-%EC%A7%80%EB%8F%84%EC%95%B1/id304608425?uo=4,live,App Store KR exact-name match; seller Kakao Corp.; 무료 (Free)
+카카오맵 - 대한민국 No.1 지도앱,platforms,,iOS,,,https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%A7%B5-%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-no-1-%EC%A7%80%EB%8F%84%EC%95%B1/id304608425?uo=4,live,KakaoMap navigation app; iPhone/iPad listing
+ABCalc Plus,license,,Proprietary — paid,,,https://alliedbits.com/abcalc/index.html,live,Official site: ABCalc Plus extends the free version with additional power-user features (paid tier)
+ABCalc Plus,platforms,,"Windows, Linux",,,https://alliedbits.com/abcalc/index.html,live,Official downloads page: Windows (Microsoft Store) and Linux (.deb/.rpm) builds
+Apache Directory Studio,license,,Open source,Apache-2.0,,https://github.com/apache/directory-studio,live,GitHub API spdx_id Apache-2.0 on apache/directory-studio
+Apache Directory Studio,platforms,,"Windows, macOS, Linux",,,https://directory.apache.org/studio/download/,live,Official download index lists download-windows/download-macosx/download-linux builds
+Atril,license,,Open source,GPL-2.0,,https://github.com/mate-desktop/atril,live,GitHub API spdx_id GPL-2.0; README confirms licensed under the GNU GPL (Evince fork)
+Atril,platforms,,Linux,,,https://github.com/mate-desktop/atril,live,MATE desktop document viewer; requires MATE platform libraries
+Beaver Notes,license,,Open source,MIT,,https://github.com/Beaver-Notes/Beaver-Notes,live,GitHub API spdx_id MIT on Beaver-Notes/Beaver-Notes
+Beaver Notes,platforms,,"Windows, macOS, Linux",,,https://github.com/Beaver-Notes/Beaver-Notes,live,README: cross-platform macOS Windows GNU/Linux (local-first notes workspace)
+CalCleaner,license,,Open source,GPL-3.0,,https://github.com/flozz/calcleaner,live,GitHub API spdx_id GPL-3.0 on flozz/calcleaner; Flathub lists GPL-3.0-or-later
+CalCleaner,platforms,,Linux,,,https://flathub.org/apps/org.flozz.calcleaner,live,Flathub flatpak org.flozz.calcleaner; official site offers Linux install
+CmapTools,license,,Proprietary — free,Closed-source freeware from IHMC (no source published),,https://cmap.ihmc.us/,live,Official IHMC site: software free to download; not open source
+CmapTools,platforms,,"Windows,macOS,iOS,Linux",,,https://cmap.ihmc.us/,live,"Official site downloads: Windows, OS X, iPad, Linux"
+Datovka,license,,Open source,GPL-3.0,,https://gitlab.nic.cz/datovka/datovka,live,Official CZ.NIC GitLab repo: COPYING verified as GNU GPL v3
+Datovka,platforms,,"Windows,macOS,Linux",,,https://datovka.nic.cz/4.29.5/,live,"Official download server: Windows exe/msi/zip, macOS dmg, tar.xz source"
+Docmost,license,,Open source,AGPL-3.0 (core; Enterprise features under separate commercial license),,https://github.com/docmost/docmost,live,GitHub API spdx_id AGPL-3.0; README confirms core is AGPL 3.0
+Docmost,platforms,,Web,,,https://github.com/docmost/docmost,live,Self-hosted or cloud (docmost.com); browser-based wiki
+Eralchemy,license,,Open source,Apache-2.0,,https://github.com/eralchemy/eralchemy,live,GitHub API spdx_id Apache-2.0; README states released under Apache License 2.0
+Eralchemy,platforms,,"Windows,macOS,Linux",,,https://github.com/eralchemy/eralchemy,live,Python pip package; OS Independent per PyPI classifiers
