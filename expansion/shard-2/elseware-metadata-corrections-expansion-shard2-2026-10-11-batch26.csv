@@ -1,0 +1,82 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Music App KMP,license,,Open source,MIT,"Android, iOS, Desktop, Web",https://github.com/SEAbdulbasit/MusicApp-KMP,live,GitHub API spdx_id MIT; README lists Android/iOS/Desktop/Web
+Music App KMP,platforms,,"Android, iOS, Desktop, Web",,,https://github.com/SEAbdulbasit/MusicApp-KMP,live,README: works on Android/iOS/Desktop/Web per README
+Music DNA,license,,Source-available,CC-BY-NC-SA-4.0,Android,https://github.com/harjot-oberai/MusicDNA,live,raw LICENSE.md is CC Attribution-NonCommercial-ShareAlike 4.0; NC restriction per playbook
+Music DNA,platforms,,Android,,,https://github.com/harjot-oberai/MusicDNA,live,repo description: music player for Android
+Musicbox MPD,license,,Open source,MIT,Web,https://github.com/malworthy/musicbox-mpd,live,GitHub API spdx_id MIT
+Musicbox MPD,platforms,,Web,,,https://github.com/malworthy/musicbox-mpd,live,README: lightweight web based MPD client (python + vanilla.js)
+Musikcube,license,,Open source,BSD-3-Clause,"Windows, macOS, Linux",https://github.com/clangen/musikcube,live,GitHub API spdx_id BSD-3-Clause
+Musikcube,platforms,,"Windows, macOS, Linux",,,https://github.com/clangen/musikcube,live,README: compiles and runs on windows/macos/linux
+Navic,license,,Open source,GPL-3.0,Android,https://github.com/ssalggnikool/Navic,live,GitHub API spdx_id GPL-3.0 on ssalggnikool/Navic
+Navic,platforms,,Android,,,https://github.com/ssalggnikool/Navic,live,repo description: Subsonic music streaming app for Android
+NextGroove,license,,Open source,GPL-3.0,Linux,https://gitlab.gnome.org/dean36963/nextgroove,live,raw COPYING verified as GPL v3 text; source repo per Flathub manifest
+NextGroove,platforms,,Linux,,,https://gitlab.gnome.org/dean36963/nextgroove,live,GNOME app packaged on Flathub (net.rosebirch.nextgroove)
+noson,license,,Open source,GPL-3.0,Linux,https://github.com/janbar/noson-app,live,GitHub API spdx_id GPL-3.0; catalog name matches the Noson SONOS controller app
+noson,platforms,,Linux,,,https://github.com/janbar/noson-app,live,repo description: control music from SONOS devices on Linux platforms
+Odin2,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/TheWaveWarden/odin2,live,raw LICENSE: source distributed under GNU GPLv3 (bundled Aldrich font under SIL OFL-1.1)
+Odin2,platforms,,"Windows, macOS, Linux",,,https://github.com/TheWaveWarden/odin2,live,free VST3/CLAP/AU/LV2 synthesizer plugin
+OpenKJ,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/OpenKJ/OpenKJ,live,GitHub API spdx_id GPL-3.0; open source karaoke show hosting software
+OpenKJ,platforms,,"Windows, macOS, Linux",,,https://github.com/OpenKJ/OpenKJ,live,README: installers for Windows/macOS at openkj.org; Linux via Flathub org.openkj.OpenKJ
+OwnTone,license,,Open source,GPL-2.0 (GNU General Public License v2; raw COPYING verified),Linux; macOS; Windows,https://github.com/owntone/owntone-server,live,
+OwnTone,platforms,,Linux; macOS; Windows,,,https://github.com/owntone/owntone-server,live,"Music server (forked-daapd successor); README lists Windows, macOS, Linux and BSD"
+Pandora Player,license,,Open source,MIT (GitHub API spdx_id),iOS,https://github.com/ApplikeySolutions/PandoraPlayer,live,
+Pandora Player,platforms,,iOS,,,https://github.com/ApplikeySolutions/PandoraPlayer,live,iOS Swift music-player UI library/component by Applikey Solutions; supported build target iOS 9.0
+pd-ceammc,license,,Open source,"GPL-3.0 (README ""License: GPL3""; ceammc.github.io docs)",Windows; macOS; Linux,https://github.com/uliss/pure-data,live,
+pd-ceammc,platforms,,Windows; macOS; Linux,,,https://github.com/uliss/pure-data,live,"Pure Data CEAMMC distribution by Serge Poltavsky; downloads for Windows, macOS, Linux on ceammc.github.io"
+Phocid,license,,Open source,GPL-3.0-or-later (F-Droid + GitHub README license section),Android,https://github.com/TJYSunset/Phocid,live,
+Phocid,platforms,,Android,,,https://f-droid.org/en/packages/org.sunsetware.phocid/,live,Modern offline music player for Android 11+; F-Droid org.sunsetware.phocid
+Pied,license,,Open source,GPL-3.0 (GitHub API spdx_id),Linux,https://github.com/Elleo/pied,live,
+Pied,platforms,,Linux,,,https://github.com/Elleo/pied,live,Installs/manages Piper TTS voices for Speech Dispatcher
+Pnmixer,license,,Open source,"GPL-3.0-only (GitHub API spdx GPL-3.0; maintainer notes GPL-3 not ""or later"")",Linux,https://github.com/nicklan/pnmixer,live,
+Pnmixer,platforms,,Linux,,,https://github.com/nicklan/pnmixer,live,System tray volume mixer (ALSA/PulseAudio)
+powertabeditor,license,,Open source,GPL-3.0 (GitHub API spdx_id),Windows; macOS; Linux,https://github.com/powertab/powertabeditor,live,
+powertabeditor,platforms,,Windows; macOS; Linux,,,https://github.com/powertab/powertabeditor,live,"View and edit guitar tablature; README: Windows, Mac, and Linux"
+presid — présidentielle 2027,license,,Open source,MIT (GitHub API spdx_id),,https://github.com/mieuxvoter/presidentielle2027,live,Poll-data compilation (CSV/JSON + merge script) for the 2027 French presidential election; platforms N/A (data repo)
+Pt2 Clone,license,,Open source,BSD-3-Clause (GitHub API spdx_id),Windows; macOS; Linux,https://github.com/8bitbubsy/pt2-clone,live,
+Pt2 Clone,platforms,,Windows; macOS; Linux,,,https://github.com/8bitbubsy/pt2-clone,live,ProTracker 2 clone for Windows/macOS/Linux
+Puredata GUI,license,,Open source,BSD-3-Clause,Windows; macOS; Linux,https://github.com/pure-data/pure-data/blob/master/LICENSE.txt,live,LICENSE.txt states Standard Improved BSD License (BSD-3-Clause)
+Puredata GUI,platforms,,Windows; macOS; Linux,,,https://github.com/pure-data/pure-data,live,Repo README: binaries for Linux macOS and Windows; pd-gui is Pure Data GUI
+Qasmixer,license,,Open source,MIT,Linux,https://sourceforge.net/projects/qastools/,live,Project page lists License: MIT License; upstream gitlab.com/sebholt/qastools
+Qasmixer,platforms,,Linux,,,https://sourceforge.net/projects/qastools/,live,Desktop mixer application for ALSA (QasTools suite)
+Qjackrcd,license,,Open source,GPL-2.0,Linux,https://sourceforge.net/projects/qjackrcd/,live,Project page: GNU General Public License version 2.0
+Qjackrcd,platforms,,Linux,,,https://sourceforge.net/projects/qjackrcd/,live,Qt app to record JACK server outputs; depends on jack sndfile qt5
+Qmmp,license,,Open source,GPL-2.0,FreeBSD; Linux; Windows,https://sourceforge.net/projects/qmmp-dev/,live,Project page: GNU General Public License version 2.0
+Qmmp,platforms,,FreeBSD; Linux; Windows,,,https://sourceforge.net/projects/qmmp-dev/,live,Operating Systems listed: FreeBSD Linux Windows
+Qsynth,license,,Open source,GPL-2.0,Linux; macOS; Windows,https://sourceforge.net/projects/qsynth/,live,Project page: GNU General Public License version 2.0
+Qsynth,platforms,,Linux; macOS; Windows,,,https://sourceforge.net/projects/qsynth/,live,Operating Systems listed: Linux Mac Windows
+Qwertone,license,,Open source,GPL-3.0,Linux,https://gitlab.com/azymohliad/qwertone/blob/master/LICENSE,live,Raw LICENSE file: GNU General Public License Version 3 29 June 2007
+Qwertone,platforms,,Linux,,,https://gitlab.com/azymohliad/qwertone,live,GTK3/Rust toy-piano synth; Debian package qwertone + Flathub flatpak
+Rakarrack,license,,Open source,GPL-2.0,Linux,https://sourceforge.net/projects/rakarrack/,live,Project page: GNU General Public License version 2.0
+Rakarrack,platforms,,Linux,,,https://sourceforge.net/projects/rakarrack/,live,Guitar effects rack for Linux (End Users/Desktop)
+Rhythm,license,,Open source,MIT,Linux,https://github.com/W3SS/rhythm,live,GitHub API spdx_id MIT; modern Linux music player with visualizations
+Rhythm,platforms,,Linux,,,https://github.com/W3SS/rhythm,live,README Platform badge: Linux (C/Love2D/PortAudio)
+RSPlayer,license,,Open source,MIT,Android; Linux; macOS,https://github.com/ljufa/rsplayer,live,GitHub API spdx_id MIT; DIY-friendly Hi-Fi music player (Rust)
+RSPlayer,platforms,,Android; Linux; macOS,,,https://github.com/ljufa/rsplayer,live,README + topics: Android app Linux desktop and server macOS Raspberry Pi OS
+Samplv1,license,,Open source,GPL-2.0,Linux,https://github.com/rncbc/samplv1,live,GitHub API license GPL-2.0; old-school polyphonic sampler for JACK/LV2
+Samplv1,platforms,,Linux,,,https://github.com/rncbc/samplv1,live,Qt/JACK/ALSA/LV2 Linux audio software
+Silverjuke,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/silverjuke/silverjuke,live,GitHub API license GPL-3.0; easy-to-use jukebox for the desktop
+Silverjuke,platforms,,"Windows, macOS, Linux",,,https://github.com/silverjuke/silverjuke,live,README documents Linux/Windows/Mac builds
+SONE,license,,Open source,GPL-3.0-only,Linux,https://github.com/lullabyx/sone,live,README: fully open source under GPL-3.0; native Linux TIDAL client
+SONE,platforms,,Linux,,,https://github.com/lullabyx/sone,live,Flathub/deb/rpm/AUR/Snap Linux packages only
+Sonixd,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/jeffvli/sonixd,live,GitHub API license GPL-3.0; Subsonic/Jellyfin desktop music player
+Sonixd,platforms,,"Windows, macOS, Linux",,,https://github.com/jeffvli/sonixd,live,README lists Windows/MacOS/Linux
+Spek,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/alexkay/spek,live,GitHub API license GPL-3.0; acoustic spectrum analyser
+Spek,platforms,,"Windows, macOS, Linux",,,https://github.com/alexkay/spek,live,README documents Linux/Windows/macOS builds
+Spotipy Visualizer,license,,Open source,GPL-3.0,Web,https://github.com/mauringo/spotipy-visualizer,live,GitHub API license GPL-3.0; Spotify web visualization
+Spotipy Visualizer,platforms,,Web,,,https://github.com/mauringo/spotipy-visualizer,live,Python Flask app running in browser
+Supercollider Ide,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/supercollider/supercollider,live,GitHub API license GPL-3.0; audio server/programming language/IDE
+Supercollider Ide,platforms,,"Windows, macOS, Linux",,,https://github.com/supercollider/supercollider,live,README documents Windows/macOS/Linux builds
+Symphony,license,,Open source,AGPL-3.0,Android,https://github.com/Zyrouge/symphony,live,AGPL-3.0 per GitHub API; lightweight elegant music player for Android 9+
+Symphony,platforms,,Android,,,https://github.com/Zyrouge/symphony,live,
+Tellico,license,,Open source,GPL-2.0-or-later,Linux,https://tellico-project.org,live,Official site states GPL v2 or v3; KDE collection manager by Robby Stephenson
+Tellico,platforms,,Linux,,,https://tellico-project.org,live,
+Transitions DJ,license,,Proprietary — freemium,,macOS,https://apps.apple.com/ie/app/transitions-dj/id447999285?mt=12,live,Mac App Store: Free with In-App Purchases (Pro upgrade); developer Apollo Vibes LLC
+Transitions DJ,platforms,,macOS,,,https://apps.apple.com/ie/app/transitions-dj/id447999285?mt=12,live,
+Tutka,license,,Open source,GPL-3.0,"Linux, macOS",https://github.com/findsp/tutka,live,GPL-3.0 per GitHub API; MIDI-only tracker sequencer for GNU/Linux and Mac OS X
+Tutka,platforms,,"Linux, macOS",,,https://github.com/findsp/tutka,live,
+Vinyl Music Player,license,,Open source,GPL-3.0-only,Android,https://github.com/VinylMusicPlayer/VinylMusicPlayer,live,GPL-3.0-only per F-Droid metadata; fork of Phonograph
+Vinyl Music Player,platforms,,Android,,,https://github.com/VinylMusicPlayer/VinylMusicPlayer,live,
+Waveform Playlist,license,,Open source,MIT,Web,https://github.com/naomiaro/waveform-playlist,live,MIT per GitHub API; multitrack Web Audio editor and player
+Waveform Playlist,platforms,,Web,,,https://github.com/naomiaro/waveform-playlist,live,
+Yahoo! JAPAN,license,,Proprietary — free,,iOS,https://apps.apple.com/jp/app/yahoo-japan/id299147843?uo=4,live,App Store JP exact name match; seller Yahoo Japan Corporation; listed free (無料)
+Yahoo! JAPAN,platforms,,iOS,,,https://apps.apple.com/jp/app/yahoo-japan/id299147843?uo=4,live,
