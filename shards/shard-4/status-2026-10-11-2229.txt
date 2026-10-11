@@ -1,0 +1,7 @@
+Shard 2 — Shard 4 Phase-2 expansion takeover (PKT 2026-10-11-2229)
+batch64 (apps.md lines 3157-3206): 79 rows pushed (40 apps verified, 10 skipped)
+license badges: 30 Proprietary — free, 6 Proprietary — freemium, 3 Proprietary — paid subscription, 1 Proprietary — paid
+skipped: My Health, Period & Cycle Tracker (generic names), Elevolt (identity ambiguous), NgCareers (abandoned), Chase First Banking + Venmo Teen (not standalone apps), Lingumi (delisted), Playground (identity ambiguous), Farewill (web-only), AI Palm (identity ambiguous, scam-prone)
+assembler fix: ch64k1 license rows had platforms values in platforms col — emptied (8 rows)
+no OSS claims this batch → no raw-LICENSE spot-checks triggered
+next: batch 65 (apps.md lines 3207-3256)
