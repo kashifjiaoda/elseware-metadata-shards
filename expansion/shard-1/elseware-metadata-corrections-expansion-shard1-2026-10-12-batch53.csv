@@ -1,0 +1,51 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Opticalraytracer,license,,Open source,GPL,,https://arachnoid.com/OpticalRayTracer/,live,"official site states 'released under the General Public License'; GPL version not stated, site's GPL/GPL.txt link is dead"
+Opticalraytracer,platforms,,Windows; Linux; macOS,,,https://arachnoid.com/OpticalRayTracer/,live,"official site: 'Works with: Windows, Linux, Macintosh, etc.'; Java app with Windows installer and portable Java packages"
+Oshi Uploader,license,,Open source,AGPL-3.0-only,,https://codeberg.org/quecomet/oshi/raw/branch/main/LICENSE,live,current raw LICENSE on Codeberg is the AGPL-3.0 text; F-Droid also lists AGPL-3.0-only
+Oshi Uploader,platforms,,Android,,,http://f-droid.org/packages/org.codeberg.quecomet.oshi/,live,F-Droid Android app (upload client for Oshi instances) by quecomet
+Outlet,license,,Open source,MIT,,https://raw.githubusercontent.com/app-outlet/app-outlet/main/LICENSE,live,verified as App Outlet (app-outlet/app-outlet); README banner says project was discontinued
+Outlet,platforms,,Linux,,,https://github.com/app-outlet/app-outlet,live,"README: 'Universal application store' for Linux distributions; supports AppImage, Flatpak and Snap packages"
+P ISSStream,license,,Open source,BSD-3-Clause,,https://raw.githubusercontent.com/Jaennaet/pISSStream/main/LICENSE,live,verified as pISSStream by Jaennaet; current raw LICENSE is the BSD-3-Clause text
+P ISSStream,platforms,,macOS; iOS; watchOS; visionOS,,,https://github.com/Jaennaet/pISSStream,live,"repo: ISS urine-tank app for macOS (menu bar), iOS, watchOS and visionOS"
+Packet,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/nozwock/packet/main/LICENSE,live,verified as Packet by nozwock; current raw LICENSE is the GPLv3 text
+Packet,platforms,,Linux,,,https://github.com/nozwock/packet,live,repo: Quick Share client for Linux; sends/receives files wirelessly with Android devices via Quick Share
+Pagume,license,,Open source,GPL-3.0-or-later,,https://raw.githubusercontent.com/wesenseged/pagume/main/LICENSES/GPL-3.0-or-later.txt,live,verified as Pagume by wesenseged (Ethiopian calendar); note: unrelated 'Pagume 6' Android app by a different developer exists
+Pagume,platforms,,Linux,,,https://flathub.org/apps/io.github.wesenseged.Pagume,live,listed on Flathub (Linux app store) as io.github.wesenseged.Pagume
+Parole,license,,Open source,GPL-2.0,,https://gitlab.xfce.org/apps/parole/-/raw/master/COPYING,live,Xfce media player; repo COPYING is GPL v2 and README badges GPL v2
+Passky,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/Rabbit-Company/Passky-Desktop/main/LICENSE,live,Rabbit-Company open-source password manager; Server and Desktop LICENSE files both GPL-3.0
+Passky,platforms,,"Android, Linux, macOS, Windows, Web",,"Android, Linux, macOS, Windows, Web",https://passky.org/download,live,"Official download page lists Android 12+, desktop builds (.exe/.dmg/AppImage), web vault and browser extensions"
+Passy,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/GlitterWare/Passy/master/LICENSE,live,GlitterCup offline password manager (Flutter); LICENSE is GPL-3.0
+Passy,platforms,,"Android, Linux, Windows",,"Android, Linux, Windows",https://raw.githubusercontent.com/GlitterWare/Passy/master/README.md,live,"README install sections cover Windows, Android (F-Droid) and Linux (Snap/Flathub/AUR/AppImage); no iOS/macOS sections"
+Peercoin,license,,Open source,MIT,,https://raw.githubusercontent.com/peercoin/peercoin/master/COPYING,live,Reference client repo github.com/peercoin/peercoin; COPYING is the MIT License
+PhoneTrack,license,,Open source,AGPL-3.0,,https://apps.nextcloud.com/apps/phonetrack/releases?platform=17,live,Official Nextcloud app store release page lists license as AGPLv3+
+PhoneTrack,platforms,,Web (Nextcloud server app),,Web (Nextcloud server app),https://apps.nextcloud.com/apps/phonetrack/releases?platform=17,live,Nextcloud store lists it as a Nextcloud server app with required Nextcloud versions
+PilferShush Jammer,license,,Open source,Apache-2.0,,https://f-droid.org/packages/cityfreqs.com.pilfershushjammer/,live,F-Droid listing shows License: Apache License 2.0
+PilferShush Jammer,platforms,,Android,,Android,https://f-droid.org/packages/cityfreqs.com.pilfershushjammer/,live,F-Droid is an Android-only app repository
+PikaTorrent,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/g-ray/pikatorrent/main/LICENSE,live,Raw LICENSE file on default branch is GNU General Public License v3.0
+PikaTorrent,platforms,,Windows; Linux; macOS; Android,,Windows; Linux; macOS; Android,https://github.com/g-ray/pikatorrent,live,"Official README installation table lists Windows, Linux, macOS, Android (iOS is experimental .ipa, excluded)"
+PicoForge,license,,Open source,AGPL-3.0,,https://raw.githubusercontent.com/librekeys/picoforge/main/LICENSE,live,Raw LICENSE file on default branch is GNU Affero General Public License v3
+PicoForge,platforms,,Windows; macOS; Linux,,Windows; macOS; Linux,https://github.com/librekeys/picoforge/blob/HEAD/README.md,live,"Official README states cross-platform: Windows, macOS, and Linux"
+Picture of the Day,license,,Open source,EUPL-1.2,,https://github.com/swsnr/picture-of-the-day,live,Official repo README (swsnr/picture-of-the-day): Licensed under the EUPL (OSI-approved)
+Picture of the Day,platforms,,Linux,,Linux,https://github.com/swsnr/picture-of-the-day,live,GNOME daily-wallpaper app distributed via Flathub (Linux Flatpak)
+PinDroid,license,,Open source,GPL-3.0-only,,https://f-droid.org/packages/com.pindroid/,live,"F-Droid listing: License GNU General Public License v3.0 only (package com.pindroid, maxpower47 Pinboard client)"
+PinDroid,platforms,,,,Android,https://f-droid.org/packages/com.pindroid/,live,F-Droid Android app page: APKs require Android 4.0 or newer; also published on Google Play
+Pingvin Share,license,,Open source,BSD-2-Clause,,https://raw.githubusercontent.com/stonith404/pingvin-share/main/LICENSE,live,"Raw LICENSE on repo master (stonith404/pingvin-share): BSD 2-Clause License, (c) 2022 Elias Schneider"
+Pingvin Share,platforms,,,,Self-hosted,https://github.com/stonith404/pingvin-share,live,"Self-hosted file sharing platform; README documents Docker-based install (docker-compose), no vendor-hosted edition"
+Piper,license,,Open source,GPL-2.0,,https://raw.githubusercontent.com/libratbag/piper/master/COPYING,live,Raw COPYING on libratbag/piper master: GNU General Public License Version 2 (June 1991)
+Piper,platforms,,,,Linux,https://packages.debian.org/sid/piper,live,Debian Linux package piper; GTK frontend to ratbagd for configuring gaming mice
+Plakativ,license,,Open source,GPL-3.0,,https://pypi.org/project/plakativ/,live,"PyPI page: License GPL-3, classifier OSI Approved GNU General Public License v3 (GPLv3); home page = author's GitLab repo gitlab.mister-muffin.de/josch/plakativ"
+Plakativ,platforms,,,,Windows; Linux; macOS,https://github.com/todddangerfarr/plakativ,live,"README of mirror of the author's canonical GitLab repo: 'Plakativ works on Windows, Linux and MacOS'; pip install plakativ on pypi"
+Plasma Dialer,license,,Open source,GPL-3.0-only,,https://raw.githubusercontent.com/kde/plasma-dialer/master/plasma-dialer/org.kde.plasma.dialer.appdata.xml,live,Repo AppStream metadata fetched this run declares <project_license>GPL-3.0-only</project_license>; KDE Plasma Mobile dialer
+Plasma Dialer,platforms,,,,Linux,https://packages.debian.org/sid/plasma-dialer,live,Debian Linux package plasma-dialer; phone dialer for the Plasma Mobile (Linux) environment
+PluckLockEx,license,,Open source,MIT,,https://f-droid.org/packages/xyz.iridiumion.plucklockex/,live,F-Droid listing: MIT License; repo 0xFireball/PluckLockEx confirms MIT in README
+PluckLockEx,platforms,,,,Android,https://f-droid.org/packages/xyz.iridiumion.plucklockex/,live,F-Droid Android app page: APKs require Android 3.0 or newer; snatch-lock accelerometer app
+Polypass,license,,Open source,GPL-3.0-only,,https://raw.githubusercontent.com/polypixeldev/polypass/main/LICENSE,live,GNU GPL v3 license text confirmed in repo LICENSE; password manager by polypixeldev (matches flathub io.github.polypixeldev.Polypass)
+Polypass,platforms,,,,Windows; Linux; Android,https://raw.githubusercontent.com/polypixeldev/polypass/main/README.md,live,"README states ""Currently supports Windows, Linux, and Android"""
+Ponyprog,license,,Open source,GPL-2.0-only,,https://raw.githubusercontent.com/lancos/ponyprog/master/LICENSE,live,GNU GPL v2 license text confirmed in repo LICENSE; official repo lancos/ponyprog (Claudio Lanconelli)
+Ponyprog,platforms,,,,Windows; Linux,https://raw.githubusercontent.com/lancos/ponyprog/master/README.md,live,"README: ""GUI framework available for Windows and Linux"""
+Portfolio Filemanager,license,,Open source,GPL-3.0-or-later,,https://raw.githubusercontent.com/tchx84/Portfolio/master/COPYING,live,GPL v3 license text in repo COPYING; README disclaimer grants GPL v3 or any later version; repo tchx84/Portfolio (dev.tchx84.Portfolio)
+Portfolio Filemanager,platforms,,,,Linux,https://raw.githubusercontent.com/tchx84/Portfolio/master/README.md,live,"README: ""minimalist file manager for those who want to use Linux mobile devices""; distributed via Flathub and Debian"
+POuL BITS,license,,Open source,GPL-3.0-only,,https://raw.githubusercontent.com/mrjackv/poulbits-android/master/LICENSE,live,"GNU GPL v3 license text in repo LICENSE; README states ""code is licensed under the GPL v3 license""; F-Droid lists GPL-3.0-only"
+POuL BITS,platforms,,,,Android,https://f-droid.org/en/packages/org.poul.bits.android/,live,"F-Droid package org.poul.bits.android; ""requires Android 4.1 or newer"""
+Previsat,license,,Open source,GPL-3.0-only,,https://previsat.sourceforge.net/index.php,live,Official SourceForge project page lists License: GNU General Public License version 3.0 (GPLv3); satellite tracking software by Astropedia
+Previsat,platforms,,,,Windows; Linux; macOS,https://previsat.sourceforge.net/index.php,live,"Project page metadata: Operating Systems: Linux, Mac, Windows"
