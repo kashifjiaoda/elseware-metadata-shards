@@ -1,0 +1,77 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Duplicati,license,,Open source,MIT (proprietary/ directory exception),,https://api.github.com/repos/duplicati/duplicati/license,live,Repo LICENSE: MIT License Copyright 2026 Duplicati Inc.; content under proprietary/ dir under separate license
+restic,license,,Open source,BSD-2-Clause,,https://api.github.com/repos/restic/restic/license,live,Repo LICENSE confirmed spdx BSD-2-Clause
+BorgBackup,license,,Open source,BSD-3-Clause,,https://api.github.com/repos/borgbackup/borg/license,live,Repo LICENSE text is BSD 3-clause (redistribution with 3 conditions)
+Kopia,license,,Open source,Apache-2.0,,https://api.github.com/repos/kopia/kopia/license,live,Repo LICENSE confirmed spdx Apache-2.0
+Veeam,license,,Proprietary — freemium,Free Community Edition (10 workloads); paid editions for more,"Windows, Linux",https://www.veeam.com/products/free/backup-recovery.html,live,Official: Community Edition free for up to 10 workloads; paid Data Platform for more
+Veeam,platforms,,"Windows, Linux",,,https://www.veeam.com/products/free/backup-recovery.html,live,Official free page: protects Windows and Linux servers laptops and NAS
+Macrium Reflect,license,,Proprietary — paid,Commercial; annual plans and one-time purchase,Windows,https://www.macrium.com/,live,Official site: flexible licensing with annual plans and one-time purchase; no free tier stated
+Macrium Reflect,platforms,,Windows,,,https://www.macrium.com/,live,Official site: broad Windows compatibility (XP SP3 through modern Windows)
+Clonezilla,license,,Open source,"GPL-2.0,",,https://www.clonezilla.org/,live,Official site: Clonezilla itself is licensed under the GNU GPL Version 2
+Clonezilla,platforms,,Linux,,,https://www.clonezilla.org/,live,Bootable live media (Linux-based); images and clones Windows macOS Linux and FreeBSD systems per official site
+Rescuezilla,license,,Open source,"GPL-3.0,",,https://api.github.com/repos/rescuezilla/rescuezilla/license,live,Repo LICENSE is GNU GPL version 3 text
+Rescuezilla,platforms,,"Windows, macOS, Linux",,,https://rescuezilla.com/,live,Official site: saves and restores Windows Mac and Linux machines via bootable USB
+Rclone,license,,Open source,MIT,,https://api.github.com/repos/rclone/rclone/license,live,Repo COPYING confirmed spdx MIT
+Mountain Duck,license,,Proprietary — paid,Per-seat license per major version; buy from official store,"Windows, macOS",https://mountainduck.io/buy/,live,"Official buy page: licensed on per-seat basis, valid for one specific major version"
+Mountain Duck,platforms,,"Windows, macOS",,,https://mountainduck.io/,live,Official homepage: File Provider (macOS) and Cloud Files (Windows) integration
+Transmit,license,,Proprietary — paid,7-day free trial; $45 one-time unlock,macOS,https://panic.com/transmit/,live,Official: Try Transmit for 7 days free; keep it forever for only $45
+Transmit,platforms,,macOS,,,https://panic.com/transmit/,live,Official: Made for macOS; requires macOS 13.0+
+ForkLift,license,,Proprietary — paid,Single user $19.95; Family $29.95; Small Business $69.95 (lifetime licenses),macOS,https://binarynights.com/store,live,Official store: lifetime licenses from $19.95 single user
+ForkLift,platforms,,macOS,,,https://binarynights.com/,live,Official: dual pane file manager and FTP client for macOS; requires macOS 14.6
+FreeFileSync,license,,Open source,Open source software; free download,"Windows, macOS, Linux",https://freefilesync.org/,live,Official site title: Open Source File Synchronization & Backup Software
+FreeFileSync,platforms,,"Windows, macOS, Linux",,,https://freefilesync.org/,live,"Official: available for Windows, macOS, and Linux"
+GoodSync,license,,Proprietary — freemium,Free download; advanced features free for first 15 days then paid,"Windows, macOS, Linux",https://www.goodsync.com/,live,Official: Download GoodSync Free today; advanced features free for first 15 days
+GoodSync,platforms,,"Windows, macOS, Linux",,,https://www.goodsync.com/,live,"Official: download and install on Windows, MAC, LINUX, or NAS platforms"
+SugarSync,license,,Proprietary — paid subscription,100GB $7.49/mo; 250GB $9.99/mo; 500GB $18.95/mo; 30-day free trial no free tier,"Windows, macOS, Android, iOS",https://www.sugarsync.com/pricing,live,Official pricing page: all plans include 30-day free trial; paid plans from $7.49/mo
+SugarSync,platforms,,"Windows, macOS, Android, iOS",,,https://www.sugarsync.com/,live,"Official: sync across office PC, Mac, iOS and Android devices"
+Egnyte,license,,Proprietary — paid subscription,Pricing starts at $20/user/month; enterprise plans,"Windows, macOS, Android, iOS, Web",https://www.egnyte.com/,live,Official site: pricing starts at $20/user/month; business content cloud platform
+Egnyte,platforms,,"Windows, macOS, Android, iOS, Web",,,https://www.egnyte.com/,live,Official: cloud content platform with desktop and mobile apps; web access
+Citrix ShareFile,license,,Proprietary — paid subscription,Paid business plans; 90K subscribers; no free tier,"Web, Android, iOS",https://www.sharefile.com/,live,Official: secure document workflow for businesses; 90K subscribers; 7M+ daily users
+Citrix ShareFile,platforms,,"Web, Android, iOS",,,https://www.sharefile.com/,live,Official: web-based workspace; mobile apps for iOS and Android
+LucidLink,license,,Proprietary — paid subscription,"30-day trial (1TB, 10 users); paid team plans",,https://lucidlink.com/,live,Official: 30-day trial includes 1TB storage and 10 users; cloud file streaming for teams
+Hetzner Storage Box,license,,Proprietary — paid subscription,Paid online backup; no free tier,Web,https://www.hetzner.com/storage/storage-box/,live,Official: secure online backup solution; FTP/SFTP/WebDAV/Samba access
+Hetzner Storage Box,platforms,,Web,,,https://www.hetzner.com/storage/storage-box/,live,"Official: protocol-based access (FTP, SFTP, SCP, RSYNC, WebDAV, Samba); managed via Hetzner Console"
+Wasabi,license,,Proprietary — paid,"Flat-rate from $7.99/TB/month; no free tier mentioned",Web,https://www.wasabi.com/pricing/,live,Official pricing: flat-rate starting at $7.99 per TB/month
+Wasabi,platforms,,Web,,,https://www.wasabi.com/pricing/,live,S3-compatible cloud object storage; managed via web console
+Storj,license,,Proprietary — freemium,"Free 30-day trial; Standard $7/TB/mo, Advanced $10/TB, $5/mo minimum",Web,https://www.storj.io/pricing,live,Official pricing: $0 free trial for 30 days; paid Standard/Advanced tiers
+Storj,platforms,,Web,,,https://www.storj.io/pricing,live,Distributed object storage; managed via web
+The Unarchiver,license,,Proprietary — free,Free; no in-app purchases,macOS,https://theunarchiver.com/,live,Official site: Free and always will be; no in-apps for additional features
+The Unarchiver,platforms,,macOS,,,https://theunarchiver.com/,live,Official site: unarchiving software for macOS; requires macOS 10.13+
+Keka,platforms,,macOS,,,https://www.keka.io/,live,Official site: the macOS file archiver
+NanaZip,license,,Open source,MIT,Windows,https://github.com/M2Team/NanaZip,live,Repo License.md: source code distributed under the MIT License; README calls it an open source file archiver
+NanaZip,platforms,,Windows,,,https://github.com/M2Team/NanaZip,live,README system requirements: Windows 10/11 (x64 and ARM64)
+XYplorer,license,,Proprietary — paid,Standard $34.95 / Lifetime $69.95; 30-day trial,Windows,https://www.xyplorer.com/,live,Official site: paid licenses; 30-day trial; File Manager for Windows
+XYplorer,platforms,,Windows,,,https://www.xyplorer.com/,live,Official: File Manager for Windows; compatible with Windows XP-11
+FreeCommander,license,,Proprietary — free,Freeware (not open source) per author,Windows,https://freecommander.com/forum/viewtopic.php?t=6351,live,Official forum: author Marek states FreeCommander is not open source it is freeware
+FreeCommander,platforms,,Windows,,,https://freecommander.com/,live,Official: alternative to the standard Windows file manager
+Double Commander,license,,Open source,GPL-2.0,"Windows, Linux, macOS",https://api.github.com/repos/doublecmd/doublecmd/license,live,Repo LICENSE.md: GNU General Public License Version 2
+Double Commander,platforms,,"Windows, Linux, macOS",,,https://doublecmd.sourceforge.io/,live,Official: free cross platform open source file manager
+Midnight Commander,license,,Open source,GPL-3.0,"Linux, macOS",https://midnight-commander.org/,live,Official: released under the GNU General Public License; GPLv3+ badge
+Midnight Commander,platforms,,"Linux, macOS",,,https://midnight-commander.org/,live,Official: install via system package managers; macOS via Homebrew/MacPorts
+Ranger,license,,Open source,GPL-3.0,"Linux, macOS",https://github.com/ranger/ranger,live,Repo: License GNU General Public License v3.0
+Ranger,platforms,,"Linux, macOS",,,https://github.com/ranger/ranger,live,Repo: console file manager for Unix-like systems
+nnn,license,,Open source,BSD-2-Clause,"Linux, macOS, Android, Windows",https://github.com/jarun/nnn,live,Repo: BSD 2-Clause Simplified License
+nnn,platforms,,"Linux, macOS, Android, Windows",,,https://github.com/jarun/nnn,live,Repo: runs on Linux macOS Termux (Android) WSL/Cygwin (Windows)
+BleachBit,license,,Open source,GPL-3.0,"Windows, Linux",https://www.bleachbit.org/,live,Official: Open source under GPLv3; 100% Free Forever
+BleachBit,platforms,,"Windows, Linux",,,https://www.bleachbit.org/,live,Official: Runs on Windows and Linux
+OnyX,license,,Proprietary — free,Free; donations accepted (donationware),macOS,https://www.titanium-software.fr/en/onyx.html,live,Official: all Mac users can use them freely; donations optional
+OnyX,platforms,,macOS,,,https://www.titanium-software.fr/en/onyx.html,live,Official: per-macOS-version releases for Intel and Apple silicon Macs
+AppCleaner,license,,Proprietary — free,Free uninstaller,macOS,https://freemacsoft.net/appcleaner/,live,Official: free download; versions for macOS 10.10 through 15+
+AppCleaner,platforms,,macOS,,,https://freemacsoft.net/appcleaner/,live,Official: macOS-only uninstaller
+Revo Uninstaller,license,,Proprietary — freemium,Free version + Pro paid,Windows,https://www.revouninstaller.com/,live,Official: Free Downloads + Revo Uninstaller Pro
+Revo Uninstaller,platforms,,Windows,,,https://www.revouninstaller.com/,live,Windows uninstaller (official site)
+Monosnap,license,,Proprietary — freemium,"Free with paid subscriptions ($4.49/mo, $44.99/yr)",macOS,https://apps.apple.com/us/app/monosnap-screenshot-editor/id540348655?mt=12,live,Mac App Store: Free; paid non-commercial/commercial subscriptions
+Monosnap,platforms,,macOS,,,https://apps.apple.com/us/app/monosnap-screenshot-editor/id540348655?mt=12,live,Mac App Store listing (macOS 14.6+)
+1Clipboard,license,,Proprietary — free,Free download,"Windows, macOS",http://1clipboard.io,live,Official site: free downloads; no paid tier listed
+1Clipboard,platforms,,"Windows, macOS",,,http://1clipboard.io,live,Official: 1Clipboard for Windows; 1Clipboard for macOS
+PowerToys,license,,Open source,MIT,Windows,https://github.com/microsoft/PowerToys/blob/main/LICENSE,live,Repo LICENSE: MIT (spdx MIT)
+PowerToys,platforms,,Windows,,,https://github.com/microsoft/PowerToys,live,Microsoft Windows system utilities (repo)
+QTTabBar,license,,Open source,GPL-3.0,Windows,https://github.com/indiff/qttabbar,live,Repo license: GNU GPL v3.0 (spdx GPL-3.0)
+QTTabBar,platforms,,Windows,,,https://github.com/indiff/qttabbar,live,Windows Explorer tab extension (repo)
+EarTrumpet,license,,Open source,MIT,Windows,https://github.com/File-New-Project/EarTrumpet/blob/master/LICENSE,live,Repo LICENSE contains MIT License text
+EarTrumpet,platforms,,Windows,,,https://github.com/File-New-Project/EarTrumpet,live,Windows volume control app (repo)
+WizTree,platforms,,"Windows, macOS",,,https://diskanalyzer.com/,live,Official: Windows + now available for macOS
+WinDirStat,license,,Open source,Open source per official site,Windows,https://windirstat.net/,live,Official site: free open-source disk usage analyzer
+WinDirStat,platforms,,Windows,,,https://windirstat.net/,live,Official: for Microsoft Windows
+TreeSize,license,,Proprietary — freemium,TreeSize Free for personal use; Professional/Personal paid,Windows,https://www.jam-software.com/treesize,live,Official: TreeSize Free for personal non-commercial use; paid Pro editions
+TreeSize,platforms,,Windows,,,https://www.jam-software.com/treesize,live,Windows disk space analyzer (official)
