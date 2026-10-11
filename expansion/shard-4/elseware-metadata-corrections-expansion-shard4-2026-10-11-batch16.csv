@@ -17,7 +17,6 @@ Robotfindskitten,license,,Open source,GPL-2.0,,https://github.com/robotfindskitt
 Rpcs3,license,,Open source,GPL-2.0,,https://github.com/rpcs3/rpcs3,live,Raw LICENSE verified (GNU GPL Version 2); repo README: most files GPL-2.0-only
 Rpcs3,platforms,,"Windows, Linux, macOS, FreeBSD",,,https://github.com/rpcs3/rpcs3,live,"Written in C++ for Windows, Linux, macOS and FreeBSD per repo README"
 RTCMulti Connection,license,,Open source,MIT,,https://github.com/muaz-khan/RTCMultiConnection,live,GitHub license metadata: MIT License (LICENSE.md verified)
-Rxvt Unicode,license,,Open source,GPL-3.0-or-later,,http://software.schmorp.de/pkg/rxvt-unicode.html,live,"GNU Guix packaging lists GPL 3+; upstream COPYING not raw-verified, official page silent"
 Save State,license,,Open source,GPL-3.0,,https://github.com/Matteo842/SaveState,live,Project README states SaveState is licensed under GPLv3
 Save State,platforms,,"Windows, Linux",,,https://github.com/Matteo842/SaveState,live,README: tested on Windows 10/11; Linux AppImage release
 SDLPoP,license,,Open source,GPL-3.0,,https://github.com/NagyD/SDLPoP,live,Raw COPYING verified (GNU GPL Version 3)
