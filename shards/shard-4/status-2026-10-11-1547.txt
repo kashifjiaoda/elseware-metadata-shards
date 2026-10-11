@@ -1,0 +1,7 @@
+Shard 4 Phase-2 expansion batch 18 DONE (Shard 2).
+Pushed: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch18.csv (71 rows).
+41 of 50 apps verified (35 license-verified, 36 platform-verified); 9 skipped with reason (XRP Community Wallet, GymLog, Apple Health Mcp, Diveboard, Inflation Calculator, Myfin, Net Worth, Portfolio, SimpleBudget - ambiguous identity / no canonical product).
+Drops at assembly: 2 Block Blast rows (Wikipedia-sourced, non-whitelisted).
+Ops lesson: ch18k5 lost its dual-write - verified only in /tmp, copied to persistent before assembling (always ls BOTH dirs).
+Self-audit catches: OneKey O-SSL (stale Apache-2.0 aggregator claims rejected); ln-addr-to-invoice GPL-3.0 raw LICENSE over F-Droid Apache-2.0 claim; Peercoin Wallet license dropped (thin, bitcointalk-only claim); symbol-tax parked domain dropped.
+Next: batch 19 (apps.md lines 907-956).
