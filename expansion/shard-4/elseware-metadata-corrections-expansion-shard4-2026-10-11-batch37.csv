@@ -1,0 +1,81 @@
+Mavinote,license,,Open source,Apache-2.0,,https://github.com/bwqr/mavinote,live,Raw LICENSE verified Apache License 2.0; F-Droid lists Apache License 2.0
+Mavinote,platforms,,Android,,,https://f-droid.org/packages/com.bwqr.mavinote/,live,F-Droid listing; requires Android 5.0+
+Mcp Shrimp Task Manager,license,,Open source,MIT,,https://github.com/cjo4m06/mcp-shrimp-task-manager,live,Raw LICENSE verified MIT
+Mcp Shrimp Task Manager,platforms,,"Windows, macOS, Linux",,,https://github.com/cjo4m06/mcp-shrimp-task-manager,live,"Node npm MCP server; install docs cover Windows 11 (WSL2), macOS, Linux"
+Memex,platforms,,"Chrome, Firefox; iOS, Android",,,https://github.com/WorldBrain/Memex,live,Browser extension (Chrome/Firefox per repo topics) plus Memex Go mobile apps (iOS/Android per README); no license file in repo (GitHub detects NOASSERTION) so license row dropped
+Miao Yan,license,,Open source,MIT,,https://github.com/tw93/MiaoYan,live,Raw LICENSE verified MIT
+Miao Yan,platforms,,macOS,,,https://github.com/tw93/MiaoYan,live,"Mac App Store, Homebrew, GitHub DMG (macOS 11.5+)"
+MinCal Widget,license,,Open source,BSD-3-Clause,,https://github.com/mvmike/min-cal-widget,live,Raw LICENSE.md verified BSD 3-Clause
+MinCal Widget,platforms,,Android,,,https://f-droid.org/packages/cat.mvmike.minimalcalendarwidget/,live,F-Droid listing; also distributed via Play per README
+Mini Diary,platforms,,"Windows, macOS, Linux",,,https://github.com/sandeepzgk/mini-diary,live,Electron+React desktop app per README; unmaintained notice; no license file or license claim anywhere so license row dropped
+Mission,license,,Open source,Apache-2.0,,https://github.com/axelblatt/missionandroid,live,Raw LICENSE verified Apache License 2.0
+Mission,platforms,,Android,,,https://f-droid.org/packages/com.axelblatt.mission/,live,F-Droid listing
+Modern T9,license,,Open source,GPL-3.0-or-later,,https://github.com/jcastell7/modern-t9,live,README grants GPL v3.0 or later; raw LICENSE is GPL-3.0 text
+Modern T9,platforms,,Android,,,https://f-droid.org/packages/io.github.jcastell7.modernt9/,live,F-Droid listing; Android 8.0+
+Monolingual,license,,Open source,GPL-3.0-only,,https://github.com/IngmarStein/Monolingual,live,README states GPL Version 3 only (no or-later grant); raw LICENSE.txt is stock GPL-3.0
+Monolingual,platforms,,macOS,,,https://github.com/IngmarStein/Monolingual,live,macOS utility per README
+MRMCD 2026 Schedule,license,,Open source,Apache-2.0,,https://github.com/johnjohndoe/CampFahrplan/tree/mrmcd-2026,live,GitHub license detection Apache-2.0 on fork of EventFahrplan/EventFahrplan (also Apache-2.0); F-Droid declares Apache License 2.0
+MRMCD 2026 Schedule,platforms,,Android,,,https://f-droid.org/packages/info.metadude.android.mrmcd.schedule/,live,F-Droid package info.metadude.android.mrmcd.schedule; requires Android 6.0 or newer; event program app for MRMCD conference
+My Notes - Take notes anywhere,license,,Open source,GPL-3.0-only,,https://github.com/Abdallah-Abdelazim/mynotes-app/blob/master/LICENSE,live,Raw LICENSE = plain GPL v3 text; no or-later grant (FSF how-to-apply boilerplate is not a grant); README claims GPLv3; GitHub detection GPL-3.0
+My Notes - Take notes anywhere,platforms,,Android,,,https://github.com/Abdallah-Abdelazim/mynotes-app,live,Android note-taking app; F-Droid package com.aa.mynotes and Play listing per README
+Myne,license,,Open source,Apache-2.0,,https://github.com/Pool-Of-Tears/Myne/blob/main/LICENSE,live,Raw LICENSE text = Apache License 2.0 (Copyright 2022 Stɑrry Shivɑm); GitHub detection Apache-2.0
+Myne,platforms,,Android,,,https://github.com/Pool-Of-Tears/Myne,live,Android app for downloading and reading ebooks from Project Gutenberg (Jetpack Compose); F-Droid-listed per repo topics
+Nbdime,license,,Open source,BSD-3-Clause,,https://github.com/jupyter/nbdime/blob/main/LICENSE.md,live,Raw LICENSE.md = Modified BSD License (New/Revised 3-Clause BSD); README: all code under revised BSD license; GitHub license field NOASSERTION overruled by raw text
+Nbdime,platforms,,"Windows, macOS, Linux",,,https://github.com/jupyter/nbdime,live,pip-installable CLI + web tools (nbdiff/nbmerge/nbdiff-web/nbmerge-web/nbshow) for Jupyter notebook diffing and merging; JupyterLab extension
+Neural Note,platforms,,"Windows, macOS",,,https://damrsn.github.io/NeuralNote/,live,"Official FAQ: installers for macOS Apple Silicon (Standalone/VST3/AU) and Windows x64 (Standalone/VST3); Linux build-from-source. License row dropped per dual-split rule: app code Apache-2.0, model weights CC BY-NC-4.0 (non-commercial) - no single badge fits"
+Nextcloud Notes,license,,Open source,GPL-3.0-or-later,,https://github.com/nextcloud/notes-android/blob/main/REUSE.toml,live,REUSE.toml declares SPDX-License-Identifier GPL-3.0-or-later for Nextcloud Notes - Android Client; LICENSES/GPL-3.0-or-later.txt present
+Nextcloud Notes,platforms,,Android,,,https://github.com/nextcloud/notes-android,live,Android client for Nextcloud Notes server app; Play + F-Droid package it.niedermann.owncloud.notes per README badges; distinct from nextcloud/notes server app (AGPL-3.0)
+NoFb Event Scraper,license,,Open source,GPL-3.0-only,,https://github.com/akaessens/NoFbEventScraper/blob/master/LICENSE,live,Raw LICENSE = plain GPL v3 text; no or-later grant; F-Droid declares GNU General Public License v3.0 only; GitHub detection GPL-3.0; repo inactive since 2021
+NoFb Event Scraper,platforms,,Android,,,https://github.com/akaessens/NoFbEventScraper,live,Android app (repo topics: android); F-Droid package com.akdev.nofbeventscraper; scrapes Facebook event links into calendar
+Notally X,license,,Open source,GPL-3.0-only,,https://github.com/Crustack/NotallyX/blob/main/README.md,live,README Attribution: licensed under GPL 3.0 (same as upstream OmGodse/Notally); GitHub detection GPL-3.0; no root LICENSE file; no or-later grant found
+Notally X,platforms,,Android,,,https://github.com/Crustack/NotallyX,live,Android note-taking app; F-Droid + IzzyOnDroid + GitHub releases per README; temporarily removed from Play Store over data-loss issues; owner renamed PhilKes to Crustack; multiple community forks exist
+Notea,license,,Open source,MIT,,https://github.com/notea-org/notea/blob/main/LICENSE,live,Raw LICENSE = MIT License (Copyright (c) 2021 qingwei-li); license-text-governs-over-badge: GitHub detection NOASSERTION overruled by raw text; repo archived (abandoned)
+Notea,platforms,,Web (self-hosted),,,https://github.com/notea-org/notea,live,Self-hosted note-taking app with S3/MinIO storage; deploys to Vercel/Netlify/Docker per README; repo archived (abandoned)
+Notepad4,license,,Open source,BSD-3-Clause,,https://github.com/zufuliu/notepad4,live,Raw License.txt: BSD 3-Clause (Copyright 2011-2026 Zufu Liu and contributors)
+Notepad4,platforms,,Windows,,,https://github.com/zufuliu/notepad4,live,Windows-only Scintilla-based text editor per repo description
+Notesnook - Private notes app,license,,Open source,GPL-3.0,,https://notesnook.com/downloads,live,Official site states Open source (GPLv3); raw GitHub LICENSE is GPL v3 text; no or-later grant in headers
+Notesnook - Private notes app,platforms,,"Windows, macOS, Linux, Android, iOS, Web",,,https://notesnook.com/downloads,live,"Official downloads page lists Windows, macOS, Linux, Android, iOS, web"
+Noty - Notes in Notification,license,,Open source,GPL-3.0-only,,https://f-droid.org/en/packages/com.noty.app/,live,F-Droid metadata: GPL-3.0-only; upstream usamaiqb/noty raw LICENSE is GPL v3; forks mpfaff/romank2311 exist
+Noty - Notes in Notification,platforms,,Android,,,https://f-droid.org/en/packages/com.noty.app/,live,F-Droid app-store listing (package com.noty.app)
+Nullboard,license,,Source-available,BSD-2-Clause + Commons Clause (sale prohibited),,https://github.com/neuro-sys/nullboard,live,Raw LICENSE: 2-clause BSD with Commons Clause condition; not OSD-compliant
+Nullboard,platforms,,Web,,,https://github.com/neuro-sys/nullboard,live,Self-hosted static HTML; runs in browser
+Obsidian Citation Plugin,license,,Open source,MIT,,https://github.com/atkirtland/obsidian-citation-plugin,live,"Raw LICENSE is MIT (Copyright 2020 Jon Gauthier); maintained fork of hans/obsidian-citation-plugin, both MIT"
+Obsidian Citation Plugin,platforms,,"Windows, macOS, Linux",,,https://github.com/atkirtland/obsidian-citation-plugin,live,manifest.json isDesktopOnly true
+Obsidian To Anki,license,,Open source,GPL-3.0,,https://github.com/ObsidianToAnki/Obsidian_to_Anki,live,Raw LICENSE is GPL v3 text; no or-later grant in source headers; GitHub SPDX GPL-3.0
+Obsidian To Anki,platforms,,"Windows, macOS, Linux",,,https://github.com/ObsidianToAnki/Obsidian_to_Anki,live,manifest.json isDesktopOnly true
+Ocrs,license,,Open source,MIT OR Apache-2.0,,https://github.com/robertknight/ocrs,live,Dual-licensed: LICENSE-MIT.txt + LICENSE-APACHE.txt in upstream repo
+Ocrs,platforms,,"Windows, macOS, Linux",,,https://github.com/robertknight/ocrs,live,Rust library + CLI via cargo install; also builds to WebAssembly
+Oh Sheet,license,,Open source,MIT,,https://github.com/PepperPhil/oh-sheet,live,"License-text-governs-over-badge: raw LICENSE.txt is MIT (Copyright 2026 Oh Sheet, Inc.) though README badge reads Proprietary"
+Oh Sheet,platforms,,Web,,,https://github.com/PepperPhil/oh-sheet,live,"Dev-stage pipeline; Flutter web frontend, FastAPI backend runs locally; no hosted product"
+Ollama OCR,license,,Open source,MIT,,https://github.com/ecmiguelon/Ollama-OCR,live,"Raw LICENSE is MIT (Copyright 2024 Anoop Maurya); identity ambiguity: codigozigma/ollama-ocr (npm) and heltonteixeira/ollama-ocr (MCP) also exist, all MIT; ecmiguelon is the PyPI app with Streamlit web UI; platforms row skipped as identity-ambiguous"
+Omnyssh,license,,Open source,Apache-2.0,,https://github.com/timhartmann7/omnyssh,live,Raw LICENSE is Apache License 2.0 (10.7 KB); README license badge agrees
+Omnyssh,platforms,,"Windows, macOS, Linux",,,https://github.com/timhartmann7/omnyssh,live,"Install table: macOS (ARM/Intel), Linux x86_64, Windows x86_64"
+Only Switch,license,,Open source,MIT,,https://raw.githubusercontent.com/jacklandrin/OnlySwitch/main/LICENSE,live,"Raw LICENSE: MIT License, Copyright (c) 2021 jack (license text governs)"
+Only Switch,platforms,,Mac,,,https://onlyswitch.click,live,Repo README: macOS menu-bar utility ('everyday macOS controls'); official site onlyswitch.click
+Open Codesign,license,,Open source,MIT,,https://raw.githubusercontent.com/OpenCoworkAI/open-codesign/main/LICENSE,live,"Raw LICENSE: MIT License, Copyright (c) 2026 OpenCoworkAI Contributors (license text governs)"
+Open Codesign,platforms,,"Mac, Windows, Linux",,,https://github.com/OpenCoworkAI/open-codesign,live,"README: 'Runs on: macOS 12+ (Monterey or later), Windows 10+, Linux (glibc >= 2.31)'; Electron desktop app"
+Open Note Scanner,license,,Open source,GPL-3.0-only,,https://raw.githubusercontent.com/allgood/OpenNoteScanner/master/LICENSE.txt,live,LICENSE.txt: 'Software licensed under the GPL version 3' - no or-later grant; repo moved from ctodobom/OpenNoteScanner (same author)
+Open Note Scanner,platforms,,Android,,,https://github.com/allgood/OpenNoteScanner,live,"README: Google Play Store, Amazon App Store and F-Droid listings (com.todobom.opennotescanner)"
+Open Sign,license,,Open source,AGPL-3.0-only,,https://raw.githubusercontent.com/OpenSignLabs/OpenSign/main/LICENSE,live,Custom header: app content 'available under the GNU AFFERO GENERAL PUBLIC LICENSE as defined below' with AGPLv3 text; no or-later grant; excludes customRoute dir and third-party components
+Open Sign,platforms,,Web,,,https://github.com/OpenSignLabs/OpenSign,live,README: self-hosted via official Docker images (HOST_URL opensign.yourdomain.com); browser-based. Identity: OpenSignLabs DocuSign alternative - not therevdrj/opensign church-kiosk project
+Openrecall,license,,Open source,AGPL-3.0-only,,https://raw.githubusercontent.com/openrecall/openrecall/main/LICENSE,live,LICENSE is plain AGPLv3 text; README: 'released under the AGPLv3'; FSF how-to-apply tail is not an or-later grant
+Openrecall,platforms,,"Windows, Mac, Linux",,,https://openrecall.github.io,live,"Official site FAQ: OS Support Windows, macOS, Linux"
+Organice,license,,Open source,AGPL-3.0-only,,https://raw.githubusercontent.com/200ok-ch/organice/master/LICENSE,live,LICENSE is plain AGPLv3 text; upstream describes organice as Free Software under AGPL-3.0; no or-later grant
+Organice,platforms,,Web,,,https://github.com/200ok-ch/organice,live,README.org: 'organice is a web application. You can use it from any browser.' Identity: 200ok-ch org-mode web app - not the hariharen9/aliexe-code file-organizer CLIs also named Organice
+Overtype,platforms,,Web,,,http://uniqcode.com/typewriter/,live,Official site: OverType typewriter simulator runs in browser (needs computer keyboard). License row dropped: official site states no license; only third-party directories claim Free/Proprietary (not whitelisted). Not stn1slv/overtype macOS AI utility
+Pageedit,license,,Open source,GPL-3.0-only,,https://raw.githubusercontent.com/Sigil-Ebook/PageEdit/master/COPYING.txt,live,COPYING.txt is plain GPL v3 text; no or-later grant in repo; README has no license statement
+Pageedit,platforms,,"Mac, Windows, Linux",,,https://github.com/Sigil-Ebook/PageEdit,live,"README build instructions for macOS, Linux and Windows (Qt WebEngine XHTML editor)"
+Paperless Ng,license,,Open source,GPL-3.0-only,,https://raw.githubusercontent.com/paperless-ngx/paperless-ngx/dev/LICENSE,live,"LICENSE is plain GPL v3 text, no or-later grant; packagers conflict (AUR says or-later, others only) - recorded conservative. Listed as 'Paperless Ng'; matched to paperless-ngx (successor of Paperless/Paperless-ng)"
+Paperless Ng,platforms,,Web,,,https://github.com/paperless-ngx/paperless-ngx,live,README: self-hosted via docker compose; browser-based document management web app
+Paperwork,license,,Open source,GPL-3.0-or-later,,https://raw.githubusercontent.com/openpaperwork/paperwork-backend/master/README.markdown,live,README.markdown: 'Licence: GPLv3 or later. See LICENSE.'; LICENSE file is GPL v3 text; repo archived (project moved to GNOME GitLab). Identity: openpaperwork personal document manager - not paperwork-cloud self-hosted notes app (repos offline)
+Paperwork,platforms,,"Linux, Windows",,,https://github.com/openpaperwork/paperwork,live,Archived repo description: 'Personal document manager (Linux/Windows)'
+Pause,license,,Open source,MIT,,https://github.com/dtsykunov/pause-app,live,README + F-Droid page agree: MIT
+Pause,platforms,,Android,,,https://f-droid.org/en/packages/com.dtsykunov.pause,live,Requires Android 7.0+
+Pdftris,platforms,,Web,,,https://github.com/ThomasRinsma/pdftris,live,Playable PDF in Chromium (PDFium) / Firefox (PDF.js); no LICENSE file in repo
+Personal Stuff,license,,Open source,GPL-3.0-only,,https://github.com/rh-id/a-personal-stuff,live,GitHub badge GPL-3.0; F-Droid says GPL-3.0 only; no or-later grant found
+Personal Stuff,platforms,,Android,,,https://f-droid.org/packages/m.co.rh.id.a_personal_stuff,live,Native Android app
+Plume Creator,platforms,,"Windows, Linux",,,https://github.com/thepicturesgotsmall/plume-creator,live,Abandoned; upstream repo now redirects to successor Skribisto; setup docs cover Linux + Windows
+PolyCal,license,,Open source,GPL-2.0-only,,https://github.com/jasongyorog/polycal,live,GitHub badge GPL-2.0; F-Droid says GPL-2.0 only; no or-later grant found
+PolyCal,platforms,,Android,,,http://f-droid.org/packages/com.gyorog.polycal/,live,Android calendar widget
+Pomodoro Logger,license,,Open source,GPL-3.0-only,,https://github.com/zxch3n/PomodoroLogger,live,README says GPL-3.0; GitHub badge GPL-3.0; no or-later grant found
+Pomodoro Logger,platforms,,"Windows, macOS, Linux",,,https://github.com/zxch3n/PomodoroLogger,live,README Download: Win10 / macOS / Linux; repo archived 2023-04-14
