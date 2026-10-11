@@ -1,0 +1,81 @@
+Get Foreground Activity,license,,Open source,Apache-2.0,,https://github.com/seguri/GetForegroundActivity,live,"Raw LICENSE on canonical repo is Apache License 2.0; matches F-Droid metadata."
+Get Foreground Activity,platforms,,Android,,,https://f-droid.org/packages/name.seguri.android.getforegroundactivity,live,"F-Droid lists Android 5.0 or newer."
+Ghex,license,,Open source,GPL-2.0-or-later,,https://gitlab.gnome.org/GNOME/ghex,live,"gtkhex.c header grants GPL v2 or any later version; COPYING is GPL v2 text."
+Ghex,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/ghex,live,"GNOME desktop app per repo README; shipped as org.gnome.GHex Flatpak."
+GifBoard,license,,Open source,GPL-3.0-only,,https://github.com/gifboard/gifboard,live,"README grants GPL-3.0 with no or-later language; per-file headers not checked, recorded conservatively. Canonical repo taken as github.com/gifboard/gifboard (active org repo); older osirisinferi/gifboard (MIT) is a distinct lineage."
+GifBoard,platforms,,Android,,,https://github.com/gifboard/gifboard,live,"Repo README: 'A specialized GIF keyboard for Android'; store listing unverified."
+Github Stars Manager,license,,Open source,MIT,,https://github.com/AmintaCCCP/GithubStarsManager,live,"Raw LICENSE is MIT; GitHub licensee SPDX MIT. Canonical upstream = AmintaCCCP (hosts releases); many forks exist."
+Github Stars Manager,platforms,,"Windows, macOS, Linux",,,https://github.com/AmintaCCCP/GithubStarsManager,live,"README platform badge: Windows, macOS, Linux (Electron client)."
+Glade,license,,Open source,GPL-2.0-or-later,,https://gitlab.gnome.org/GNOME/glade,live,"glade-app.c header grants GPL v2 or any later version."
+Glade,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/glade,live,"GNOME desktop app; source has Windows/macOS build paths but shipped builds unverified."
+GLPI Agent,license,,Open source,GPL-2.0-or-later,,https://github.com/glpi-project/glpi-agent,live,"Canonical README states GPLv2+; LICENSE file is GPL v2 text; grant per upstream README."
+GNOME Activity Journal,license,,Open source,GPL-3.0-or-later,,https://gitlab.gnome.org/crvi/gnome-activity-journal,live,"Launcher header grants GPL v3 or any later version; COPYING is GPL v3 text. Canonical repo per wiki.gnome.org Apps/ActivityJournal."
+GNOME Activity Journal,platforms,,Linux,,,https://gitlab.gnome.org/crvi/gnome-activity-journal,live,"GNOME desktop app; requires Zeitgeist."
+GNOME Clocks,license,,Open source,GPL-2.0-or-later,,https://gitlab.gnome.org/GNOME/gnome-clocks,live,"src/main.vala header grants GPL v2 or any later version."
+GNOME Clocks,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/gnome-clocks,live,"GNOME core desktop app."
+GNOME Contacts,license,,Open source,GPL-2.0-or-later,,https://gitlab.gnome.org/GNOME/gnome-contacts,live,"src/main.vala SPDX-License-Identifier: GPL-2.0-or-later."
+GNOME Contacts,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/gnome-contacts,live,"GNOME desktop app."
+GNOME Keysign,license,,Open source,GPL-3.0-or-later,,https://gitlab.gnome.org/GNOME/gnome-keysign,live,"keysign/__init__.py header grants GPL v3 or any later version."
+GNOME Keysign,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/gnome-keysign,live,"GNOME desktop app."
+GNOME Nettool,license,,Open source,GPL-2.0-or-later,,https://gitlab.gnome.org/gnome/gnome-nettool,live,"src/info.c header grants 'either version 2 of the License, or (at your option) any later version'; COPYING is GPLv2 text"
+GNOME Nettool,platforms,,Linux,,,https://gitlab.gnome.org/gnome/gnome-nettool,live,GNOME desktop utility
+GNOME Power Manager,license,,Open source,GPL-2.0-or-later,,https://gitlab.gnome.org/gnome/gnome-power-manager,live,src/egg-graph-widget.c header: 'either version 2 ... or (at your option) any later version'
+GNOME Power Manager,platforms,,Linux,,,https://gitlab.gnome.org/gnome/gnome-power-manager,live,Legacy; functionality merged into GNOME Settings / Power Statistics
+GNOME Shell Extension Prefs,license,,Open source,GPL-2.0-or-later,,https://gitlab.gnome.org/GNOME/gnome-extensions-app,live,SPDX-License-Identifier: GPL-2.0-or-later in js/main.js; canonical repo is GNOME/gnome-extensions-app (split out of gnome-shell); COPYING is GPL v2 text; corrected at assembly spot-check
+GNOME Shell Extension Prefs,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/gnome-extensions-app,live,org.gnome.Extensions; Linux (shipped with GNOME desktop)
+GNOME Sound Recorder,license,,Open source,GPL-2.0-or-later,,https://gitlab.gnome.org/gnome/gnome-sound-recorder,live,"COPYING notice: 'GNU General Public License version 2, or (at your option) any later version'"
+GNOME Sound Recorder,platforms,,Linux,,,https://gitlab.gnome.org/gnome/gnome-sound-recorder,live,GNOME desktop app
+GNOME Usage,license,,Open source,GPL-3.0-or-later,,https://gitlab.gnome.org/GNOME/gnome-usage,live,"src/application.vala header: 'either version 3 of the License, or (at your option) any later version'"
+GNOME Usage,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/gnome-usage,live,GNOME system monitor
+Gnunet,license,,Open source,AGPL-3.0-or-later,,https://git.gnunet.org/gnunet/gnunet/,live,src/cli/arm/gnunet-arm.c: 'GNU Affero General Public License ... either version 3 ... or (at your option) any later version'; SPDX-License-Identifier AGPL3.0-or-later
+Gnunet,platforms,,"Linux, BSD",,,https://git.gnunet.org/gnunet/gnunet/,live,Upstream README: 'actively support GNUnet on a broad range of Free Software Operating Systems'
+Gnustep Examples,license,,Open source,GPL-2.0-or-later,,https://github.com/gnustep/examples,live,gui/Calculator/main.m header: 'either version 2 ... or (at your option) any later version'; repo COPYING contains GPLv3 text — grant taken conservatively from file headers
+Go iOS,license,,Open source,MIT,,https://github.com/danielpaulus/go-ios,live,Raw LICENSE is the MIT license text
+Go iOS,platforms,,"Linux, Windows, Mac",,,https://github.com/danielpaulus/go-ios,live,"Upstream README: 'automate iOS device on Linux, Windows and Mac OS X'"
+Goblim,license,,Open source,GPL-3.0-or-later,,https://git.mob-dev.fr/Schoumi/Goblim,live,"Raw LICENSE on canonical repo is GPLv3 text; source headers grant 'either version 3 ... or (at your option) any later version'; GitHub mirror is gone, Forgejo is canonical"
+Goblim,platforms,,Android,,,https://git.mob-dev.fr/Schoumi/Goblim,live,Android image-sharing app via lut.im (F-Droid: fr.mobdev.goblim)
+Google Earth Pro,license,,"Proprietary — free","Proprietary; free download from Google with no license key or purchase required on the official download page",,https://www.google.com/earth/versions/,live,Desktop mapping application
+Google Earth Pro,platforms,,"Windows, macOS, Linux",,,https://www.google.com/earth/versions/,live,"Available on PC, Mac, or Linux per official versions page"
+Gotify,license,,Open source,MIT,,https://raw.githubusercontent.com/gotify/server/master/LICENSE,live,"Raw LICENSE verified MIT; logo under CC BY 4.0"
+Gotify,platforms,,"Linux, Windows, Android, Self-hosted (Docker)",,,https://gotify.net/docs/install,live,"Server binaries Linux/Windows + Docker images; official Android client via Google Play and F-Droid"
+Gparted,license,,Open source,GPL-2.0-or-later,,https://gparted.org/,live,"gparted.org: distributed under GPL version 2 or (at your option) any later version"
+Gparted,platforms,,"Linux, Windows, macOS (via GParted Live bootable media)",,,https://gparted.org/,live,Bootable live media for x86-64 computers
+GPSLogger,license,,Open source,GPL-2.0-only,,https://raw.githubusercontent.com/mendhak/gpslogger/master/LICENSE.md,live,"README states GPL v2; F-Droid records GPL-2.0-only; no or-later grant in raw LICENSE text"
+GPSLogger,platforms,,Android,,,https://f-droid.org/en/packages/com.mendhak.gpslogger/,live,"F-Droid listing; official site gpslogger.app"
+Gr Lora Sdr,license,,Open source,GPL-3.0-only,,https://raw.githubusercontent.com/amalinda/gr-lora_sdr/master/LICENSE,live,"EPFL GNU Radio LoRa transceiver module; README states GPL-3.0, no or-later grant; GNU Radio out-of-tree module, source-only"
+Graycie,license,,Open source,"GPL-3.0-or-later (first-party code/assets per README; bundled fonts/icons under separate terms incl. non-open Chat Favour font)",,https://raw.githubusercontent.com/abhigyantrips/graycie/master/LICENSE,live,Native Android grayscale-management app
+Graycie,platforms,,Android,,,https://github.com/abhigyantrips/graycie,live,"Android-only, API 26+; app id now.abhi.graycie; F-Droid submission pending"
+Gretty,license,,Open source,MIT,,https://raw.githubusercontent.com/codeconsole/gretty/master/LICENSE,live,"Gradle plugin for running web apps on Jetty/Tomcat; build tooling, license-only; community continuation of akhikhl/gretty"
+Ground Station,license,,Open source,GPL-3.0-only,,https://raw.githubusercontent.com/sgoudelis/ground-station/main/LICENSE,live,"README badge GPL v3, no or-later grant; canonical upstream repo (4832 stars; joonhoso/tosihide forks)"
+Ground Station,platforms,,"Web (browser-based, self-hosted)",,,https://github.com/sgoudelis/ground-station,live,"Browser-based suite with Docker deployment; responsive UI for desktop/tablet/mobile"
+Gsd Pi,license,,Open source,MIT,,https://raw.githubusercontent.com/open-gsd/gsd-pi/main/LICENSE,live,"npm-distributed CLI coding agent; repo claims new 1.0.0 baseline with archived history; mirrors exist (evolv3ai, pahuut420)"
+Guake,license,,Open source,GNU General Public License v2.0 or later,,https://raw.githubusercontent.com/Guake/guake/master/guake/main.py,live,"License header audited on canonical upstream raw source; COPYING is GPL v2 text; header grants 'or (at your option) any later version' => GPL-2.0-or-later"
+Guake,platforms,,Linux,,,https://github.com/Guake/guake,live,Drop-down terminal for the GNOME desktop environment
+GTKWave,license,,Open source,GNU General Public License v2.0 only,,https://raw.githubusercontent.com/gtkwave/gtkwave/master/COPYING,live,"Raw COPYING audited: GPL v2; no 'or later' grant found in audited text; recorded conservative as GPL-2.0-only"
+GTKWave,platforms,,"Windows, Linux, macOS",,,https://github.com/gtkwave/gtkwave,live,"Repo describes wave viewer for Unix and Win32; README and macos/ dir document macOS build; Linux via distro packages"
+Gugal,platforms,,Android,,,http://f-droid.org/packages/com.porg.gugal/,live,"F-Droid package com.porg.gugal; clean web-search app built for Android (requires Android 7.0+); license row dropped: canonical upstream on gitlab.com blocked by fetch policy, raw LICENSE not auditable"
+Guymager,license,,Open source,GNU General Public License v2.0 or later,,https://github.com/cyberknightX/Guymager/blob/main/threadwrite.cpp,live,"Grant audited in source-file headers on GitHub mirror (GPL v2 'or (at your option) any later version'); canonical upstream is SourceForge, not citeable per source rules"
+Gxneur,license,,Open source,GNU General Public License v2.0 only,,https://launchpad.net/xneur,live,"Upstream project page states Licence: GNU GPL v2; no raw licence text auditable via whitelisted sources; recorded conservative as GPL-2.0-only"
+HA Cluster Exporter,license,,Open source,Apache License 2.0,,https://github.com/ClusterLabs/ha_cluster_exporter,live,"GitHub badge + README licence section (Apache License 2.0 text) on canonical upstream; Prometheus infrastructure, license-only row"
+Hail,license,,Open source,GNU General Public License v3.0 or later,,https://github.com/aistra0528/Hail,live,"README licence block on canonical upstream grants 'or (at your option) any later version' => GPL-3.0-or-later"
+Hail,platforms,,Android,,,https://github.com/aistra0528/Hail,live,"Free-as-in-freedom software to freeze Android apps; also distributed via F-Droid"
+Happy Dom,license,,Open source,MIT License,,https://github.com/capricorn86/happy-dom,live,"GitHub badge + README 'MIT License' on canonical upstream; JS/npm component library, not an installable app - license-only row"
+Hardware Probe,license,,Open source,"LGPL-2.1-or-later OR BSD-4-Clause",,https://github.com/linuxhw/hw-probe,live,"No LICENSE file in repo root; dual license declared in hw-probe.pl header, corroborated by Fedora package metadata."
+Hardware Probe,platforms,,"Linux, BSD",,,https://github.com/linuxhw/hw-probe,live,"CLI probe tool; BSD install notes in INSTALL.BSD.md."
+Haven,license,,Open source,GPL-3.0-only,,https://github.com/guardianproject/haven,live,"Raw LICENSE is standard GPL-3.0 text; no 'or later' grant found in repo docs, recorded conservative. Canonical repo is guardianproject/haven; other 'haven' repos are forks/mirrors."
+Haven,platforms,,Android,,,https://github.com/guardianproject/haven,live,"Android only; README states no iPhone support. Distributed via Google Play, F-Droid nightly repo, and GitHub APKs."
+Headroom Desktop,license,,Open source,MIT,,https://github.com/gglucass/headroom-desktop,live,"Desktop shell is MIT open source, but the app requires a Headroom account and active paid plan (7-day free trial; plans from $4/mo) to run; account backend is separate and private."
+Headroom Desktop,platforms,,"macOS, Windows, Linux",,,https://github.com/gglucass/headroom-desktop,live,"Desktop tray app; macOS 14+, Windows 10+, Linux in preview."
+Health Connect Shortcut,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/shortcut.healthconnect/,live,"License per live F-Droid page (SPDX GPL-3.0-or-later). Upstream repo on Codeberg (hipgnose/health-connect-shortcut)."
+Health Connect Shortcut,platforms,,Android,,,https://f-droid.org/packages/shortcut.healthconnect/,live,"Requires Android 7.0+; tiny launcher with no permissions, opens the system's existing Health Connect, does not install it."
+Heimdall,license,,Open source,MIT,,https://github.com/linuxserver/Heimdall,live,"Raw LICENSE verified on canonical repo (Copyright 2018 Chris Hunt)."
+Heimdall,platforms,,"Self-hosted web app (Docker)",,,https://github.com/linuxserver/Heimdall,live,"Laravel-based application dashboard and launcher; official linuxserver/heimdall Docker image."
+Hello Halo,license,,Open source,MIT,,https://github.com/openkursar/hello-halo,live,"Raw LICENSE verified on canonical repo openkursar/hello-halo (Copyright 2024-2025 OpenKursar); file appends 'Additional Terms' reserving the copyright holder's final interpretation, no use restriction. Many forks exist."
+Hello Halo,platforms,,"macOS, Windows, Linux, Android, iOS",,,https://github.com/openkursar/hello-halo,live,"Desktop downloads for macOS/Windows/Linux; Android APK; iOS build-from-source; Web via remote access."
+Hestia,license,,Open source,GPL-3.0-only,,https://github.com/hestiacp/hestiacp,live,"Raw LICENSE is standard GPL-3.0 text; README states 'licensed under GPL v3' with no 'or later' grant, recorded conservative."
+Hestia,platforms,,"Linux (Debian, Ubuntu)",,,https://github.com/hestiacp/hestiacp,live,"Server control panel; Debian 13/12/11 and Ubuntu 26.04/24.04/22.04 LTS per README."
+Hi Events,license,,Open source,AGPL-3.0-only,,https://github.com/HiEventsDev/Hi.Events,live,"Raw LICENCE: AGPL v3 with Section 7(b) 'Powered by Hi.Events' attribution requirement; backend/ee and frontend/src/ee dirs under separate Enterprise Licence."
+Hi Events,platforms,,"Web (self-hosted or cloud)",,,https://github.com/HiEventsDev/Hi.Events,live,"Open-source event ticketing platform; self-hosted or vendor cloud."
+Hindi for AnySoftKeyboard,license,,Open source,Apache-2.0,,http://f-droid.org/packages/com.anysoftkeyboard.languagepack.hindi/,live,"License per F-Droid page; Hindi layouts and dictionary pack add-on for AnySoftKeyboard."
+Hindi for AnySoftKeyboard,platforms,,Android,,,http://f-droid.org/packages/com.anysoftkeyboard.languagepack.hindi/,live,"Requires Android 5.0+; requires AnySoftKeyboard installed first."
+Hologram Nvim,license,,Open source,MIT,,https://github.com/edluffy/hologram.nvim,live,"Raw LICENSE verified (Copyright 2022 edluffy). Neovim plugin for inline image preview, not a standalone installable app; no platforms row."
