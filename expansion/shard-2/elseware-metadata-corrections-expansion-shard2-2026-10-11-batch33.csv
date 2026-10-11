@@ -1,0 +1,77 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+StockSnap,license,,Proprietary — free,"Free stock photo directory; photos CC0 licensed, service itself proprietary",Web,https://stocksnap.io/free-stock-photos,live,"Official site: all photos CC0 for personal and commercial use; 100% free, no premium tiers"
+StockSnap,platforms,,Web,,,https://stocksnap.io/free-stock-photos,live,Web-based stock photo directory
+Suitcase Fusion,license,,Proprietary — paid subscription,Subscription-based font management (Extensis),"macOS, Windows",https://www.extensis.com/suitcase-fusion,live,Official pricing page shows subscription plans ($200/$300 tiers)
+Suitcase Fusion,platforms,,"macOS, Windows",,,https://www.extensis.com/suitcase-fusion,live,Official site lists macOS and Windows builds
+Sweethome3d Furniture Editor,license,,Open source,GPL-2.0,"Windows, macOS, Linux",https://www.sweethome3d.com/license.jsp,live,FurnitureLibraryEditor component of SweetHome3D; official license page references GNU General Public License v2
+Sweethome3d Furniture Editor,platforms,,"Windows, macOS, Linux",,,https://www.sweethome3d.com/download.jsp,live,"Official download page lists Windows, Mac OS X and Linux installers"
+Syncplay Server,license,,Open source,Apache-2.0,"Windows, macOS, Linux",https://github.com/Syncplay/syncplay,live,Raw LICENSE file verified as Apache License Version 2.0
+Syncplay Server,platforms,,"Windows, macOS, Linux",,,https://syncplay.pl/,live,"Official site lists Windows installer/portable, macOS disk image and Linux deb packages"
+Tartube,license,,Open source,LGPL-2.1,"Windows, Linux",https://github.com/axcore/tartube,live,GitHub API spdx_id LGPL-2.1 on canonical axcore/tartube repo
+Tartube,platforms,,"Windows, Linux",,,https://github.com/axcore/tartube,live,README documents Windows and Linux builds
+Texmacs Bin,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/texmacs/texmacs,live,GitHub API spdx_id GPL-3.0 on canonical texmacs/texmacs repo
+Texmacs Bin,platforms,,"Windows, macOS, Linux",,,https://www.texmacs.org/tmweb/download/download.en.html,live,"Official download page lists Windows, MacOS and Linux builds"
+Thunkable,license,,Proprietary — freemium,"Free plan plus paid Builder, Advanced and Enterprise tiers",Web,https://thunkable.com/pricing,live,"Official pricing page: Free, Builder, Advanced and Enterprise plans"
+Thunkable,platforms,,Web,,,https://thunkable.com/,live,Web-based no-code mobile app builder
+Totem,license,,Open source,GPL-3.0,Linux,https://github.com/GNOME/totem,live,Raw COPYING verified as GNU General Public License Version 3
+Totem,platforms,,Linux,,,https://github.com/GNOME/totem,live,GNOME Videos application for the GNOME desktop (Linux)
+Tvtime,license,,Open source,GPL-2.0,,https://metadata.ftp-master.debian.org/changelogs//main/t/tvtime/tvtime_1.0.11-9_copyright,live,Debian copyright file: GPL v2 or later
+Tvtime,platforms,,Linux,,,https://tvtime.sourceforge.net/,live,TV app for video capture cards on Linux systems
+Valv Android,license,,Open source,GPL-3.0,,https://github.com/Arctosoft/Valv-Android,live,GitHub API spdx_id GPL-3.0; encrypted gallery vault
+Valv Android,platforms,,Android,,,https://github.com/Arctosoft/Valv-Android,live,F-Droid + Play Store (se.arctosoft.vault)
+VidCutter,license,,Open source,GPL-3.0,,https://github.com/ozmartian/vidcutter,live,GitHub API spdx_id GPL-3.0
+VidCutter,platforms,,"Windows, macOS, Linux",,,https://github.com/ozmartian/vidcutter,live,"README: Windows installer, macOS installer, Linux packages"
+Viewnior,license,,Open source,GPL-3.0,,https://github.com/hellosiyan/Viewnior,live,GitHub API spdx_id GPL-3.0; README links gpl-3.0
+Viewnior,platforms,,Linux,,,https://github.com/hellosiyan/Viewnior,live,GTK+ image viewer for Linux desktops
+Vision Camera Code Scanner,license,,Open source,MIT,,https://github.com/rodgomesc/vision-camera-code-scanner,live,"GitHub API spdx_id MIT; React Native frame-processor library, no end-user platforms"
+Wondershare Filmora,license,,Proprietary — freemium,Free tier (watermarked exports) + paid subscription/perpetual plans,Windows; macOS,http://filmora.wondershare.com/store/effects-free.html,live,Official Wondershare shop: Free Trial US$0 tier + monthly/perpetual paid plans
+Wondershare Filmora,platforms,,Windows; macOS,,,http://filmora.wondershare.com/store/effects-free.html,live,Official shop sells the desktop video editor
+Writemaps,license,,Proprietary — freemium,Free $0/mo tier + Professional/Premium subscriptions,Web,https://writemaps.com/pricing,live,Official pricing page: Free $0/month plan + paid Professional/Premium subscription plans
+Writemaps,platforms,,Web,,,https://writemaps.com/pricing,live,Cloud-based sitemap builder
+Xgplayer,license,,Open source,MIT,,https://github.com/bytedance/xgplayer,live,GitHub API spdx_id MIT on bytedance/xgplayer (JS web video player library; license row only)
+Xpaint,license,,Open source,"GPL-3.0, Unix-like (X11)",,https://sourceforge.net/projects/sf-xpaint/,live,Official SourceForge project (sf-xpaint); FSF Directory and Wikipedia confirm GNU GPL (v3)
+Xpaint,platforms,,Linux,,,https://sourceforge.net/projects/sf-xpaint/,live,X11 raster graphics editor for Unix-like systems
+Yattee,license,,Open source,AGPL-3.0,"iOS, macOS, tvOS",https://github.com/yattee/yattee,live,GitHub API spdx_id AGPL-3.0 on canonical yattee/yattee (old zdnk/Yattee repo is gone)
+Yattee,platforms,,"iOS, macOS, tvOS",,,https://github.com/yattee/yattee,live,Privacy-oriented video player for iOS/tvOS/macOS per repo description
+Zint,license,,Open source,BSD-3-Clause,"Windows, macOS, Linux",https://github.com/zint/zint,live,Raw LICENSE: encoding library BSD-3-Clause; GUI/CLI GPL-3.0-or-later (dual license)
+Zint,platforms,,"Windows, macOS, Linux",,,https://github.com/zint/zint,live,README documents Linux/macOS/Windows builds
+ZXDrawer,license,,Open source,AGPL-3.0,"Windows, macOS, Linux",https://github.com/rtorralba/zxdrawer,live,Raw LICENSE verified as GNU AGPL v3 text on rtorralba/zxdrawer
+ZXDrawer,platforms,,"Windows, macOS, Linux",,,https://github.com/rtorralba/zxdrawer,live,Electron cross-platform desktop app (ZX Spectrum pixel art editor)
+3X-UI Manager,license,,Open source,MIT,Android,https://github.com/yukh975/3x-ui-manager,live,README License: MIT badge on yukh975/3x-ui-manager; F-Droid net.yukh.xui
+3X-UI Manager,platforms,,Android,,,https://github.com/yukh975/3x-ui-manager,live,Native Android client for 3x-ui panels (Kotlin/Jetpack Compose)
+AgePony: Encrypt & Sign,license,,Open source,Apache-2.0,Android,https://f-droid.org/packages/com.agepony.app/,live,F-Droid page lists License Apache License 2.0; canonical repo norsehorse-dev/ageponyandroid (GitHub API Apache-2.0)
+AgePony: Encrypt & Sign,platforms,,Android,,,https://f-droid.org/packages/com.agepony.app/,live,Android-only app on F-Droid
+AndroDNS,license,,Open source,Apache-2.0,Android,https://github.com/vaginessa/androdns,live,GitHub API spdx_id Apache-2.0 on vaginessa/androdns; repo description Android DNS Client
+AndroDNS,platforms,,Android,,,https://github.com/vaginessa/androdns,live,Android DNS Client app
+Anubis,license,,Open source,MIT,,https://github.com/TecharoHQ/anubis,live,GitHub API spdx_id MIT; Wikipedia Anubis (software) lists License MIT License
+Anubis,platforms,,"Linux, FreeBSD",,,https://github.com/TecharoHQ/anubis/releases,live,Release assets ship Linux and FreeBSD binaries (rpm/tarball)
+Athena,license,,Open source,GPL-3.0,Android,https://github.com/Kin69/Athena,live,GitHub API spdx_id GPL-3.0 on Kin69/Athena
+Athena,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.kin.athena,live,Android firewall + ad blocker (F-Droid and Google Play)
+Bitmask,license,,Open source,GPL-3.0,Android,https://github.com/leapcode/bitmask_android,live,GitHub API spdx_id GPL-3.0 on leapcode/bitmask_android
+Bitmask,platforms,,Android,,,https://github.com/leapcode/bitmask_android,live,LEAP Bitmask Android VPN client
+Bluecheese,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/com.msb.bluecheese/,live,F-Droid page lists GNU General Public License v3.0 only; GitHub API spdx GPL-3.0 on msbCyricTohoku/bluecheese-fdroid
+Bluecheese,platforms,,Android,,,https://f-droid.org/packages/com.msb.bluecheese/,live,Android text-encryption app
+Cloak,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/packages/com.github.shadowsocks.plugin.ck_client/,live,F-Droid page lists GNU General Public License v3.0 or later; Cloak plugin for Shadowsocks
+Cloak,platforms,,Android,,,https://f-droid.org/packages/com.github.shadowsocks.plugin.ck_client/,live,Android Shadowsocks plugin
+Dns66,license,,Open source,GPL-3.0,Android,https://github.com/julian-klode/dns66,live,GitHub API spdx_id GPL-3.0 on julian-klode/dns66 (canonical repo per SourceForge mirror note)
+Dns66,platforms,,Android,,,https://f-droid.org/app/org.jak_linux.dns66,live,DNS-based host blocker for Android on F-Droid
+DPI Tunnel,license,,Open source,MIT,,https://f-droid.org/en/packages/ru.evgeniy.dpitunnel,live,F-Droid package page lists MIT License
+DPI Tunnel,platforms,,Android,,,https://f-droid.org/en/packages/ru.evgeniy.dpitunnel,live,Android app (F-Droid)
+DumDum,license,,Open source,GPL-3.0,,https://f-droid.org/en/packages/app.dumdum/,live,F-Droid lists GNU General Public License v3.0 only
+DumDum,platforms,,Android,,,https://f-droid.org/en/packages/app.dumdum/,live,Android app (F-Droid)
+Exclave,license,,Open source,GPL-3.0,,https://github.com/dyhkwong/Exclave,live,README license section: GPL v3 or any later version
+Exclave,platforms,,Android,,,https://github.com/dyhkwong/Exclave,live,Android proxy client (F-Droid com.github.dyhkwong.sagernet)
+Fl Clash,license,,Open source,GPL-3.0,,https://github.com/chen08209/FlClash,live,GitHub API SPDX GPL-3.0
+Fl Clash,platforms,,"Android, Windows, macOS, Linux",,,https://github.com/chen08209/FlClash,live,README: one app for Android Windows macOS and Linux
+Gluetun,license,,Open source,MIT,,https://github.com/qdm12/gluetun,live,raw LICENSE is MIT text; repo migrating to passtueque/gluetun org
+Gluetun,platforms,,"Linux, Windows, macOS",,,https://github.com/qdm12/gluetun,live,Distributed as Docker image
+IPBan,license,,Open source,MIT,,https://github.com/DigitalRuby/IPBan,live,GitHub API SPDX MIT
+IPBan,platforms,,"Windows, Linux",,,https://github.com/DigitalRuby/IPBan,live,README officially supported platforms; macOS not supported
+KeePassDX Passkey Vault,license,,Open source,GPL-3.0,,https://f-droid.org/en/packages/com.kunzisoft.keepass.libre,live,F-Droid lists GNU General Public License v3.0 or later
+KeePassDX Passkey Vault,platforms,,Android,,,https://f-droid.org/en/packages/com.kunzisoft.keepass.libre,live,Android app (F-Droid)
+Lamda,license,,Open source,MIT,,https://github.com/firerpa/lamda,live,raw LICENSE file is MIT text (branch 10)
+Lamda,platforms,,Android,,,https://github.com/firerpa/lamda,live,Android device control platform
+LibreCrate,license,,Open source,AGPL-3.0,,https://github.com/DavidNeurieder/LibreCrate,live,GitHub API SPDX AGPL-3.0; fdroiddata metadata AGPL-3.0-only
+LibreCrate,platforms,,"Android, Linux, macOS, Windows",,,https://github.com/DavidNeurieder/LibreCrate,live,README platforms table: Android desktop and CLI
+L×Box: VPN & Proxy Client,license,,Open source,GPL-3.0,,https://github.com/Leadaxe/LxBox,live,GitHub API SPDX GPL-3.0
+L×Box: VPN & Proxy Client,platforms,,Android,,,https://github.com/Leadaxe/LxBox,live,Android VPN and proxy client
