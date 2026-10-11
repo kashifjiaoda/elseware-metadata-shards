@@ -1,0 +1,64 @@
+Bino,license,,Open source,GPL-3.0-only,,https://github.com/threedeejay/bino,live,Repo license badge reports GPL-3.0 from LICENSE.md; recording GPL-3.0-only (conservative) since the 'or-later' grant in source headers could not be verified from whitelisted sources. Current repo is ThreeDeeJay's continuation of marlam's tree (v2.8).
+BPM Finder CLI,license,,Open source,MIT,,https://github.com/wsgtcyx/bpm-finder-cargo/blob/HEAD/README.md,live,"Upstream README declares MIT for bpm-finder-tools (Rust crate + CLI, maintained by BPM Finder / bpm-finder.net); raw LICENSE file not separately fetched."
+Camer Awesome,license,,Open source,MIT,,https://github.com/Apparence-io/camera_awesome,live,Official repo Apparence-io/CamerAwesome (Flutter camera plugin); GitHub license detection reports MIT from LICENSE file. Real project name is 'CamerAwesome'.
+Camer Awesome,platforms,,"Android, iOS",,,https://github.com/Apparence-io/camera_awesome,live,README: 'flutter plugin to integrate awesome Android / iOS camera experience'.
+Cast To TV - Screen Mirroring,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.frixapps.casttotv&hl=en_ZA,live,Google Play listing title matches exactly (package com.frixapps.casttotv); description now refers to the app as 'MeCast' (rebrand); price/IAP info not shown on fetched page so no license row written.
+Chaotica 2 trial,license,,Proprietary — freemium,Free for noncommercial use without licence; paid HD/Studio licences sold via Glare Technologies store,,https://www.chaoticafractals.com/node/4,live,Commercial product by Glare Technologies; free tier limited to 1.23 MP stills and 30 s 480p animations
+Chaotica 2 trial,platforms,,"Windows, macOS, Linux",,,https://www.chaoticafractals.com/chaoticatwo,live,Also distributed via the Mac App Store
+Chevereto Free,license,,Open source,AGPLv3; or-later grant not verified against raw LICENSE text,,https://github.com/warwolfteam/Chevereto-Free,live,Upstream chevereto/chevereto supersedes archived chevereto-free; self-hosted PHP app
+Chevereto Free,platforms,,Web,,,https://github.com/warwolfteam/Chevereto-Free,live,"Self-hosted image hosting script; requires Apache/NGiNX, PHP, MySQL"
+Chronoframe,platforms,,macOS,,,https://github.com/nishith/chronoframe,live,Identity ambiguity: same-named HoshinoSuzumi/chronoframe Nuxt gallery exists; row covers Nishith/Chronoframe macOS organizer
+Cinema Slate,license,,Proprietary — freemium,"Free forever with basic features; PRO is a one-time purchase, no subscription",,https://cinemaslate.app/,live,by Navideck
+Clock Screensaver & Widget,license,,Open source,GPL-3.0 per GitHub detection; or-later grant not verified against raw text; in-app purchase unlocks advanced settings,,https://github.com/schorschii/FsClock-Android,live,
+Clock Screensaver & Widget,platforms,,Android,,,https://github.com/schorschii/FsClock-Android,live,Also on Amazon Appstore and F-Droid; Android TV supported
+Codeimage,license,,Open source,MIT,,https://github.com/riccardoperra/codeimage,live,Canonical repo; luuuc/codeimage is a personal fork
+Codeimage,platforms,,Web,,,https://github.com/riccardoperra/codeimage,live,Web-based code screenshot tool
+ComfyChair,license,,Open source,GPL-3.0-only per F-Droid license field; raw LICENSE text not fetched,,https://f-droid.org/packages/sh.hnet.comfychair,live,Unofficial community Android client for ComfyUI; not affiliated with the ComfyUI team
+ComfyChair,platforms,,Android,,,https://f-droid.org/packages/sh.hnet.comfychair,live,
+Compose Media Player,license,,Open source,MIT,,https://github.com/kdroidfilter/composemediaplayer/blob/HEAD/README.MD,live,"Developer library, not an end-user app"
+Compose Media Player,platforms,,"Android, iOS, macOS, Windows, Linux, Web",,,https://github.com/kdroidfilter/composemediaplayer/blob/HEAD/README.MD,live,Compose Multiplatform library; JVM desktop targets and Wasm web
+Contraste,license,,Proprietary — free,Free download on official site; no paid tier found,,https://contrasteapp.com/,live,Same-named kevinheineman/contraste WCAG web app exists; this row is the Mac app
+Contraste,platforms,,macOS,,,https://contrasteapp.com/,live,Requires macOS High Sierra 10.13 or newer
+CoolCroco,license,,Proprietary — free,"Free forever; no paid tier, no trial limit, no feature held back (official FAQ)",,https://ahmetyuksek.com/coolcroco,live,Formerly CoolGorilla (renamed for trademark reasons); no source repo or license published
+CoolCroco,platforms,,"Windows, macOS, Linux",,,https://ahmetyuksek.com/coolcroco,live,"Windows 10/11, macOS 11+ (Apple Silicon and Intel), Linux AppImage"
+Coulr,license,,Open source,MIT (raw LICENSE text; copyright Hugo Posnic 2016),,https://github.com/Huluti/Coulr,live,
+Coulr,platforms,,Linux,,,https://github.com/Huluti/Coulr,live,Distributed as Flatpak via Flathub
+CSS Gradient,platforms,,Web,,,https://cssgradient.io/,live,Free gradient generator web tool; license row dropped (no pricing or terms published on site)
+Cura,license,,Open source,LGPL-3.0-or-later (source headers: released under the terms of the LGPLv3 or higher),,https://github.com/Ultimaker/Cura,live,
+Cura,platforms,,"Windows, macOS, Linux",,,https://github.com/Ultimaker/Cura,live,"Official release assets: win64 exe/msi, macOS ARM64/X64 dmg/pkg, Linux X64 AppImage"
+Daikhan,license,,Open source,AGPL-3.0-or-later (appstream metainfo project_license in official GitLab repo),,https://gitlab.com/daikhan/daikhan,live,"Canonical repo is GitLab (GitHub is a read-only mirror); AUR packager claims GPL-3.0-or-later, overruled by repo metadata"
+Daikhan,platforms,,Linux,,,https://flathub.org/apps/io.gitlab.daikhan.stable,live,Early-stage app distributed as Flatpak via Flathub
+Dash,license,,Proprietary — paid subscription,"$2.35/month billed yearly (official Kapeli blog, Dash 7 announcement)",,https://blog.kapeli.com/dash-7/,live,Kapeli Dash API documentation browser; iOS version was briefly open-sourced (GPL) in 2016 but current releases are proprietary; not Plotly Dash
+Dash,platforms,,"macOS, iOS, Windows",,,https://kapeli.com/dash,live,Windows version in beta and free while in beta (official blog Aug 2026); iOS version free on App Store
+Deep Live Cam,license,,Open source,"AGPL-3.0-only (raw LICENSE text; no or-later grant in headers, README, or pyproject)",,https://github.com/hacksider/Deep-Live-Cam,live,insightface models bundled are for non-commercial research only (per README)
+Deep Live Cam,platforms,,"Windows, macOS, Linux",,,https://github.com/hacksider/Deep-Live-Cam,live,"README has install sections for Windows, Linux, and macOS"
+Deepin Movie,license,,Open source,GPL-3.0-or-later (README license section),,https://github.com/linuxdeepin/deepin-movie-reborn,live,Platforms row dropped (no explicit platform statement fetched)
+DeltaCamera,license,,Open source,Apache-2.0 (raw LICENSE text; F-Droid listing agrees),,https://github.com/upost/DeltaCamera,live,"Same-named projects exist: rileytestut/deltacamera (iOS Game Boy Camera app, AGPLv3) and isarandi/deltacamera (Python library)"
+DeltaCamera,platforms,,Android,,,https://f-droid.org/packages/de.uwepost.android.deltacam/,live,Requires Android 5.0 or newer
+Dev3000,license,,Open source,MIT,,https://github.com/vercel-labs/dev3000,live,GitHub license detection from raw LICENSE: MIT; README License section: MIT.
+DisplayCAL,license,,Open source,GPL-3.0,,https://github.com/eoyilmaz/displaycal-py3,live,GitHub raw-text detection: GPL-3.0; packagers (Arch/openSUSE) report GPL-3.0-or-later; recorded conservative per raw-text detection.
+DisplayCAL,platforms,,"Windows, macOS, Linux",,,https://github.com/eoyilmaz/displaycal-py3,live,"README installation instructions list Windows, MacOS, Linux."
+Doodle Dudette,license,,Open source,GPL-3.0-or-later,,https://github.com/mumuuumum/ardash-doodledudette,live,README License section quotes GPL header granting 'or (at your option) any later version'; F-Droid agrees (GNU General Public License v3.0 or later).
+Doodle Dudette,platforms,,Android,,,https://github.com/mumuuumum/ardash-doodledudette,live,"README: 'Doodle, drawing and painting for children in an Android App'; distributed via F-Droid."
+Draftbit,license,,Proprietary — freemium,,,https://draftbit.com/faq/,live,Official FAQ documents a Free plan plus paid Standard/Pro tiers.
+Draftbit,platforms,,"iOS, Android, Web",,,https://draftbit.com/faq/,live,FAQ 'Which platforms does Draftbit support': builds iOS and Android apps (React Native/Expo) and publishes to the web as a PWA; macOS/Windows/Linux desktop targets not supported; builder itself is browser-based.
+Dsh Vision Router,license,,Open source,MIT,,https://github.com/ysr666/dsh-vision-router,live,GitHub license detection from raw LICENSE: MIT; v1.0.0 release notes state 'MIT licensed'.
+DV Analyzer,license,,Open source,GPL-3.0-or-later,,https://mediaarea.net/DVAnalyzer,live,"Official site: Open-Source software, 'GPLv3+ for the code developed by us'; License page quotes GPL v3 with 'or (at your option) any later version'."
+EasyLogic Studio,license,,Open source,MIT,,https://github.com/easylogic/editor,live,Upstream repo kode-team/easylogic.studio (github.com/easylogic/editor redirects there); GitHub license detection: MIT; README states 'License : MIT'.
+EasyLogic Studio,platforms,,Web,,,https://github.com/easylogic/editor,live,Browser-based design tool served at editor.easylogic.studio.
+Electric,license,,Open source,GPL (version unspecified),,https://www.staticfreesoft.com/productsFree.html,live,"Official site: 'Electric is free, open-source software' controlled by the GNU General Public License (GPL); version not stated on the fetched page. Identity note: Static Free Software Electric (VLSI CAD); electric-sql/electric is a different same-named project."
+Ente Photos (Unofficial),license,,Open source,AGPL-3.0,,https://github.com/Interested-Deving-1896/ente/blob/main/LICENSE,live,Unofficial variant; raw LICENSE text is standard AGPLv3; multiple unofficial forks exist - identity ambiguous
+Ente Photos (Unofficial),platforms,,"Android, iOS, Windows, macOS, Linux, Web",,,https://github.com/neeraj-pilot/ente/blob/HEAD/docs/docs/photos/getting-started/installation.md,live,Unofficial variant; platforms from upstream Ente install docs (Play Store / F-Droid / App Store / desktop / web)
+Exif Thumbnail Adder,license,,Open source,GPL-3.0,,https://github.com/tenzap/exif-thumbnail-adder/blob/master/COPYING,live,Raw COPYING is standard GPLv3 text; F-Droid labels v3.0-or-later but upstream README states GPL-3.0 - recorded conservatively as GPL-3.0
+Exif Thumbnail Adder,platforms,,Android,,,https://f-droid.org/packages/com.exifthumbnailadder.app/,live,Android app (F-Droid + Google Play + GitHub APK)
+F3d,license,,Open source,BSD-3-Clause,,https://github.com/f3d-app/f3d/blob/master/LICENSE.md,live,Raw LICENSE.md self-audited as standard BSD 3-Clause text
+F3d,platforms,,"Windows, macOS, Linux, Android",,,https://f3d.app/download,live,Official download page lists Windows / macOS / Linux / Android
+fakecam,platforms,,Linux,,,https://github.com/vincentvegaone/fakecam,live,README claims MIT but repo ships no LICENSE file and GitHub shows no license badge - license row dropped; fakecam.net is a separate proprietary Windows product of the same name
+Filestage,license,,Proprietary — freemium,Free plan + paid Starter/Business/Enterprise plans,,https://filestage.io/blog/how-to-share-files/,live,Official site lists free plan alongside paid plans
+Filestage,platforms,,Web,,,https://filestage.io/blog/how-to-share-files/,live,Official site: no app for mobile devices or desktop
+Final Cut Camera,license,,Proprietary — free,Free on App Store (Apple Inc.),,https://itunes.apple.com/search?term=Final+Cut+Camera&entity=software&limit=5,live,App Store price 0.0 USD; press reports conflict on a Creator Studio subscription requirement - unverified
+Final Cut Camera,platforms,,iOS,,,https://itunes.apple.com/search?term=Final+Cut+Camera&entity=software&limit=5,live,bundleId com.apple.FinalCutApp.companion; seller Apple Inc.
+Fladder,license,,Open source,GPL-3.0,,https://github.com/DonutWare/Fladder/blob/develop/LICENSE,live,Raw LICENSE is standard GPLv3 text; recorded conservatively as GPL-3.0
+Fladder,platforms,,"Android, iOS, Windows, macOS, Linux, Web",,,https://github.com/DonutWare/Fladder,live,README lists Android + TV / Web + Docker / macOS / Windows / iOS / Linux
+Flowmapp,license,,Proprietary — freemium,Free plan + paid Pro/Team/Agency plans,,https://www.flowmapp.com/pricing,live,Official pricing page
+Flowmapp,platforms,,Web,,,https://www.flowmapp.com/pricing,live,Browser-based SaaS (app.flowmapp.com)
