@@ -37,8 +37,8 @@ Paprika,license,,Proprietary — paid,One-time purchase per platform: $4.99 iOS/
 Paprika,platforms,,"iOS, Android, macOS, Windows",Paid one-time,,https://paprikaapp.com/windows/,live,Official site sells Windows/macOS; iOS/Android via app stores; no web version
 Copy Me That,license,,Proprietary — freemium,Free up to 40 recipes; $0.99/mo for unlimited,"Android, iOS, Web",https://play.google.com/store/apps/details?id=com.cmt.copymethat,live,Play listing: free version limited to 40 recipes; $0.99/month unlocks unlimited
 Copy Me That,platforms,,"Android, iOS, Web",Freemium,,https://play.google.com/store/apps/details?id=com.cmt.copymethat,live,Android via Play; iOS via App Store; web at copymethat.com
-BigOven,license,,Proprietary — freemium,Free download; Pro $2.99/mo or $24.99/yr,"iOS, Android, Web",https://bigoven-350-000-recipes-and-grocery-list-ios.soft112.com/,live,Store description: free download; Pro adds ad-free and nutrition insight at $2.99/mo or $24.99/yr
-BigOven,platforms,,"iOS, Android, Web",Freemium,,https://bigoven-350-000-recipes-and-grocery-list-ios.soft112.com/,live,iOS/Android apps plus web at bigoven.com
+BigOven,license,,Proprietary — freemium,Free download; Pro $2.99/mo or $24.99/yr,"iOS, Android, Web",https://apps.apple.com/us/app/bigoven-recipes-meal-planner/id294363034,live,App Store: Free with In-App Purchases; Pro $2.99/mo or $24.99/yr per app description
+BigOven,platforms,,"iOS, Android, Web",,,https://apps.apple.com/us/app/bigoven-recipes-meal-planner/id294363034,live,iOS via App Store (iPhone/iPad/Watch); Android app on Play Store; web at bigoven.com
 SuperCook,license,,Proprietary — free,Completely free ad-supported; no premium tier no in-app purchases,"Android, iOS, Web",https://quickdishcookbook.com/supercook-the-best-app-for-using-up-the-ingredients-in-your-pantry/,live,Review of Play listing: free with no in-app purchases; revenue from banner ads
 SuperCook,platforms,,"Android, iOS, Web",Free ad-supported,,https://quickdishcookbook.com/supercook-the-best-app-for-using-up-the-ingredients-in-your-pantry/,live,Android/iOS apps; full desktop version at supercook.com
 Mealime,license,,Proprietary — freemium,Free tier; Meal Planner Pro $2.99/mo,"iOS, Android, Web",https://apps.appfollow.io/ios/mealime-meal-plans-recipes/1079999103?country=co,live,App Store description via AppFollow: download free; Pro at $2.99 USD/month auto-renewing
@@ -59,8 +59,8 @@ Tastemade,license,,Proprietary — freemium,free app + Tastemade+ paid subscript
 Tastemade,platforms,,"Android, iOS, Web",,,https://en.wikipedia.org/wiki/Tastemade,live,iOS + Android apps; content on tastemade.com and streaming/TV platforms
 Delish,license,,Proprietary — freemium,free for limited time; then requires Delish paid membership,"Android, iOS, Web",https://www.hearst.com/-/delish-launches-app,live,Hearst official: full app access bundled with paid Delish membership after launch promo
 Delish,platforms,,"Android, iOS, Web",,,https://www.hearst.com/-/delish-launches-app,live,App Store + Google Play via Delish.com/App; web at delish.com
-Food52,license,,Proprietary — free,free iOS/Android apps; free website,"Android, iOS, Web",http://not-recipes-by-food52-ios.soft112.com,live,(Not)Recipes app free on iOS; no paid app tier found
-Food52,platforms,,"Android, iOS, Web",,,https://food52.knoji.com/promo-codes/,live,iOS + Android apps; web at food52.com
+Food52,license,,Proprietary — free,free iOS/Android apps; free website,"Android, iOS, Web",https://food52.com/,live,Official site: free recipes and content; no paid subscription for core site
+Food52,platforms,,"Android, iOS, Web",,,https://food52.com/,live,Official site at food52.com; iOS + Android apps
 Serious Eats,license,,Proprietary — free,free ad-supported website,Web,https://en.wikipedia.org/wiki/Serious_Eats,live,Food blog/website owned by People Inc.; no official mobile app found
 Serious Eats,platforms,,Web,,,https://en.wikipedia.org/wiki/Serious_Eats,live,Website only at seriouseats.com; no iOS/Android app
 NYT Cooking,license,,Proprietary — paid subscription,$4.99/mo or $39.99/yr; free trial + limited free content,"Android, iOS, Web",https://apps.appfollow.io/ios/nyt-cooking-recipes-tips/911422904?country=sv,live,Standalone NYT subscription; full recipe library paywalled

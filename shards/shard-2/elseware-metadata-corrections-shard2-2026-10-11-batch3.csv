@@ -1,8 +1,8 @@
 app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
 Misfits Market,license,,Proprietary — freemium,Free app; Misfits+ membership $69/yr for extra discounts,"Android, iOS, Web",https://progressivegrocer.com:2087/exclusive-membership-and-more-misfits-market,live,Misfits+ paid membership program; base service free to join pay per box
 Misfits Market,platforms,,"Android, iOS, Web",,,https://play.google.com/store/apps/details?id=com.misfitsmarket&hl=en_AU,live,Android via Play Store; iOS via App Store; web at misfitsmarket.com
-Karma,license,,Proprietary — free,Free app; pay per discounted surplus meal ordered,"Android, iOS",https://com-karma-life.en.uptodown.com/android/download/10503498,live,Uptodown lists Pricing Free and License Proprietary; buy surplus meals at half price
-Karma,platforms,,"Android, iOS",,,https://com-karma-life.en.uptodown.com/android/download/10503498,live,Android via Uptodown; iOS via App Store
+Karma,license,,Proprietary — free,Free app; pay per discounted surplus meal ordered,"Android, iOS",https://play.google.com/store/apps/details?id=com.karma.life,live,Play Store: free app by Karmalicious AB; order discounted surplus food; updated Sep 2026
+Karma,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.karma.life,live,Android via Play Store (500K+ downloads); iOS app on App Store
 HappyCow,license,,Proprietary — freemium,Free app with one-time in-app upgrade to full version; no subscription,"Android, iOS, Web",http://www.happycow.net/android.php,live,Official FAQ: one-time fee to buy no subscription; free version has in-app upgrade
 HappyCow,platforms,,"Android, iOS, Web",,,http://www.happycow.net/android.php,live,Android via happycow.net; iOS via App Store; web at happycow.net
 abillion,license,,Proprietary — free,Free to download and use; review-based charity rewards,"Android, iOS, Web",http://abillion-the-vegan-app.updatestar.com,live,FAQ: free to download and use; vegan review platform (not the stock analyzer app)
