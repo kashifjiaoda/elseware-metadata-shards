@@ -1,0 +1,1 @@
+Batch 65 complete (apps.md lines 3207-3256): 96 rows, 49 apps (48 verified, Blinkit Delivery Partner skipped; Hachi Group Reservation license-only), 3 verifications live, Proprietary badges only (no OSS claims - no raw-LICENSE spot-checks triggered). Pre-push: iOS; Android -> iOS, Android normalized (3 rows).
