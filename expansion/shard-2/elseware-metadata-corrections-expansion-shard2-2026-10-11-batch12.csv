@@ -1,0 +1,72 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Foobillardplus,license,,Open source,GPL-2.0,,https://github.com/alrusdi/foobillardplus,live,COPYING is GNU GPL v2 text
+Foobillardplus,platforms,,Linux,,,https://github.com/alrusdi/foobillardplus,live,Linux OpenGL billiards game
+Free Klondike,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/eu.veldsoft.free.klondike/,live,F-Droid listing: GNU General Public License v3.0 or later
+Free Klondike,platforms,,Android,,,https://f-droid.org/packages/eu.veldsoft.free.klondike/,live,F-Droid Android app
+Freeciv Client Extras,license,,Open source,GPL-2.0,"Windows, macOS, Linux",https://github.com/freeciv/freeciv,live,Client data package of the freeciv project (GPL-2.0)
+Freeciv Client Extras,platforms,,"Windows, macOS, Linux",,,https://packages.debian.org/sid/freeciv-client-extras,live,Debian package for freeciv clients
+Freeciv gtk4 client,license,,Open source,GPL-2.0,"Windows, macOS, Linux",https://github.com/freeciv/freeciv,live,GTK4 client of freeciv (GPL-2.0)
+Freeciv gtk4 client,platforms,,"Windows, macOS, Linux",,,https://github.com/freeciv/freeciv,live,Cross-platform freeciv client
+Freeciv21,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/longturn/freeciv21,live,GitHub API spdx_id GPL-3.0
+Freeciv21,platforms,,"Windows, macOS, Linux",,,https://github.com/longturn/freeciv21,live,README documents Windows macOS Linux builds
+Freedoom,license,,Open source,BSD-3-Clause,"Windows, macOS, Linux",https://github.com/freedoom/freedoom,live,COPYING.adoc is BSD-3 redistribution terms
+Freedoom,platforms,,"Windows, macOS, Linux",,,https://github.com/freedoom/freedoom,live,IWAD data playable via Doom source ports on all three
+FreeRCT,license,,Open source,GPL-2.0,"Windows, macOS, Linux",https://github.com/FreeRCT/FreeRCT,live,LICENSE-gpl-2.0.txt is GNU GPL v2 text
+FreeRCT,platforms,,"Windows, macOS, Linux",,,https://github.com/FreeRCT/FreeRCT,live,README documents Windows macOS Linux builds
+Fs Uae Arcade,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/FrodeSolheim/fs-uae-arcade,live,GitHub API spdx_id GPL-3.0
+Fs Uae Arcade,platforms,,"Windows, macOS, Linux",,,https://fs-uae.net/download/,live,Official site: cross-platform Amiga emulator for Windows macOS and Linux
+Fuse Emulator SDL,license,,Open source,GPL-2.0,,https://github.com/fuse-emulator/fuse,live,GitHub API spdx_id GPL-2.0
+Fuse Emulator SDL,platforms,,Linux,,,http://fuse-emulator.sourceforge.net/,live,Official site: the Free Unix Spectrum Emulator
+Gamine,license,,Open source,MIT,"Android, iOS, Windows, Linux",https://github.com/abarichello/gamine,live,GitHub API spdx_id MIT
+Gamine,platforms,,"Android, iOS, Windows, Linux",,,https://github.com/abarichello/gamine,live,README: released to Android iOS Windows and Linux
+Gate One,license,,Open source,AGPL-3.0 (dual-licensed AGPLv3 or Commercial),Web,https://github.com/liftoff/GateOne,live,Raw LICENSE.txt: dual-licensed AGPLv3 or Commercial; brief's Apache-2.0 claim wrong
+Gate One,platforms,,Web,,,https://github.com/liftoff/GateOne,live,Repo description: HTML5-powered terminal emulator and SSH client
+GeForce Now,license,,Proprietary — freemium,,"Windows, macOS, Linux, Android, iOS, Web",https://www.nvidia.com/en-us/geforce-now/memberships/,live,Official NVIDIA memberships page: free tier plus paid Performance/Ultimate
+GeForce Now,platforms,,"Windows, macOS, Linux, Android, iOS, Web",,,https://www.nvidia.com/en-us/geforce-now/download/,live,Official download page lists Desktop Browser Windows Mac Chromebook Linux Android iOS
+Gerbera,license,,Open source,GPL-2.0,,https://raw.githubusercontent.com/gerbera/gerbera/master/LICENSE.md,live,LICENSE.md is GPL v2 text (MediaTomb lineage; v2 only)
+Gerbera,platforms,,Linux,,,https://github.com/gerbera/gerbera,live,UPnP media server; Linux primary platform
+Gizz Tapes,license,,Open source,Apache-2.0,,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/gizz.tapes.foss.yml,live,F-Droid metadata License: Apache-2.0
+Gizz Tapes,platforms,,Android,,,https://f-droid.org/en/packages/gizz.tapes.foss/,live,F-Droid listing
+Glob2,license,,Open source,GPL-3.0,,https://github.com/globulation2/glob2,live,GitHub license API spdx_id GPL-3.0 (repo globulation2/glob2)
+Glob2,platforms,,"Windows, macOS, Linux",,,https://github.com/globulation2/glob2,live,RTS game; homepage globulation2.org
+GNOME Console,license,,Open source,GPL-3.0,,https://github.com/GNOME/console,live,GitHub license API spdx_id GPL-3.0
+GNOME Console,platforms,,Linux,,,https://github.com/GNOME/console,live,GNOME terminal emulator
+GNOME Mines,license,,Open source,GPL-3.0,,https://github.com/GNOME/gnome-mines,live,GitHub license API spdx_id GPL-3.0
+GNOME Mines,platforms,,Linux,,,https://github.com/GNOME/gnome-mines,live,GNOME minesweeper game
+GNOME Taquin,license,,Open source,GPL-3.0,,https://github.com/GNOME/gnome-taquin,live,GitHub license API spdx_id GPL-3.0
+GNOME Taquin,platforms,,Linux,,,https://github.com/GNOME/gnome-taquin,live,GNOME sliding-puzzle game
+Gnugo,license,,Open source,GPL-3.0-only,,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/org.ligi.gobandroidhd.ai.gnugo.yml,live,F-Droid metadata License: GPL-3.0-only (GNU Go engine app)
+Gnugo,platforms,,Android,,,https://f-droid.org/en/packages/org.ligi.gobandroidhd.ai.gnugo/,live,F-Droid listing
+Gobandroid,license,,Open source,GPL-3.0-only,,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/org.ligi.gobandroid_hd.yml,live,F-Droid metadata License: GPL-3.0-only
+Gobandroid,platforms,,Android,,,https://f-droid.org/en/packages/org.ligi.gobandroid_hd/,live,F-Droid listing
+Godot3,license,,Open source,MIT,,https://github.com/godotengine/godot,live,GitHub license API spdx_id MIT (Godot engine)
+Godot3,platforms,,"Windows, macOS, Linux",,,https://github.com/godotengine/godot,live,Multi-platform 2D/3D game engine; desktop editor platforms
+Golden Ticket,license,,Open source,MIT,Android,https://f-droid.org/en/packages/org.golden_ticket.golden_ticket/,live,F-Droid MIT
+Golden Ticket,platforms,,Android,,,https://f-droid.org/en/packages/org.golden_ticket.golden_ticket/,live,F-Droid Android
+Gpodder,license,,Open source,GPL-3.0,"Windows, macOS, Linux",https://github.com/gpodder/gpodder,live,GitHub API GPL-3.0
+Gpodder,platforms,,"Windows, macOS, Linux",,,https://gpodder.github.io/,live,Official site downloads
+Gridle,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/en/packages/org.billthefarmer.gridle/,live,F-Droid GPL-3.0-only
+Gridle,platforms,,Android,,,https://f-droid.org/en/packages/org.billthefarmer.gridle/,live,F-Droid Android
+Gtkatlantic,license,,Open source,GPL-2+,Linux,https://metadata.ftp-master.debian.org/changelogs/main/g/gtkatlantic/unstable_copyright,live,Debian copyright GPL-2+
+Gtkatlantic,platforms,,Linux,,,https://metadata.ftp-master.debian.org/changelogs/main/g/gtkatlantic/unstable_copyright,live,Debian package
+GuessThatPokemon,license,,Open source,MIT,Android,https://f-droid.org/en/packages/com.nima.guessthatpokemon/,live,F-Droid MIT
+GuessThatPokemon,platforms,,Android,,,https://f-droid.org/en/packages/com.nima.guessthatpokemon/,live,F-Droid Android
+Halma,license,,Open source,Apache-2.0,Android,https://f-droid.org/en/packages/app.halma/,live,F-Droid Apache-2.0
+Halma,platforms,,Android,,,https://f-droid.org/en/packages/app.halma/,live,F-Droid Android
+Hayago,license,,Open source,MIT,Android,https://f-droid.org/en/packages/com.biotstoiq.hayago/,live,F-Droid MIT
+Hayago,platforms,,Android,,,https://f-droid.org/en/packages/com.biotstoiq.hayago/,live,F-Droid Android
+Hedge Mod Manager,license,,Open source,MIT,"Windows, Linux",https://github.com/hedge-dev/HedgeModManager,live,GitHub API MIT
+Hedge Mod Manager,platforms,,"Windows, Linux",,,https://github.com/hedge-dev/HedgeModManager,live,Multiplatform rewrite releases
+Hex A Hop,license,,Open source,GPL-2.0,,https://github.com/teleshoes/hex-a-hop,live,GitHub API GPL-2.0
+HexGL,license,,Open source,MIT,,https://github.com/BKcore/HexGL,live,GitHub API spdx_id MIT
+HexGL,platforms,,Web,,,https://github.com/BKcore/HexGL,live,HTML5 browser racing game per repo description
+Honkers Launcher,license,,Open source,GPL-3.0,,https://github.com/an-anime-team/honkers-launcher,live,GitHub API spdx_id GPL-3.0
+Honkers Launcher,platforms,,Linux,,,https://github.com/an-anime-team/honkers-launcher,live,Flatpak + native Linux builds per repo releases
+Hue Spill,license,,Open source,GPL-3.0,,https://github.com/sidhant947/HueSpill,live,GitHub API spdx_id GPL-3.0
+Hue Spill,platforms,,Android,,,https://f-droid.org/en/2026/09/18/twif.html,live,F-Droid listed in TWIF
+HyleX (Entropy / Hyle 7),license,,Open source,GPL-3.0,,https://github.com/jenspfahl/hylex,live,GitHub API spdx_id GPL-3.0
+HyleX (Entropy / Hyle 7),platforms,,Android,,,https://f-droid.org/en/packages/de.jepfa.hyle_x/,live,F-Droid listing de.jepfa.hyle_x
+I Have No Tomatoes,license,,Open source,zlib,,https://tomatoes.sourceforge.net/about.html,live,Official site: completely free open source software under zlib/libpng license
+I Have No Tomatoes,platforms,,"Windows, Linux, macOS",,,https://Sourceforge.net/p/tomatoes/,live,SourceForge project OS list: BSD Linux Mac Windows
+Image Meta Cleaner,license,,Open source,GPL-3.0-only,,http://f-droid.org/packages/code.alimiracle.image_meta_cleaner/,live,F-Droid listing License GNU GPL v3.0 only
+Image Meta Cleaner,platforms,,Android,,,http://f-droid.org/packages/code.alimiracle.image_meta_cleaner/,live,F-Droid listing requires Android 5.0+
