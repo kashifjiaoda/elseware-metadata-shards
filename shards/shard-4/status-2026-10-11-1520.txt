@@ -1,0 +1,8 @@
+Shard 4 Phase-1 backfill COMPLETE (Shard 2 takeover).
+All 112 chunks verified -> 1,652 CSV rows: 827 apps license-verified, 824 apps platform-verified.
+Pushed: shards/shard-4/elseware-metadata-corrections-shard4-2026-10-11-backfill1.csv (1,652 insertions).
+Schema-validated: 9 cols/row, valid badges, all live, whitelisted sources only (official site/repo/app store),
+license-detail self-audited against raw LICENSE text for every Open source/Source-available claim.
+Unverifiable apps skipped with reason per accuracy directive (ambiguous identity, dead/discontinued products,
+blocked sites, title mismatches, hardware vendors with no software product, services companies with no license tier).
+Next: Phase-2 batches 16-77 (expansion apps.md lines 757+).
