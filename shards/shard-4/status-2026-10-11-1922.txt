@@ -1,0 +1,8 @@
+shard4 expansion batch46 - Shard 2
+Date (PKT): 2026-10-11 19:22
+Rows pushed: 66 (37 license, 29 platforms) -> expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch46.csv
+Apps verified: 39 of 50; skipped with reason: 11
+Assembly drops: Efficientsam3 license (README-only claim, no LICENSE file - thin); ESP3 D license (GPL-3.0 LICENSE vs LGPL-2.1-or-later headers - conflicting)
+Fixes: F-Droid Basic platforms value restored (Android); discorkie URL https normalized
+Spot-checks: Dorion GPL-3.0-only + android-display-extend GPL-3.0-only confirmed vs raw text; GalaxyBudsClient/EVILSPIN raw fetch pending (main-branch 404s)
+Next: batch 47 (apps.md lines 2307-2356)
