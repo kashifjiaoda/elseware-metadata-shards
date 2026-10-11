@@ -1,0 +1,59 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+NotaryCam,license,,Proprietary — paid,,Web,https://www.notarycam.com/notarize-now/,live,$25 per seal for individuals; online notarization platform
+NotaryCam,platforms,,Web,,,https://www.notarycam.com/notarize-now/,live,Online notarization via web platform
+NotaryPro,license,,Proprietary — paid,,Web,https://www.notarypro.ca/our-prices/,live,C$43.95 online per signature and seal; Canadian notary service
+NotaryPro,platforms,,Web,,,https://www.notarypro.ca/our-prices/,live,Online remote signing + in-person (Canada)
+Pactima,license,,Proprietary — paid subscription,,Web,https://pactima.com/solutions/construction/ron,live,RON e-signature platform for notaries and businesses; free trial available
+Pactima,platforms,,Web,,,https://pactima.com/solutions/construction/ron,live,Cloud-based remote online notarization platform
+Ruli AI,license,,Proprietary — paid subscription,,Web,https://www.ruli.ai/blog/introducing-ruli-ai-the-ai-teammate,live,AI legal platform for in-house teams; paid subscription required
+Ruli AI,platforms,,Web,,,https://www.ruli.ai/blog/introducing-ruli-ai-the-ai-teammate,live,Web platform with Microsoft Word extension
+Signable,license,,Proprietary — paid subscription,,Web,https://www.signable.com/terms-conditions/,live,UK e-signature; PAYG 1.50 GBP per envelope and plans from 29 GBP/month
+Signable,platforms,,Web,,,https://www.signable.com/terms-conditions/,live,Web-based electronic signature platform
+SignWell,license,,Proprietary — freemium,Free plan (3 docs/mo); Light $10/user/mo annual; Business $30/mo annual; Enterprise custom,,https://www.signwell.com/pricing/,live,eSignature SaaS; free tier + paid plans
+SignWell,platforms,,Web,,,https://www.signwell.com/pricing/,live,Web-based eSignature platform
+Sirion,license,,Proprietary — paid subscription,"Enterprise CLM; pricing quotation-based, no public pricing",,https://www.sirion.ai/,live,AI-native contract lifecycle management for enterprises
+Soluno,license,,Proprietary — paid subscription,$89/user/mo month-to-month; $81/user/mo billed annually,,https://www.soluno.legal/,live,Legal practice management + trust accounting SaaS
+Soluno,platforms,,Web,,,https://www.soluno.legal/,live,Cloud-based legal software
+Stavvy,license,,Proprietary — paid subscription,B2B pricing (approx $25 per closed file per software directories),,https://stavvy.com/,live,Digital mortgage / real estate closing platform
+Stavvy,platforms,,Web,,,https://stavvy.com/,live,Web-based closing platform
+Templafy,license,,Proprietary — freemium,Free Individual plan; Team $40/user/mo; Enterprise custom,,https://www.templafy.com/home/pricing/,live,Document generation platform; free tier + paid plans
+Templafy,platforms,,Web,,,https://www.templafy.com/home/pricing/,live,Web + Microsoft Office integration
+Trust & Will,license,,Proprietary — paid,One-time packages: Will $199/$299; Trust $499/$599,,https://trustandwill.com/,live,Online estate planning; one-time fees not subscription
+Trust & Will,platforms,,Web,,,https://trustandwill.com/,live,Web-based estate planning platform
+WPForms Signatures,license,,Proprietary — paid subscription,Requires WPForms Pro license from $199.50/year,,https://wpforms.com/addons/signature/,live,Signature addon for the WPForms form builder
+WPForms Signatures,platforms,,Web,,,https://wpforms.com/addons/signature/,live,WordPress plugin
+7 Brew Coffee,license,,Proprietary — free,"App Store: Free; seller Brew Culture, LLC",,https://apps.apple.com/us/app/7-brew-coffee/id6762023973,live,Drive-thru coffee chain app; mobile ordering + rewards
+7 Brew Coffee,platforms,,iOS,,,https://apps.apple.com/us/app/7-brew-coffee/id6762023973,live,App Store listing (iOS)
+adw-gtk3-theme,license,,Open source,LGPL-2.1 (raw LICENSE verified as GNU Lesser General Public License v2.1 text),,https://github.com/lassekongo83/adw-gtk3,live,Unofficial GTK3 port of libadwaita theme
+adw-gtk3-theme,platforms,,Linux,,,https://github.com/lassekongo83/adw-gtk3,live,GTK3 desktop theme
+Ameixa,license,,Open source,GPL-3.0,Android,https://github.com/braniii/Ameixa,live,Mirror of gitlab xphnx/ameixa; minimalist material design icon pack for Android
+Ameixa,platforms,,Android,,,https://github.com/braniii/Ameixa,live,Android icon pack
+Arcticons,license,,Open source,GPL-3.0,Android,https://github.com/Arcticons-Team/Arcticons,live,Monotone line-based icon pack for Android
+Arcticons,platforms,,Android,,,https://github.com/Arcticons-Team/Arcticons,live,Android icon pack
+Artvee for Muzei,license,,Open source,GPL-3.0-or-later,Android,https://f-droid.org/packages/com.example.muzei.muzeiartvee/,live,F-Droid license field; source code at codeberg.org/pkal/ArtveeMuzei; Muzei backend for Artvee highlighted artworks
+Artvee for Muzei,platforms,,Android,,,https://f-droid.org/packages/com.example.muzei.muzeiartvee/,live,Requires Android 7.0 or newer per F-Droid
+bibata-all-cursor,license,,Open source,GPL-3.0,Linux,https://github.com/ful1e5/Bibata_Cursor,live,Open source compact material designed cursor set
+bibata-all-cursor,platforms,,Linux,,,https://github.com/ful1e5/Bibata_Cursor,live,X11/Wayland cursor theme
+chezmoi,license,,Open source,MIT,,https://github.com/twpayne/chezmoi,live,Dotfiles manager CLI
+chezmoi,platforms,,"Windows, macOS, Linux",,,https://github.com/twpayne/chezmoi,live,Cross-platform Go binary per releases
+Cordova Plugin Background Mode,license,,Open source,Apache-2.0,,https://github.com/katzer/cordova-plugin-background-mode,live,Apache-2.0 per GitHub license API; Cordova plugin to keep app running in background
+flat-remix,license,,Open source,GPL-3.0,,https://github.com/daniruiz/flat-remix,live,GitHub API spdx_id GPL-3.0; icon theme for Linux desktops
+flat-remix,platforms,,Linux,,,https://github.com/daniruiz/flat-remix,live,Repo topics: linux + gnome icon-theme
+ENEOS公式アプリ - カーライフまるごと！みんなのアプリ,license,,Proprietary — free,,,https://apps.apple.com/jp/app/eneos%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA-%E3%82%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8-%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA/id1612229796?uo=4,live,App Store JP: ENEOS Corporation; 無料 (free)
+ENEOS公式アプリ - カーライフまるごと！みんなのアプリ,platforms,,iOS,,,https://apps.apple.com/jp/app/eneos%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA-%E3%82%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%95%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8-%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA/id1612229796?uo=4,live,App Store JP listing (iOS app)
+gtk-theme-orchis,license,,Open source,GPL-3.0,,https://github.com/vinceliuice/Orchis-theme,live,GitHub API spdx_id GPL-3.0; Material Design theme for GNOME/GTK desktops
+gtk-theme-orchis,platforms,,Linux,,,https://github.com/vinceliuice/Orchis-theme,live,GTK theme for GNOME/GTK-based desktop environments
+gtk-theme-yaru-cinnamon,license,,Open source,GPL-3.0,,https://github.com/ubuntucinnamon/yaru-cinnamon,live,GitHub API spdx_id GPL-3.0; Cinnamon-colorized Yaru theme (repo has COPYING + COPYING.LGPL-3.0)
+gtk-theme-yaru-cinnamon,platforms,,Linux,,,https://github.com/ubuntucinnamon/yaru-cinnamon,live,GTK/Cinnamon theme for Linux desktops
+Halachic Prayer Times,license,,Open source,GPL-3.0-only,,http://f-droid.org/packages/net.sf.times/,live,F-Droid package net.sf.times; License: GNU General Public License v3.0 only
+Halachic Prayer Times,platforms,,Android,,,http://f-droid.org/packages/net.sf.times/,live,F-Droid Android app (zmanim and zmanei tefillot with prayer compass)
+Huda,license,,Proprietary — free,,Android,https://play.google.com/store/apps/details?id=com.hudaapp.android&hl=en_NZ,live,"Play Store com.hudaapp.android by MRM Digital; listed Free, no open-source license stated"
+Huda,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.hudaapp.android&hl=en_NZ,live,"Android app (Play Store; prayer times, Quran, Qibla)"
+icon-theme-papirus,license,,Open source,GPL-3.0,,https://github.com/PapirusDevelopmentTeam/papirus-icon-theme,live,GitHub API spdx_id GPL-3.0; pixel-perfect icon theme for Linux
+icon-theme-papirus,platforms,,Linux,,,https://github.com/PapirusDevelopmentTeam/papirus-icon-theme,live,Linux icon theme
+icon-theme-yaru-cinnamon,license,,Open source,GPL-3.0,,https://github.com/ubuntucinnamon/yaru-cinnamon,live,GitHub API spdx_id GPL-3.0; Yaru icon theme for Ubuntu Cinnamon
+icon-theme-yaru-cinnamon,platforms,,Linux,,,https://github.com/ubuntucinnamon/yaru-cinnamon,live,Linux icon theme
+InPost UK,license,,Proprietary — free,,Android,https://play.google.com/store/apps/details?id=uk.co.inpost.inmobile,live,"Play Store uk.co.inpost.inmobile by InPost UK Ltd; listed Free, no open-source license stated"
+InPost UK,platforms,,Android,,,https://play.google.com/store/apps/details?id=uk.co.inpost.inmobile,live,Android app (Play Store; parcel locker management)
+Live Burger Wallpaper,license,,Open source,GPL-3.0-only,,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/org.sasehash.burgerwp.yml,live,fdroiddata org.sasehash.burgerwp; License: GPL-3.0-only; source https://gitlab.com/samsumas/LivingBurger
+Live Burger Wallpaper,platforms,,Android,,,https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/org.sasehash.burgerwp.yml,live,Android live wallpaper (F-Droid org.sasehash.burgerwp)
