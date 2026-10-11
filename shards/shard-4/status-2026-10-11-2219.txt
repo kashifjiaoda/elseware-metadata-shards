@@ -1,0 +1,7 @@
+Shard 4 (Shard 2 cover) — 2026-10-11 22:19 PKT
+PHASE-2 EXPANSION BATCH 62 COMPLETE: 48 rows (45 apps verified, 5 skipped), pushed 099ca99.
+k1 10/0sk, k2 9/1sk, k3 13/0sk, k4 7/3sk, k5 9/1sk.
+Skipped: Video Mover, Adakami, Auto Accounting, Score Republic - Live Ticker, ElevaCrédito - Crédito Seguro.
+Spot-checks: One Key Vip MIT, Picacg Qt LGPL-3.0-only, Py Qt5 Apps GPL-3.0-only — all CONFIRMED raw text, 0 corrections.
+Assembly fix: missing trailing newline on ch62k2 merged with k3's first row; re-assembled with trailing newlines, re-validated 48×9.
+Catches: Yanice Shoot seller Daniel Palomar Clota (legitimacy NOT vouched); Domínio Para Você = Thomson Reuters HR app; SDrama repurposed bundle uz.splay.sevimlijon; Simulador de Urna seller mismatch (Jose Estevao vs Pajeú Tech); PINJAMANGo xiaoshikeji bundle (NOT vouched).
