@@ -1,0 +1,10 @@
+Shard 4 Phase-2 batch 23 COMPLETE (Shard 2 takeover) — apps.md lines 1107-1156.
+74 rows pushed: expansion/shard-4/elseware-metadata-corrections-expansion-shard4-2026-10-11-batch23.csv
+43 apps license-verified, 31 apps platform-verified (44 of 50 apps covered).
+Skipped with reason: 8 — Palette-Cycle (unidentifiable), Recipe App (no exact-name match),
+sticker-manager (ambiguous), Broken Link Checker (ambiguous identity),
+Cart Abandonment Recovery (ambiguous identity), Grid My Business (thin grounding),
+wallpaperdownloader platforms (thin grounding), スシロー platforms (JP Android unconfirmed).
+Schema validation: 0 issues (9 cols/row, valid badges, all live, whitelisted sources only).
+Self-audit catches: myCat license row dropped (README MIT vs GitHub NOASSERTION);
+miracle-wm GPL-3.0-only (no "or later" assumed); Tandoor Source-available (AGPL v3 + Commons Clause).
