@@ -1,0 +1,78 @@
+QRieux - QR Scanner,license,,Open source,MIT,,https://github.com/abumalick/qrieux,live,Raw LICENSE text verified (MIT)
+QRieux - QR Scanner,platforms,,"Android, iOS",,,https://github.com/abumalick/qrieux,live,"Kotlin Multiplatform; F-Droid, Google Play and App Store badges in README"
+Quadrant for Minecraft,license,,Open source,MPL-2.0,,https://github.com/quadrantmc/quadrant,live,Raw LICENSE text verified (Mozilla Public License 2.0)
+Quadrant for Minecraft,platforms,,"Linux, Windows, macOS",,,https://github.com/quadrantmc/quadrant,live,"Flathub (Linux), Microsoft Store (Windows), Apple-Silicon macOS DMG per README"
+Quetoo,license,,Open source,GPL-2.0 (source code per project README; artwork Creative Commons),,https://github.com/movowr/quetoo,live,README states GPL v2; raw license file not located in repo
+Quetoo,platforms,,"macOS, Windows, Linux",,,https://github.com/movowr/quetoo,live,"README: 'a free first person shooter for Mac, PC and Linux'"
+Race into Space,license,,Open source,GPL-2.0,,https://github.com/raceintospace/raceintospace,live,Raw COPYING text verified (GNU GPL Version 2)
+Rakuyomi,license,,Open source,AGPL-3.0,,https://github.com/tachibana-shin/rakuyomi,live,Raw LICENSE text verified (GNU AGPL Version 3)
+Rakuyomi,platforms,,"KOReader (plugin), Android",,,https://github.com/tachibana-shin/rakuyomi,live,Manga reader plugin for KOReader; Android via Rakuyomi Bridge companion app per README
+React Native Sudoku,license,,Open source,MIT,,https://github.com/ndajiya/react-native-sudoku,live,README states MIT; no separate LICENSE file in repo
+React Native Sudoku,platforms,,"iOS, Android",,,https://github.com/ndajiya/react-native-sudoku,live,README lists iOS and Android downloads
+Redeclipse,license,,Open source,Zlib,,https://github.com/redeclipse/base,live,Raw doc/license.txt verified (THE RED ECLIPSE LICENSE; based on Tesseract/Cube Engine 2 under ZLIB license)
+Redeclipse,platforms,,"Windows, Linux",,,https://github.com/redeclipse/base,live,Official README: packages for Windows and GNU/Linux
+Retrobios,license,,Open source,GPL-3.0,,https://github.com/chrisrodney/retrobios,live,Raw LICENSE verified (GNU GPL v3); identity: chrisrodney/retrobios BIOS-organizer web app for RetroArch
+Retrobios,platforms,,Web,,,https://github.com/chrisrodney/retrobios,live,Web app per README
+Robotfindskitten,license,,Open source,GPL-2.0,,https://github.com/robotfindskitten/robotfindskitten,live,Raw COPYING verified (GNU GPL Version 2)
+Rpcs3,license,,Open source,GPL-2.0,,https://github.com/rpcs3/rpcs3,live,Raw LICENSE verified (GNU GPL Version 2); repo README: most files GPL-2.0-only
+Rpcs3,platforms,,"Windows, Linux, macOS, FreeBSD",,,https://github.com/rpcs3/rpcs3,live,"Written in C++ for Windows, Linux, macOS and FreeBSD per repo README"
+RTCMulti Connection,license,,Open source,MIT,,https://github.com/muaz-khan/RTCMultiConnection,live,GitHub license metadata: MIT License (LICENSE.md verified)
+Rxvt Unicode,license,,Open source,GPL-3.0-or-later,,http://software.schmorp.de/pkg/rxvt-unicode.html,live,"GNU Guix packaging lists GPL 3+; upstream COPYING not raw-verified, official page silent"
+Save State,license,,Open source,GPL-3.0,,https://github.com/Matteo842/SaveState,live,Project README states SaveState is licensed under GPLv3
+Save State,platforms,,"Windows, Linux",,,https://github.com/Matteo842/SaveState,live,README: tested on Windows 10/11; Linux AppImage release
+SDLPoP,license,,Open source,GPL-3.0,,https://github.com/NagyD/SDLPoP,live,Raw COPYING verified (GNU GPL Version 3)
+Sgt Puzzles,license,,Open source,MIT,,http://www.chiark.greenend.org.uk/~sgtatham/puzzles/,live,Official docs: collection distributed under the MIT licence
+Sgt Puzzles,platforms,,"Windows, macOS, Linux",,,http://www.chiark.greenend.org.uk/~sgtatham/puzzles/,live,"Official docs: runs on Windows and Unix, with a port to Mac OS X"
+Shelf Player,platforms,,iOS,,,https://github.com/rasmuslos/ShelfPlayer,live,Repo: native Audiobookshelf player for iOS and iPadOS; no license file in repo - no badge claim
+Sickchill,license,,Open source,GPL-3.0,,https://github.com/SickChill/SickChill,live,GitHub license metadata: GNU General Public License v3.0
+Sogen,license,,Open source,GPL-2.0-only,,https://github.com/momo5502/sogen/blob/main/LICENSE,live,Raw LICENSE is GNU GPL v2; userspace emulator for Windows and Linux
+Sogen,platforms,,"Windows, Linux",,,https://github.com/momo5502/sogen,live,Emulates Windows and Linux programs at CPU and syscall level
+Spectrum Analyser,license,,Proprietary — free,Proprietary freeware,,https://www.keuwl.com/apps.html,live,Free ad-free APKs; shareable but not sold or modified
+Spectrum Analyser,platforms,,Android,,,https://www.keuwl.com/apps.html,live,Keuwlsoft's Apps for Android; APK sideload
+SPORTS POINT,license,,Proprietary — free,Proprietary,,https://play.google.com/store/apps/details?id=com.supersports.point.member&hl=en_US,live,Official Xebio Group point app; free download
+SPORTS POINT,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.supersports.point.member&hl=en_US,live,Google Play listing
+Starfighter,license,,Open source,GPL-3.0,,https://github.com/pr-starfighter/starfighter,live,GitHub license badge GPL-3.0; COPYING file in repo
+Starfighter,platforms,,"Windows, macOS, Linux",,,https://github.com/pr-starfighter/starfighter,live,README build instructions for Windows/macOS/Linux
+Stipple Effect,license,,Proprietary — paid,EULA,,https://github.com/stipple-effect/stipple-effect/blob/master/README.md,live,Sold via itch.io; README states distributed under an EULA
+Suwayomi Server,license,,Open source,MPL-2.0,,https://github.com/Suwayomi/Suwayomi-Server,live,GitHub license badge MPL-2.0
+Suwayomi Server,platforms,,"Windows, macOS, Linux",,,https://github.com/Suwayomi/Suwayomi-Server,live,"README: any platform that runs Java — Windows, Linux, macOS, ChromeOS"
+Taisei,license,,Open source,Mixed licenses — see COPYING.txt,,https://github.com/taisei-project/taisei,live,README: free and open-source fangame; GitHub license: NOASSERTION
+Taisei,platforms,,"Windows, macOS, Linux",,,https://github.com/taisei-project/taisei,live,Officially supported on Windows/Linux/macOS plus WebGL browsers
+Teemii,license,,Open source,MIT,,https://github.com/dokkaner/teemii,live,GitHub-detected MIT license; LICENSE file in root
+Teemii,platforms,,Web (Docker),,,https://github.com/dokkaner/teemii,live,Self-hosted web app; Docker deploy; in-browser reading
+Term2048,license,,Open source,MIT,,https://github.com/bfontaine/term2048,live,GitHub-detected MIT license; LICENSE file in root
+Term2048,platforms,,"Linux, macOS, Windows",,,https://github.com/bfontaine/term2048,live,pip-installable Python CLI; snap package; README notes Windows support
+terminal-parrot,license,,Open source,MIT,,https://github.com/jmhobbs/terminal-parrot,live,GitHub-detected MIT license; LICENSE file in root
+terminal-parrot,platforms,,"Linux, macOS",,,https://github.com/jmhobbs/terminal-parrot,live,Go CLI; Nix/Homebrew/snap/Docker installs
+Termora,license,,Open source,AGPL-3.0 (dual-licensed; proprietary commercial license also offered),,https://github.com/TermoraDev/termora,live,README License section; no LICENSE file in root
+Termora,platforms,,"Windows, macOS, Linux",,,https://github.com/TermoraDev/termora,live,Kotlin/JVM desktop app; Homebrew/WinGet/Microsoft Store
+tetris-ever,license,,Open source,MIT,,https://github.com/Joker2770/Tetris-ever,live,GitHub-detected MIT license; LICENSE file in root
+tetris-ever,platforms,,"Linux, Windows",,,https://github.com/Joker2770/Tetris-ever,live,Build instructions for Ubuntu/Linux and Windows; snap package
+The Powder Toy,license,,Open source,GPL-3.0,,https://github.com/The-Powder-Toy/The-Powder-Toy,live,GitHub-detected GPL-3.0; LICENSE file in root
+The Powder Toy,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/The-Powder-Toy/The-Powder-Toy,live,Steam desktop release; android/ directory in repo
+Tilix,license,,Open source,MPL-2.0,,https://github.com/gnunn1/tilix,live,GitHub-detected MPL-2.0; LICENSE file in root
+Tilix,platforms,,Linux,,,https://github.com/gnunn1/tilix,live,GTK3 tiling terminal emulator for Linux only
+Tonkatsu Box,license,,Open source,MIT,,https://github.com/hacan359/tonkatsu_box,live,GitHub-detected MIT license; LICENSE file in root
+Tonkatsu Box,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/hacan359/tonkatsu_box,live,Flutter desktop + mobile; downloads for Windows/macOS/Linux/Android
+Tracearr,license,,Open source,AGPL-3.0,,https://github.com/connorgallopo/Tracearr,live,GitHub-detected AGPL-3.0; LICENSE file in root
+Tracearr,platforms,,Web (Docker),,,https://github.com/connorgallopo/Tracearr,live,Self-hosted Docker dashboard; mobile apps only in forks
+Translumo,license,,Open source,Apache-2.0,,https://github.com/ramjke/Translumo,live,GitHub-detected Apache-2.0; LICENSE file in root
+Translumo,platforms,,Windows,,,https://github.com/ramjke/Translumo,live,Windows 10/11 .exe; DirectX-based screen capture
+Trophy,license,,Open source,MIT,,https://github.com/simon-weij/trophy,live,"Open-source self-hostable clipping software; repo README license section states all under MIT; Tauri desktop app, no packaged builds yet"
+Trophy,platforms,,"Windows, macOS, Linux",,,https://github.com/simon-weij/trophy,live,"Tauri desktop app (Windows, macOS, Linux)"
+Tuios,license,,Open source,MIT,,https://github.com/Gaurav-Gosain/tuios,live,GitHub LICENSE-file detection MIT; terminal window manager in Go
+Tuios,platforms,,"Windows, macOS, Linux, FreeBSD, OpenBSD",,,https://github.com/Gaurav-Gosain/tuios,live,Pre-built binaries per official README
+Tuxtype,license,,Open source,GPL-2.0,,https://github.com/tux4kids/tuxtype,live,GitHub LICENSE-file (COPYING) detection GPL-2.0; README states GPL free software
+Tuxtype,platforms,,"Windows, macOS, Linux",,,https://github.com/tux4kids/tuxtype,live,"Cross-platform typing tutor; repo has win32, macOS and Linux build artifacts"
+Universal Media Server,license,,Open source,GPL-2.0,,https://github.com/UniversalMediaServer/UniversalMediaServer,live,GitHub LICENSE.txt detection GPL-2.0; README license section states GPL
+Universal Media Server,platforms,,"Windows, macOS, Linux",,,https://github.com/UniversalMediaServer/UniversalMediaServer,live,"Official README: versions for Windows, Linux and macOS"
+Vesktop (Unofficial),license,,Open source,GPL-3.0,,https://github.com/Vencord/Vesktop,live,Elseware lists an unofficial variant; official Vencord/Vesktop project is GPL-3.0 per LICENSE-file detection; unofficial builds may differ
+Vesktop (Unofficial),platforms,,"Windows, macOS, Linux",,,https://vesktop.dev/install,live,"Official install page lists Windows, macOS, Linux; row reflects official Vesktop"
+Virtualjaguar,license,,Open source,GPL-3.0-or-later,,https://github.com/mirror/virtualjaguar,live,Upstream README: released under the GPL v3 or later; mirror of shamusworld upstream git
+Virtualjaguar,platforms,,"Windows, Linux, FreeBSD, macOS",,,https://github.com/mirror/virtualjaguar,live,"Upstream README: WIN32 via mingw; UN*X incl. Linux, FreeBSD, macOS"
+Vlmcsd,platforms,,"Linux, Android, FreeBSD, Solaris, Minix, macOS, iOS, Windows",,,https://github.com/Wind4/vlmcsd,live,"Per repo description; license row skipped: no LICENSE file, GitHub license detection NOASSERTION"
+Vonsh,license,,Open source,MIT,,https://github.com/aurb/vonsh,live,GitHub LICENSE-file detection MIT; README license list: all original files MIT
+Vonsh,platforms,,Linux,,,https://github.com/aurb/vonsh,live,SDL snake game for Linux; shipped in Debian and Ubuntu repos
+wagerr,license,,Open source,MIT,,https://github.com/wagerr/wagerr,live,Wagerr Core; GitHub LICENSE-file (COPYING) detection MIT; platforms row skipped (not verified from primary source)
+Wasmboy,license,,Open source,GPL-3.0,,https://github.com/torch2424/wasmboy,live,GitHub LICENSE-file detection GPL-3.0
+Wasmboy,platforms,,"Web (Chrome, Firefox, Safari), Node.js",,,https://github.com/torch2424/wasmboy,live,README Supported Platforms: major browsers plus Node
