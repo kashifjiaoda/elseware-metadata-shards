@@ -1,0 +1,63 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Inter Banking & Money Transfer,license,,Proprietary — freemium,Free app with in-app purchases,Android,https://play.google.com/store/apps/details?id=br.com.intermedium,live,Play Store listing (Banco Inter); price 0; In-App Purchases marker
+Inter Banking & Money Transfer,platforms,,Android,,,https://play.google.com/store/apps/details?id=br.com.intermedium,live,
+JMO (Jamsostek Mobile),license,,Proprietary — freemium,Free app with in-app purchases,Android|iOS,https://play.google.com/store/apps/details?id=com.bpjstku,live,Play Store listing by BPJS Ketenagakerjaan; price 0; In-App Purchases marker; iOS App Store id 1444834757 also lists In-App Purchases
+JMO (Jamsostek Mobile),platforms,,Android|iOS,,,https://play.google.com/store/apps/details?id=com.bpjstku,live,
+Merge Fashion: Romance Story,license,,Proprietary — freemium,Free with in-app purchases,iOS,https://apps.apple.com/us/app/merge-fashion-romance-story/id6737874398,live,App Store listing by Wind's Choice Tech Limited; In-App Purchases: Yes
+Merge Fashion: Romance Story,platforms,,iOS,,,https://apps.apple.com/us/app/merge-fashion-romance-story/id6737874398,live,
+Money View: Personal Loan App,license,,Proprietary — free,Free app no in-app purchases,iOS,https://apps.apple.com/in/app/moneyview-personal-loan-app/id6468976019,live,"App Store listing by MONEYVIEW LIMITED; Free; no IAP marker (App Store title case variant ""Moneyview: Personal Loan App"")"
+Money View: Personal Loan App,platforms,,iOS,,,https://apps.apple.com/in/app/moneyview-personal-loan-app/id6468976019,live,
+OneState RP: Role Play Online,license,,Proprietary — freemium,Free app with in-app purchases,Android,https://play.google.com/store/apps/details?id=com.Chillgaming.oneState,live,"Play Store listing by ChillGaming; price 0; In-app purchases marker (Play title variant ""OneState RP - Role Play Life"")"
+OneState RP: Role Play Online,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.Chillgaming.oneState,live,
+Pizza Ready,license,,Proprietary — freemium,Free with in-app purchases,iOS,https://apps.apple.com/in/app/pizza-ready/id6450917563,live,App Store listing by Supercent Inc.; Free; In-App Purchases marker
+Pizza Ready,platforms,,iOS,,,https://apps.apple.com/in/app/pizza-ready/id6450917563,live,
+Projeto Grau 2,license,,Proprietary — freemium,Free with in-app purchases,iOS,https://apps.apple.com/in/app/projeto-grau-2/id6816267506,live,App Store listing by Anderson Mateus de Lima; Free; In-App Purchases marker
+Projeto Grau 2,platforms,,iOS,,,https://apps.apple.com/in/app/projeto-grau-2/id6816267506,live,
+Upstox Stocks IPO Mutual Funds,license,,Proprietary — freemium,"Play Store listing in.upstox.app shows ""In-App Purchases"" marker",Android and iOS,https://play.google.com/store/apps/details?id=in.upstox.app,live,"iOS store title ""Upstox: Demat, Stock, MF, IPO"" (id 1584953620 by RKSV SECURITIES INDIA PRIVATE LIMITED, Free)"
+Upstox Stocks IPO Mutual Funds,platforms,,Android and iOS,,,https://apps.apple.com/app/id1584953620,live,Title variant noted in license row
+"YONO SBI: Banking, UPI & Pay",license,,Proprietary — free,"App Store id 1231393474 by State Bank of India, price $0.00; Play Store com.sbi.lotusintouch shows no in-app purchases",Android and iOS,https://play.google.com/store/apps/details?id=com.sbi.lotusintouch,live,Exact-title match on both stores
+"YONO SBI: Banking, UPI & Pay",platforms,,Android and iOS,,,https://apps.apple.com/app/id1231393474,live,
+Agilus Diagnostics: Blood Test,license,,Proprietary — freemium,"Play Store listing com.srllimited.srl shows ""In-App Purchases"" marker",Android and iOS,https://play.google.com/store/apps/details?id=com.srllimited.srl,live,"App Store exact-title match id 840710041 by Agilus Diagnostics Limited, Free"
+Agilus Diagnostics: Blood Test,platforms,,Android and iOS,,,https://apps.apple.com/app/id840710041,live,
+American Hospital Dubai,license,,Proprietary — free,"App Store id 6763379341 by AMERICAN HOSPITAL DUBAI LLC, price $0.00; Play Store com.ahdubai.app shows no in-app purchases",Android and iOS,https://apps.apple.com/app/id6763379341,live,Exact-title match on both stores
+American Hospital Dubai,platforms,,Android and iOS,,,https://play.google.com/store/apps/details?id=com.ahdubai.app,live,
+Asianparent: Pregnancy + Baby,license,,Proprietary — free,"App Store id 1042523855 by Tickled Media Pte Ltd, price $0.00; Play Store com.tickledmedia.ParentTown shows no in-app purchases",Android and iOS,https://apps.apple.com/app/id1042523855,live,"Play Store title 'Asianparent: Pregnancy & Baby' (variant, same product/developer); App Store exact-title match"
+Asianparent: Pregnancy + Baby,platforms,,Android and iOS,,,https://play.google.com/store/apps/details?id=com.tickledmedia.ParentTown,live,
+Santander Brasil,license,,Proprietary — free,"App Store id 613365711 by Banco Santander Brasil SA, price $0.00; Play Store com.santander.app exact-title match, no in-app purchases (contains ads)",Android and iOS,https://play.google.com/store/apps/details?id=com.santander.app,live,"App Store title ""Banco Santander Brasil"" (variant, same bank product)"
+Santander Brasil,platforms,,Android and iOS,,,https://apps.apple.com/app/id613365711,live,
+Biosom - Hearing and Tinnitus,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=br.com.biosom.app,live,Free download; in-app purchases listed
+Biosom - Hearing and Tinnitus,platforms,,Android,,,https://play.google.com/store/apps/details?id=br.com.biosom.app,live,
+Calorie Counter by fatsecret,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.fatsecret.android,live,Free download; in-app purchases listed
+Calorie Counter by fatsecret,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.fatsecret.android,live,iOS listing also exact-title match (App Store id 347184248)
+Clicou Consulta,license,,Proprietary — free,,,https://apps.apple.com/br/app/id6793290898,live,Free; no in-app purchases (TELEMENTS SAUDE DIGITAL LTDA)
+Clicou Consulta,platforms,,iOS,,,https://apps.apple.com/br/app/id6793290898,live,
+COROS,license,,Proprietary — free,,,https://apps.apple.com/us/app/id1277625343,live,Free; no in-app purchases (COROS Wearables Inc.)
+COROS,platforms,,iOS,,,https://apps.apple.com/us/app/id1277625343,live,No Play Store listing verifiable from whitelisted sources
+Daily Yoga For Beginners,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=com.dnt.yoga.yogaforbeginners,live,Free download; in-app purchases listed
+Daily Yoga For Beginners,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.dnt.yoga.yogaforbeginners,live,
+DoutorFácil | Consulta Online,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=app.doutorfacil.android,live,Free; no in-app purchases
+DoutorFácil | Consulta Online,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=app.doutorfacil.android,live,"iOS exact-title match (App Store BR, DOUTORFACIL TECNOLOGIA EM SAUDE LTDA)"
+Drogasil: Drogaria Online 24h,license,,Proprietary — free,free download; App Store price $0.00; no IAP/subscription keywords,"Android, iOS",https://play.google.com/store/apps/details?id=br.com.drogasil,live,Play Store exact title match br.com.drogasil price 0
+Drogasil: Drogaria Online 24h,platforms,,"Android, iOS",,,https://apps.apple.com/us/app/drogasil-drogaria-online-24h/id1328994276,live,App Store id 1328994276 by Raia Drogasil SA. Free; Play title variant matches same product
+Euromedica,license,,Proprietary — free,App Store price $0.00,iOS,https://apps.apple.com/us/app/euromedica/id6468893534,live,App Store exact title id 6468893534 by PT. INDIGO TEKNOLOGI INDONESIA
+Euromedica,platforms,,iOS,,,https://apps.apple.com/us/app/euromedica/id6468893534,live,no exact-name Android listing (com.euromed_app is a different Russian product)
+FDC Apps - Solusi Masalah Gigi,license,,Proprietary — free,App Store price $0.00; no IAP/subscription keywords in description,iOS,https://apps.apple.com/app/id1626636839,live,App Store exact title id 1626636839 by PT REJEKI BERKAH BERLIMPAH RUAH
+FDC Apps - Solusi Masalah Gigi,platforms,,iOS,,,https://apps.apple.com/app/id1626636839,live,Android Play Store package not verifiable from whitelisted sources
+FITPASS - Fitness & Wellness,license,,Proprietary — freemium,Play Store lists In-App Purchases marker,"Android, iOS",https://play.google.com/store/apps/details?id=com.india.fitpass,live,Play Store exact title match com.india.fitpass price 0
+FITPASS - Fitness & Wellness,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1049745078,live,App Store exact title by FITPASS BUSINESS VENTURES PRIVATE LIMITED; India product matches Play com.india.fitpass
+Gizi AI: Food Calorie Counter,license,,Proprietary — freemium,Play Store shows In-app purchases marker,"Android, iOS",https://play.google.com/store/apps/details?id=com.giziai.app,live,Play Store exact title match com.giziai.app price 0
+Gizi AI: Food Calorie Counter,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6791942999,live,App Store exact title by Nalar Intelligence Pte. Ltd. Free
+Goapotik,license,,Proprietary — freemium,Play Store lists In-App Purchases marker,"Android, iOS",https://play.google.com/store/apps/details?id=com.goapotik,live,Play Store exact title com.goapotik price 0
+Goapotik,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1298058789,live,App Store title variant GoApotik: #SolusiSehat by PT Karsa Inti Tuju Askara; same pharmacy product
+GymNation,license,,Proprietary — freemium,Play Store lists In-App Purchases marker,"Android, iOS",https://play.google.com/store/apps/details?id=com.gymnation.app,live,Play Store exact title match com.gymnation.app price 0
+GymNation,platforms,,"Android, iOS",,,https://apps.apple.com/app/id6759922886,live,App Store exact title GymNation by GymNation Free
+"Halodoc: Dokter, Obat & Lab",license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.linkdokter.halodoc.android,live,"Free; no In-app purchases badge on Play listing; App Store id 1067217981 (title variant ""Halodoc: Doctor & Medicine"")"
+"Halodoc: Dokter, Obat & Lab",platforms,,"Android, iOS",,,https://apps.apple.com/app/id1067217981,live,Play Store ID locale title matches catalog name exactly; iOS by MEDIA DOKTER INVESTAMA PT
+Health Connect,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata,live,Free; no In-app purchases badge; Google app
+Health Connect,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata,live,No iOS version (Google Health Connect is Android-only)
+JustFit: Lazy Workout,license,,Proprietary — freemium,,,https://play.google.com/store/apps/details?id=fitness.home.workout.weight.loss,live,"Free download; Play Store shows ""In-app purchases"" badge; iOS id 1574460221 by ENERJOY PTE. LTD."
+JustFit: Lazy Workout,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1574460221,live,"iOS title ""JustFit: Lazy Workout & Fit""; Play title ""JustFit - Lazy Workout"" (punctuation variant)"
+Lola: Relaxing Lofi Music App,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.umusic.lola,live,"Free; no In-app purchases badge on Play; Universal Music app (iOS ""Lola: Stream Lofi Music"" id 1596929185 by Universal International Music BV)"
+Lola: Relaxing Lofi Music App,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1596929185,live,iOS seller Universal International Music BV matches Play package com.umusic.lola
+Medcloud,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=co.medcloud.android,live,Free; no In-app purchases badge; exact title match; iOS id 1486223140
+Medcloud,platforms,,"Android, iOS",,,https://apps.apple.com/app/id1486223140,live,iOS by Medcloud Tecnologia Medica SA; exact title match both stores
