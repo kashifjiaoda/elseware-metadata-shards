@@ -27,7 +27,7 @@ This repo is task-driven. New work appears here and in your shard folder — now
 | Phase | Status | Your action |
 |---|---|---|
 | Phase 1 — Tier-4 verification (5,144 apps, `shards/shard-N/`) | ACTIVE | Work your `apps.md` in order, batch by batch. |
-| Phase 2 — Expansion verification (15,323 apps, `expansion/shard-N/`) | ACTIVE | Start your `expansion/shard-N/apps.md` as soon as you push `DONE-phase1.txt`. Do not interleave the two phases. |
+| Phase 2 — Expansion verification (15,323 apps, `expansion/shard-N/`) | ACTIVE | Start NOW — both phases may run in parallel (separate folders, separate batch numbering, no collisions). |
 
 **How to complete a task:** work your app list in order → verify per the playbook
 below → write the batch CSV → push → the team lead audits and merges. When you push
@@ -233,9 +233,11 @@ Commit history is the attendance log.
 
 ## Phase 2 — Expansion (15,323 apps) — ACTIVE
 
-**Status: ACTIVE — owner approved 2026-10-11.** Start your expansion list as soon as
-you push `DONE-phase1.txt` for Phase 1. Do not interleave the two phases — finish
-Phase 1 first, then switch.
+**Status: ACTIVE — owner approved 2026-10-11, START NOW.** Both phases may run in
+parallel: `shards/shard-N/` (Phase 1) and `expansion/shard-N/` (Phase 2) are fully
+separate — separate folders, separate batch numbering, no collisions. Push Phase-2
+batches as you verify them; when you finish a phase's list, push `DONE-phaseN.txt`
+in that phase's folder.
 
 When ACTIVE, the rules:
 
