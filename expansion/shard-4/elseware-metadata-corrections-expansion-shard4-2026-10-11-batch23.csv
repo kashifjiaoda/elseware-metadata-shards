@@ -1,0 +1,74 @@
+McDonald's,license,,Proprietary — free,,,https://play.google.com/store/apps/details/McDonald%27s?id=com.mcdonalds.app&hl=en_AU,live,Google Play listing: '#2 top free food & drink'; free download
+McDonald's,platforms,,Android,,,https://play.google.com/store/apps/details/McDonald%27s?id=com.mcdonalds.app&hl=en_AU,live,Google Play listing (Android)
+miracle-wm,license,,Open source,GPL-3.0,,https://github.com/miracle-wm-org/miracle-wm,live,GitHub license detection: GNU General Public License v3.0 (GPL-3.0); AUR packages as GPL-3.0-only
+miracle-wm,platforms,,Linux,,,https://github.com/miracle-wm-org/miracle-wm,live,Linux Wayland compositor; repo ships snap/ and debian/ packaging
+Muzei,license,,Open source,Apache-2.0,,https://github.com/muzei/muzei,live,GitHub license detection: Apache License 2.0 (Apache-2.0)
+Muzei,platforms,,Android,,,https://github.com/muzei/muzei,live,README: 'Muzei Live Wallpaper for Android'
+myCat,platforms,,"Windows, macOS, Linux",,,https://github.com/yumiaura/myCat,live,"README: runs on Windows, macOS and Linux; prebuilt .exe/.app/.deb/AppImage/snap plus pip"
+NCarousel,license,,Open source,MIT,,https://github.com/radogado/n-carousel,live,GitHub license detection: MIT License (MIT)
+NCarousel,platforms,,Web,,,https://github.com/radogado/n-carousel,live,"npm/CDN web component; browser support Chrome 114+, Firefox 109+, Safari 16.4+"
+NEW YORKER - Mode & Lifestyle,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=de.pilot.newyorker.android&hl=en,live,"Google Play listing (title 'NEW YORKER - Fashion & Style'); free-download official retailer app, no paid price shown"
+NEW YORKER - Mode & Lifestyle,platforms,,Android,,,https://play.google.com/store/apps/details?id=de.pilot.newyorker.android&hl=en,live,Google Play listing (Android)
+Norish,license,,Open source,AGPL-3.0,,https://github.com/norish-recipes/norish,live,GitHub license detection: GNU Affero General Public License v3.0 (AGPL-3.0); README confirms AGPL-3.0
+Norish,platforms,,Web (self-hosted),,,https://github.com/norish-recipes/norish,live,Self-hosted web app; README quick start via Docker Compose
+Numix Square Icons,license,,Open source,GPL-3.0-or-later,,https://github.com/numixproject/numix-icon-theme-square/blob/HEAD/README.md,live,README: 'Licensed under the GPL-3.0+'
+Numix Square Icons,platforms,,Linux,,,https://github.com/numixproject/numix-icon-theme-square/blob/HEAD/README.md,live,"Icon theme for Linux; distro packages for Debian, Fedora, Ubuntu"
+Open Eats,license,,Open source,MIT,,https://github.com/orgs/open-eats/repositories,live,open-eats org: 'Self Hosted Recipe Management App' repo shows MIT License
+PhotoPhase,license,,Open source,Apache-2.0,,https://github.com/jruesga/PhotoPhase,live,README: 'released under the terms of Apache 2.0 license'; Apache 2.0 badge
+PhotoPhase,platforms,,Android,,,https://github.com/jruesga/PhotoPhase,live,'Get it on Google Play' badge (com.ruesga.android.wallpapers.photophase)
+Prayer mode,license,,Open source,GPL-3.0-only,,https://github.com/prayermode/prayermode,live,Repo license detection: GNU General Public License v3.0 (GPL-3.0); README confirms; no 'or later' grant
+Prayer mode,platforms,,Android,,,https://github.com/prayermode/prayermode,live,"README: 'free, open-source, and privacy-focused Android app'"
+Qogir Themes for Snaps,license,,Open source,GPL-3.0-only,,https://github.com/vinceliuice/Qogir-theme,live,Snap packaged from vinceliuice Qogir-theme + Qogir-icon-theme repos (snapcraft attribution); upstream repo license detection: GNU General Public License v3.0 (GPL-3.0); no 'or later' grant
+Qogir Themes for Snaps,platforms,,Linux,,,https://snapcraft.io/qogir-themes,live,"Snap package (install pages for Kubuntu, Raspbian, Manjaro, elementary OS)"
+Relogio,license,,Open source,GPL-3.0-only,,https://snapcraft.io/install/relogio/debian,live,Snap Store license field: GPL-3.0-only; upstream repo eierick/relogio-desktop GPL-3.0 badge
+Relogio,platforms,,Linux,,,https://snapcraft.io/install/relogio/debian,live,Snap runs on all popular Linux distributions
+Sitemarker,license,,Open source,Apache-2.0,,https://github.com/aerocyber/sitemarker,live,"Repo license detection: Apache License 2.0; README: 'entire project, from version 3.0.0 licensed under Apache 2.0'"
+Sitemarker,platforms,,"Android, Linux, Windows",,,https://github.com/aerocyber/sitemarker,live,"Repo topics: android, linux, windows; Flathub + Snap Store distribution"
+Tandoor,license,,Source-available,GNU AGPL v3 with Commons Clause selling exception,,https://github.com/TandoorRecipes/recipes,live,Official README: 'licensed under the GNU AGPL v3 license with a common clause selling exception' (since v0.10.0)
+Tandoor,platforms,,Web,,,https://github.com/TandoorRecipes/recipes,live,Self-hosted web app (Docker/Kubernetes/Unraid/Synology); hosted demo at app.tandoor.dev
+ubuntu-budgie-welcome,license,,Open source,GPL-2.0-or-later,,https://github.com/UbuntuBudgie/budgie-welcome,live,Upstream debian/copyright: Files: * -> GPL-2+; Snap Store lists CC-BY-SA-3.0 OR CC-BY-SA-4.0 OR GPL-2.0+ OR GPL-3.0+
+ubuntu-budgie-welcome,platforms,,Linux,,,https://snapcraft.io/install/ubuntu-budgie-welcome/fedora,live,Snap runs on all popular Linux distributions
+Volim Te App,license,,Open source,GPL-3.0-only,,https://github.com/muxbh28/volim-te-app,live,"Repo license detection: GNU General Public License v3.0 (GPL-3.0), LICENSE.txt present; no 'or later' grant"
+Volim Te App,platforms,,Linux,,,https://snapcraft.io/volim-te-app,live,Snap Store package
+wallpaperdownloader,license,,Open source,MIT,,https://github.com/Jake10131/WallpaperDownloader,live,"Top exact-name GitHub match (7 stars); raw LICENSE self-audited: MIT License, Copyright (c) 2021 Jake10131"
+Windows Auto Night Mode,license,,Open source,GPL-3.0,,https://github.com/AutoDarkMode/Windows-Auto-Night-Mode,live,Raw LICENSE self-audited: GNU General Public License v3 (29 June 2007); GitHub license detection GPL-3.0
+Windows Auto Night Mode,platforms,,Windows,,,https://github.com/AutoDarkMode/Windows-Auto-Night-Mode,live,Repo description: switches dark/light theme of Windows 10 and Windows 11; topics windows/windows-10/windows-11
+はま寿司,license,,Proprietary — free,"Free app; seller HAMAZUSHI CO., LTD.",,https://apps.apple.com/jp/app/%E3%81%AF%E3%81%BE%E5%AF%BF%E5%8F%B8/id1523009390?uo=4,live,"App Store JP listing: price 無料, seller HAMAZUSHI CO., LTD."
+はま寿司,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.hamazushi.hamanavi&hl=ja,live,"Android: Play listing はま寿司, package matches iOS bundleId com.hamazushi.hamanavi; iOS: App Store id 1523009390"
+スシロー,license,,Proprietary — free,"Free app; seller AKINDO SUSHIRO CO.,LTD.",,https://apps.apple.com/jp/app/%E3%82%B9%E3%82%B7%E3%83%AD%E3%83%BC/id551682016?uo=4,live,"App Store JP listing: price 無料, seller AKINDO SUSHIRO CO.,LTD."
+ホットペッパーグルメ,license,,Proprietary — free,"Free app; seller Recruit Co.,Ltd.",,https://apps.apple.com/jp/app/%E3%83%9B%E3%83%83%E3%83%88%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%A1/id290033990?uo=4,live,"App Store JP listing: price 無料, seller Recruit Co.,Ltd."
+ホットペッパーグルメ,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=jp.co.recruit.mtl.android.hotpepper&hl=ja,live,Android: Play listing 飲食店予約ホットペッパーグルメ by Recruit; iOS: App Store id 290033990
+郵便局公式アプリ - 荷物の配送状況の確認や再配達が簡単に,license,,Proprietary — free,"Free app; seller Japan Post Co., Ltd.",,https://apps.apple.com/jp/app/%E9%83%B5%E4%BE%BF%E5%B1%80%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA-%E8%8D%B7%E7%89%A9%E3%81%AE%E9%85%8D%E9%80%81%E7%8A%B6%E6%B3%81%E3%81%AE%E7%A2%BA%E8%AA%8D%E3%82%84%E5%86%8D%E9%85%8D%E9%81%94%E3%81%8C%E7%B0%A1%E5%8D%98%E3%81%AB/id6450435935?uo=4,live,"App Store JP listing: price 無料, seller Japan Post Co., Ltd."
+郵便局公式アプリ - 荷物の配送状況の確認や再配達が簡単に,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=jp.jppost.pfapp&hl=ja,live,"Android: Play listing title matches, package matches iOS bundleId jp.jppost.pfapp; iOS: App Store id 6450435935"
+땡겨요,license,,Proprietary — free,Free app; seller SHINHAN BANK CO. LTD,,https://apps.apple.com/kr/app/%EB%95%A1%EA%B2%A8%EC%9A%94/id1598850912?uo=4,live,"App Store KR listing: price 무료, seller SHINHAN BANK CO. LTD"
+땡겨요,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.shinhan.o2o&hl=ko,live,"Android: Play listing 땡겨요, package matches iOS bundleId com.shinhan.o2o; iOS: App Store id 1598850912"
+서울자전거 따릉이,license,,Proprietary — free,Free app; seller Seoul Metropolitan Government,,https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EC%9E%90%EC%A0%84%EA%B1%B0-%EB%94%B0%EB%A6%89%EC%9D%B4/id1037272004?uo=4,live,"App Store KR listing: price 무료, seller Seoul Metropolitan Government"
+서울자전거 따릉이,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.dki.spb_android&hl=ko,live,Android: Play listing 서울자전거 따릉이; iOS: App Store id 1037272004
+캐치테이블,license,,Proprietary — free,Free app; seller WAD corp,,https://apps.apple.com/kr/app/%EC%BA%90%EC%B9%98%ED%85%8C%EC%9D%B4%EB%B8%94/id1485193566?uo=4,live,"App Store KR listing: price 무료, seller WAD corp"
+캐치테이블,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=co.kr.catchtable.android.catchtable_app&hl=ko,live,Android: Play listing 캐치테이블; iOS: App Store id 1485193566
+테이블링,license,,Proprietary — free,Free app; seller Tabling.inc,,https://apps.apple.com/kr/app/%ED%85%8C%EC%9D%B4%EB%B8%94%EB%A7%81/id1388891287?uo=4,live,"App Store KR listing: price 무료, seller Tabling.inc"
+테이블링,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.mealant.tabling&hl=ko,live,"Android: Play listing 테이블링, package matches iOS bundleId com.mealant.tabling; iOS: App Store id 1388891287"
+피카플레이,license,,Proprietary — free,,,https://play.google.com/store/apps/details?id=com.mediaweb.picaplay,live,"Play listing (com.mediaweb.picaplay, by 미디어웹); no price label on Play listing; free download"
+AddToAny,license,,Proprietary — free,,,https://br.wordpress.org/plugins/add-to-any/,live,"Vendor's official plugin listing: 'AddToAny is free — no signup, no login, no accounts to manage'; no paid tier"
+AddToAny,platforms,,Web,,,https://br.wordpress.org/plugins/add-to-any/,live,Share buttons embedded on websites via JS snippet; WordPress and Drupal integrations
+AltTextLab,license,,Proprietary — freemium,,,https://wordpress.org/plugins/alttextlab/,live,"Official plugin listing: permanent free plan (25 credits/mo, no card required); paid plans from $5/month"
+AltTextLab,platforms,,Web,,,https://wordpress.org/plugins/alttextlab/,live,Cloud web service (plugin sends images to AltTextLab processing server); Chrome extension and API
+Bitly,license,,Proprietary — freemium,,,https://bitly.com/blog/bitly-vs-tinyurl/,live,Official bitly.com: Free plan $0/month plus paid Core/Growth/Premium/Enterprise tiers
+CHEQ Essentials,license,,Proprietary — paid subscription,,,https://wordpress.org/plugins/cheq-essentials-go-to-market-security/,live,Official plugin listing: 7-day free trial; CHEQ Essentials subscription signup required at essentials.cheq.ai
+CHEQ Essentials,platforms,,Web,,,https://wordpress.org/plugins/cheq-essentials-go-to-market-security/,live,Web-based invalid-traffic protection service (essentials.cheq.ai) with WordPress plugin
+CognitiveSEO,license,,Proprietary — paid subscription,,,https://cognitiveseo.com/pricing.php,live,"Official pricing page: Starter $129.99/mo, Premium, Elite tiers; 7-day free trial; no free plan"
+CognitiveSEO,platforms,,Web,,,https://cognitiveseo.com/pricing.php,live,Web-based SEO toolkit dashboard
+DashThis,license,,Proprietary — paid subscription,,,http://dashthis.com/pricing/,live,"Official pricing page: Individual $44/mo, Professional $139/mo, Business $279/mo, Standard $429/mo; 14-day free trial"
+DashThis,platforms,,Web,,,http://dashthis.com/pricing/,live,Web-based marketing reporting software
+DiagnoSEO,license,,Proprietary — paid subscription,,,https://diagnoseo.com/blog/affordable-seo-tools/,live,Official site: AI-powered SEO and content marketing toolkit starting at $7/month
+DiagnoSEO,platforms,,Web,,,https://app.diagnoseo.com/tools/,live,Web app dashboard (app.diagnoseo.com)
+eClincher,license,,Proprietary — paid subscription,"Paid plans: $149/mo Standard, $349/mo Professional, custom Enterprise; 14-day free trial, no free tier",,https://eclincher.com/pricing,live,"Official pricing page; subscription-only, trial not a free plan"
+Flourish,license,,Proprietary — freemium,"Free plan + premium plans (Presenter/Publisher/Enterprise unlock branded visuals, API, exports)",,https://flourish.studio/product/data-visualization/,live,Official FAQ: free plan exists; premium unlocks branding/API/exports
+GetGenie,license,,Proprietary — freemium,"Free $0 plan (2,500 AI words/mo) + paid subscriptions: Starter, Writer, Pro, Agency Unlimited",,https://github.com/mcrjaa913/getgenie,live,Plan table links to official getgenie.ai; corroborated by multiple 2026 reviews
+Google Keyword Planner,license,,Proprietary — free,"Free tool inside Google Ads; requires Google Ads account, no ad spend or campaign needed",,https://ads.google.com,live,Google's own keyword tool; free with Google Ads account per official setup flow
+Independent Analytics,license,,Open source,"WordPress.org plugin — GPL heritage; free plugin ships full reports, optional proprietary Pro tier",,https://wordpress.org/plugins/independent-analytics/,live,Free plugin from official WordPress.org directory; Pro tier proprietary per vendor
+iZooto,license,,Proprietary — freemium,Monetize plan free for life (unlimited subscribers); Rise $85/mo; Grow $250/mo,,https://izooto.com/blog/best-push-notification-providers-for-publishers-in-2026,live,Official izooto.com blog pricing listing; some third-party reviews claim no free plan — official site takes precedence
+Kit,license,,Proprietary — freemium,"Free Newsletter plan (up to 10,000 subscribers); Creator and Creator Pro paid plans",,https://help.kit.com/en/articles/9053602-the-kit-newsletter-plan?utm_medi,live,"Official Kit help center: Newsletter plan free for up to 10,000 subscribers"
+Koko Analytics,license,,Open source,GPL — wordpress.org plugin page states 'open source analytics released under the GPL license',,http://wordpress.org/plugins/koko-analytics/,live,"Self-audit: wordpress.org plugin directory, GPL stated on official listing"
+Koko Analytics,platforms,,WordPress,,,http://wordpress.org/plugins/koko-analytics/,live,WordPress plugin — dashboard inside wp-admin
+LiveSession,license,,Proprietary — freemium,"Free $0 plan (1,000 sessions/mo); Basic from $65/mo; Pro from $99/mo; Enterprise custom",,https://livesession.io/blog/mixpanel-pricing-breakdown-compare-pricing-better-alternative,live,Official livesession.io plan listing
