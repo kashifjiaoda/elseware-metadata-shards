@@ -1,0 +1,781 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+2009scape,license,,Open source,AGPL-3.0,,https://2009scape.org/,live,Official site states project is open source under the AGPL
+2009scape,platforms,,"Windows, Linux",,,https://github.com/2009scape,live,Official org ships Singleplayer-Edition-Windows and Singleplayer-Edition-Linux
+2048 C,license,,Open source,MIT License,,https://github.com/mevdschee/2048.c,live,Raw LICENSE is MIT text
+2048 C,platforms,,Linux,,,https://github.com/mevdschee/2048.c,live,Console version of 2048 for GNU/Linux per repo description
+7kaa,license,,Open source,GPL-2.0,,https://github.com/the3dfxdude/7kaa,live,Raw COPYING states source code and game data under GPL version 2
+Adblockradio,license,,Open source,MPL-2.0,,https://github.com/adblockradio/adblockradio,live,Raw LICENSE is Mozilla Public License 2.0 text
+AdwSteamGtk,license,,Open source,GPL-3.0,,https://github.com/Foldex/AdwSteamGtk,live,Raw LICENSE is GNU GPL v3 text
+AdwSteamGtk,platforms,,Linux,,,https://github.com/Foldex/AdwSteamGtk,live,GTK wrapper installing Adwaita-for-Steam skin; AUR package
+Aerion,license,,Open source,Apache-2.0,,https://github.com/hkdb/aerion,live,Raw LICENSE is Apache License 2.0 text
+Aerion,platforms,,"Windows, macOS, Linux",,,https://github.com/hkdb/aerion,live,README: Linux first-class citizen; also works on macOS and Windows
+Ahorcado,license,,Open source,GNU General Public License v3.0 only,Android,https://f-droid.org/en/packages/com.ahorcado/,live,F-Droid package com.ahorcado; license page lists GPL-3.0-only
+Ahorcado,platforms,,Android,,,https://f-droid.org/en/packages/com.ahorcado/,live,F-Droid lists Android apps only
+Aisleriot Solitaire,license,,Open source,GNU General Public License v3.0 or later,Linux,https://flathub.org/apps/org.gnome.Aisleriot,live,Flathub appstream project_license GPL-3.0+; GNOME solitaire suite
+Aisleriot Solitaire,platforms,,Linux,,,https://flathub.org/apps/org.gnome.Aisleriot,live,Flathub Linux builds (x86_64/aarch64)
+Akonadi Import Wizard,platforms,,Linux,,,https://apps.kde.org/akonadi_import_wizard/,live,KDE PIM import tool; repo uses REUSE multi-licensing with no canonical single project license — license row omitted per accuracy directive
+AirheadWaves,license,,Open source,MIT License,Android,https://github.com/stephenmkbrady/AirheadWaves,live,GitHub API SPDX MIT; README describes Android audio streaming app
+AirheadWaves,platforms,,Android,,,https://github.com/stephenmkbrady/AirheadWaves,live,README title: AirheadWaves - Android Audio Streamer
+Al Quran (Tafsir & By Word),license,,Proprietary — free,,Android,https://play.google.com/store/apps/details?id=com.greentech.quran&hl=en,live,Play listing price 0 with no In-app purchases or Contains ads markers; developer Greentech Apps Foundation
+Al Quran (Tafsir & By Word),platforms,,Android,,,https://play.google.com/store/apps/details?id=com.greentech.quran&hl=en,live,exact title match Al Quran (Tafsir & by Word) on Play Store
+Aliens Eradication TC,license,,Source-available,CC-BY-NC-4.0,Linux,https://flathub.org/apps/io.github.mbugni.AliensEradicationTC,live,Flathub appstream declares project_license CC-BY-NC-4.0; NonCommercial clause → Source-available per playbook
+Aliens Eradication TC,platforms,,Linux,,,https://flathub.org/apps/io.github.mbugni.AliensEradicationTC,live,Flathub flatpak of the GZDoom total conversion
+AlphaSense,license,,Proprietary — paid subscription,,iOS,https://itunes.apple.com/lookup?id=1177914297,live,iOS app is a free companion; official pricing page lists Enterprise/Professional tiers — service requires paid subscription
+AlphaSense,platforms,,iOS,,,https://itunes.apple.com/lookup?id=1177914297,live,iTunes exact match AlphaSense by AlphaSense Inc.; Android package com.alphasense exists but title unconfirmed — kept iOS-only per accuracy directive
+Amazon Kindle: Reading App,license,,Proprietary — freemium,,"Android, iOS",https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en,live,Play listing shows In-app purchases and Contains ads markers; iTunes id 302584613 exact catalog-name match by AMZN Mobile LLC (Free)
+Amazon Kindle: Reading App,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en,live,Play com.amazon.kindle + App Store Amazon Kindle: Reading App
+Amazon Q Developer CLI,license,,Open source,Dual licensed: MIT License AND Apache License 2.0,"Linux, macOS",https://github.com/aws/amazon-q-developer-cli,live,README states dual licensed under MIT and Apache 2.0 (LICENSE.MIT + LICENSE.APACHE in repo)
+Amazon Q Developer CLI,platforms,,"Linux, macOS",,,https://github.com/aws/amazon-q-developer-cli,live,README install docs cover Linux and macOS only; no Windows mention
+Amiberry,license,,Open source,GPL-3.0,"Windows, macOS, Linux, Android",https://github.com/BlitterStudio/amiberry,live,raw LICENSE is GNU GPL v3 text; README states licensed under GNU General Public License v3.0
+Amiberry,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/BlitterStudio/amiberry,live,"README: Optimized Amiga emulator for Linux, macOS, Windows, Android, FreeBSD, and Haiku"
+Anarch RE,license,,Open source,CC0-1.0,Android,http://f-droid.org/packages/dev.serwin.AnarchRE/,live,F-Droid lists License: Creative Commons Zero v1.0 Universal; SDL3 port of public-domain Anarch by Marcin Serwin
+Anarch RE,platforms,,Android,,,http://f-droid.org/packages/dev.serwin.AnarchRE/,live,F-Droid lists Android apps only
+Antimicro,license,,Open source,GPL-3.0,"Windows, Linux",https://github.com/jaanek/antimicro,live,README License section: licensed under the GPL v.3; original gamepad-to-keyboard mapper
+Antimicro,platforms,,"Windows, Linux",,,https://github.com/jaanek/antimicro,live,README: supported under various Linux distributions and Windows Vista and later
+Anyme X,license,,Open source,MIT License,"Android, iOS, Windows, Linux, macOS",https://github.com/ifritraen/anymex,live,raw LICENSE.md is MIT License text (Copyright (c) 2024 Ryan _); GitHub API agrees; catalog name is spaced variant of AnymeX
+Anyme X,platforms,,"Android, iOS, Windows, Linux, macOS",,,https://github.com/ifritraen/anymex,live,README platforms badge: android_ios_windows_linux_macos; anime/manga multiservice tracking client
+App Yumcut Com,platforms,,Web,,,https://app.yumcut.com/,live,"yumcut.com is 'Instant Viral Faceless Shorts Builder'; app subdomain returns 200; pricing unverifiable from static fetch so no license row"
+Asset Cooker,license,,"Open source","Mozilla Public License 2.0",Windows,https://github.com/jlaumon/AssetCooker,live,"raw LICENSE is MPL-2.0 text; catalog name is spaced variant of AssetCooker"
+Asset Cooker,platforms,,Windows,,,https://github.com/jlaumon/AssetCooker,live,"README: 'It uses Windows' USN journals'; 'Single exe, no dependencies'"
+AstroGods,license,,"Open source","GNU Affero General Public License 3.0 or later","Android, Linux, Windows, Web",https://github.com/arcangelo7/astrogods-app,live,"README SPDX header AGPL-3.0-or-later; GitHub API agrees"
+AstroGods,platforms,,"Android, Linux, Windows, Web",,,https://github.com/arcangelo7/astrogods-app,live,"README badges: Google Play, Flathub, Snap, Microsoft Store, PWA"
+Atlantik,license,,"Open source","GNU General Public License 2.0",Linux,https://github.com/KDE/atlantik,live,"raw COPYING is GPL v2 text; KDE Monopoly-like board game client"
+Atlantik,platforms,,Linux,,,https://github.com/KDE/atlantik,live,KDE client for playing Monopoly-like games on the monopd network
+Attack Vector Alpha,platforms,,Linux,,,https://codeberg.org/jaerrib/attack-vector-alpha,live,Flathub packaging page.codeberg.jaerrib.attack-vector-alpha exists; no LICENSE file in repo so no license row
+AudioMeter,license,,"Open source","GNU General Public License 3.0",Android,https://github.com/quaap/AudioMeter,live,"raw LICENSE is GPL v3 text"
+AudioMeter,platforms,,Android,,,https://github.com/quaap/AudioMeter,live,repo description: 'A simple VU-style audiometer for Android'
+Australia Post,license,,Proprietary — free,Closed-source official app; App Store lists Free price,"Android, iOS",https://itunes.apple.com/lookup?id=380897313,live,App Store id 380897313 by Australia Post — Free
+Australia Post,platforms,,"Android, iOS",,,https://newsroom.auspost.com.au/uploads/News/2025/20251112-scams/2025_11_12_Media_Release_-_Don_t_let_scammers_steal_your_Christmas_cheer_this_year.pdf,live,official AusPost newsroom: download the AusPost app from the Apple Store or Google Play
+Azerothcore Wotlk,license,,Open source,GNU General Public License v2.0 (raw LICENSE text),,https://github.com/azerothcore/azerothcore-wotlk,live,catalog name is spaced variant of repo azerothcore-wotlk; WoW WotLK game server — license-only row
+Azure Search Openai Demo Csharp,license,,Open source,MIT License (raw LICENSE; Copyright Microsoft Corporation),,https://github.com/Azure-Samples/azure-search-openai-demo-csharp,live,sample RAG web app; catalog name is spaced variant of repo — license-only row
+BOINC,license,,Open source,GNU Lesser General Public License v3.0 or later (raw COPYING.LESSER),"Windows, macOS, Linux, Android",https://github.com/BOINC/boinc,live,volunteer computing platform
+BOINC,platforms,,"Windows, macOS, Linux, Android",,,https://boinc.berkeley.edu/download.php,live,official download page lists Windows/macOS/Linux/Android builds
+BTC Markets,license,,Proprietary — free,Closed-source; official app free to download,"Android, iOS",https://www.btcmarkets.net/mobile-app,live,Australian crypto exchange app
+BTC Markets,platforms,,"Android, iOS",,,http://support.btcmarkets.net/hc/en-us/articles/11940211889679-Who-can-use-the-mobile-app,live,official support: Australian App Store for iOS devices; Google Play Store for Android devices
+Babybuddy,license,,Open source,BSD 2-Clause License (raw LICENSE),"Web, Android",https://github.com/babybuddy/babybuddy,live,catalog name matches repo babybuddy exactly (2.9k stars)
+Babybuddy,platforms,,"Web, Android",,,https://github.com/babybuddy/babybuddy-for-android,live,Django webapp (demo.baby-buddy.net) plus official Android client repo
+Bambam,license,,Open source,GNU General Public License v3.0 (raw COPYING),Linux,https://github.com/porridge/bambam,live,baby keyboard-masher app
+Bambam,platforms,,Linux,,,https://github.com/porridge/bambam,live,README installation: sudo apt install bambam (Linux)
+Basic Numerical Methods,license,,Open source,GNU General Public License v3.0 (raw LICENSE),Android,https://github.com/hafmed/basic_numerical_methods,live,catalog name matches Play Store title
+Basic Numerical Methods,platforms,,Android,,,https://github.com/hafmed/basic_numerical_methods,live,repo README links Android Play Store package org.hafsoftdz.basic_numerical_methods
+Battle for Wesnoth,license,,Open source,GNU General Public License v2.0 (raw COPYING),"Windows, macOS, Linux, Android, iOS",https://github.com/wesnoth/wesnoth,live,
+Battle for Wesnoth,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://www.wesnoth.org/,live,official site lists Windows/Mac/Linux/Android/iOS downloads
+Beatoven.ai,license,,Proprietary — paid subscription,"Creator $6/mo, Visionary $10/mo per official site; no free tier found",,https://www.beatoven.ai/,live,paid plans in homepage JSON-LD offers; /pricing page returns Not Found
+Beatoven.ai,platforms,,Web,,,https://www.beatoven.ai/,live,web app
+Beneath A Steel Sky,license,,Proprietary — paid,$2.99 on App Store,,https://apps.apple.com/us/app/beneath-a-steel-sky/id331733638?uo=4,live,exact-name iOS match by Revolution Software Limited; no official Android port found (Play search surfaces only ScummVM)
+Beneath A Steel Sky,platforms,,iOS,,,https://apps.apple.com/us/app/beneath-a-steel-sky/id331733638?uo=4,live,
+Bible Chat: Daily Devotional,license,,Proprietary — free,,,https://apps.apple.com/us/app/bible-chat-daily-devotional/id6448849666?uo=4,live,"exact title by Book Vitals Inc., price $0.00, no IAP indicators in lookup"
+Bible Chat: Daily Devotional,platforms,,iOS,,,https://apps.apple.com/us/app/bible-chat-daily-devotional/id6448849666?uo=4,live,
+BigPEmu,license,,Proprietary — free,desktop free via Steam; App Store version $9.99 paid,,https://store.steampowered.com/app/3395370,live,closed-source; Steam lists Free To Play; iOS https://apps.apple.com/us/app/bigpemu/id6737359949 ($9.99 by Rich Whitehouse)
+BigPEmu,platforms,,"Windows, Linux, iOS",,,https://store.steampowered.com/app/3395370,live,Windows + SteamOS/Linux per Steam system requirements; iOS via App Store id6737359949
+Biplanes Revival,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/regular-dev/biplanes-revival/master/COPYING.txt,live,COPYING.txt is GPL v3 text (self-audit); catalog name is spaced variant of biplanes-revival
+Biplanes Revival,platforms,,"Windows, macOS, Linux",,,https://github.com/regular-dev/biplanes-revival,live,README documents Windows/macOS/Linux builds
+BilligSweeper,license,,Open source,GPL-3.0,,https://raw.githubusercontent.com/realchonk/billig-sweeper/master/LICENSE,live,LICENSE is GPL v3 text (self-audit); repo moved riscygeek to realchonk; packaged on Flathub as xyz.stuerz.BilligSweeper
+BilligSweeper,platforms,,Linux,,,https://github.com/flathub/xyz.stuerz.BilligSweeper,live,Flathub manifest builds from realchonk/billig-sweeper
+Bisheng,license,,Open source,MIT License,Windows,https://raw.githubusercontent.com/hillsburg/bisheng/main/LICENSE,live,raw LICENSE is MIT License text (Copyright (c) 2026 BiSheng contributors)
+Bisheng,platforms,,Windows,,,https://github.com/hillsburg/bisheng,live,README: Windows desktop note-taking app (.NET 8.0)
+Bitsgap,license,,Proprietary — freemium,"Free $0 plan; Basic $23/mo; Advanced $55/mo; Pro $119/mo","Web, Android, iOS",https://bitsgap.com/pricing,live,official pricing page: free plan plus recurring paid plans
+Bitsgap,platforms,,"Web, Android, iOS",,,https://bitsgap.com/,live,web trading platform; official site advertises mobile app for iOS and Android
+Black Dex,license,,Open source,Apache License 2.0,Android,https://github.com/CodingGay/BlackDex,live,LICENSE file is Apache License Version 2.0 text
+Black Dex,platforms,,Android,,,https://github.com/CodingGay/BlackDex,live,Android APK unpacking tool (Xposed/root)
+Blastem,license,,Open source,GPL-3.0,"Windows, Linux, macOS",https://github.com/libretro/blastem,live,COPYING is GNU GPL Version 3 text
+Blastem,platforms,,"Windows, Linux, macOS",,,https://github.com/libretro/blastem,live,README build instructions cover Windows Linux and OSX
+Bloboats,license,,Open source,GPL-2.0,"Linux, Windows",https://github.com/ptitseb/bloboats,live,README: licensed under GNU GPL 2 except some data files
+Bloboats,platforms,,"Linux, Windows",,,https://github.com/ptitseb/bloboats,live,README install sections: Unix-like systems and Windows
+BlockOut II,license,,Open source,GPL-2.0-or-later,"Windows, Linux",https://raw.githubusercontent.com/lle0x/blockout2025/main/README.md,live,README license section: GPL version 2 or any later version
+BlockOut II,platforms,,"Windows, Linux",,,http://www.blockout.net/blockout2/,live,official site: available for both Windows and Linux
+Blockchain.com Explorer,license,,Proprietary — free,,Web,https://www.blockchain.com/explorer,live,free web blockchain explorer from Blockchain.com (proprietary company)
+Blockchain.com Explorer,platforms,,Web,,,https://www.blockchain.com/explorer,live,browser-based explorer; no desktop or mobile app listed
+Blurble,license,,Open source,GPL-3.0-or-later,Linux,https://flathub.org/apps/app.drey.Blurble,live,Flathub appstream project_license GPL-3.0-or-later; GitHub mirror API agrees (gpl-3.0)
+Blurble,platforms,,Linux,,,https://flathub.org/apps/app.drey.Blurble,live,Linux flatpak (x86_64 aarch64); GNOME World word-guessing game
+Brogue CE,license,,Open source,GNU Affero General Public License v3.0,"Windows, macOS, Linux",https://raw.githubusercontent.com/tmewett/BrogueCE/master/LICENSE.txt,live,raw LICENSE.txt is GNU AGPL v3 text (self-audited); catalog name is spaced variant of repo BrogueCE
+Brogue CE,platforms,,"Windows, macOS, Linux",,,https://github.com/tmewett/BrogueCE,live,README documents Windows macOS and Linux builds
+Book Player,license,,Open source,GNU General Public License v3.0,,https://raw.githubusercontent.com/TortugaPower/BookPlayer/main/LICENSE,live,raw LICENSE is GPL v3 text (self-audited); catalog name is spaced variant of BookPlayer; App Store seller BOOKPLAYER LLC matches brand
+Book Player,platforms,,iOS,,,https://apps.apple.com/us/app/bookplayer/id1138219998,live,exact-title match BookPlayer by BOOKPLAYER LLC Free iosUniversal
+Breet,license,,Proprietary — free,,,https://apps.apple.com/us/app/breet-buy-swap-sell-crypto/id1609711640,live,Breet - Buy Swap Sell Crypto by BREET TECHNOLOGIES LIMITED $0.00 features iosUniversal only no IAP
+Breet,platforms,,iOS,,,https://apps.apple.com/us/app/breet-buy-swap-sell-crypto/id1609711640,live,App Store listing; Android unconfirmed from whitelisted sources kept iOS-only per accuracy directive
+Budbrain's Puzzle,platforms,,Linux,,,https://raw.githubusercontent.com/appimage/appimage.github.io/master/apps/jsPicPuzzler.md,live,"AppImage appdata de.budbrain.jsPicPuzzler exact-name match; ProjectLicense LicenseRef-proprietary per appdata; pricing unconfirmed so no license badge row"
+C-evo: New Horizons,license,,Proprietary — free,Freeware (closed-source) per official site,,http://c-evo.org/,live,"Official site describes C-evo as a freeware empire-building game; catalog name is version variant of C-evo"
+C-evo: New Horizons,platforms,,Windows,,,http://c-evo.org/,live,Official site: game is for Windows; download page offers game and additions
+CNFT Tools,platforms,,Web,,,https://cnft.tools/,live,"Official site live with title CNFT Tools; web-based Cardano NFT tools; pricing page exists but tier unconfirmed"
+Caprine,license,,Open source,MIT License,,https://raw.githubusercontent.com/bankjaneo/caprine/main/license,live,Raw license file is MIT License text; maintained fork of sindresorhus/caprine
+Caprine,platforms,,"Windows, macOS, Linux",,,https://github.com/bankjaneo/caprine,live,"README: macOS 10.15+ (Intel) and macOS 12+ (Apple Silicon), Linux (x64 and arm64), and Windows 10+ (64-bit) supported"
+Carmetal,license,,"Open source","GNU General Public License",,https://en.wikipedia.org/wiki/CaRMetal,live,"Java-based interactive geometry software; GPL per Wikipedia infobox, corroborated by naturalmath and Debian packaging; no canonical repo found"
+Cataclysm BN,license,,"Open source","CC-BY-SA-3.0",,https://github.com/cataclysmbn/cataclysm-bn,live,"raw LICENSE.txt governs (states CC-BY-SA-3.0); README notes post-2025-02-06 code under AGPL-3.0-only"
+Cataclysm BN,platforms,,"Windows, macOS, Linux",,,https://github.com/cataclysmbn/cataclysm-bn,live,"README: cmake/makefile supports Linux macOS BSD; MSYS2/vcpkg for Windows"
+Caveexpress,license,,"Open source","GPL-3.0-or-later",,https://github.com/mgerhardy/caveexpress,live,"raw LICENSE: GNU GPL v3 or any later version; GamingOnLinux confirms GPL3 open-sourcing"
+Caveexpress,platforms,,"Windows, macOS, Linux, Android, Web",,,https://github.com/mgerhardy/caveexpress,live,"author: tested on Windows Linux macOS; README compile targets include Android and HTML5"
+Ceferino,license,,"Open source","GPL-2.0-or-later",,https://allstar.jhuapl.edu/repo/p1/amd64/ceferino/doc/copyright,live,"Debian copyright: GPL v2 or any later version; Super Pang-like action game by Hugo Ruscitti"
+Ceferino,platforms,,Linux,,,https://packages.debian.org/source/oldstable/ceferino,live,"Debian/Ubuntu package ceferino"
+Cen64,license,,"Open source","BSD-3-Clause",,https://github.com/n64dev/cen64,live,"raw LICENSE verified; cycle-accurate Nintendo 64 emulator"
+Cen64,platforms,,"Windows, macOS, Linux",,,https://github.com/n64dev/cen64,live,"README lists Windows and Linux binaries; Mac build from source"
+CertiK,license,,"Proprietary — paid","enterprise blockchain security audit and monitoring services",,https://www.certik.com/company/about,live,"no free tier found on official site"
+CertiK,platforms,,Web,,,https://www.certik.com/company/about,live,"services delivered via web platform"
+Chat AI Desktop,license,,Open source,MIT License,,https://github.com/sonnylazuardi/chat-ai-desktop,live,raw LICENSE is MIT text (Copyright 2022 Sonny Lazuardi); unofficial ChatGPT desktop app
+Chat On Steroids,license,,Open source,MIT License,,https://github.com/totec448-spec/chat-on-steroids,live,raw LICENSE is MIT text (Copyright 2026 Chat On Steroids contributors)
+Chat On Steroids,platforms,,"Windows, macOS, Linux",,,https://github.com/totec448-spec/chat-on-steroids,live,"README lists Windows x64, macOS arm64 and Linux x64 downloads"
+ChiSurf,license,,Open source,GNU General Public License v2.0,,https://github.com/Fluorescence-Tools/chisurf,live,raw LICENSE is GPL Version 2 June 1991 text
+Chocolate Doom,license,,Open source,GNU General Public License v2.0,,https://github.com/chocolate-doom/chocolate-doom,live,raw COPYING.md is GPL Version 2 June 1991 text; GitHub API SPDX GPL-2.0
+Chocolate Doom,platforms,,"Windows, macOS, Linux",,,https://www.chocolate-doom.org/wiki/index.php/Downloads,live,"official downloads page lists Windows, macOS and Linux"
+Ciyue,license,,Open source,MIT License,,https://github.com/mumu-lhl/Ciyue,live,raw LICENSE is MIT text (Copyright 2024 Mumulhl)
+Cmder,license,,Open source,MIT License,,https://github.com/cmderdev/cmder,live,raw LICENSE is MIT text (Copyright 2017 Samuel Vasko)
+Chat AI Desktop,platforms,,"macOS, Windows",,,https://github.com/sonnylazuardi/chat-ai-desktop,live,Tauri menubar app; repo description states Mac and Windows
+Chess Comp Stomp with Hacks,platforms,,Linux,,,https://github.com/flathub/io.github.dtsudo.ChessCompStompWithHacks,live,Electron app distributed via Flathub; author repos declare no license so no license row per accuracy directive
+ChiSurf,platforms,,"Windows, macOS, Linux",,,https://github.com/Fluorescence-Tools/chisurf,live,README: compiled Windows installer; conda install for Linux and macOS
+Ciyue,platforms,,"Android, Windows, Linux, macOS",,,https://github.com/mumu-lhl/Ciyue,live,README: mdict dictionary with Android/Windows/Linux/macOS support; also on F-Droid
+Cmder,platforms,,Windows,,,https://github.com/cmderdev/cmder,live,README: console emulator package for Windows
+Coinos,platforms,,Web,,,https://coinos.io/,live,coinos.io is a bitcoin lightning web wallet; license terms not published on official site — platforms-only row
+Collection Manager,platforms,,Windows,,,https://github.com/Piotrekol/CollectionManager,live,"osu! collection tool; repo declares no license — platforms-only row; README offers CollectionManagerSetup.exe for Windows (Linux/Mac only via wine, not native)"
+Comic Chat,license,,Open source,MIT License (Copyright (c) Microsoft Corporation),,https://github.com/microsoft/comic-chat,live,raw LICENSE is MIT text; source code for the Microsoft Comic Chat IRC client
+Comic Chat,platforms,,Windows,,,https://github.com/microsoft/comic-chat,live,1996 Windows IRC client source release
+Commander Genius,license,,Open source,"GPL-2.0 (raw LICENSE is GNU GPL Version 2 text)",,https://github.com/gerstrong/Commander-Genius,live,license-text governs over GitHub API NOASSERTION
+Commander Genius,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/gerstrong/Commander-Genius,live,"README: runs on Linux/X11/Wayland, Windows, MacOs, Android, Switch"
+Connectron,license,,Open source,MIT License (Copyright (c) 2019 Robert),,https://github.com/Robert3141/Connectron,live,raw LICENSE is MIT text; connect-4 style game
+Connectron,platforms,,Android,,,https://github.com/Robert3141/Connectron,live,README links Play Store listing uk.co.ariesfamily.connectron
+Controlloid,license,,Open source,GPL-3.0 (raw LICENSE is GNU GPL v3 text),,https://github.com/experiment322/controlloid-client,live,Android app turning phone into a game controller
+Controlloid,platforms,,Android,,,https://github.com/experiment322/controlloid-client,live,repo description: Android app which turns your phone into a game controller
+Convertidor,license,,Open source,GPL-3.0 (raw COPYING is GNU GPL v3 text),,https://github.com/GS90/Convertidor,live,unit converter; license-text governs over GitHub API entry
+Convertidor,platforms,,Linux,,,https://github.com/GS90/Convertidor,live,GNOME/Flatpak app (tech.digiroad.Convertidor.json)
+Coppelia,license,,Proprietary — paid,"CoppeliaSim Pro/Lite: commercial licenses (contact for details); Edu edition free for schools/universities only, no commercial use",,https://www.coppeliarobotics.com/licensing,live,robot simulator CoppeliaSim — the canonical product named Coppelia
+Coppelia,platforms,,"Windows, macOS, Linux",,,https://www.coppeliarobotics.com/downloads,live,"download page lists Windows, macOS (Intel/Apple Silicon), Ubuntu installers"
+Cosmic Expansion,license,,Open source,"GNU GPL v3.0 (raw LICENSE is GPL v3 text; GitHub API NOASSERTION, license text governs)",,https://github.com/joach70/cosmic-expansion,live,2D space shooter by joach70; self-audited raw LICENSE
+Cosmic Expansion,platforms,,"Linux, Windows, Web",,,https://github.com/joach70/cosmic-expansion,live,"README lists Linux, Windows, In Browser builds"
+Cosmovisor,license,,Open source,Apache-2.0 (cosmos/cosmos-sdk repo license; Cosmovisor lives at tools/cosmovisor),,https://github.com/cosmos/cosmos-sdk,live,"License-only row: CLI upgrade-manager daemon, no end-user OS platform claimed"
+Creatify,license,,Proprietary — freemium,"Free plan (10 credits/mo, watermarked) + Starter $39/mo + Pro $99/mo (official pricing)",,https://creatify.ai/pricing,live,AI video-ad generator by Creatify Labs; recurring paid plans observed
+Creatify,platforms,,Web,,,https://creatify.ai/,live,Web-based platform (Platform/Studio/API tabs on official site)
+Cro-Mag Rally,license,,Proprietary — free,Pangea official site: CRO-MAG RALLY IS FREE - free download with serial,,https://PANGEASOFT.NET/cromag/register.html,live,Classic Pangea kart racer; official free release
+Cro-Mag Rally,platforms,,macOS,,,https://PANGEASOFT.NET/cromag/register.html,live,Requires a Mac (PowerPC); official Mac release is free
+CrypTool 1,license,,Open source,Described as open-source project by cryptool.org; exact license identifier not stated on primary source,,https://www.cryptool.org/en/ct1/,live,License text unconfirmed from primary source; Wikipedia cross-check lists Apache-2.0 (cross-check only)
+CrypTool 1,platforms,,Windows,,,https://www.cryptool.org/en/ct1/,live,Official site: free Windows program
+CryptoCompare,platforms,,Web,,,https://www.cryptocompare.com/,live,Platforms-only row: pricing page not fetchable; freemium status unconfirmed from primary source per accuracy directive
+CryptoZombies,license,,Proprietary — free,Free interactive Solidity code school by Loom Network,,https://cryptozombies.io,live,No paid tier found; course content free
+CryptoZombies,platforms,,Web,,,https://cryptozombies.io,live,Browser-based interactive course
+Cubiomes Viewer,license,,Open source,GPL-3.0 (raw LICENSE is GNU GPL v3 text; self-audited),,https://github.com/Cubitect/cubiomes-viewer,live,Canonical repo Cubitect/cubiomes-viewer; Minecraft seed finder and map viewer
+Cubiomes Viewer,platforms,,"Windows, Linux",,,https://github.com/Cubitect/cubiomes-viewer,live,README: precompiled binaries for Linux and Windows; macOS not formally supported
+Cuyo,license,,Open source,GNU GPL per mirror README (declares GNU GPL V2; raw LICENSE file in same mirror is GPL-3.0 text - version ambiguous; downstream cuyo-web analysis treats upstream as GPL-2.0-or-later),,https://github.com/OSSGames/GAME-SDL-PUZZLE-Cuyo,live,License-only row: original homepage (cuyo.de) now domain-for-sale; Tetris-style puzzle game by Immanuel Halupczok
+DJ Edertech,license,,Open source,MIT License; F-Droid package com.edertech.dj_edertech,Android,https://f-droid.org/packages/com.edertech.dj_edertech/,live,F-Droid lists FOSS only; raw LICENSE is MIT text (Copyright (c) 2024 DJ Edertech)
+DJ Edertech,platforms,,Android,,,https://f-droid.org/packages/com.edertech.dj_edertech/,live,F-Droid lists Android apps only; package com.edertech.dj_edertech exact name match
+DXX-Rebirth,license,,Open source,GPL-3.0; raw COPYING.txt: DXX/Rebirth contributions under GNU GPL v3 (Parallax license covers original Descent data),,https://raw.githubusercontent.com/dxx-rebirth/dxx-rebirth/master/COPYING.txt,live,Self-audited against raw COPYING.txt; game data not included
+DXX-Rebirth,platforms,,"Windows, macOS",,,https://www.dxx-rebirth.com,live,Official site downloads: Windows and Mac OS X builds
+DNS Changer Desktop,license,,Open source,MIT License (raw LICENSE Copyright (c) 2023 DnsChanger),,https://raw.githubusercontent.com/DnsChanger/dnsChanger-desktop/master/LICENSE,live,Catalog name is spaced variant of repo 'dnsChanger-desktop'; self-audited raw LICENSE
+DNS Changer Desktop,platforms,,"Windows, macOS, Linux",,,https://github.com/DnsChanger/dnsChanger-desktop,live,README download table: Windows/MacOS/Linux all stable
+Darktile,license,,Open source,MIT License (raw LICENSE Copyright (c) 2021 Liam Galvin),,https://raw.githubusercontent.com/liamg/darktile/master/LICENSE,live,Self-audited raw LICENSE
+Darktile,platforms,,Linux,,,https://github.com/liamg/darktile,live,README: developed for tiling window managers under Linux; Windows/OSX support dropped
+DeltaTouch,license,,Proprietary — paid,$2.99 on Google Play,,https://play.google.com/store/apps/details?id=com.opentouchgaming.deltatouch&hl=en,live,Paid app; price $2.99 observed on Play Store listing
+DeltaTouch,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.opentouchgaming.deltatouch&hl=en,live,Play Store listing com.opentouchgaming.deltatouch by Open Touch Gaming
+Deep Blue Alpha,license,,Proprietary — freemium,free account (no card); paid tiers $179/yr and $439/yr observed,,https://deepbluealpha.io/pricing,live,Platform not open source; pricing page shows free account plus paid yearly tiers
+Deep Blue Alpha,platforms,,Web,,,https://deepbluealpha.io,live,Web-based Ethereum whale intelligence platform; no desktop/mobile apps observed
+Desmume,license,,Open source,SPDX GPL-2.0; repo TASEmulators/desmume,,https://github.com/TASEmulators/desmume,live,GitHub API license field: GPL-2.0
+Desmume,platforms,,"Windows, macOS, Linux",,,https://github.com/TASEmulators/desmume,live,Repo has windows/cocoa/posix frontends; Windows builds on desmume.org/download
+Dhewm 3,license,,Open source,SPDX GPL-3.0; repo dhewm/dhewm3,,https://github.com/dhewm/dhewm3,live,GitHub API license field: GPL-3.0
+Dhewm 3,platforms,,"Windows, Linux, macOS",,,https://snapcraft.io/install/dhewm3/ubuntu,live,Snap Store: known to work on at least Windows Linux macOS FreeBSD
+Dib2Qm,license,,Open source,GPL-3.0-or-later; F-Droid package net.sourceforge.dibdib.android.dib2qm,,https://f-droid.org/en/packages/net.sourceforge.dibdib.android.dib2qm/,live,F-Droid lists FOSS only; page notes app is deprecated
+Dib2Qm,platforms,,Android,,,https://f-droid.org/en/packages/net.sourceforge.dibdib.android.dib2qm/,live,F-Droid lists Android apps only
+Doda The Exploda,license,,Open source,GPL-3.0-or-later; F-Droid package com.quaap.dodatheexploda,,https://f-droid.org/en/packages/com.quaap.dodatheexploda/,live,F-Droid: GPL-3.0-or-later; GitHub API: GPL-3.0
+Doda The Exploda,platforms,,Android,,,https://f-droid.org/en/packages/com.quaap.dodatheexploda/,live,F-Droid lists Android apps only
+Domestique Baston,license,,Source-available,"Code GPL-3.0 but game assets CC BY-NC-SA 4.0 (NonCommercial) per README",,https://github.com/domestiquebaston/domestique_baston,live,GitHub API license: GPL-3.0; README states assets under CC BY-NC-SA 4.0 — NC clause → Source-available per playbook
+Domestique Baston,platforms,,Linux,,,https://flathub.org/apps/io.itch.domestique_baston.domestique_baston,live,Flathub listing (Linux app store)
+Doom Runner,license,,Open source,SPDX GPL-3.0; repo Youda008/DoomRunner,,https://github.com/Youda008/DoomRunner,live,GitHub API license field: GPL-3.0
+Doom Runner,platforms,,"Windows, Linux, macOS",,,https://github.com/Youda008/DoomRunner,live,README: Windows Linux and MacOS
+Dosbox Staging,license,,Open source,GPL-2.0-or-later; official site,,https://github.com/dosbox-staging/dosbox-staging,live,Official site about page: licensed under GNU GPL version 2 or later
+Dosbox Staging,platforms,,"Windows, macOS, Linux",,,https://dosbox-staging.github.io/,live,Official site has Windows/macOS/Linux platform sections
+Dotnet Podcasts,license,,Open source,SPDX MIT; repo microsoft/dotnet-podcasts,,https://github.com/microsoft/dotnet-podcasts,live,GitHub API license field: MIT
+Dotnet Podcasts,platforms,,"Web, Android, iOS, macOS, Windows",,,https://github.com/microsoft/dotnet-podcasts,live,README: apps for Web Android iOS macOS Windows (.NET MAUI)
+Drascula,license,,Proprietary — free,Freeware re-release by Alcachofa Soft (Sep 2008) via ScummVM; separate paid Steam release also exists,,https://www.scummvm.org/games/,live,"Alcachofa handed source to ScummVM team and re-released game as freeware 2008; ScummVM is official distributor of the freeware game data"
+Drascula,platforms,,"DOS, Windows",,,https://www.scummvm.org/games/,live,Original DOS/Windows releases; freeware game data playable via ScummVM on additional platforms
+DroidUPnP,license,,Open source,GPL-3.0; raw COPYING is GNU GPL v3 text,,https://github.com/armills/droidupnp,live,Self-audited: raw COPYING confirmed GPL v3; README states licensed under GPLv3
+DroidUPnP,platforms,,Android,,,https://github.com/armills/droidupnp,live,README: UPnP control point application for Android
+Dsda Doom,license,,Open source,GPL-2.0; raw prboom2/COPYING is GNU GPL v2 text,,https://github.com/kraflab/dsda-doom,live,"Self-audited: raw COPYING confirmed GPL v2; repo now maintained at dsda-org/dsda-doom"
+Dsda Doom,platforms,,"Windows, macOS, Linux",,,https://github.com/kraflab/dsda-doom,live,Doom source port compilable on Windows macOS and Linux
+Dune Analytics,license,,Proprietary — freemium,Free community tier plus paid Plus/Premium subscription plans,,https://dune.com/pricing,live,Free tier covers community dashboards and query editor; paid tiers add private dashboards and faster compute
+Dune Analytics,platforms,,Web,,,https://dune.com/,live,Browser-based on-chain analytics platform
+Duolingo Max,license,,Proprietary — paid subscription,Premium subscription tier; $29.99/month or ~$168/year (2026 pricing),,https://www.duolingo.com/,live,Top subscription tier above Super Duolingo; adds AI Roleplay and Video Call features
+Duolingo Max,platforms,,"iOS, Android, Web",,,https://www.duolingo.com/,live,Subscription tier within the Duolingo apps and web platform
+Dzikir App,license,,Proprietary — free,Free and ad-free per official site,,https://dzikirapp.com,live,Official site: free ad-free lightweight dhikr/Quran/prayer-times companion
+Dzikir App,platforms,,"iOS, Android, macOS, Windows, Linux, Web",,,https://dzikirapp.com,live,Official download page lists App Store Google Play Mac App Store Microsoft Store Snap Store and PWA
+Edex UI,license,,Open source,GPL-3.0; raw LICENSE is GNU GPL v3 text; upstream repo archived Oct 2021,,https://github.com/GitSquared/edex-ui,live,Self-audited: raw LICENSE confirmed GPL v3
+Edex UI,platforms,,"Windows, macOS, Linux",,,https://github.com/GitSquared/edex-ui,live,Cross-platform terminal emulator; releases for Windows macOS and Linux
+Egghead,license,,Proprietary — freemium,Free courses plus paid subscription for full premium course access,,https://egghead.io/pricing,live,Official pricing page documents premium subscription; free community courses available
+Egghead,platforms,,Web,,,https://egghead.io/,live,Online video-course platform for web developers
+Ekko Studio,license,,Source-available,Business Source License 1.1; non-commercial use grant; converts to Apache-2.0 on 2029-05-10,,https://github.com/EKKOLearnAI/ekko-studio,live,Self-audited: raw LICENSE is BSL 1.1 (not OSI-approved) — Source-available per playbook
+Ekko Studio,platforms,,"Windows, macOS, Linux, Web",,,https://github.com/EKKOLearnAI/ekko-studio,live,Electron desktop app for Windows/macOS/Linux plus self-hosted web console
+Electricity Clock,license,,Open source,GPL-3.0; raw LICENSE is GNU GPL v3 text,,https://github.com/carterbox/tofu,live,Self-audited: raw LICENSE confirmed GPL v3
+Electricity Clock,platforms,,Linux,,,https://github.com/carterbox/tofu,live,Flathub app (io.github.carterbox.Electricity_Clock); ComEd time-of-use rate monitor
+Element Desktop,license,,Open source,AGPL-3.0 OR GPL-3.0 (multi-licensed by New Vector Ltd; commercial license also offered; LICENSE-AGPL-3.0 + LICENSE-GPL-3.0 in repo root),,https://github.com/element-hq/element-desktop,live,README Copyright & License: multi-licensed AGPL-3.0 / GPL-3.0 / commercial
+Element Desktop,platforms,,"Windows, macOS, Linux",,,https://github.com/element-hq/element-desktop,live,
+Elmer,license,,Open source,GPL-2.0-or-later (LICENSE.md: GPL v2 or any later version),,https://github.com/ElmerCSC/elmerfem/blob/devel/LICENSE.md,live,Raw LICENSE.md text governs (GitHub API shows NOASSERTION)
+Elmer,platforms,,"Windows, Linux, macOS",,,http://github.com/ElmerCSC/elmerfem,live,
+Emulatrix,license,,Open source,MIT (GitHub license detection; LICENSE file in repo root),,https://github.com/cloudsofmana/emulatrix,live,Fork of lrusso/Emulatrix; self-audited via GitHub license detection of LICENSE file
+Emulatrix,platforms,,Web,,,https://github.com/cloudsofmana/emulatrix,live,
+EstudiaTAI,license,,Open source,MIT (GitHub: MIT License; LICENSE file in root),,https://github.com/Naritsumi/EstudiaTAI-app,live,Repo: Aplicacion android por y para TAIs; developer Naritsumi
+EstudiaTAI,platforms,,Android,,,https://github.com/Naritsumi/EstudiaTAI-app,live,
+Ethplorer,license,,Open source,Apache-2.0 (GitHub: Apache License 2.0; LICENSE file in root),,https://github.com/EverexIO/Ethplorer,live,Ethereum tokens explorer
+Ethplorer,platforms,,Web,,,https://github.com/EverexIO/Ethplorer,live,
+Exploding Kittens In Electron,license,,Open source,MIT (publisher-declared license on Snap Store),,https://snapcraft.io/exploding-kittens-in-electron,live,Snap Store license field: MIT; repo readme license section carries only trademark notice — publisher declaration is the license signal
+Exploding Kittens In Electron,platforms,,Linux,,,https://snapcraft.io/exploding-kittens-in-electron,live,
+Explorerplusplus,license,,Open source,GPL-3.0 (GitHub: GNU General Public License v3.0; LICENSE file in root),,https://github.com/derceg/explorerplusplus,live,
+Explorerplusplus,platforms,,Windows,,,https://github.com/derceg/explorerplusplus,live,
+ExprEval,license,,Open source,MIT (GitHub: MIT License; LICENSE.txt in root),,https://github.com/silentmatt/expr-eval,live,"JavaScript expression-evaluator library (npm package), not a standalone end-user app; license-only row"
+Fab GL,license,,Open source,"GPL-3.0 (raw LICENSE: ""available under GPL v3""; commercial dual-license offered)",,https://raw.githubusercontent.com/fdivitto/FabGL/master/LICENSE,live,"Catalog name spaced variant of FabGL (fdivitto/FabGL ESP32 display-controller library); license-only row (embedded library, no end-user OS)"
+Fablemaker,license,,Proprietary — free,Free interactive fables app (Endless),,https://flathub.org/apps/com.endlessnetwork.fablemaker,live,Flathub appstream project_license LicenseRef-proprietary for com.endlessnetwork.fablemaker
+Fablemaker,platforms,,Linux,,,https://flathub.org/apps/com.endlessnetwork.fablemaker,live,Distributed via Flathub (Linux)
+Falcon PDF - Editor & Tools,license,,Proprietary — free,Free download; App Store listing shows no IAP markers; "unlock" in description refers to PDF password-removal feature,,https://apps.apple.com/us/app/id6760542830,live,App Store id 6760542830 by ANRMS PRIVATE LIMITED
+Falcon PDF - Editor & Tools,platforms,,iOS,,,https://apps.apple.com/us/app/id6760542830,live,"iOS 18.2+, iosUniversal"
+FanDuel Sportsbook & Casino,license,,Proprietary — free,Free download; real-money sportsbook/casino gambling,,https://apps.apple.com/us/app/id1413721906,live,App Store id 1413721906 by FanDuel Limited
+FanDuel Sportsbook & Casino,platforms,,iOS,,,https://apps.apple.com/us/app/id1413721906,live,"Android Play candidate com.fanduel.android.self is ""FanDuel Fantasy"" (title mismatch) — kept iOS-only per accuracy directive"
+Fellow,license,,Proprietary — freemium,Free $0 plan (5 AI notes/recordings lifetime); paid from $7/user/mo,,https://fellow.ai/pricing,live,Official pricing page: Free/Team/Business/Enterprise tiers
+Fellow,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/id1477264742,live,"iOS via App Store ""Fellow - AI Meeting Assistant"" id 1477264742 by Fellow Insights Inc.; Web app at fellow.ai (official site)"
+FingerGo,license,,Open source,Apache-2.0 (GitHub API SPDX Apache-2.0; raw LICENSE is Apache 2.0 text),,https://raw.githubusercontent.com/AshBuk/FingerGo/main/LICENSE,live,AshBuk/FingerGo cross-platform touch-typing trainer
+FingerGo,platforms,,"Windows, macOS, Linux",,,https://github.com/AshBuk/FingerGo,live,README: releases for Windows/macOS/Linux + Flathub
+Firestorm Viewer,platforms,,"Windows, macOS, Linux",,,https://wiki.secondlife.com/wiki/Third_Party_Viewer_Directory/Firestorm,live,Second Life official wiki TPV directory lists Platforms: Windows MacOS Linux; license row omitted (firestormviewer.org blocks automated fetching)
+Five or More,license,,Open source,GPL-2.0 (GNOME gitlab COPYING is GPL v2 text),,https://gitlab.gnome.org/GNOME/five-or-more/-/raw/main/COPYING,live,GNOME five-or-more game
+Five or More,platforms,,Linux,,,https://gitlab.gnome.org/GNOME/five-or-more,live,GNOME desktop game (Linux)
+Flare Engine,license,,Open source,"SPDX GPL-3.0; raw COPYING is GNU GPL v3 text (flareteam/flare-engine); GitHub API agrees",,https://github.com/flareteam/flare-engine,live,raw license text self-audited; engine-only runtime
+Flare Engine,platforms,,"Windows, macOS, Linux",,,https://github.com/flareteam/flare-engine,live,"README.engine.md install sections: Linux/macOS/Unix, Windows, Snap, Flatpak"
+Fluent Terminal,license,,Open source,"SPDX GPL-3.0; raw LICENSE is GNU GPL v3 text (felixse/FluentTerminal)",,https://github.com/felixse/FluentTerminal,live,project unmaintained per README; license text self-audited
+Fluent Terminal,platforms,,Windows,,,https://github.com/felixse/FluentTerminal,live,UWP terminal emulator (README: terminal emulator based on UWP and web technologies)
+Fluid Mechanics Lab Calc.,license,,Open source,"SPDX GPL-3.0-or-later; Flathub appstream io.github.hafmed.TP-Labo-Hyd declares GPL-3.0-or-later; GitHub hafmed/TP-Labo-Hyd API GPL-3.0",,https://flathub.org/apps/io.github.hafmed.TP-Labo-Hyd,live,exact name match on Flathub
+Fluid Mechanics Lab Calc.,platforms,,"Android, Linux",,,https://flathub.org/apps/io.github.hafmed.TP-Labo-Hyd,live,Android via Play org.hafsoftdz.tp_labo_hyd (exact name); Linux via Flathub
+Fluxer,license,,Open source,"SPDX AGPL-3.0; raw LICENSE is GNU AGPL v3 text (fluxerapp/fluxer); Flathub appstream AGPL-3.0-or-later",,https://github.com/fluxerapp/fluxer,live,official site fluxer.app; instant messaging and VoIP app
+Fluxer,platforms,,Linux,,,https://github.com/fluxerapp/fluxer,live,Flathub listing app.fluxer.Fluxer
+Forgottenserver,license,,Open source,"SPDX GPL-2.0; raw LICENSE is GNU GPL v2 text (otland/forgottenserver)",,https://github.com/otland/forgottenserver,live,C++ MMORPG server emulator; license-only row (no end-user OS platform)
+Forkgram Classic,license,,Open source,"SPDX GPL-2.0-or-later; F-Droid package org.forkgram.classic lists GNU GPL v2.0 or later",,https://f-droid.org/packages/org.forkgram.classic/,live,F-Droid lists FOSS only; exact name match
+Forkgram Classic,platforms,,Android,,,https://f-droid.org/packages/org.forkgram.classic/,live,F-Droid lists Android apps only
+Foundatio,license,,Open source,"SPDX Apache-2.0; raw LICENSE.txt is Apache License 2.0 text (FoundatioFx/Foundatio); GitHub API agrees",,https://github.com/FoundatioFx/Foundatio,live,.NET library (pluggable foundation blocks); repo moved from FoundatioOrg to FoundatioFx; license-only row
+Free42 Nologo,license,,Open source,GitHub repo aswild/free42; SPDX license GPL-2.0,,https://github.com/aswild/free42,live,Debian nologo packaging of Free42 (HP-42S calculator re-implementation); license-only row
+FreeCell4,license,,Open source,SPDX GPL-3.0-only; F-Droid package org.lufebe16.freecell,,https://f-droid.org/en/packages/org.lufebe16.freecell/,live,F-Droid lists FOSS only; 'FreeCell4' exact name match
+FreeCell4,platforms,,Android,,,https://f-droid.org/en/packages/org.lufebe16.freecell/,live,F-Droid lists Android apps only
+Freeciv Client SDL,license,,Open source,GitHub repo freeciv/freeciv; README license badge GPL v2,,https://github.com/freeciv/freeciv,live,SDL client is part of the Freeciv codebase; license-only row
+Freeciv Ruleset Tools,license,,Open source,GitHub repo freeciv/freeciv; README license badge GPL v2,,https://github.com/freeciv/freeciv,live,Ruleset tools ship with the Freeciv codebase; license-only row (no end-user platform)
+Freedink Engine,license,,Open source,GNU FreeDink; official gnu.org page licensed under GPLv3,,https://www.gnu.org/software/freedink/,live,Official GNU project page; catalog name is variant of GNU FreeDink; license-only row
+Freeminer,license,,Open source,GitHub repo freeminer/freeminer; raw COPYING is GNU GPL v3 text,,https://github.com/freeminer/freeminer,live,Self-audited raw COPYING
+Freeminer,platforms,,"Android, Windows, Linux",,,https://github.com/freeminer/freeminer,live,"README Installing section: Google Play + F-Droid (Android), Windows releases, Ubuntu/Arch Linux"
+Frets on Fire,license,,Open source,GitHub repo fretsonfire/FretsOnFire; raw LICENSE is MIT text (Copyright 2014 fretsonfire),,https://github.com/fretsonfire/FretsOnFire,live,Self-audited raw LICENSE (license-text governs over historical GPL); license-only row
+Ftools Fv,platforms,,"Linux, macOS, Windows",,,https://heasarc.gsfc.nasa.gov/docs/software/ftools/fv/fv.html,live,"Official NASA HEASARC page: ready to run on Linux, macOS, Windows PCs; catalog name is variant of FTOOLS fv; no license stated on official page so no license row"
+Fufu Launcher,license,,Open source,MIT License (raw LICENSE: Copyright (c) 2025 Dev. CodeCubist),,https://github.com/CodeCubist/FufuLauncher,live,Self-audited: raw LICENSE is MIT text
+Fufu Launcher,platforms,,Windows,,,https://github.com/CodeCubist/FufuLauncher,live,"README platform badge: Windows 10/11; third-party Genshin Impact launcher"
+Funkcio,license,,Open source,GPL-3.0-or-later (Flathub appstream project_license),,https://flathub.org/apps/im.bernard.Funkcio,live,Exact name match 'Funkcio'; draw functions from points
+Funkcio,platforms,,Linux,,,https://flathub.org/apps/im.bernard.Funkcio,live,Flathub flatpak (x86_64/aarch64)
+Fuse,license,,Open source,GPL-2.0 (SourceForge project page: License version 2.0 GPLv2),,https://sourceforge.net/projects/fuse-emulator/,live,Free Unix Spectrum Emulator; license-only row (platforms not stated on official pages)
+GC-Tools,platforms,,"iOS",,,https://itunes.apple.com/lookup?id=438313105,live,"iTunes exact match 'GCTools' by Achim Heynen (id 438313105), Free; catalog name is hyphen variant; license unconfirmed so no license row"
+GNOME Breakout,license,,Open source,GPL-3.0 (Debian copyright: License GPL-3),,https://salsa.debian.org/games-team/gnome-breakout/-/raw/master/debian/copyright,live,Source: sourceforge.net/projects/gnome-breakout/; clone of classic Breakout for GNOME
+GNOME Breakout,platforms,,Linux,,,https://tracker.debian.org/pkg/gnome-breakout,live,Debian package gnome-breakout (GTK game)
+GNOME Genius,license,,Open source,GPL-3.0 (Flathub appstream project_license; official site confirms GNU GPL),,https://flathub.org/apps/org.gnome.Genius,live,Official site jirka.org: free software under GNU General Public License; catalog name = GNOME app 'Genius' (calculator)
+GNOME Genius,platforms,,Linux,,,https://flathub.org/apps/org.gnome.Genius,live,Flathub flatpak
+GNOME Mahjongg,license,,Open source,GPL-3.0-or-later (Flathub appstream project_license),,https://flathub.org/apps/org.gnome.Mahjongg,live,Exact name match 'Mahjongg'
+GNOME Mahjongg,platforms,,Linux,,,https://flathub.org/apps/org.gnome.Mahjongg,live,Flathub flatpak
+GNOME Robots,license,,Open source,GPL-3.0-or-later (Flathub appstream project_license GPL-3.0+),,https://flathub.org/apps/org.gnome.Robots,live,Exact name match 'Robots'
+GNOME Robots,platforms,,Linux,,,https://flathub.org/apps/org.gnome.Robots,live,Flathub flatpak
+GNOME Tetravex,license,,Open source,GPL-2.0-or-later (Flathub appstream project_license),,https://flathub.org/apps/org.gnome.Tetravex,live,Exact name match 'Tetravex'
+GNOME Tetravex,platforms,,Linux,,,https://flathub.org/apps/org.gnome.Tetravex,live,Flathub flatpak
+GNU PSPP,license,,Open source,GPL-3.0-or-later (Savannah: GNU General Public License v3 or later),,https://savannah.gnu.org/projects/pspp,live,GNU statistical analysis program
+GNU PSPP,platforms,,Linux,,,https://www.gnu.org/software/pspp/,live,Official page: GNU/Linux are the prefered platforms
+GOG Galaxy,license,,Proprietary — free,Free proprietary game client; client itself has no paid tier,,https://www.gog.com/galaxy,live,Official GOG Galaxy page; client offered as free download
+GOG Galaxy,platforms,,"Windows, macOS",,,https://www.gog.com/galaxy,live,Download links on official page: GOG_Galaxy_2.0.exe (Windows) and galaxy_client .pkg (macOS); no Linux client
+GOV.UK,license,,Proprietary — free,Free official UK government app; no paid tier,,https://www.gov.uk/app,live,Official gov.uk/app page
+GOV.UK,platforms,,"iOS, Android",,,https://www.gov.uk/app,live,Official gov.uk/app page links Apple App Store and Google Play Store
+Gaia Sky,license,,Open source,Mozilla Public License 2.0; raw LICENSE.md (codeberg.org/gaiasky/gaiasky) is MPL-2.0 text,,https://codeberg.org/gaiasky/gaiasky,live,Self-audited against raw LICENSE.md
+Gaia Sky,platforms,,"Windows, macOS, Linux",,,https://codeberg.org/gaiasky/gaiasky,live,"Release assets on codeberg: windows-x64 .exe, macos .dmg, linux tar.gz"
+Galois,license,,Open source,"3-Clause BSD License; raw LICENSE.txt (IntelligentSoftwareSystems/Galois), Copyright 2018 The University of Texas at Austin",,https://github.com/IntelligentSoftwareSystems/Galois,live,"License-only row: Galois is a C++ parallel-programming library, no end-user OS platform; self-audited against raw LICENSE.txt"
+Game Server Watcher,license,,Open source,AGPL-3.0; raw COPYING (lxndr/gswatcher) is GNU Affero GPL v3 text,,https://github.com/lxndr/gswatcher,live,Self-audited against raw COPYING; repo: 'A simple game server monitor and an administrative tool'
+Game Server Watcher,platforms,,Linux,,,https://github.com/lxndr/gswatcher,live,Distributed via Flathub (io.github.lxndr.gswatcher) for Linux
+Gameconqueror,license,,Open source,GPL-3.0; raw COPYING (scanmem/scanmem) is GNU GPL v3 text; GameConqueror is the GUI front-end for scanmem,,https://github.com/scanmem/scanmem,live,Self-audited against raw COPYING; scanmem README: 'GameConqueror is a GUI front-end for scanmem'
+Gameconqueror,platforms,,Linux,,,https://github.com/scanmem/scanmem,live,scanmem is a memory scanner for Linux; GameConqueror is its Linux GUI
+Gameeky,license,,Open source,GPL-3.0; raw COPYING (tchx84/Gameeky) is GNU GPL v3 text,,https://github.com/tchx84/Gameeky,live,"Self-audited against raw COPYING; 'Play, create and learn' kids game-making app"
+Gameeky,platforms,,Linux,,,https://github.com/tchx84/Gameeky,live,Distributed via Flathub (dev.tchx84.Gameeky) for Linux
+Gargoyle,license,,Open source,GNU General Public License (GPL); upstream License.txt states package components distributed under GPL (version not specified); Gargoyle Glk library under GPL,,https://github.com/garglk/garglk,live,Self-audited against raw License.txt (40 lines); README: 'released under the terms of the GNU General Public License'
+Gargoyle,platforms,,"Windows, macOS, Linux",,,https://github.com/garglk/garglk,live,"CI build badges: AppImage (Linux), MinGW (Windows), macOS dmg, Ubuntu deb; cross-platform IF player"
+Gauguin,license,,Open source,GPL-3.0-only; F-Droid license page lists GNU General Public License v3.0 only (package org.piepmeyer.gauguin),Android,https://f-droid.org/en/packages/org.piepmeyer.gauguin/,live,F-Droid lists FOSS only; 'Gauguin' exact name match; Sudoku-like logic game
+Gauguin,platforms,,Android,,,https://f-droid.org/en/packages/org.piepmeyer.gauguin/,live,F-Droid lists Android apps only; same package as license row (org.piepmeyer.gauguin)
+Gdpc,license,,Open source,"MIT License; raw LICENSE (avdstaaij/gdpc), Copyright (c) 2020-2021 Nils Gawlik",,https://github.com/avdstaaij/gdpc,live,"License-only row: GDPC is a Python library for Minecraft (GDMC), no end-user OS platform; self-audited against raw LICENSE"
+GeForce NOW Electron,license,,Open source,GPL-3.0; raw license text self-audited (hmlendea/gfn-electron),,https://github.com/hmlendea/gfn-electron,live,"Unofficial Electron desktop client for Nvidia GeForce NOW; catalog name expands ""GFN Electron"""
+GeForce NOW Electron,platforms,,Linux,,,https://github.com/hmlendea/gfn-electron,live,"README: ""Unofficial desktop client for Nvidia GeForce NOW on Linux"""
+Gearboy,license,,Open source,GPL-3.0; raw LICENSE is GNU GPL v3 text (drhelius/Gearboy),,https://github.com/drhelius/Gearboy,live,Game Boy / Game Boy Color / Super Game Boy emulator
+Gearboy,platforms,,"Windows, macOS, Linux, BSD",,,https://github.com/drhelius/Gearboy,live,"README: runs on Windows, macOS, Linux, BSD and RetroArch"
+Gendie - Grammatical Gender Trainer,license,,Open source,GPL-3.0-or-later; F-Droid package com.languageapp.gendie,,https://f-droid.org/packages/com.languageapp.gendie/,live,F-Droid lists FOSS only; exact name match
+Gendie - Grammatical Gender Trainer,platforms,,Android,,,https://f-droid.org/packages/com.languageapp.gendie/,live,F-Droid lists Android apps only
+Geoperion,license,,Open source,GPL-3.0-or-later; F-Droid package com.vulnerabbity.geoperion,,https://f-droid.org/packages/com.vulnerabbity.geoperion/,live,F-Droid lists FOSS only; exact name match
+Geoperion,platforms,,Android,,,https://f-droid.org/packages/com.vulnerabbity.geoperion/,live,F-Droid lists Android apps only
+Ghostty,license,,Open source,MIT License; raw LICENSE text (Copyright 2024 Mitchell Hashimoto),,https://github.com/ghostty-org/ghostty,live,Terminal emulator
+Ghostty,platforms,,"macOS, Linux",,,https://ghostty.org/,live,Official site documents macOS and Linux builds
+Gitcoin Passport,license,,Open source,AGPL-3.0; raw LICENSE is GNU AGPL v3 text (passportxyz/passport),,https://github.com/passportxyz/passport,live,Decentralized identity verification app
+Gitcoin Passport,platforms,,Web,,,https://github.com/passportxyz/passport,live,Web-based dApp UI
+Glabels,license,,Open source,GPL-3.0; raw LICENSE is GNU GPL v3 text (j-evins/glabels-qt),,https://github.com/j-evins/glabels-qt,live,gLabels Label Designer (Qt); license-only row
+Glowing Bear,license,,Open source,GPL-3.0; raw COPYING is GNU GPL v3 text (lorenzhs/glowing-bear),,https://github.com/lorenzhs/glowing-bear,live,Web client for WeeChat
+Glowing Bear,platforms,,Web,,,https://github.com/lorenzhs/glowing-bear,live,"Repo description: ""A web client for WeeChat"""
+Gm Assistant,license,,Open source,GPL-3.0; raw LICENSE is GNU GPL v3 text (ViviCoder/GM-Assistant),,https://github.com/ViviCoder/GM-Assistant,live,"Catalog name is case variant of ""GM-Assistant""; tabletop RPG assistant"
+Gm Assistant,platforms,,Linux,,,https://appstream.pureos.net/landing/main/metainfo/gm-assistant.html,live,PureOS appstream: desktop-application; Debian package gm-assistant
+Godot Mcp,license,,Open source,"MIT License (raw LICENSE, Copyright (c) 2025 Solomon Elias; Coding-Solo/godot-mcp)",,https://github.com/Coding-Solo/godot-mcp,live,"dominant repo (6013 stars) among same-name MCP servers; MCP server tool with no end-user OS platform, license-only row"
+Google Messages For Desktop,platforms,,"Mac, Windows, Linux",,,https://github.com/kelvicthrust/Google-Messages-For-Desktop,live,"README: Mac, Windows, and Linux apps downloadable; unofficial wrapper not affiliated with Google; repo declares no license, platforms-only row"
+Gopher64,license,,Open source,GNU General Public License v3 (raw LICENSE),,https://github.com/gopher64/gopher64,live,N64 emulator; GPL-3.0 per raw LICENSE text
+Gopher64,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/gopher64/gopher64,live,README download section lists Windows MacOS Linux and Android builds
+Graphs,license,,Open source,GNU General Public License v3.0 or later (Flathub project_license),,https://flathub.org/apps/se.sjoerd.Graphs,live,Flathub exact-name match 'Graphs' - plot and manipulate data
+Graphs,platforms,,Linux,,,https://flathub.org/apps/se.sjoerd.Graphs,live,Flathub Linux flatpak distribution
+Gridplayer,license,,Open source,GNU General Public License v3 (raw LICENSE),,https://github.com/vzhd1701/gridplayer,live,play videos side-by-side; GPL-3.0 per raw LICENSE text
+Gridplayer,platforms,,"Windows, macOS, Linux",,,https://github.com/vzhd1701/gridplayer,live,"README: cross-platform (Linux, Mac, and Windows)"
+Grocy,license,,Open source,"MIT License (raw LICENSE.md, Copyright (c) 2017-2026 Bernd Bestel)",,https://github.com/grocy/grocy,live,ERP beyond your fridge
+Grocy,platforms,,Web,,,https://github.com/grocy/grocy,live,"README: web-based self-hosted groceries and household management solution"
+Guessaday,license,,Open source,GNU General Public License v3 (raw LICENSE),,https://github.com/mo271/guessaday,live,GPL-3.0 per raw LICENSE text
+Guessaday,platforms,,Android,,,https://github.com/mo271/guessaday,live,"README: android app for training mental calendar calculations; F-Droid com.goltzkiste.guessaday"
+Gwaei,license,,Open source,GNU General Public License v3 (raw COPYING),,https://github.com/kyoushuu/gwaei,live,upstream repo by original author; Japanese-English dictionary
+Gwaei,platforms,,Linux,,,https://github.com/kyoushuu/gwaei,live,GTK+/GNOME app; prerequisites are the Linux GNOME stack
+Gweled,license,,Open source,"SPDX GPL-2.0; Launchpad project page declares GNU GPL v2",,https://launchpad.net/gweled/,live,License-only row: platforms not stated on whitelisted sources
+Hailuo AI,license,,Proprietary — freemium,"free tier plus paid plans observed on official site (Standard $14.99/month, Pro, Master, Ultra, Max)",,https://hailuoai.video/,live,MiniMax AI video generator; official pricing page lists Free plus recurring paid plans
+Hailuo AI,platforms,,Web,,,https://hailuoai.video/,live,Web-based AI video generator at official site
+Handcent Next SMS,license,,Proprietary — freemium,"Play Store listing: price 0 with In-app purchases badge in app-info section",,https://play.google.com/store/apps/details?id=com.handcent.app.nextsms&hl=en,live,
+Handcent Next SMS,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.handcent.app.nextsms&hl=en,live,Play Store listing com.handcent.app.nextsms by Handcent
+Hatari,license,,Open source,"SPDX GPL-2.0; repo gpl.txt is GNU GPL Version 2, June 1991 text (no or-later clause found)",,https://framagit.org/hatari/hatari,live,Self-audited against raw gpl.txt in official repo
+Hatari,platforms,,"Linux, BSD, macOS, Windows",,,https://www.hatari-emu.org/,live,"Official site: for GNU/Linux, BSD, Mac OS X, Windows and other SDL-supported systems"
+Helden-Software,platforms,,Linux,,,https://www.helden-software.de/,live,Platforms-only: official site advertises Flatpak for Linux; license terms not stated in fetched pages
+HelloMoon,platforms,,Web,,,https://www.hellomoon.io/,live,Platforms-only: Solana data platform; official pricing not confirmed from fetched pages
+Hexalate,license,,Open source,"SPDX GPL-3.0; official gottcode.org/hexalate links GPL version 3",,https://gottcode.org/hexalate/,live,License-only row: Graeme Gott Qt color-matching game; platforms unconfirmed from whitelisted sources
+Hexclave,license,,Open source,"dual MIT AND AGPL-3.0: raw LICENSE states client code and examples MIT, server components AGPLv3; 100% open-source",,https://github.com/hexclave/hexclave,live,Self-audited against raw LICENSE (dev branch) in official repo
+Hexclave,platforms,,Web,,,https://github.com/hexclave/hexclave,live,Hosted cloud dashboard (app.hexclave.com); self-hostable per README
+Heygotchu,platforms,,Web,,,https://github.com/musahidqurbani-coder/Heygotchu,live,README describes a React/TypeScript web app (trip outfit planner); no license declared in repo; no end-user OS platform
+Hoshi Reader Android,license,,Open source,SPDX GPL-3.0; repo HuangAntimony/Hoshi-Reader-Android,,https://github.com/HuangAntimony/Hoshi-Reader-Android,live,raw LICENSE is GNU GPL v3 text (self-audited)
+Hoshi Reader Android,platforms,,Android,,,https://github.com/HuangAntimony/Hoshi-Reader-Android,live,README platform badge: Android; native Android EPUB reader
+Hurry Curry!,license,,Open source,AGPL-3.0-only; official site states 'AGPL 3.0 only',,https://hurrycurry.org/,live,official site declares AGPL 3.0 only (self-audited against site text)
+Hurry Curry!,platforms,,"Android, Linux, Windows",,,https://hurrycurry.org/,live,"official site download section lists Android, Linux, Windows builds"
+Hydrogen,license,,Open source,SPDX GPL-2.0; repo hydrogen-music/hydrogen,,https://github.com/hydrogen-music/hydrogen,live,raw COPYING is GNU GPL v2 text (self-audited)
+Hydrogen,platforms,,"Windows, macOS, Linux",,,https://github.com/hydrogen-music/hydrogen,live,"repo description: 'The advanced drum machine for Linux, macOS, and Windows'"
+HyperPlay,license,,Open source,SPDX GPL-3.0; repo HyperPlay-Gaming/hyperplay-desktop-client,,https://github.com/HyperPlay-Gaming/hyperplay-desktop-client,live,raw LICENSE is GNU GPL v3 text (self-audited)
+HyperPlay,platforms,,"Windows, macOS, Linux",,,https://github.com/HyperPlay-Gaming/hyperplay-desktop-client,live,"README install sections cover Linux, Windows, macOS"
+IPTV One,license,,Proprietary — freemium,free tier plus premium subscription (official FAQ),,https://www.iptv-one.app/en,live,official FAQ: free tier with essential features; premium features via subscription
+IPTV One,platforms,,"Android, iOS, macOS, Windows, Linux",,,https://www.iptv-one.app/en,live,"official site: Android, iOS, macOS, Windows, Linux, Apple TV"
+IPlan,platforms,,"Android, iOS",,,https://iplan.ai/,live,official site links Play Store (ai.iplan.app) and App Store (id1611716564); catalog name is case variant of 'iplan'; pricing unconfirmed so no license row
+Immunefi,platforms,,Web,,,https://immunefi.com/,live,Bug bounty platform; pricing tier unverifiable from fetched pages so no license row per accuracy directive
+Implode,license,,Open source,GPL-2.0 (raw COPYING is GNU GPL v2 text),,https://github.com/sugarlabs/implode-activity,live,Sugar Labs falling-block logic game; license self-audited against raw COPYING
+Implode,platforms,,Linux,,,https://github.com/sugarlabs/implode-activity,live,Sugar desktop activity; packaged by Fedora as sugar-implode
+InVideo AI,license,,Proprietary — freemium,Free plan plus recurring paid plans observed,,https://invideo.io/pricing/,live,Free plan and paid subscription tiers on official pricing page
+InVideo AI,platforms,,Web,,,https://invideo.io/,live,Web-based AI video generator; mobile apps not confirmed via whitelisted store fetch in this pass
+Inbox by Google,license,,Proprietary — free,Free Google email client; discontinued end of March 2019,,https://blog.google/products-and-platforms/products/gmail/inbox-signing-find-your-favorite-features-new-gmail/,live,Google official Keyword blog: 'say goodbye to Inbox by Gmail at the end of March 2019'
+Inkos,license,,Open source,AGPL-3.0 (raw LICENSE is GNU AGPL v3 text),,https://github.com/Narcooo/inkos,live,Catalog name is case variant of 'InkOS'; license self-audited against raw LICENSE
+Inkos,platforms,,"Windows, macOS, Linux",,,https://github.com/Narcooo/inkos,live,npm CLI tool requiring Node.js 20+ (cross-platform runtime)
+IntelPy,license,,Open source,GPL-3.0 (raw LICENSE is GNU GPL v3 text; GitHub API returned NOASSERTION),,https://github.com/Riftr/intelpy,live,License self-audited against raw LICENSE text (raw text governs over API NOASSERTION)
+IntelPy,platforms,,"Windows, Linux",,,https://github.com/Riftr/intelpy,live,README: Windows exe release + Linux Flatpak (io.github.riftr.intelpy)
+JChemPaint,license,,Open source,EPL-1.0 (project_license in project's own appstream metainfo.xml),,https://github.com/JChemPaint/jchempaint,live,License self-audited against appstream/io.github.jchempaint.JChemPaint.metainfo.xml
+JChemPaint,platforms,,"Windows, macOS, Linux",,,https://github.com/JChemPaint/jchempaint,live,Java application (app-windows and app-osx dirs; Flathub packaging for Linux)
+JS-Dict,license,,Open source,GPL-3.0 (raw LICENSE.txt is GNU GPL v3 text),,https://github.com/petlyh/JS-Dict,live,Japanese-English dictionary app powered by Jisho.org; license self-audited against raw LICENSE.txt
+JS-Dict,platforms,,Android,,,https://f-droid.org/en/packages/io.github.petlyh.jsdict/,live,F-Droid package io.github.petlyh.jsdict (F-Droid lists Android apps only)
+JSettlers,license,,Open source,GPL-3.0 (COPYING-GPLv3.txt is GNU GPL v3 text),,https://github.com/jdmonin/JSettlers2,live,Catalog name is version variant of repo 'JSettlers2'; license self-audited against raw COPYING-GPLv3.txt
+JSettlers,platforms,,"Windows, macOS, Linux",,,https://github.com/jdmonin/JSettlers2,live,Java JAR download (cross-platform)
+JaMuz,license,,Open source,GPL-3.0,,https://github.com/phramusca/JaMuz,live,raw LICENSE is GNU GPL v3 text (phramusca/JaMuz)
+JaMuz,platforms,,"Linux, Windows",,,https://github.com/phramusca/JaMuz,live,"README: music library manager/player ""for Linux, Raspberry and Windows"" (Raspberry Pi runs Linux)"
+Jalview,license,,Open source,GPL-3.0,,https://gitlab.jalview.org/jalview/jalview,live,raw LICENSE is GNU GPL v3 text; canonical repo per jalview.org build guide (github.com/jalview/jalview is an empty placeholder)
+Jalview,platforms,,"Windows, macOS, Linux",,,https://www.jalview.org/download/,live,"official download pages for macOS, Windows and Linux (Java desktop app)"
+Jan,license,,Open source,Apache-2.0,,https://github.com/menloresearch/jan,live,raw LICENSE is Apache License 2.0 text (Copyright 2025 Menlo Research)
+Jan,platforms,,"Windows, macOS, Linux",,,https://github.com/menloresearch/jan,live,"README download table: Windows (exe), macOS (dmg), Linux (deb/AppImage/Arm64)"
+Jazz² Resurrection,license,,Open source,GPL-3.0,,https://github.com/deathkiller/jazz2-native,live,raw LICENSE is GNU GPL v3 text (Copyright 2016-2023 Dan R.); canonical repo per Flathub manifest
+Jazz² Resurrection,platforms,,"Windows, macOS, Linux",,,https://github.com/deathkiller/jazz2-native,live,"README install sections for Windows, Linux and macOS"
+Jmol,license,,Open source,LGPL-2.1,,https://github.com/BobHanson/Jmol-SwingJS,live,raw LICENSE.txt is GNU LGPL v2.1 text; canonical Jmol dev repo; license-only row
+Journey to the Center of Hawkthorne,license,,Source-available,Code MIT; artwork/audio CC BY-NC 3.0,,https://github.com/hawkthorne/hawkthorne-journey,live,README: code MIT but artwork/audio CC BY-NC 3.0; NC clause → Source-available per playbook
+Journey to the Center of Hawkthorne,platforms,,"Windows, macOS, Linux",,,https://github.com/hawkthorne/hawkthorne-journey,live,"release downloads: macOS, Windows 32/64-bit, Linux AppImage"
+KMeteo,license,,Open source,GPL-3.0,,https://gitlab.com/bitseater/kmeteo,live,raw LICENSE is GNU GPL v3 text (bitseater/kmeteo: forecast app using OpenWeatherMap API)
+KMeteo,platforms,,Linux,,,https://flathub.org/en/apps/io.gitlab.bitseater.kmeteo,live,Flathub listing: Install KMeteo on Linux
+KPatience,license,,Open source,GPL-2.0-or-later,,https://github.com/kde/kpat,live,COPYING: newer changes GPL v2 or later; all other source files GPL v2 or later; license-only row (no README in repo)
+KTurtle,license,,Open source,SPDX GPL-2.0-or-later; apps.kde.org lists GPL-2.0+,,https://apps.kde.org/kturtle/,live,KDE turtle programming environment for kids
+KTurtle,platforms,,"Linux, Windows",,,https://apps.kde.org/kturtle/,live,Download section lists Linux and Windows builds
+Kaghez,platforms,,Linux,,,https://github.com/riyaniii/Kaghez,live,GNOME/libadwaita comic reader; README: install as flatpak; repo declares no license so no license row
+KAlarm,license,,Open source,SPDX GPL-2.0-or-later; apps.kde.org lists GPL-2.0+,,https://apps.kde.org/kalarm/,live,KDE personal alarm scheduler
+KAlarm,platforms,,"Linux, Windows",,,https://apps.kde.org/kalarm/,live,Download section lists Linux Windows and FreeBSD
+Kalk,license,,Open source,SPDX GPL-3.0-or-later; apps.kde.org lists GPL-3.0-or-later,,https://apps.kde.org/kalk/,live,KDE convergent calculator app
+Kalk,platforms,,Linux,,,https://apps.kde.org/kalk/,live,Flathub org.kde.kalk; convergent mobile and desktop
+Kalshi: Trade Football & more,license,,Proprietary — free,iTunes listing Free with no IAP features; prediction-market trading app,,https://itunes.apple.com/search?term=Kalshi&entity=software&limit=5&country=US,live,Exact iTunes match id 1632713844 by KALSHI INC.
+Kalshi: Trade Football & more,platforms,,iOS,,,https://itunes.apple.com/search?term=Kalshi&entity=software&limit=5&country=US,live,Android listing unconfirmed from whitelisted fetch; kept iOS-only per accuracy directive
+Karambola,license,,Proprietary — free,Free to play on Steam; creators accept donations,,https://store.steampowered.com/app/765480/Karambola/,live,Surreal point-and-click adventure by Holy Pangolin; official site holypangolin.com
+Karambola,platforms,,"Windows, macOS, Linux",,,https://store.steampowered.com/app/765480/Karambola/,live,Steam system requirements list Windows macOS and SteamOS/Linux
+Kavita,license,,Open source,SPDX GPL-3.0; raw LICENSE is GNU GPL v3 text,,https://github.com/Kareadita/Kavita,live,Self-hosted cross-platform digital reading server
+Kavita,platforms,,"Windows, macOS, Linux",,,https://github.com/Kareadita/Kavita,live,Latest release assets include win linux and osx builds
+Kega Fusion,license,,Proprietary — free,Freeware by Steve Snake; donations accepted,,https://www.carpeludum.com/kega-fusion/,live,Closed-source Sega emulator; no license file or repo
+Kega Fusion,platforms,,"Windows, macOS, Linux",,,https://www.carpeludum.com/kega-fusion/,live,Described as emulator for Win9x through Win7 Mac OSX Intel and Linux
+Khangman,license,,Open source,SPDX GPL-2.0-or-later; apps.kde.org lists GPL-2.0+,,https://apps.kde.org/khangman/,live,Catalog name is case variant of KHangMan
+Khangman,platforms,,Linux,,,https://apps.kde.org/khangman/,live,Download section lists Linux only
+Khanmigo,license,,Proprietary — paid subscription,Official site references subscription on parent account,,https://www.khanmigo.ai/,live,Khan Academy AI-powered teaching assistant and tutor
+Khanmigo,platforms,,Web,,,https://www.khanmigo.ai/,live,Web-based product at khanmigo.ai
+Knights Chess,license,,Open source,SPDX GPL-2.0; KDE/knights repo,,https://raw.githubusercontent.com/KDE/knights/master/LICENSE,live,"Raw LICENSE is GNU GPL v2 text; catalog name is variant of KDE 'Knights' chess frontend"
+Knights Chess,platforms,,"Linux",,,https://github.com/KDE/knights,live,"KDE application; README requires KDE Frameworks (Linux desktop)"
+Knit,license,,Open source,MIT License; Sleitnick/Knit,,https://raw.githubusercontent.com/Sleitnick/Knit/main/LICENSE.md,live,"Raw LICENSE.md is MIT text; Roblox game framework (archived); license-only row, no end-user OS platform"
+Koodo Reader,license,,Open source,AGPL-3.0; koodo-reader/koodo-reader,,https://raw.githubusercontent.com/koodo-reader/koodo-reader/master/LICENSE,live,Raw LICENSE is GNU AGPL v3 text
+Koodo Reader,platforms,,"Windows, macOS, Linux, Android, iOS, Web",,,https://github.com/koodo-reader/koodo-reader,live,"README: Platform support Windows, macOS, Linux, Android, iOS and Web"
+Kubera,platforms,,Web,,,https://kubera.com,live,"Web-based net worth/portfolio tracker; pricing page unconfirmed so no license badge row"
+Kyty,license,,Open source,MIT License; InoriRus/Kyty,,https://github.com/InoriRus/Kyty,live,"README: 'Licensed under the MIT license'; PS4 & PS5 emulator; exact repo name match"
+Kyty,platforms,,Windows,,,https://github.com/InoriRus/Kyty,live,README references Windows 10 x64
+Landbot,license,,Proprietary — freemium,Free plan + Starter €32/month,,https://landbot.io/pricing,live,"Official pricing page: free plan, Starter €32 per month"
+Landbot,platforms,,Web,,,https://landbot.io,live,"AI Agent & Chatbot Builder for WhatsApp + Website; web-based SaaS"
+Lane's Lexicon,platforms,,iOS,,,https://itunes.apple.com/lookup?id=1046330645,live,"App Store 'Lanes Lexicon' by Omar Jahangir (id 1046330645), Free; description confirms Lane's Lexicon Arabic Dictionary; title variant without apostrophe; IAP status unconfirmed so no license badge row"
+LatentJam,license,,Open source,Apache-2.0; Nikita-sud/latentjam,,https://raw.githubusercontent.com/Nikita-sud/latentjam/main/LICENSE,live,Raw LICENSE is Apache License 2.0 text
+LatentJam,platforms,,"Android, iOS",,,https://github.com/Nikita-sud/latentjam,live,"README badges: Android 7+ / iOS 15.1+; F-Droid package io.github.nikitasud.latentjam.kmp"
+Launch At Login Legacy,license,,Open source,MIT License; sindresorhus/LaunchAtLogin-Legacy,,https://raw.githubusercontent.com/sindresorhus/LaunchAtLogin-Legacy/main/license,live,Raw license file is MIT text
+Launch At Login Legacy,platforms,,macOS,,,https://github.com/sindresorhus/LaunchAtLogin-Legacy,live,"Swift package adding Launch at Login to macOS apps; Requirements: macOS 10.13+"
+Ldtk,license,,Open source,MIT License (raw LICENSE text; Copyright (c) 2020 Sebastien Benard - Deepnight Games),,https://github.com/deepnight/ldtk,live,
+Ldtk,platforms,,"Windows, macOS, Linux",,,https://ldtk.io/,live,Windows macOS and Linux builds offered on official download page
+Learn JSON Web Tokens,license,,Open source,MIT License (raw LICENSE text; Copyright (c) 2025 Do What You Love DWYL),,https://github.com/dwyl/learn-json-web-tokens,live,Educational tutorial/example repo; license-only row - no end-user app platform
+Lemon Cash,license,,Proprietary — free,Free crypto wallet app; no paid app tier,,https://play.google.com/store/apps/details?id=com.applemoncash&hl=en_IN,live,
+Lemon Cash,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.applemoncash&hl=en_IN,live,Play listing com.applemoncash; iOS AR App Store listing Lemon - Billetera virtual by Lemon Cash Inc (free)
+Lexica,platforms,,Web,,,https://lexica.art/,live,lexica.art live (title Lexica); AI image search/generation web app; pricing is JS-rendered so no license-tier row per accuracy directive
+Libby for Linux,platforms,,Linux,,,https://snapcraft.io/libbylinux,live,Snap package libbylinux - Electron container/wrapper of the Libby web app for Linux
+LibreBible,license,,Open source,GPL-3.0 (raw LICENSE is GNU GPL v3 text; w3nl/librebible),,https://github.com/w3nl/librebible,live,Bible text/data project (LICENSE + README only); license-only row - no end-user app platform
+LibreQuake,license,,Open source,Free-software Quake content: code under GPL (Quake engine lineage); artwork under BSD license per project description; see COPYING,,https://github.com/lavenderdotpet/LibreQuake,live,README frames it as fully free game data; GitHub API license NOASSERTION so detail rests on README/project description
+LibreQuake,platforms,,Linux,,,https://github.com/lavenderdotpet/LibreQuake,live,README references Linux; Flathub package io.github.lavenderdotpet.LibreQuake
+LibreTextus,license,,Open source,CC0-1.0 (raw LICENSE is CC0 1.0 Universal text),,https://github.com/LibreTextus/LibreTextus,live,
+LibreTextus,platforms,,Linux,,,https://github.com/LibreTextus/LibreTextus,live,GTK desktop app (gtkmm); distributed via Snap (snapcraft.io/libretextus)
+Lierolibre,license,,Open source,GPL-2.0-or-later (Debian copyright file declares GPL-2+ with Autoconf exception),,https://gitlab.com/lierolibre/lierolibre,live,Upstream repo declares no SPDX; license grounded in Debian copyright file
+Lierolibre,platforms,,Linux,,,https://gitlab.com/lierolibre/lierolibre,live,Packaged for Debian/Ubuntu (SDL desktop game)
+Lightning,license,,Open source,MPL-2.0 (raw LICENSE is Mozilla Public License Version 2.0 text; F-Droid agrees),,https://f-droid.org/en/packages/acr.browser.lightning/,live,Catalog name Lightning = Lightning Browser (anthonycr/Lightning-Browser)
+Lightning,platforms,,Android,,,https://f-droid.org/en/packages/acr.browser.lightning/,live,F-Droid package acr.browser.lightning (F-Droid lists Android apps only)
+Limbo,license,,Proprietary — paid,App Store $3.99 by Playdead ApS,,https://apps.apple.com/us/app/id656951157,live,"Playdead's LIMBO by Playdead ApS priced $3.99; paid game, no free tier"
+Limbo,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.playdead.limbo,live,Android via com.playdead.limbo on Play Store; iOS via App Store id 656951157
+Liquid War 6,license,,Open source,GNU GPL v3 (raw COPYING),,https://raw.githubusercontent.com/gitGNU/gnu_liquidwar6/master/liquidwar6/COPYING,live,Self-audited: COPYING is GNU GPL v3 text; license-only row
+Listmonk,license,,Open source,GNU AGPL v3 (raw LICENSE),,https://raw.githubusercontent.com/knadh/listmonk/master/LICENSE,live,Self-audited: LICENSE is GNU AGPL v3 text; self-hosted newsletter/mailing-list manager
+Litmaps,license,,Proprietary — freemium,Free plan + Pro $10/mo (official pricing),,https://www.litmaps.com/pricing,live,Free plan: up to 20 inputs and 100 articles per map; Pro $10/month
+Litmaps,platforms,,Web,,,https://app.litmaps.com,live,Web app at app.litmaps.com
+Litube,license,,Open source,GNU GPL v3 (raw LICENSE),,https://raw.githubusercontent.com/mgytr/litube/master/LICENSE,live,Self-audited: LICENSE is GNU GPL v3 text
+Litube,platforms,,Android,,,https://github.com/mgytr/litube,live,Android YouTube WebView wrapper app (fastlane android metadata)
+Logto,license,,Open source,Mozilla Public License 2.0 (raw LICENSE),,https://raw.githubusercontent.com/logto-io/logto/master/LICENSE,live,Self-audited: LICENSE is MPL 2.0 text; self-hosted auth infrastructure; license-only row
+Lordsawar,license,,Open source,GPL-3.0-or-later (Savannah project license page: GNU GPL v3 or later),,https://savannah.nongnu.org/projects/lordsawar,live,platforms unconfirmed from whitelisted sources — license-only row
+Luma AI,license,,Proprietary — freemium,"official site lists paid plans (Plus $30/month, Ultra $300/month) alongside free access",,https://lumalabs.ai/dream-machine,live,catalog name is brand variant of Luma AI Inc.'s Dream Machine product
+Luma AI,platforms,,"iOS, Web",,,https://apps.apple.com/us/app/luma-dream-machine/id6478852867,live,"iOS via App Store 'Luma Dream Machine' by Luma AI, Inc. (Free); Web via official lumalabs.ai"
+M.A.R.S. - a ridiculous shooter,license,,Open source,GPL-3.0-or-later (raw license.txt + README: GNU GPL v3 or any later version),,https://github.com/thelaui/M.A.R.S.,live,platforms unconfirmed from whitelisted sources — license-only row
+MALSync,license,,Open source,GPL-3.0 (raw LICENSE is GNU GPL v3 text),,https://github.com/lolamtisch/MALSync,live,
+MALSync,platforms,,Web,,,https://github.com/MALSync/MALSync,live,README: 'powerful extension and userscript' — browser extension
+MATE Terminal,license,,Open source,GPL-3.0 (GitHub SPDX + raw COPYING is GPL v3 text),,https://github.com/mate-desktop/mate-terminal,live,
+MATE Terminal,platforms,,Linux,,,https://github.com/mate-desktop/mate-terminal,live,repo: 'The MATE Terminal Emulator' — terminal emulator for the MATE (Linux) desktop
+MKI3D Game,license,,Open source,GPL-3.0 (GitHub SPDX + raw LICENSE is GPL v3 text),,https://github.com/mki1967/mki3dgame,live,catalog name is spaced variant of repo mki3dgame
+MKI3D Game,platforms,,"Windows, Linux",,,https://github.com/mki1967/mki3dgame,live,README: AppImage/snap/Flatpak releases (Linux) + zip compiled for Windows
+Mafia,license,,Proprietary — paid,2K commercial game franchise sold via Steam / PlayStation Store / Xbox,,https://mafiagame.com/,live,catalog name matches 2K's Mafia franchise (official site)
+Mafia,platforms,,"Windows, PlayStation 5, Xbox Series X|S",,,https://mafiagame.com/,live,"official site: 'PlayStation 5, Xbox Series X|S, and PC via Steam'"
+Mahjongg,license,,Open source,GPL-2.0-or-later; Arch gnome-mahjongg package lists GPL-2.0-or-later (Flathub build: GPL-2.0+),,https://archlinux.org/packages/extra/x86_64/gnome-mahjongg/,live,"Catalog name is short form of GNOME Mahjongg (Debian manpage: 'GNOME Mahjongg, or Mahjongg for short')"
+Mahjongg,platforms,,Linux,,,https://archlinux.org/packages/extra/x86_64/gnome-mahjongg/,live,Arch Linux package (x86_64); also distributed via Flathub and Snap Store as Linux app
+Mailpile,license,,Open source,AGPL-3.0-or-later; README: free software under the GNU Affero General Public License (see COPYING.md),,https://github.com/mailpile/Mailpile,live,Wikipedia cross-check also lists AGPL-3.0-or-later
+"Mailpile",platforms,,"Linux, macOS, Windows, Web",,,https://en.wikipedia.org/wiki/Mailpile,live,"Runs as a local website launched from a downloaded program; OS support Linux/macOS/Windows, platform Web"
+Manga Tui,license,,Open source,MIT License; GitHub repo license field: MIT License (MIT),,https://github.com/josueBarretogit/manga-tui,live,"Catalog name is spaced variant of manga-tui; 944 stars, not archived"
+Manga Tui,platforms,,"Windows, macOS, Linux",,,https://github.com/josueBarretogit/manga-tui,live,Repo topics list linux/macos/windows; README documents Windows image-rendering behavior
+Mediasoup,license,,Open source,ISC; README License section: [ISC](./LICENSE),,https://github.com/jmillan/mediasoup,live,License-only row: Node.js WebRTC SFU server library with no end-user OS platform; canonical repo versatica/mediasoup
+Mednaffe,license,,Open source,GPL-3.0; README states 'GPLv3 licensed',,https://github.com/ruchikanmani/mednaffe,live,Mednafen emulator GUI frontend; canonical repo AmatCoder/mednaffe
+Mednaffe,platforms,,"Windows, Linux",,,https://github.com/ruchikanmani/mednaffe,live,"README: 'Available for Linux and Windows'"
+MeetGeek,license,,Proprietary — freemium,Basic free plan (3 hrs transcription/mo) + Pro $9.99/user/mo + Business $17/user/mo + Enterprise custom,,https://meetgeek.ai/blog/fathom-alternatives,live,Free tier plus recurring paid plans on official site
+MeetGeek,platforms,,"Web, Android, iOS",,,https://meetgeek.ai/blog/fathom-alternatives,live,Official site mentions mobile apps for Android and iOS plus Chrome extension; core product is web app
+Melon DS,license,,Open source,"GPL-3.0-or-later; README: GPL version 3 'or (at your option) any later version'",,https://github.com/sepuedecambiar/melonds,live,Catalog name is spaced variant of melonDS; fork of canonical melonDS-emu/melonDS
+Melon DS,platforms,,"Windows, macOS, Linux",,,https://github.com/sepuedecambiar/melonds,live,"Upstream CI badges: build-windows, build-ubuntu, build-macos"
+Mempool.space,license,,Open source,AGPL-3.0,,https://github.com/mempool/mempool,live,raw LICENSE is GNU AGPL v3 text (Mempool Open Source Project)
+Mempool.space,platforms,,Web,,,https://mempool.space,live,self-hosted web app; official site mempool.space
+Meritous,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/packages/net.asceai.meritous/,live,F-Droid license page: GNU General Public License v3.0 or later
+Meritous,platforms,,"Android, Linux",,,https://f-droid.org/packages/net.asceai.meritous/,live,Android via F-Droid; Linux desktop game (openSUSE package)
+Merkuro,license,,Open source,GPL-3.0-or-later,,https://apps.kde.org/merkuro/,live,official KDE apps page declares GPL-3.0-or-later
+Merkuro,platforms,,"Linux, Windows",,,https://apps.kde.org/merkuro/,live,official KDE apps page lists Linux and Windows builds
+Messages by OzarksMade,license,,Proprietary — paid,$0.99 one-time purchase on Google Play; optional chat features $0.99/month and OzarksMade Cloud sync $4.99/month,,https://messages.ozarksmade.net/,live,official site pricing page; no free tier
+Messages by OzarksMade,platforms,,Android,,,https://messages.ozarksmade.net/,live,official site: download on Google Play
+MetroMusic,license,,Open source,GPL-3.0,,https://github.com/Diffechento/MetroMusic,live,GitHub API SPDX GPL-3.0; README states Licensed GPLv3
+MetroMusic,platforms,,Android,,,https://github.com/Diffechento/MetroMusic,live,README: Android music player; on F-Droid as com.metromusic
+Miceamaze,license,,Open source,BSD 2-clause,,http://www.miceamaze.org/,live,official site: open source licensed under BSD 2-clause
+Miceamaze,platforms,,"Windows, Linux",,,http://www.miceamaze.org/,live,official site: source builds for Windows and Linux
+Midandpad,license,,Open source,GPL-3.0-or-later,,https://github.com/pacoandres/midandpad,live,raw LICENSE is GPL v3 text; F-Droid license page: GPL-3.0 or later
+Midandpad,platforms,,Android,,,https://f-droid.org/en/packages/org.gnu.itsmoroto.midandpad/,live,F-Droid: Android 7.0+
+Mill,license,,Open source,MIT License,,https://github.com/com-lihaoyi/mill,live,GitHub API SPDX MIT; JVM build tool (Java/Scala/Kotlin); license-only row
+Minecraft: Pi Edition: Reborn,license,,Open source,MIT License,,https://gitea.thebrokenrail.com/minecraft-pi-reborn/minecraft-pi-reborn,live,raw LICENSE is MIT text (Copyright TheBrokenRail) from canonical Gitea repo
+Minecraft: Pi Edition: Reborn,platforms,,Linux,,,https://gitea.thebrokenrail.com/minecraft-pi-reborn/minecraft-pi-reborn,live,distributed via Flatpak com.thebrokenrail.MCPIReborn
+Mini Sim,license,,Open source,MIT License,,https://github.com/okwasniewski/MiniSim,live,raw license text is MIT License (Copyright 2023 Oskar Kwasniewski) via GitHub license API
+Mini Sim,platforms,,macOS,,,https://github.com/okwasniewski/MiniSim,live,macOS menu bar app for launching iOS and Android emulators
+Minus Games,license,,Open source,MIT License; raw LICENSE (Copyright (c) 2024 accessory),,https://github.com/Accessory/minus_games,live,Game distribution suite (server/client/GUI for home servers); license self-audited against raw LICENSE text
+Miru App,license,,Open source,GNU AGPL-3.0; raw LICENSE is GNU Affero General Public License v3 text,,https://github.com/miru-project/miru-app,live,License self-audited against raw LICENSE text; catalog name matches repo miru-app
+Miru App,platforms,,"Android, Windows, Web",,,https://github.com/miru-project/miru-app,live,"README: 'supports video, comics, novels extended source for Android, Windows, Web'; install sections for Android and Windows; Linux not supported per README"
+Moe List,license,,Open source,GNU GPL-3.0; raw LICENSE is GNU General Public License v3 text,,https://github.com/axiel7/MoeList,live,License self-audited against raw LICENSE (master branch); catalog name is spaced variant of repo MoeList
+Moe List,platforms,,Android,,,https://github.com/axiel7/MoeList,live,"README: 'Another unofficial Android MAL client'; nightly builds target Android"
+Moin,license,,Open source,GPL-2.0-or-later; LICENSE.txt states GNU General Public License version 2 or any later version,,https://github.com/moinwiki/moin,live,License self-audited against raw LICENSE.txt; catalog name is short variant of MoinMoin wiki engine; license-only row (server-side wiki software)
+Mood Messenger,license,,Proprietary — freemium,Free app with Premium tier (premium features e.g. chat encryption paywalled),,https://play.google.com/store/apps/details?id=com.calea.echo,live,Play listing com.calea.echo by Mad Seven; free download with Premium upgrade tier observed
+Mood Messenger,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.calea.echo,live,Play Store listing com.calea.echo (SMS/MMS messaging app)
+Musicpod,license,,Open source,GPL-3.0 (raw LICENSE text),,https://raw.githubusercontent.com/ubuntu-flutter-community/musicpod/main/LICENSE,live,ubuntu-flutter-community/musicpod; self-audited against raw LICENSE
+Musicpod,platforms,,"Linux, macOS, Windows",,,https://github.com/ubuntu-flutter-community/musicpod,live,"README install table: Linux (Snap/Flathub/Arch), Windows + macOS release builds; Android marked WIP - excluded"
+NLWeer,license,,Open source,MIT License (Copyright 2019 Cedric Nugteren),,https://raw.githubusercontent.com/CNugteren/NLWeer/master/LICENSE,live,CNugteren/NLWeer; self-audited against raw LICENSE
+NLWeer,platforms,,Android,,,https://f-droid.org/en/packages/foss.cnugteren.nlweer/,live,F-Droid package foss.cnugteren.nlweer; README: Android 5.0 or newer
+Museum of All Things,license,,Open source,MIT License (Copyright 2025 Maya),,https://raw.githubusercontent.com/m4ym4y/wikipedia-museum/main/LICENSE,live,m4ym4y/wikipedia-museum; self-audited against raw LICENSE
+Museum of All Things,platforms,,"Windows, macOS, Linux",,,https://mayeclair.itch.io/museum-of-all-things,live,"Official itch.io page (Bread Cat Games) offers Windows, macOS, Linux downloads"
+NS-USBloader,license,,Open source,GNU GPL-3.0-or-later; raw LICENSE is GNU GPL v3 text; README states GPL version 3 or any later version,,https://github.com/developersu/ns-usbloader/blob/HEAD/README.md,live,Self-audited against raw LICENSE (GNU GPL v3 text); also published Android client at developersu/ns-usbloader-mobile
+NS-USBloader,platforms,,"Windows, macOS, Linux",,,https://github.com/developersu/ns-usbloader/blob/HEAD/README.md,live,README: PC-side installer/RCM payload tool works on Windows macOS and Linux
+Nanosaur 2: Hatchling,license,,Source-available,CC-BY-NC-SA 4.0; raw LICENSE.md is Creative Commons Attribution-NonCommercial-ShareAlike 4.0; NC clause per playbook,,https://github.com/jorio/Nanosaur2,live,Port of Pangea Software Nanosaur II made under permission; self-audited raw LICENSE.md is CC-BY-NC-SA 4.0 text
+Nanosaur 2: Hatchling,platforms,,"macOS, Windows, Linux",,,https://github.com/jorio/Nanosaur2,live,README: download the game for macOS Windows and Linux
+Nbsdgames,license,,Open source,CC0-1.0; raw LICENSE is public-domain dedication text; FreshPorts and pkgsrc list CC0-1.0/public-domain,,https://github.com/abakh/nbsdgames,live,Self-audited raw LICENSE: author dedicated all copyright to public domain; 21 text-based terminal games
+Nbsdgames,platforms,,"Linux, macOS",,,https://github.com/abakh/nbsdgames,live,README: packaged for Debian RPMs AUR Alpine FreeBSD NetBSD DragonflyBSD Minix and Homebrew (macOS)
+Nethack,license,,Open source,NetHack General Public License; official license page titled NETHACK GENERAL PUBLIC LICENSE,,https://nethack.org/common/license.html,live,Official nethack.org license page; NGPL is a recognized free-software license
+Neverputt,license,,Open source,GPL-2.0-or-later; Neverball LICENSE.md: released under GNU GPL version 2 or a later version; Neverputt ships with Neverball,,https://raw.githubusercontent.com/neverball/neverball/master/LICENSE.md,live,Self-audited LICENSE.md; Libregamewiki independently lists code and media license as GPL
+Neverputt,platforms,,"Linux, Windows, macOS",,,https://neverball.org/,live,Official neverball.org lists Linux Windows macOS (and FreeBSD) downloads
+Next Chat,license,,Open source,MIT; GitHub API SPDX MIT; README LICENSE section states MIT,,https://github.com/ChatGPTNextWeb/NextChat,live,Canonical repo ChatGPTNextWeb/NextChat (successor of Yidadaa/ChatGPT-Next-Web); API-confirmed MIT
+Next Chat,platforms,,"Web, iOS, macOS, Android, Linux, Windows",,,https://github.com/ChatGPTNextWeb/NextChat,live,Repo description: cross-platform AI chat assistant on Web iOS macOS Android Linux Windows
+NitroShare,license,,"Open source","MIT License; raw LICENSE.txt (Copyright (c) 2018 Nathan Osman)",,https://github.com/nitroshare/nitroshare,live,Repo sidebar confirms MIT License; raw LICENSE text self-audited
+NitroShare,platforms,,"Windows, macOS, Linux",,,https://github.com/nitroshare/nitroshare,live,README features: Runs on Windows / macOS / Linux
+Non Steam Launchers On Steam Deck,license,,"Open source",MIT (GitHub API SPDX MIT; moraroy/NonSteamLaunchers-On-Steam-Deck),,https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck,live,GitHub API license field self-audited
+Non Steam Launchers On Steam Deck,platforms,,Linux,,,https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck,live,Steam Deck installer (SteamOS/Linux); installs launchers under one Proton prefix
+Numptyphysics,license,,"Open source","GNU General Public License v3 (raw COPYING from hoijui/numptyphysics fork is GPL v3 text; canonical thp/numptyphysics repo currently 404s on GitHub)",,https://github.com/hoijui/numptyphysics,live,README: released under the GPL; cited active fork carrying the project source
+Obiex,license,,"Proprietary — free","Proprietary crypto exchange app; free to download; zero-fee trading; no paid tiers found",,https://play.google.com/store/apps/details?id=africa.obiex.app&hl=en_NZ,live,Obiex - Swap Buy & Sell BTC by Obiex Africa Ltd.; official site obiex.finance
+Obiex,platforms,,"Android, iOS",,,https://obiex.finance/utility,live,Official site utility page lists Android (Play) and iOS (App Store) apps
+Objcryst Fox,license,,"Open source","GNU General Public License (GPL); README: free, open-source program",,https://github.com/vincefn/objcryst,live,SourceForge mailing list: license changed to the GNU General Public License
+Objcryst Fox,platforms,,"Linux, macOS, Windows",,,https://github.com/vincefn/objcryst/blob/HEAD/Fox/doc/source/get-fox.rst,live,Docs list Fox-(version).tar.bz2 for Linux source .dmg for macOS .zip for Windows
+Omnidict - offline dictionary,license,,"Open source","GPL-3.0-or-later (LICENSING.md: the program is GPL-3.0-or-later; separate Ktechpit licensing module is source-available and a Pro plan module is planned)",,https://github.com/keshavbhatt/omnidict,live,LICENSING.md self-audited; REUSE-compliant repo
+Omnidict - offline dictionary,platforms,,Linux,,,https://github.com/keshavbhatt/omnidict,live,README: cross-platform (Linux first) Qt desktop app; snap name omnidict plus Flatpak manifest
+OpenFlexure Connect,license,,Open source,"SPDX GPL-3.0-or-later; raw LICENSE is GNU GPL v3 text with ""or any later version"" grant",,https://gitlab.com/openflexure/openflexure-connect/-/raw/master/LICENSE,live,License-only row: no published platform builds found via GitLab releases API; repo is an Electron app built from source per README
+OpenWOL,license,,Open source,SPDX AGPL-3.0-or-later; F-Droid package com.juliencardoux.openwol,Android,https://f-droid.org/en/packages/com.juliencardoux.openwol,live,F-Droid lists FOSS only; display name 'OpenWOL' exact match
+OpenWOL,platforms,,Android,,,https://f-droid.org/en/packages/com.juliencardoux.openwol,live,F-Droid lists Android apps only; same package as license row
+Openmotor,license,,Open source,"SPDX GPL-3.0-or-later; raw LICENSE (staging branch) is GNU GPL v3 text with ""or any later version"" grant",,https://raw.githubusercontent.com/reilleya/openMotor/staging/LICENSE,live,Catalog name is case variant of repo 'openMotor'; GitHub API SPDX GPL-3.0
+Openmotor,platforms,,"Windows, macOS, Linux",,,https://github.com/reilleya/openMotor/releases,live,Releases publish openMotor_v0.6.2_windows.exe and openMotor_v0.6.2_mac_arm.zip; README: available on AUR as 'openmotor' and on debian apt as 'openmotor' (Linux)
+Otomato,platforms,,"iOS, Android",,,https://otomato.xyz,live,Platforms-only row: official site links App Store (otomato-defi-alerts) and Play Store (com.otomato.app); pricing unconfirmed from whitelisted fetches so no license badge row
+Otphelper,license,,Open source,"SPDX AGPL-3.0-or-later; raw LICENSE is GNU AGPL v3 text with ""or any later version"" grant",,https://raw.githubusercontent.com/jd1378/otphelper/master/LICENSE,live,Repo name 'otphelper' exact match (jd1378/otphelper; described as open-source OTP-from-notifications app); note F-Droid labels this package AGPL-3.0-only but raw LICENSE text governs
+Otphelper,platforms,,Android,,,https://f-droid.org/en/packages/io.github.jd1378.otphelper,live,F-Droid lists Android apps only; repo is an Android notification-listener app
+POSTIDENT,license,,Proprietary — free,Deutsche Post AG app; App Store listing Free,,https://apps.apple.com/us/app/postident/id999762739,live,iTunes lookup id 999762739: 'POSTIDENT' by Deutsche Post AG price 0.0
+POSTIDENT,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=de.deutschepost.postident&hl=en,live,Play Store title 'POSTIDENT' by Deutsche Post AG (package de.deutschepost.postident); iOS via App Store id 999762739
+Paperguide,license,,Proprietary — freemium,"Free plan plus paid tiers (Plus $12/mo, Pro $29/mo) per official site",,https://paperguide.ai/blog/academic-research-ai/,live,Official paperguide.ai comparison lists free plan plus paid plans from $12/mo
+Paperguide,platforms,,Web,,,https://paperguide.ai/blog/academic-research-ai/,live,"Web-based AI research platform (AI Search, Paper Writer, Reference Manager)"
+Paperless Gpt,license,,Open source,"MIT License (raw LICENSE, Copyright (c) 2024 Icereed; SPDX MIT via GitHub API)",,https://github.com/icereed/paperless-gpt,live,Self-hosted AI companion service for paperless-ngx (Docker); no end-user OS platform stated — license-only row. Catalog name is spaced variant of paperless-gpt; icereed repo is the canonical upstream referenced by TrueNAS app request
+PariDroid,license,,Open source,SPDX GPL-3.0-or-later; F-Droid package fr.ubordeaux.math.paridroid,Android,https://f-droid.org/packages/fr.ubordeaux.math.paridroid/,live,F-Droid lists FOSS only; native port of PARI/GP computer algebra system to Android
+PariDroid,platforms,,Android,,,https://f-droid.org/packages/fr.ubordeaux.math.paridroid/,live,F-Droid lists Android apps only; official project site also notes Google Play availability
+Paymium,license,,Proprietary — free,Proprietary French crypto exchange (MiCA CASP authorised); free account with trading fees on executed orders per official trading rules,,https://paymium-public-files.s3.fr-par.scw.cloud/rules/rules_of_the_trading_platform.pdf,live,Official trading rules describe platform access and fee structure; no subscription tier
+Paymium,platforms,,"Web, Android, iOS",,,https://paymium-public-files.s3.fr-par.scw.cloud/rules/rules_of_the_trading_platform.pdf,live,"Official trading rules: accessible via Web interface (paymium.com), Mobile applications (App Store and Google Play), and API"
+Perlprimer,license,,Open source,GNU General Public License version 2.0 (GPLv2) per official SourceForge project page,,https://sourceforge.net/projects/perlprimer/,live,PubMed abstract (PMID 15073005) also describes it as open-source and freely available
+Perlprimer,platforms,,"Windows, macOS, Linux",,,https://sourceforge.net/projects/perlprimer/,live,SourceForge project page lists Windows / Mac / Linux / BSD; developed and tested on Windows and GNU/Linux
+Photolemur,license,,Proprietary — freemium,Free version plus paid full version per official user guide,,https://photolemur.com/uploads/uploads/pages/user-manual/PhotolemurUserGuideMac.pdf,live,Official user guide references both the free version and the full version; Skylum product
+Photolemur,platforms,,"macOS, Windows",,,https://skylum.com/hans/photolemur-vs-luminar-neo,live,Official Skylum page: application and plugin for macOS and Windows
+Plus AI,license,,Proprietary — paid subscription,"Paid plans only: Basic $10-15, Pro $20-25, Team $30-40, Max $200-240 per user/mo; 7-day trial, no permanent free plan",,https://plusai.com/pricing,live,Official pricing page: all plans start with a 7-day free trial with 1000 AI credits; no ongoing free plan listed
+Plus AI,platforms,,Web,,,https://plusai.com/pricing,live,AI add-in for Google Slides and PowerPoint; delivered as web add-in
+Polywallets,platforms,,Web,,,https://github.com/keon/polywallets,live,"Next.js web project (""Wallet scan for Polymarket""); repo has no LICENSE file, so no license row"
+Presenti.ai,license,,Proprietary — freemium,Free tier + Pro plan $8/month,,https://www.presenti.ai/,live,free and Pro plan pricing observed on official homepage
+Presenti.ai,platforms,,Web,,,https://www.presenti.ai/,live,AI Presentation Maker: edit slides online per official site title/meta
+Profex,license,,Open source,GPL-2.0-or-later: official manual states licensed under GNU GPL version 2 or any later version,,http://profex.doebelin.org/wp-content/uploads/2019/08/Profex-BGMN-Part-1-Installation-EN.pdf,live,official Profex user manual (doebelin.org)
+Profex,platforms,,"Windows, Linux, macOS",,,http://profex.doebelin.org/wp-content/uploads/2019/08/Profex-BGMN-Part-1-Installation-EN.pdf,live,"official manual: runs on Windows, Linux, and Mac OS X; install sections for all three"
+Proxypal,license,,Open source,"MIT License (raw LICENSE text, Copyright (c) 2026 huynhgiabuu)",,https://github.com/buddingnewinsights/proxypal,live,self-audited against raw LICENSE
+Proxypal,platforms,,"macOS, Windows, Linux",,,https://github.com/buddingnewinsights/proxypal,live,README Supported Platforms table
+QKSMS,license,,Open source,GPL-3.0: raw LICENSE is GNU GPL v3 text; README describes it as open source,,https://github.com/moezbhatti/qksms,live,self-audited against raw LICENSE
+QKSMS,platforms,,Android,,,https://github.com/moezbhatti/qksms,live,README: open source replacement to the stock messaging app on Android
+Qalculate,license,,Open source,GPL-2.0: raw COPYING in Qalculate/qalculate-gtk is GNU GPL v2 text,,https://github.com/Qalculate/qalculate-gtk,live,self-audited against raw COPYING
+Qalculate,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://qalculate.github.io/downloads.html,live,official downloads page lists binaries for all five
+Qnotero,license,,Open source,GPL-2.0: raw COPYING is GNU GPL v2 text (Sebastiaan Mathot),,https://github.com/smathot/qnotero,live,self-audited against raw COPYING
+Qnotero,platforms,,"Windows, Linux",,,https://github.com/smathot/qnotero,live,repo ships setup-windows.py + qnotero.nsi (Windows) and debian/ packaging (Linux)
+Qualified,license,,Proprietary — free,,,https://itunes.apple.com/search?term=Qualified%20Mobile&entity=software&limit=2&country=US,live,"App Store 'Qualified Mobile' id 1581020668 by Qualified.com, Inc., Free; official vendor client (qualified.com/mobile); catalog name is base-name variant"
+Qualified,platforms,,iOS,,,https://itunes.apple.com/search?term=Qualified%20Mobile&entity=software&limit=2&country=US,live,App Store id 1581020668
+Quassel,license,,Open source,"SPDX GPL-2.0-or-later; raw COPYING (quassel/quassel): either version 2 of the License, or (at your option) version 3",,https://raw.githubusercontent.com/quassel/quassel/master/COPYING,live,GitHub API returned NOASSERTION; raw COPYING text governs; license-only row
+Quizbite,license,,Open source,SPDX GPL-3.0; raw COPYING is GPL v3 text (mohfy/quizbite),,https://raw.githubusercontent.com/mohfy/quizbite/master/COPYING,live,Name collision: quizbite.co subscription service and iOS 'Quizbite: Learn with Quizzes' are different products; catalog match is the open-source GNOME app
+Quizbite,platforms,,Linux,,,https://flathub.org/en/apps/dev.mohfy.quizbite,live,Flathub dev.mohfy.quizbite flatpak
+Qutemol,license,,Open source,SPDX GPL-2.0; raw LICENSE is GPL v2 text (zulman/qutemol),,https://raw.githubusercontent.com/zulman/qutemol/master/LICENSE,live,License-only row; platform evidence thin in fetched pages
+Rakazo,license,,Open source,Apache-2.0; raw LICENSE is Apache 2.0 text (elie222/rakazo); README links rakazo.com matching App Store seller Inbox Zero Inc.,,https://raw.githubusercontent.com/elie222/rakazo/main/LICENSE,live,Self-audited against raw LICENSE text
+Rakazo,platforms,,iOS,,,https://itunes.apple.com/search?term=Rakazo&entity=software&limit=1&country=US,live,"App Store exact name match id 6801531099 by Inbox Zero Inc., Free"
+React Proto,license,,Open source,"MIT; raw LICENSE.md is MIT text, Copyright (c) 2018 React-Proto",,https://raw.githubusercontent.com/React-Proto/react-proto/master/LICENSE.md,live,Self-audited against raw LICENSE text
+React Proto,platforms,,"macOS, Windows, Linux",,,https://raw.githubusercontent.com/React-Proto/react-proto/master/README.md,live,"README lists downloads: macOS dmg, Windows exe, Linux deb; Electron app"
+Reticulum Meshchat,license,,Open source,MIT License; raw LICENSE Copyright (c) 2024 Liam Cottle,,https://raw.githubusercontent.com/liamcottle/reticulum-meshchat/master/LICENSE,live,
+Reticulum Meshchat,platforms,,"Windows, macOS, Linux",,,https://github.com/liamcottle/reticulum-meshchat,live,README Download section lists releases for Windows Mac and Linux
+Rkward,license,,Open source,GPL-2.0-or-later; KDE apps page declares SPDX GPL-2.0+,,https://apps.kde.org/rkward/,live,
+Rkward,platforms,,"Windows, macOS, Linux",,,https://rkward.kde.org/,live,Official site: Download RKWard for macOS Windows GNU/Linux
+Rocketmq Rust,license,,Open source,Apache-2.0; raw LICENSE-APACHE text (mxsm/rocketmq-rust),,https://raw.githubusercontent.com/mxsm/rocketmq-rust/main/LICENSE-APACHE,live,Rust reimplementation of Apache RocketMQ; no end-user OS platform
+Relai,license,,Proprietary — freemium,free app (iTunes id 1513185997); official site FAQ: 1% fee on buy/sell,,https://relai.app/,live,
+Relai,platforms,,iOS,,,https://itunes.apple.com/lookup?id=1513185997,live,Relai: Bitcoin Einfach Kaufen by Relai App GmbH; Android listing unconfirmed kept iOS-only
+Realtime Action Recognition,license,,Open source,MIT License; raw LICENSE Copyright (c) 2019 Feiyu Chen (felixchenfy/Realtime-Action-Recognition),,https://raw.githubusercontent.com/felixchenfy/Realtime-Action-Recognition/master/LICENSE,live,Research project; no end-user OS platform
+SERIES - 네이버 시리즈,license,,Proprietary — freemium,free app (iTunes id 433592412); series.naver.com shows cookie price guide for paid episodes,,https://series.naver.com/,live,
+SERIES - 네이버 시리즈,platforms,,iOS,,,https://itunes.apple.com/lookup?id=433592412,live,Exact catalog-name match by NAVER WEBTOON Ltd.
+Rpg Dice Roller,license,,Open source,MIT License; raw licence.txt Copyright GreenImp (dice-roller/rpg-dice-roller),,https://raw.githubusercontent.com/dice-roller/rpg-dice-roller/main/licence.txt,live,JavaScript dice-rolling library; no end-user OS platform
+Safe Exam Browser,license,,Open source,MPL-2.0; raw LICENSE.txt is Mozilla Public License Version 2.0 text; GitHub API SPDX MPL-2.0,,https://github.com/SafeExamBrowser/seb-win-refactoring,live,Official release notes: source code license changed to MPL 2.0
+Safe Exam Browser,platforms,,"Windows, macOS, iOS",,,https://github.com/safeexambrowser/seb-server-setup/blob/HEAD/README.rst,live,Official README: freeware application available for Windows macOS and iOS
+SafePal,license,,Proprietary — free,free non-custodial software wallet; iTunes 'SafePal: Crypto Wallet BTC NFT' by SAFEPAL LTD. price $0.00,,https://www.safepal.com/en/,live,Official site offers the app; no paid tier for the base wallet app
+SafePal,platforms,,"Android, iOS",,,https://www.safepal.com/en/,live,Official site: SafePal app for iOS and Android
+Sendsteps,license,,Proprietary — freemium,freemium plan with premium packages starting at $6.50/month (official site),,https://www.sendsteps.com/en/beautiful-ai-vs-sendsteps/,live,Official comparison page states freemium plan plus paid packages
+Sendsteps,platforms,,Web,,,https://www.sendsteps.com/en/beautiful-ai-vs-sendsteps/,live,Web app with PowerPoint add-in and Microsoft Teams integration
+Shhots AI,license,,Proprietary — paid subscription,no free tier; plans from $19/month Starter (official site),,https://shhots.ai/ai-ugc-ads/,live,Official site: paid-only plans with commercial license on every plan
+Shhots AI,platforms,,Web,,,https://shhots.ai/ai-ugc-ads/,live,Web-based AI ad generator; upload photo or paste URL workflow
+Sigviewer,license,,Open source,GPL-3.0; raw LICENSE is GNU General Public License v3 text (cbrnr/sigviewer),,https://github.com/cbrnr/sigviewer,live,README: SigViewer is distributed under the GNU General Public License v3.0
+Sigviewer,platforms,,"Windows, macOS, Linux",,,https://github.com/cbrnr/sigviewer,live,Pre-built packages for Windows macOS Linux x86-64 and AARCH64
+SlidesAI,license,,Proprietary — freemium,Basic free plan ($0) plus Pro $10/month and Premium $20.83/month (official pricing),,https://www.slidesai.io/pricing,live,Official pricing page: Basic $0 free tier with 12 presentations/year
+SlidesAI,platforms,,Web,,,https://www.slidesai.io/pricing,live,Web app; generates decks inside Google Slides and Microsoft PowerPoint
+SmartHR（スマートエイチアール）,license,,Proprietary — paid subscription,cloud HR SaaS sold on subscription billing (recurring-revenue model),,https://smarthr.co.jp/,live,Japanese cloud HR/labor SaaS; subscription pricing per official site
+SmartHR（スマートエイチアール）,platforms,,Web,,,https://smarthr.co.jp/,live,Cloud-based back-office system accessed via browser
+SolScan,license,,Proprietary — freemium,free block explorer plus paid Pro API tier,,https://solscan.io/aboutus,live,Official about page: free explorer services and commercial Pro API
+SolScan,platforms,,Web,,,https://solscan.io/aboutus,live,Web-native Solana block explorer interface
+Solana Explorer,license,,Open source,"MIT License (raw LICENSE is MIT text, Copyright (c) 2023 Solana Labs, Inc; GitHub API SPDX MIT)",,https://github.com/solana-foundation/explorer,live,Self-audited: raw LICENSE is MIT text; repo is the Solana cluster explorer
+Solana Explorer,platforms,,Web,,,https://github.com/solana-foundation/explorer,live,"README: ""The Solana Explorer is a web application that allows users to explore the Solana blockchain"""
+Staden,license,,Open source,BSD License (SourceForge project page lists BSD License; staden.sourceforge.net describes it as open source software),,https://sourceforge.net/projects/staden/,live,Self-audited: SourceForge project metadata lists BSD License; variant not specified upstream
+Staden,platforms,,"macOS, Linux, Windows",,,https://staden.sourceforge.net/,live,"Download list includes MacOSX dmg, linux-x86_64 tarballs, and windows i386/x86_64 exes"
+Stealing Ur Feelings,platforms,,Web,,,https://github.com/noahlevenson/stealing-ur-feelings,live,No license declared (GitHub API license None; open issue 'No license is given') so no license row; repo is the canonical Mozilla-prize interactive web film (stealingurfeelin.gs)
+Stoic AI,license,,Proprietary — paid subscription,Official pricing lists Starter / Plus / Pro monthly and yearly plans (Pro yearly $399); no free tier offered,,https://stoic.ai/pricing,live,AI automated crypto trading bot; recurring paid tiers only
+Stoic AI,platforms,,Web,,,https://stoic.ai/,live,Web-based crypto trading bot service (official site live)
+Superhuman AI,platforms,,iOS,,,https://itunes.apple.com/search?term=Superhuman&entity=software&limit=5&country=US,live,iTunes: 'Superhuman Mail' by SUPERHUMAN LABS INC. (id 1120837655) — title variant of catalog name; subscription pricing not verifiable from whitelisted fetches so no license row; kept iOS-only per accuracy directive
+Supertokens Core,license,,Open source,Apache-2.0 (LICENSE.md: content outside ee/ under Apache 2.0; ee/ directory under separate enterprise license — open-core model),,https://github.com/supertokens/supertokens-core,live,Self-audited: raw LICENSE.md is Apache 2.0 text with ee/ carve-out; self-hosted auth backend so license-only row
+Survex Aven,license,,Open source,GPL (survex.com states Survex is licensed under the GPL; version not specified upstream),,https://survex.com/,live,Self-audited: official site declares GPL without version; Aven is the Survex cave-survey data viewer
+Survex Aven,platforms,,"Linux, macOS, Windows",,,https://survex.com/,live,"Official site: runs on Linux/Unix, macOS, and Microsoft Windows"
+TAPAAL,platforms,,"Linux, Windows, macOS",,,https://tapaal.net/,live,"Official site: runs on 'Linux, Windows and Mac OS X platforms'; no license declared in TAPAAL/TAPAAL or tapaal/tapaal-gui repos (no LICENSE file, API license None) so no license row"
+TTSReader,license,,Proprietary — freemium,"Free and paid tiers (official homepage: ""Free and paid tiers to accomodate everyone""; free voices alongside premium AI voices)",,https://ttsreader.com/,live,Online text-to-speech reader with free tier and paid premium voices
+TTSReader,platforms,,Web,,,https://ttsreader.com/,live,Web-based text-to-speech reader (official site live)
+Tad AI,license,,Proprietary — freemium,Official pricing page shows Free tier plus Pro paid plans (per-month billing),,https://tad.ai/pricing,live,AI music generator; free tier for new accounts plus recurring paid Pro plans
+Tad AI,platforms,,Web,,,https://tad.ai/,live,"Web-based AI music creation platform (official site: ""premier AI music creation platform"")"
+Tdesktop,license,,Open source,"GPL-3.0; raw LICENSE is GNU GPL v3 text (telegramdesktop/tdesktop)",,https://github.com/telegramdesktop/tdesktop,live,Telegram Desktop messaging app
+Tdesktop,platforms,,"Windows, macOS, Linux",,,https://desktop.telegram.org/,live,official download page lists Windows macOS and Linux builds
+Tex Match,license,,Open source,"MIT License; Copyright 2020 Zoey Sheffield (zoeyfyi/TeX-Match)",,https://github.com/zoeyfyi/TeX-Match,live,catalog name is spaced variant of TeX Match; license text self-audited via API license content
+Tex Match,platforms,,"Linux, Windows, macOS",,,https://github.com/zoeyfyi/TeX-Match,live,"README downloads: Linux binary/Flatpak/Snap/AUR, Windows Microsoft Store, macOS binary; Flathub fyi.zoey.TeX-Match"
+Twenty,license,,Open source,"AGPL-3.0; LICENSE states project mostly under AGPLv3 with certain files under commercial license (open-core model)",,https://github.com/twentyhq/twenty,live,open-core qualification noted in license_detail
+Twenty,platforms,,Web,,,https://github.com/twentyhq/twenty,live,README: Cloud offering plus self-hosting via Docker Compose
+Use Send,license,,Open source,"AGPL-3.0; raw LICENSE is GNU AGPL v3 text (usesend/useSend)",,https://github.com/usesend/useSend,live,"open-source Resend/SendGrid/Postmark alternative; license-only row (self-hosted email API, no end-user OS platform stated)"
+WageBit,license,,Open source,Apache-2.0 (raw LICENSE text),,https://raw.githubusercontent.com/luv453/WageBit/master/LICENSE,live,GitHub repo luv453/WageBit README declares Apache-2.0; raw LICENSE verified as Apache License 2.0 text
+WageBit,platforms,,Android,,,https://f-droid.org/en/packages/com.wagebit.app/,live,F-Droid package com.wagebit.app exact name match; F-Droid lists Android apps only
+WOO X,license,,Proprietary — free,free mobile app; exchange revenue from trading fees,,https://x.woo.org/,live,WOO X crypto exchange mobile app
+WOO X,platforms,,iOS,,,https://itunes.apple.com/search?term=WOO%20X&entity=software&limit=8&country=US,live,iTunes match 'WOO X Pro: Buy & Sell Crypto' by Wootech Limited (Free); catalog name is base variant of title; Android unconfirmed - kept iOS-only per accuracy directive
+Web Vella ERP,license,,Open source,Apache-2.0 (raw LICENSE.txt),,https://raw.githubusercontent.com/WebVella/WebVella-ERP/master/LICENSE.txt,live,raw LICENSE.txt is Apache License 2.0 text (license-text governs over GitHub API NOASSERTION)
+Web Vella ERP,platforms,,Web,,,https://github.com/WebVella/WebVella-ERP,live,self-hosted ASP.NET Core ERP/CRM web app; repo description states it targets Linux or Windows as host OS
+WellSaid Labs,license,,Proprietary — paid subscription,"Starter $10/user/mo, Pro $33/user/mo, Business $160/user/mo (billed annually); free trial only, no free tier",,https://www.wellsaidlabs.com/pricing,live,"paid tiers observed on official pricing page; free trial offered, no free tier found"
+WellSaid Labs,platforms,,Web,,,https://www.wellsaidlabs.com/,live,AI voice generation platform delivered as a web app
+Wmail,license,,Open source,MPL-2.0,,https://github.com/Thomas101/wmail,live,GitHub API SPDX MPL-2.0; repo archived (discontinued desktop Gmail client); license-only row as platforms unconfirmed from fetched sources
+Wordwyrm,license,,Proprietary — free,,,https://itunes.apple.com/search?term=wordwyrm&entity=software&limit=1&country=US,live,"iTunes exact match 'wordwyrm' by Priyanka Subramaniam, Free, Games category"
+Wordwyrm,platforms,,iOS,,,https://itunes.apple.com/search?term=wordwyrm&entity=software&limit=1&country=US,live,iOS game via App Store exact name match
+Xfce4 Dict,license,,Open source,SPDX GPL-2.0; raw COPYING is GNU GPL v2 text (gitlab.xfce.org/apps/xfce4-dict),,https://gitlab.xfce.org/apps/xfce4-dict/-/blob/master/COPYING,live,Xfce dictionary client; raw license text governs
+Xfce4 Dict,platforms,,Linux,,,https://gitlab.xfce.org/apps/xfce4-dict,live,Xfce desktop app (Linux); project description: client program to query different dictionaries
+Zap,license,,Open source,"MIT License; raw LICENSE text (Copyright (c) 2017-present Jack Mallers, Ln-Zap/zap-desktop)",,https://github.com/Ln-Zap/zap-desktop,live,Lightning Network wallet; raw LICENSE self-audited
+Zap,platforms,,"Windows, macOS, Linux",,,https://github.com/Ln-Zap/zap-desktop,live,"README has install sections for macOS, Windows, Linux"
+altFINS,platforms,,Web,,,https://altfins.com/,live,"Title: #1 Cryptocurrency Analytics Platform | Best Crypto Screener | altFINS; pricing page JS-rendered so no license row"
+beaconcha.in,license,,Open source,GPL-3.0; raw LICENSE is GNU GPL v3 text (gobitfly/eth2-beaconchain-explorer),,https://github.com/gobitfly/eth2-beaconchain-explorer,live,Ethereum beacon chain explorer; raw LICENSE self-audited
+beaconcha.in,platforms,,Web,,,https://github.com/gobitfly/eth2-beaconchain-explorer,live,Web-based chain explorer (site beaconcha.in itself)
+bitFlyer,license,,Proprietary — free,Free app; crypto exchange (trading fees apply),,https://itunes.apple.com/search?term=bitFlyer&entity=software&limit=5&country=US,live,iTunes exact match 'bitFlyer: Trade Crypto' by bitFlyer Inc. Free
+bitFlyer,platforms,,iOS,,,https://itunes.apple.com/search?term=bitFlyer&entity=software&limit=5&country=US,live,Android Play candidate com.bitflyer.android.bfwallet detail fetch blocked; kept iOS-only per accuracy directive
+bitbank,license,,Proprietary — free,Free app (無料); Japanese crypto exchange,,https://itunes.apple.com/search?term=bitbank&entity=software&limit=6&country=JP,live,iTunes JP exact match 'bitbank ビットコイン・暗号資産（仮想通貨）取引' by bitbank inc. 無料
+bitbank,platforms,,iOS,,,https://itunes.apple.com/search?term=bitbank&entity=software&limit=6&country=JP,live,Android unconfirmed from whitelisted sources; kept iOS-only per accuracy directive
+blinken,license,,Open source,SPDX GPL-2.0-or-later (KDE apps page license link),,https://apps.kde.org/blinken/,live,KDE memory game
+blinken,platforms,,Linux,,,https://apps.kde.org/blinken/,live,KDE application (Linux)
+cbonsai,license,,Open source,GPL-3.0-or-later; canonical repo gitlab.com/jallbrit/cbonsai,,https://github.com/conda-forge/cbonsai-feedstock,live,Package license GPL-3.0-or-later; corroborated by GNU Guix (GPL 3+) and cbonsai-saver THIRD_PARTY_NOTICES (GitLab raw blocked by policy)
+cbonsai,platforms,,"Linux, macOS",,,https://github.com/conda-forge/cbonsai-feedstock,live,Feedstock builds linux_64 and osx_64 variants; terminal ncurses bonsai generator
+chessmd,license,,Open source,MIT License; GitHub API SPDX MIT (eguneys/chessmd),,https://github.com/eguneys/chessmd,live,Static Chess Blog Generator JS library; license-only row (dev library no end-user OS platform)
+dici,license,,Open source,"MIT License; raw LICENSE text Copyright (c) 2025 Luis Louro",,https://github.com/lapisdecor/dici,live,Self-audited raw LICENSE is MIT text; snap store also declares MIT
+dici,platforms,,Linux,,,https://snapcraft.io/dici,live,Portuguese dictionary for the terminal; distributed as snap
+eXeLearning,license,,Open source,AGPL-3.0; GitHub API SPDX AGPL-3.0 (exelearning/exelearning),,https://github.com/exelearning/exelearning,live,License-only row; repo describes itself as AGPL-licensed free/libre educational authoring tool
+fbrary - Audio Book Manager,license,,Open source,GPL-3.0; GitHub API SPDX GPL-3.0 (b0wter/fbrary),,https://github.com/b0wter/fbrary,live,CLI audiobook library manager
+fbrary - Audio Book Manager,platforms,,"Windows, macOS, Linux",,,https://github.com/b0wter/fbrary,live,README: binary releases for Linux OSX and Windows
+goldendictionary,license,,Open source,GPL-3.0; snap store declares GPL-3.0,,https://snapcraft.io/install/goldendictionary/debian,live,Snap of goldendict dictionary app; contact github.com/liu-xiao-guo/goldendict
+goldendictionary,platforms,,Linux,,,https://snapcraft.io/install/goldendictionary/debian,live,Distributed as Linux snap
+heimer,license,,Open source,GPL-3.0; raw COPYING is GNU GPL v3 text,,https://github.com/juzzlin/Heimer,live,Self-audited raw COPYING from canonical repo
+heimer,platforms,,"Linux, Windows",,,https://github.com/juzzlin/Heimer,live,README: desktop mind-map app targeted for Linux and Windows
+iAEON-イオンペイも使える！「アイイオン」,license,,Proprietary — free,Official AEON Group app by AEON Smart Technology; free download,,https://play.google.com/store/apps/details?id=jp.co.aeonst.app.myaeon,live,iTunes JP id1565489157 price 0.00; no paid tiers observed
+iAEON-イオンペイも使える！「アイイオン」,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=jp.co.aeonst.app.myaeon,live,Play listing jp.co.aeonst.app.myaeon; iTunes JP id1565489157 iosUniversal
+jgex,license,,Open source,SPDX GPL-3.0; raw LICENSE: 'Java Geometry Expert is free under the GNU General Public License (GPL)... see https://gnu.org/licenses/gpl-3.0.html',,https://raw.githubusercontent.com/kovzol/Java-Geometry-Expert/master/LICENSE,live,repo kovzol/Java-Geometry-Expert; official title 'Java Geometry Expert'; catalog name is lowercase variant
+jgex,platforms,,"Windows, macOS, Linux",,,https://github.com/kovzol/Java-Geometry-Expert/releases/tag/0.87,live,"release 0.87 offers Windows .exe installer, Mac .pkg installer, Linux AppImage/.deb/.rpm/snap"
+kbreakout,license,,Open source,SPDX GPL-2.0-or-later; official apps.kde.org page declares GPL-2.0+; invent.kde.org games/kbreakout LICENSES/ contains GPL-2.0-or-later.txt (REUSE),,https://apps.kde.org/kbreakout/,live,official KDE site; catalog name lowercase variant of 'KBreakOut'
+kbreakout,platforms,,"Linux, Windows",,,https://apps.kde.org/kbreakout/,live,'Install on Linux' (Flathub/Snap/distro); 'Other platforms: Windows' links KDE CI Windows builds
+kig,license,,Open source,SPDX GPL-2.0-or-later; official apps.kde.org page declares GPL-2.0-or-later; invent.kde.org education/kig LICENSES/ contains GPL-2.0-or-later.txt (REUSE),,https://apps.kde.org/kig/,live,official KDE site; Kig interactive geometry software
+kig,platforms,,"Linux, macOS",,,https://apps.kde.org/kig/,live,'Install on Linux' (Flathub/Snap/distro); 'Other platforms: macOS' listed
+killbots,license,,Open source,SPDX GPL-2.0-or-later; official apps.kde.org page declares GPL-2.0+ (docs GFDL-1.3); invent.kde.org games/killbots LICENSES/ contains GPL-2.0-or-later.txt (REUSE),,https://apps.kde.org/killbots/,live,official KDE site
+killbots,platforms,,"Linux, macOS, Windows",,,https://apps.kde.org/killbots/,live,"'Install on Linux' (Flathub/Snap/distro); 'Other platforms: macOS, Windows' listed"
+klickety,license,,Open source,SPDX GPL-2.0-or-later; official apps.kde.org page declares GPL-2.0+; invent.kde.org games/klickety LICENSES/ contains GPL-2.0-or-later.txt (REUSE),,https://apps.kde.org/klickety/,live,official KDE site
+klickety,platforms,,"Linux, macOS, Windows",,,https://apps.kde.org/klickety/,live,"'Install on Linux' (Flathub/Snap/distro); 'Other platforms: macOS, Windows' listed"
+kmines,license,,Open source,SPDX GPL-2.0-or-later; official apps.kde.org page declares GPL-2.0+; invent.kde.org games/kmines LICENSES/ contains GPL-2.0-or-later.txt (REUSE),,https://apps.kde.org/kmines/,live,official KDE site
+kmines,platforms,,"Linux, macOS, Windows",,,https://apps.kde.org/kmines/,live,"'Install on Linux' (Flathub/Snap/distro); 'Other platforms: macOS, Windows' listed"
+kollision,license,,Open source,SPDX GPL-2.0-or-later; official apps.kde.org page declares GPL-2.0+; invent.kde.org games/kollision LICENSES/ contains GPL-2.0-or-later.txt (REUSE),,https://apps.kde.org/kollision/,live,official KDE site
+kollision,platforms,,"Linux, macOS, Windows",,,https://apps.kde.org/kollision/,live,"'Install on Linux' (Flathub/Snap/distro); 'Other platforms: macOS, Windows' listed"
+kshisen,license,,Open source,SPDX GPL-2.0-or-later; official apps.kde.org page declares GPL-2.0+; invent.kde.org games/kshisen LICENSES/ contains GPL-2.0-or-later.txt (REUSE),,https://apps.kde.org/kshisen/,live,official KDE site
+kshisen,platforms,,"Linux, macOS, Windows",,,https://apps.kde.org/kshisen/,live,"'Install on Linux' (Flathub/Snap/distro); 'Other platforms: macOS, Windows' listed"
+ksquares,license,,Open source,SPDX GPL-2.0-or-later; official apps.kde.org page declares GPL-2.0+; invent.kde.org games/ksquares LICENSES/ contains GPL-2.0-or-later.txt (REUSE),,https://apps.kde.org/ksquares/,live,official KDE site
+ksquares,platforms,,"Linux, macOS, Windows",,,https://apps.kde.org/ksquares/,live,"'Install on Linux' (Flathub/Snap/distro); 'Other platforms: macOS, Windows' listed"
+kubrick,license,,Open source,SPDX GPL-2.0-or-later; official apps.kde.org page declares GPL-2.0+; invent.kde.org games/kubrick LICENSES/ contains GPL-2.0-or-later.txt (REUSE),,https://apps.kde.org/kubrick/,live,official KDE site
+kubrick,platforms,,"Linux, macOS",,,https://apps.kde.org/kubrick/,live,'Install on Linux' (Flathub/Snap/distro); 'Other platforms: macOS' listed
+maitreya8,license,,Open source,"GPL-2.0-or-later; raw COPYING: 'distributed under terms of the GNU GPL v. 2.0 or later' (Copyright Martin Pettau)",,https://github.com/martin-pe/maitreya8,live,Self-audit: raw COPYING text governs over Snap Store 'GPL-2.0+' shorthand
+maitreya8,platforms,,"Windows, macOS, Linux, UNIX",,,https://snapcraft.io/maitreya8,live,"Snap Store: 'Supported platforms are Windows, Max OS X, Linux and UNIX'"
+mcomix-tabetai,license,,Open source,GPL-2.0 (Snap Store license field),,https://snapcraft.io/mcomix-tabetai,live,Snap package of MComix (tabetai publisher); Snap Store lists license GPL-2.0
+mcomix-tabetai,platforms,,Linux,,,https://snapcraft.io/mcomix-tabetai,live,Snap package — installs on Linux distributions via snapd
+myFFF | Équipes & Compétitions,license,,Proprietary — free,Free official app; no in-app purchases,,https://itunes.apple.com/lookup?id=1442552191&country=FR,live,"App Store exact match id 1442552191 by FEDERATION FRANCAISE FOOTBALL - FFF, price Gratuit, no IAP"
+myFFF | Équipes & Compétitions,platforms,,iOS,,,https://itunes.apple.com/lookup?id=1442552191&country=FR,live,App Store listing (iPhone/iPad app)
+nteract,license,,Open source,"BSD-3-Clause; raw LICENSE: BSD 3-Clause License, Copyright (c) 2024 runtimed",,https://raw.githubusercontent.com/nteract/nteract/main/LICENSE,live,Self-audit: raw LICENSE text confirms GitHub API SPDX BSD-3-Clause
+nteract,platforms,,"macOS, Windows, Linux",,,https://nteract.io/desktop,live,"Official desktop download page lists macOS, Windows, Linux builds"
+pathogenie,license,,Open source,"GPL-3.0; raw LICENSE is GNU GPL v3 text; README badge 'License: GPL v3'",,https://github.com/dmnfarrell/pathogenie,live,Self-audit: raw LICENSE text governs; desktop + CLI microbial genome annotation tool
+plastimatch,license,,Open source,"BSD-style license; plastimatch.org: 'Plastimatch license (BSD-style)'; GitLab: 'Plastimatch is an open source software for image computation'",,https://plastimatch.org/,live,Full LICENSE.TXT text not retrievable from repo; badge rests on official site's BSD-style license statement
+pseqsid,license,,Open source,"MIT; raw LICENSE: MIT License, Copyright (c) 2022 Amaury Pupo",,https://github.com/amaurypm/pseqsid,live,Self-audit: raw LICENSE text confirms GitHub API SPDX MIT; Python CLI sequence-identity tool — license-only row
+pyresistors,license,,Open source,"MIT License (raw LICENSE.md, Copyright (c) 2016 Götz Christ)",,https://github.com/goetzc/pyresistors,live,"GitHub API SPDX MIT; raw LICENSE.md is MIT text; no platform statement in repo → license-only row"
+qelectrotech,license,,Open source,GNU General Public License v2 (raw LICENSE is GPL v2 text),,https://github.com/qelectrotech/qelectrotech-source-mirror,live,GitHub API SPDX GPL-2.0 agrees; raw LICENSE governs
+qelectrotech,platforms,,"Windows, macOS, Linux",,,https://qelectrotech.org/,live,Official site: available for Windows / Mac and Linux
+qtiplot-wrap,license,,Open source,GPL-2.0-only (Snap Store package license),,https://snapcraft.io/qtiplot-wrap,live,"Snap package 'qtiplot-wrap' (wrapper to run QtiPlot on distros without qt4); store page declares GPL-2.0-only"
+qtiplot-wrap,platforms,,Linux,,,https://snapcraft.io/qtiplot-wrap,live,"Snap package; works on Ubuntu, Fedora, Debian and other major Linux distributions"
+scantailor-advanced,license,,Open source,GNU General Public License v3 (raw LICENSE is GPL v3 text),,https://github.com/4lex4/scantailor-advanced,live,GitHub API SPDX GPL-3.0 agrees; raw LICENSE governs
+scantailor-advanced,platforms,,"Windows, Linux",,,https://github.com/4lex4/scantailor-advanced/releases,live,Windows via release .exe assets (win32/win64); Linux via snapcraft.io install page
+tldr,license,,Open source,Creative Commons Attribution 4.0 International (raw LICENSE.md),,https://github.com/tldr-pages/tldr,live,GitHub API NOASSERTION but raw LICENSE.md is CC-BY-4.0 text; markdown cheatsheet collection → license-only row
+zasper,license,,Open source,GNU Affero General Public License v3 (raw LICENSE is AGPL v3 text),,https://github.com/zasper-io/zasper,live,GitHub API SPDX AGPL-3.0 agrees; raw LICENSE governs
+zasper,platforms,,"macOS, Linux, Windows",,,https://github.com/zasper-io/zasper,live,README installation table: macOS and Linux supported; Windows binaries published
+القرآن الكريم كاملا دون انترنت,license,,Proprietary — free,Free on App Store (price 0.00); offline Quran reader with no paid tiers observed,iOS,https://itunes.apple.com/lookup?id=1164088669,live,iTunes exact title match by Maher Al Masri
+القرآن الكريم كاملا دون انترنت,platforms,,iOS,,,https://itunes.apple.com/lookup?id=1164088669,live,iTunes exact title match id 1164088669; Android unconfirmed
+コミック シーモアの マンガ 本棚アプリ,platforms,,iOS,,,https://itunes.apple.com/lookup?id=553190752&country=JP,live,iTunes JP exact title match by NTT Solmare id 553190752; coin pricing model unverified so no license row
+ゼブラック：人気の漫画（マンガ）が読めるコミックアプリ,platforms,,iOS,,,https://itunes.apple.com/lookup?id=1487411615&country=JP,live,iTunes JP exact title match by SHUEISHA Inc. id 1487411615; coin pricing model unverified so no license row
+マンガＵＰ！,platforms,,iOS,,,https://itunes.apple.com/lookup?id=1178874028&country=JP,live,iTunes JP exact title match by SQUARE ENIX Co. Ltd. id 1178874028; coin pricing model unverified so no license row
+転職・バイトはIndeed（インディード）,license,,Proprietary — free,Free on App Store and Play Store (no in-app purchases marker); job search free for seekers,"iOS, Android",https://itunes.apple.com/lookup?id=309735670&country=JP,live,iTunes JP exact title match by Indeed Inc. id 309735670; Play com.indeed.android.jobsearch shows no IAP
+転職・バイトはIndeed（インディード）,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch&hl=en,live,Play: Indeed Job Search; iTunes JP id 309735670
+교보문고,platforms,,iOS,,,https://itunes.apple.com/lookup?id=464243977,live,"iTunes exact title match by KYOBO BOOK CENTRE CO,.LTD id 464243977; Android unconfirmed; ebook pricing model unverified so no license row"
+레진코믹스 - 솔직한 재미 대폭발,license,,Proprietary — freemium,Play Store lists In-app purchases and Contains ads; coin-based webtoon purchases,"iOS, Android",https://play.google.com/store/apps/details?id=com.lezhin.comics&hl=en,live,Play com.lezhin.comics (Lezhin Comics - Daily Releases) shows IAP + ads markers
+레진코믹스 - 솔직한 재미 대폭발,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.lezhin.comics&hl=en,live,Play com.lezhin.comics brand-matched; iTunes id 664973122 Lezhin Comics-Premium Webtoons by Lezhin Entertainment
+"마이클 - 정비소 예약, 엔진오일, 타이어, 세차",license,,Proprietary — free,Free on App Store (price 0.00); car-service booking app,iOS,https://itunes.apple.com/lookup?id=1004325731,live,iTunes exact title match by Macarong Factory Inc. id 1004325731
+"마이클 - 정비소 예약, 엔진오일, 타이어, 세차",platforms,,iOS,,,https://itunes.apple.com/lookup?id=1004325731,live,iTunes exact title match id 1004325731; Android unconfirmed
+봄툰-설레이는 웹툰/만화/소설이 여기에,license,,Proprietary — freemium,Play Store lists In-app purchases; coin-based webtoon purchases,"iOS, Android",https://play.google.com/store/apps/details?id=com.bomcomics.bomtoon.playstore&hl=en,live,Play com.bomcomics.bomtoon.playstore (봄툰) shows IAP marker
+봄툰-설레이는 웹툰/만화/소설이 여기에,platforms,,"iOS, Android",,,https://play.google.com/store/apps/details?id=com.bomcomics.bomtoon.playstore&hl=en,live,Play brand-matched; iTunes exact match id 1041858138 by KidariStudio Inc.
+알바천국 - 모든 생애 모든 알바,license,,Proprietary — free,free app; no paid tiers for job seekers,,https://play.google.com/store/apps/details?id=kr.co.alba.webappalba.m,live,"Play: price 0, contains ads, no in-app purchases; dev (주)미디어윌네트웍스; App Store id 996325726 by Mediawill Networks (무료)"
+알바천국 - 모든 생애 모든 알바,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=kr.co.alba.webappalba.m,live,Android via Play kr.co.alba.webappalba.m (exact title match); iOS via App Store id 996325726 exact title match
+영풍문고,license,,Proprietary — free,free bookstore app; no paid tiers,,https://play.google.com/store/apps/details?id=kr.co.ypbooks.mapp,live,"Play: price 0, no in-app purchases, no ads; dev YPBooks; App Store id 6447231557 by YOUNGPOONG BOOKSTORE Co. Ltd (무료)"
+영풍문고,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=kr.co.ypbooks.mapp,live,Android via Play kr.co.ypbooks.mapp (exact title match); iOS via App Store id 6447231557 exact title match
+카드몬: 포켓몬카드 시세,license,,Proprietary — freemium,free download with in-app purchases,,https://play.google.com/store/apps/details?id=com.atlaslabs.cardmon,live,"Play com.atlaslabs.cardmon: price 0, in-app purchases marker present; dev Atlas Labs Studio; iOS id 6780819463 by Atlas Labs (무료)"
+카드몬: 포켓몬카드 시세,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.atlaslabs.cardmon,live,Android via Play com.atlaslabs.cardmon (title 카드몬: 포켓몬카드 시세 조회·카드 스캔·도감); iOS via App Store id 6780819463 exact catalog-name match
+쿠펀치,license,,Proprietary — free,free workforce app for Coupang FC workers; no paid tiers,,https://play.google.com/store/apps/details?id=com.coupang.mobile.coupunch,live,"Play: price 0, no in-app purchases, no ads; dev Coupang Corp.; App Store id 1463753771 by Coupang Corp. (무료)"
+쿠펀치,platforms,,"Android, iOS",,,https://play.google.com/store/apps/details?id=com.coupang.mobile.coupunch,live,Android via Play com.coupang.mobile.coupunch (exact title match); iOS via App Store id 1463753771 exact title match
+Onefilellm,license,,Open source,"MIT License (raw LICENSE, Copyright (c) 2024 Jim McMillan)",,https://github.com/jimmc414/onefilellm,live,"Python CLI tool bundling a repo into one LLM prompt file; license-only row, no end-user OS platform"
+Open Agb Firm,license,,Open source,"SPDX GPL-3.0; raw LICENSE.txt is GNU GPL v3 text",,https://github.com/profi200/open_agb_firm,live,Bare-metal GBA firmware app for Nintendo 3DS
+Open Agb Firm,platforms,,Nintendo 3DS,,,https://github.com/profi200/open_agb_firm,live,"Repo description: bare metal app for running GBA homebrew/games using the 3DS builtin GBA hardware"
+Open Emu,platforms,,macOS,,,https://github.com/OpenEmu/OpenEmu,live,"README purpose is to bring macOS game emulation to first-class citizenship; minimum requirements macOS Mojave 10.14.4. No license row: described as open-source project but no SPDX license file found in primary sources"
+OpenBVE,license,,Open source,"BSD-2-Clause on new code per README License section (all new code licenced under BSD-2 or similar permissive licence; see source headers)",,https://github.com/leezer3/OpenBVE,live,"License-only row; README notes legacy code was public-domain intent, re-licensing planned"
+OpenFodder,license,,Open source,"SPDX GPL-3.0; raw COPYING is GNU GPL v3 text",,https://github.com/OpenFodder/openfodder,live,Open-source port of Cannon Fodder
+OpenFodder,platforms,,"Windows, Linux",,,https://github.com/OpenFodder/openfodder,live,CI windows-build and linux-build badges; README offers Windows build download
+OpenLieroX,license,,Open source,"LGPL-2.0-or-later; debian/copyright declares License LGPL-2+",,https://github.com/openlierox/openlierox,live,Liero/Worms-style 2D shooter clone
+OpenLieroX,platforms,,"Windows, macOS, Linux, Android",,,https://github.com/openlierox/openlierox,live,README: prebuilt builds for Windows macOS Linux and Android
+OpenOMF,license,,Open source,"MIT License; raw LICENSE is MIT text",,https://github.com/omf2097/openomf,live,One Must Fall 2097 remake
+OpenOMF,platforms,,"Linux, macOS, Windows",,,https://github.com/omf2097/openomf,live,"README: runs on multiple platforms (Linux, Mac OSX, Windows, BSD to name a few)"
+Openyahtzee,license,,Open source,"SPDX GPL-2.0; raw COPYING is GNU GPL v2 text",,https://github.com/guyru/openyahtzee,live,Cross-platform Yahtzee dice game
+Openyahtzee,platforms,,"Linux, Windows",,,https://github.com/guyru/openyahtzee,live,README documents Linux build and Windows cross-compiled build sections
+Orion - Torrent Client & Streamer,platforms,,Linux,,,https://snapcraft.io/install/orion-desktop/pop,live,"Snap Store snap orion-desktop titled Orion - Torrent Client & Streamer; complete torrent client and streamer for Linux Desktop. No license row: license not stated"
+Otaku World,license,,Open source,Apache-2.0; raw LICENSE text (soaringwinds/otakuworld),,https://github.com/soaringwinds/otakuworld,live,catalog name is spaced variant of repo 'otakuworld'
+Otaku World,platforms,,"Android, Windows, macOS, Linux",,,https://github.com/soaringwinds/otakuworld,live,"three Android apps (MangaWorld/AnimeWorld/NovelWorld); desktop JVM build of MangaWorld via Compose Multiplatform"
+Outer Wilds Mod Manager,license,,Open source,GPL-3.0; raw LICENSE text (ow-mods/ow-mod-man),,https://github.com/ow-mods/ow-mod-man,live,repo badge 'GPL-3 licensed'; Flathub lists GPL-3.0-or-later
+Outer Wilds Mod Manager,platforms,,"Windows, macOS, Linux",,,https://github.com/ow-mods/ow-mod-man,live,"release assets: .exe/.msi (Windows) .dmg (macOS) .deb/.rpm/.AppImage (Linux); Flathub com.outerwildsmods.owmods_gui"
+Owncast,license,,Open source,MIT License; raw LICENSE text (Copyright 2020-2023 Gabe Kangas),,https://github.com/owncast/owncast,live,"README: 'Distributed under the MIT License'"
+Owncast,platforms,,Web,,,https://owncast.online,live,self-hosted live streaming server; admin and viewers use web UI
+P2p Media Loader,license,,Open source,Apache-2.0; raw LICENSE text (novage/p2p-media-loader),,https://github.com/novage/p2p-media-loader,live,JS library for P2P video delivery; not an end-user app
+P2p Media Loader,platforms,,Web,,,https://github.com/novage/p2p-media-loader,live,runs in browser via HTML5 video/WebRTC
+Paint Spill,license,,Open source,GPL-3.0; raw LICENSE text (avojak/paint-spill),,https://github.com/avojak/paint-spill,live,color-filling puzzle game
+Paint Spill,platforms,,Linux,,,https://flathub.org/en-GB/apps/com.github.avojak.paint-spill,live,Flathub com.github.avojak.paint-spill; designed for elementary OS
+Patolli,license,,Proprietary — free,iTunes price 0.00 (free download),,https://itunes.apple.com/search?term=Patolli&entity=software&limit=10&country=US,live,"exact App Store match 'Patolli' by Random5 LLC (id 424835336); GitHub results are student course projects not distributable apps"
+Patolli,platforms,,iOS,,,https://itunes.apple.com/search?term=Patolli&entity=software&limit=10&country=US,live,iTunes exact match 'Patolli' by Random5 LLC
+Pcjs,license,,Open source,MIT License; README 'released under the terms of an MIT License' (jeffpar/pcjs),,https://github.com/jeffpar/pcjs,live,catalog name is case variant of 'PCjs'; MIT with attribution requirement
+Pcjs,platforms,,Web,,,https://github.com/jeffpar/pcjs,live,IBM PC emulator that runs in browser (pcjs.org)
+Pcsxr,license,,Open source,GPL-3.0; GitHub API license field (iCatButler/pcsxr),,https://github.com/iCatButler/pcsxr,live,PCSX-Reloaded PlayStation emulator; inactive since ~2013 (PCSX-Redux is maintained fork)
+Pcsxr,platforms,,"Windows, macOS, Linux",,,https://en.wikipedia.org/wiki/PCSX-Reloaded,live,"Wikipedia: 'Unix-like, Microsoft Windows, macOS'"
+PeaSyo4Desk,license,,Open source,AGPL-3.0; raw LICENSE text (Geocld/PeaSyo4Desk),,https://github.com/Geocld/PeaSyo4Desk,live,PlayStation remote play client
+PeaSyo4Desk,platforms,,"Windows, macOS, Linux",,,https://github.com/Geocld/PeaSyo4Desk,live,README: desktop client for windows/macOS/Linux(steamOS)
+Pegasus Frontend,license,,Open source,GPL-3.0; raw LICENSE.md (GPL v3 or later),,https://github.com/pixl-os/pegasus-frontend,live,catalog name is spaced variant; original repo mattn/pegasus-frontend
+Pegasus Frontend,platforms,,"Windows, Linux, macOS, Android",,,https://pegasus-frontend.org/,live,"site lists Linux Windows Mac Raspberry Pi and Android 5.0+"
+Petris,license,,Source-available,\1,,https://github.com/bbbbbr/Petris,live,raw license file is CC BY-NC-SA 4.0; NC clause -> Source-available per playbook
+Petris,platforms,,Game Boy Color,,,https://github.com/bbbbbr/Petris,live,puzzle game for the Game Boy Color (CGB) per repo description
+Phoenicis PlayOnLinux,license,,Open source,\1,,https://github.com/PhoenicisOrg/phoenicis,live,raw LICENSE is GNU LGPL v3 text; catalog name is PlayOnLinux/PlayOnMac 5 variant
+Phoenicis PlayOnLinux,platforms,,"Linux, macOS",,,https://github.com/PhoenicisOrg/phoenicis,live,README lists GNU/Linux and macOS; successor of PlayOnLinux and PlayOnMac 4
+Pianobooster,license,,Open source,\1,,https://github.com/pianobooster/PianoBooster,live,license.txt is GNU GPL v3 text; GitHub API said NOASSERTION but raw text governs
+Pianobooster,platforms,,"Windows, macOS, Linux",,,https://github.com/pianobooster/PianoBooster,live,README: binaries for Windows MacOS and Linux from pianobooster.org
+Pipewalker,license,,Open source,\1,,https://github.com/artemsen/pipewalker,live,raw LICENSE is MIT text (Copyright 2024 Artem Senichev)
+Pipewalker,platforms,,Linux,,,https://github.com/artemsen/pipewalker,live,C++ SDL3 puzzle game; apt builds and repology distros indicate Linux
+PixelPlayerOSS,license,,Open source,\1,,https://github.com/PixelPlayerHQ/PixelPlayerOSS,live,raw LICENSE is GNU GPL v3 text
+PixelPlayerOSS,platforms,,Android,,,https://github.com/PixelPlayerHQ/PixelPlayerOSS,live,README: Android music player (Android 11+ / API 30+)
+Planetblupi,license,,Open source,\1,,https://github.com/blupi-games/planetblupi-dev,live,raw LICENSE is GNU GPL v3 text in planetblupi-dev repo
+Planetblupi,platforms,,"Windows, macOS, Linux",,,https://github.com/blupi-games/planetblupi-dev,live,build docs cover Windows MSYS2 Linux AppImage and Darwin
+Playtranslate,license,,Open source,\1,,https://github.com/dominostars/playtranslate,live,raw LICENSE is GNU GPL v3 text
+Playtranslate,platforms,,Android,,,https://github.com/dominostars/playtranslate,live,README: real-time translation and language learning Android app (Android 10+)
+PokeMMO,license,,"Proprietary — free",\1,,https://pokemmo.eu/,live,official site: free to play; no open-source client found
+PokeMMO,platforms,,"Windows, macOS, Linux, Android, iOS",,,https://pokemmo.eu/,live,official pokemmo.eu lists all five client platforms
+Pokete,license,,Open source,GPL-3.0,,https://github.com/lxgr-linux/pokete,live,"Raw LICENSE is GNU GPL v3 text; terminal-based Pokemon-like game (lxgr-linux/pokete)"
+Poliedros,license,,Open source,GPL-3.0,,https://github.com/kriptolix/Poliedros,live,"Raw COPYING is GNU GPL v3 text"
+Poliedros,platforms,,Linux,,,https://github.com/kriptolix/Poliedros,live,"README: Modern Dice Roller for Linux; distributed via Flatpak/Flathub"
+Porta War,license,,Source-available,CC-BY-NC-SA-4.0,,https://flathub.org/en/apps/dev.stewlab.PortaWar,live,"Flathub AppStream metainfo project_license is CC-BY-NC-SA-4.0; NC clause per playbook"
+Porta War,platforms,,"Linux, Android",,,https://stewlab.itch.io/porta-war,live,"Flathub dev.stewlab.PortaWar (Linux); itch.io official page links Play Store io.stewlab.portawar (Android)"
+Prematch - The Real Football,platforms,,iOS,,,https://apps.apple.com/us/app/prematch-real-football/id1579841897?uo=4,live,"App Store: Prematch: Real Football by PREMATCH Sports GmbH (free download); paid tiers unverified so no license row"
+Provenance,license,,Open source,"Provenance License (BSD-style custom)",,https://github.com/provenance-emu/provenance,live,"Raw LICENSE.md fetched; name/logo/branding may not be used in commercial redistributions (trademark clause only, code itself unrestricted)"
+Provenance,platforms,,"iOS, tvOS",,,https://github.com/provenance-emu/provenance,live,"Repo description: iOS and tvOS multi-emulator frontend"
+Pukllanapac,license,,Open source,MIT,,https://github.com/sugarlabs/pukllanapac,live,"Raw COPYING is MIT license text"
+Pukllanapac,platforms,,Linux,,,https://github.com/sugarlabs/pukllanapac,live,"Sugar Labs activity; Flathub org.sugarlabs.Pukllanapac"
+Pyfa,license,,Open source,GPL-3.0,,https://github.com/pyfa-org/pyfa,live,"Raw LICENSE is GNU GPL v3 text; GitHub SPDX GPL-3.0"
+Pyfa,platforms,,"Windows, macOS, Linux",,,https://github.com/pyfa-org/pyfa,live,"README: self-contained builds for Windows macOS and Linux"
+Q-Zandronum,license,,Open source,"Zandronum License (BSD-style with source-redistribution clause)",,https://github.com/IgeNiaI/Q-Zandronum,live,"Raw LICENSE.txt fetched; no commercial-use restriction in license text"
+Q-Zandronum,platforms,,"Windows, macOS, Linux",,,https://github.com/IgeNiaI/Q-Zandronum,live,"README: supports modern versions of Windows Mac OS X and Linux"
+pedax,license,,Open source,GPL-3.0,,https://github.com/sensuikan1973/pedax,live,"Raw LICENSE is GNU GPL v3 text; Reversi board desktop app (sensuikan1973/pedax)"
+pedax,platforms,,"macOS, Windows, Linux",,,https://github.com/sensuikan1973/pedax,live,"README: Mac/Windows/Linux supported; installable via Mac App Store and Microsoft Store"
+picmi,license,,Open source,GPL-2.0-or-later,,https://github.com/KDE/picmi,live,Raw src/main.cpp carries SPDX-License-Identifier: GPL-2.0-or-later; LICENSES/GPL-2.0-or-later.txt governs over GitHub API GPL-2.0 label
+picmi,platforms,,Linux,,,https://apps.kde.org/picmi/,live,Official KDE apps page; Flatpak/snap Linux builds. apps.kde.org also links experimental Windows CI nightly builds
+plex-htpc,license,,Proprietary — freemium,Free app download; advanced features require Plex Pass subscription,,https://forums.plex.tv/t/introducing-plex-htpc/703075,live,Official Plex announcement thread; closed-source Plex client
+plex-htpc,platforms,,"Windows, macOS, Linux",,,https://forums.plex.tv/t/introducing-plex-htpc/703075,live,Announcement states Windows 10+ 64-bit and macOS 10.13+; Linux now shipped via snap/Flathub per official support docs
