@@ -1,0 +1,9 @@
+Shard 2 — Shard-4 Phase-2 expansion status
+Batch 61 (apps.md lines 3007–3056) complete:
+- 65 rows pushed: elseware-metadata-corrections-expansion-shard4-2026-10-11-batch61.csv
+- Apps verified: 35 of 50 (31 license, 34 platforms; union 35)
+- Skipped with reason (15): Calyssa: Short Drama & Romance, Checkbox, Cinetry, Comic, Comic Translation, CricFy TV, CWPL, JULO, Kissht, Kredivo, Live Cricket TV HD, Live Cricket TV Streaming, Live TV: Live Sports Streaming, Mobile Short Dramas & Series, My LIC (identity unresolvable / ungroundable)
+- Badges: Open source 3, Proprietary — free 24, freemium 3, paid subscription 1
+- Convention drift fixed at assembly: k3 rows 12–15 missing `live` badge, row 18 unquoted comma in license_detail
+- Assembler spot-checks (3/3 confirmed): Downkyicore GPL-3.0-only, Holo Cubic AIO GPL-3.0-only, Manga Image Translator GPL-3.0-only (raw LICENSE = boilerplate GPLv3, no filled-in or-later grant anywhere)
+- 65 rows x 9 cols, 0 schema issues, all live, whitelisted sources only
