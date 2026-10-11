@@ -1,0 +1,64 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Wpf Notifyicon,license,,Open source,MIT,,https://github.com/hardcodet/wpf-notifyicon,live,"WPF NotifyIcon library, MIT License per GitHub repo"
+X Any Labeling,license,,Open source,GPL-3.0,,https://github.com/CVHub520/X-AnyLabeling,live,GPL-3.0 per GitHub API; cross-platform desktop annotation tool
+X Any Labeling,platforms,,Windows; macOS; Linux,,,https://github.com/CVHub520/X-AnyLabeling,live,"README: Runs on Windows, Linux, and macOS"
+Xnotes Android,license,,Open source,MIT,,https://github.com/shardulvs/xnotes-android,live,MIT per GitHub API; handwriting notes app for Android
+Xnotes Android,platforms,,Android,,,https://f-droid.org/en/packages/com.xnotes,live,F-Droid package com.xnotes
+Zerox,license,,Open source,MIT,,https://github.com/getomni-ai/zerox,live,MIT per GitHub API; OCR and document extraction library
+百度网盘,license,,Proprietary — freemium,Free tier + SVIP paid membership,,https://pan.baidu.com/,live,Free download speed capped; SVIP super membership paid (official pricing)
+百度网盘,platforms,,Windows; macOS; Android,,,https://pan.baidu.com/,live,"Official Baidu Netdisk clients for Windows, Mac, Android; web client"
+2 FAuth,license,,Open source,AGPL-3.0,,https://github.com/Bubka/2FAuth,live,AGPL-3.0 per GitHub API; web app to manage 2FA accounts
+2 FAuth,platforms,,Web,,,https://github.com/Bubka/2FAuth,live,Self-hosted web app
+Age,license,,Open source,BSD-3-Clause,,https://github.com/FiloSottile/age,live,BSD-3-Clause per GitHub API; modern encryption tool
+Age,platforms,,Windows; macOS; Linux,,,https://github.com/FiloSottile/age,live,"README install: Homebrew macOS/Linux, winget Windows"
+Anti-Spam SMTP Proxy Server,license,,Open source,GPL-3.0,,https://github.com/fametec/assp,live,GPL-3.0 per GitHub API; Anti-Spam SMTP Proxy (ASSP) Server
+Anti-Spam SMTP Proxy Server,platforms,,Windows; macOS; Linux,,,https://github.com/fametec/assp,live,README: platform-independent Perl SMTP proxy server
+Blink Comparison,license,,Open source,GPL-3.0,Android,https://github.com/proninyaroslav/blink-comparison,live,Tamper-evident seal photo comparison; GitHub API SPDX verified
+Blink Comparison,platforms,,Android,,,https://github.com/proninyaroslav/blink-comparison,live,F-Droid badge in README
+Brook,license,,Open source,GPL-3.0,"Windows, macOS, Android, iOS",https://github.com/txthinking/brook,live,GitHub API SPDX verified; proxy/network tool
+Brook,platforms,,"Windows, macOS, Android, iOS",,,https://github.com/txthinking/brook,live,README lists iOS Android macOS Windows download links
+Crosspaste Desktop,license,,Open source,AGPL-3.0,"Windows, macOS, Linux",https://github.com/CrossPaste/crosspaste-desktop,live,GitHub API SPDX verified; official terms page confirms AGPL v3 for desktop client
+Crosspaste Desktop,platforms,,"Windows, macOS, Linux",,,https://github.com/CrossPaste/crosspaste-desktop,live,README OS badge and crosspaste.com download page
+Diceware Password Generator,license,,Open source,GPL-3.0-only,Android,http://f-droid.org/packages/com.aptasystems.dicewarepasswordgenerator/,live,F-Droid listing states License: GNU General Public License v3.0 only
+Diceware Password Generator,platforms,,Android,,,http://f-droid.org/packages/com.aptasystems.dicewarepasswordgenerator/,live,F-Droid Android app listing
+Enclosed,license,,Open source,Apache-2.0,Web,https://github.com/CorentinTh/enclosed,live,GitHub API SPDX verified; end-to-end encrypted notes web app
+Enclosed,platforms,,Web,,,https://github.com/CorentinTh/enclosed,live,Self-hosted web application with live instance at enclosed.cc
+ESUP-NFC-TAG-DROID,license,,Open source,Apache-2.0,Android,https://github.com/EsupPortail/esup-nfc-tag-droid,live,Raw LICENSE verified as Apache License text; GitHub API SPDX Apache-2.0
+ESUP-NFC-TAG-DROID,platforms,,Android,,,https://github.com/EsupPortail/esup-nfc-tag-droid,live,F-Droid and Google Play badges in README
+Firewall Config,license,,Open source,GPL-2.0,Linux,https://github.com/firewalld/firewalld,live,firewall-config GUI ships in firewalld repo; COPYING is GNU GPL v2
+Firewall Config,platforms,,Linux,,,https://github.com/firewalld/firewalld,live,GUI frontend for firewalld daemon
+Fwbuilder,license,,Open source,GPL-2.0,,https://sourceforge.net/projects/fwbuilder/,live,SourceForge lists GNU General Public License version 2.0 (GPLv2)
+Fwbuilder,platforms,,Linux,,,https://sourceforge.net/projects/fwbuilder/,live,SourceForge files distribution
+Gokey,license,,Open source,BSD-3-Clause,,https://github.com/cloudflare/gokey,live,"raw LICENSE verified as BSD 3-Clause; CLI tool, no end-user platforms stated"
+Headwind MDM Agent,license,,Open source,Apache-2.0,Android,https://f-droid.org/packages/com.hmdm.launcher/,live,F-Droid lists Apache License 2.0
+Headwind MDM Agent,platforms,,Android,,,https://f-droid.org/packages/com.hmdm.launcher/,live,F-Droid Android listing
+IsPhoneEncrypted,license,,Open source,Apache-2.0,Android,https://github.com/seguri/IsPhoneEncrypted,live,GitHub API SPDX Apache-2.0; checks if disk is fully encrypted
+IsPhoneEncrypted,platforms,,Android,,,https://github.com/seguri/IsPhoneEncrypted,live,Android app
+Kee Passium,license,,Proprietary — freemium,,"iOS, macOS",https://apps.apple.com/us/app/keepassium-keepass-passwords/id1435127111?uo=4,live,Free with Pro in-app purchase; separate KeePassium Pro $79.99; closed source
+Kee Passium,platforms,,"iOS, macOS",,,https://apps.apple.com/us/app/keepassium-keepass-passwords/id1435127111?uo=4,live,"App Store supported devices: iPhone, iPad, MacDesktop"
+KeePassVault,license,,Open source,Apache-2.0,Android,https://f-droid.org/packages/com.ivanovsky.passnotes/,live,F-Droid lists Apache-2.0; aivanovski/keepassvault Android KeePass client
+KeePassVault,platforms,,Android,,,https://f-droid.org/packages/com.ivanovsky.passnotes/,live,F-Droid Android listing
+Keycord,license,,Open source,GPL-3.0,"Linux, Windows",https://github.com/noobping/keycord,live,README GPLv3 badge; GTK pass password-store client; Flathub io.github.noobping.keycord
+Keycord,platforms,,"Linux, Windows",,,https://github.com/noobping/keycord,live,Flathub listing + Windows CI badge in README
+KeyPass,license,,Open source,MIT,Android,https://github.com/yogeshpaliyal/KeyPass,live,GitHub API spdx_id MIT; offline Android password manager
+KeyPass,platforms,,Android,,,https://github.com/yogeshpaliyal/KeyPass,live,README shows F-Droid + Play Store badges
+Knock on Ports,license,,Open source,Apache-2.0,Android,https://f-droid.org/bo/packages/me.impa.knockonports/,live,F-Droid listing: Apache License 2.0
+Knock on Ports,platforms,,Android,,,https://f-droid.org/bo/packages/me.impa.knockonports/,live,Port knocking client for Android
+Monica F-Droid,license,,Open source,GPL-3.0,Android,https://github.com/monica-pass/monica-fdroid,live,Raw LICENSE verified as GNU GPL v3 text; F-Droid build repo of Monica Pass
+Monica F-Droid,platforms,,Android,,,https://github.com/monica-pass/monica-fdroid,live,Local-first Android password vault; Bitwarden + KeePass compatible
+NewPass,license,,Open source,GPL-3.0,Android,https://github.com/6eero/NewPass,live,GitHub API spdx_id GPL-3.0; offline Android password manager
+NewPass,platforms,,Android,,,https://github.com/6eero/NewPass,live,README: Android app; AES-256 + SQLCipher encrypted local vault
+Nitrokey App2,license,,Open source,Apache-2.0,"Windows, macOS, Linux",https://github.com/Nitrokey/nitrokey-app2,live,README License section: Apache License Version 2.0
+Nitrokey App2,platforms,,"Windows, macOS, Linux",,,https://www.nitrokey.com/download,live,Official download page lists Windows macOS Linux builds
+Pashword,license,,Open source,AGPL-3.0,,https://github.com/pashword/pashword,live,PWA at pashword.app; browser extension available
+Pashword,platforms,,Web,,,https://pashword.app,live,Progressive Web App installable on any device
+PassPony: Git Password Manager,license,,Open source,Apache-2.0,,https://github.com/norsehorse-dev/PassPonyDesktop,live,"norsehorse-dev suite: PassPonyAndroid, PassPonyiOS, PassPonyDesktop"
+PassPony: Git Password Manager,platforms,,"Android, iOS, Windows, macOS, Linux",,,https://github.com/norsehorse-dev/PassPonyDesktop,live,pass/passage password stores with git sync
+Password Store,license,,Open source,GPL-2.0,,https://www.passwordstore.org/,live,Official site links gpl-2.0.html
+Password Store,platforms,,"Linux, macOS, FreeBSD",,,https://www.passwordstore.org/,live,Unix CLI tool; Windows clients exist
+Passwordsafe,license,,Open source,Artistic License 2.0,,https://github.com/pwsafe/pwsafe,live,Raw LICENSE verified as Artistic License 2.0
+Passwordsafe,platforms,,"Windows, Linux",,,https://pwsafe.org/,live,Official site: Windows 7 and later; Linux packages
+PGPony,license,,Open source,Apache-2.0,,https://github.com/norsehorse-dev/PGPonyDesktop,live,"norsehorse-dev suite: PGPonyAndroid, PGPonyiOS, PGPonyDesktop, PGPonyCore"
+PGPony,platforms,,"Android, iOS, Windows, macOS, Linux",,,https://github.com/norsehorse-dev/PGPonyDesktop,live,OpenPGP password manager apps
+Pocket ID,license,,Open source,BSD-2-Clause,,https://github.com/pocket-id/pocket-id,live,GitHub API SPDX verified
+Pocket ID,platforms,,Web,,,https://github.com/pocket-id/pocket-id,live,Self-hosted OIDC/OAuth 2.0 provider via Docker
