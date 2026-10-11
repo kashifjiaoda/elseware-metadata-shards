@@ -1,0 +1,75 @@
+Music Player View,license,,Open source,Apache-2.0,,https://112.cachefly.net/Librari/MusicPlayerView,live,"README license section quotes Apache License 2.0 verbatim; Android UI library (co.mobiwise.library), not an end-user player"
+Music Player View,platforms,,Android,,,https://112.cachefly.net/Librari/MusicPlayerView,live,Android custom view library per README
+Mustang Plug,license,,Open source,GPL-3.0-or-later,,https://github.com/offa/plug,live,"upstream project 'Plug' (fork of piorekf's Plug); README quotes GPL grant 'either version 3 of the License, or (at your option) any later version'"
+Mustang Plug,platforms,,Linux,,,https://github.com/offa/plug,live,Qt6/libusb desktop app packaged for Debian/Ubuntu/openSUSE
+Neothesia,license,,Open source,GPL-3.0,,https://github.com/sulavtimsina/neothesia,live,"fork of PolyMeilex/Neothesia, same LICENSE; two forks report GPL-3.0-only; -only/-or-later not re-verified from raw text, recorded conservatively"
+Neothesia,platforms,,"Linux, Windows, macOS",,,https://github.com/sulavtimsina/neothesia,live,"repo title: for Linux, Windows and MacOs"
+Nootka,license,,Open source,GPL-3.0-or-later,,https://github.com/appimage/appimage.github.io/blob/HEAD/apps/Nootka.md,live,AppImageHub metadata states GPL-3.0+; upstream seelook/nootka README does not state version
+Nootka,platforms,,"Windows, Linux, Mac, Android",,,https://github.com/seelook/nootka/blob/HEAD/README.md,live,"README: works under Windows, Linux, Mac and Android"
+Nted,license,,Open source,GPL (version unspecified),,http://www.iiis.org/CDs2010/CD2010IMC/ICETI_2010/PapersPdf/EB505AY.pdf,live,"author Jorg Anders' own paper states licensed under GPL; version not stated, recorded conservatively"
+Nted,platforms,,Linux,,,http://www.iiis.org/CDs2010/CD2010IMC/ICETI_2010/PapersPdf/EB505AY.pdf,live,paper states it runs on Linux
+OnionMedia X,license,,Open source,AGPL-3.0,,https://github.com/onionware-github/OnionMedia-X,live,"GitHub license detection of repo LICENSE file (AGPL-3.0); SparkyLinux also packages it as GNU Affero GPL; -only/-or-later not re-verified, recorded conservatively"
+OnionMedia X,platforms,,"Linux, Windows",,,https://github.com/onionware-github/OnionMedia-X,live,Flathub (Linux) and Microsoft Store (Windows) builds linked from README
+Opencubicplayer,license,,Open source,GPL-2.0,,https://github.com/hhromic/opencubicplayer-docker/blob/HEAD/README.md,live,"COPYING in upstream mywave82/opencubicplayer; -only/-or-later not verified from headers, recorded conservatively"
+Opencubicplayer,platforms,,"Linux, Windows",,,https://github.com/hhromic/opencubicplayer-docker/blob/HEAD/README.md,live,Unix/Linux native; Windows via MinGW builds
+OxiTide,license,,Proprietary — free,proprietary freeware — free to download and use,,https://github.com/yelanxin/OxiTide/releases/tag/v0.1-beta1,live,release notes; requires TIDAL subscription for playback
+OxiTide,platforms,,"Linux, macOS, Windows",,,https://github.com/yelanxin/oxitide,live,"README platform badge: Linux, macOS, Windows"
+Pasystray,license,,Open source,LGPL-2.1-or-later,,https://github.com/christophgysin/pasystray,live,"src/pasystray.c header grants 'either version 2.1 of the License, or (at your option) any later version'"
+Pasystray,platforms,,Linux,,,https://github.com/christophgysin/pasystray,live,PulseAudio system tray for Linux
+Petrichor,license,,Open source,MIT,,https://github.com/kushalpandya/Petrichor,live,MIT per raw LICENSE (Copyright 2025-2026 Kushal Pandya)
+Petrichor,platforms,,macOS,,,https://github.com/kushalpandya/Petrichor,live,offline macOS music player
+Phonograph Plus,license,,Open source,GPL-3.0-only,,https://github.com/chr56/Phonograph_Plus,live,README badge: GPL v3; GitHub licensee SPDX GPL-3.0; no 'or later' grant in sampled source header - recorded conservative
+Phonograph Plus,platforms,,Android,,,https://github.com/chr56/Phonograph_Plus,live,material-design music player for Android; fork of kabouzeid/Phonograph
+PitchVis,license,,Open source,MIT,,https://github.com/heinzelotto/pitchvis,live,MIT per raw LICENSE - copyright holder named Takeru Ohta (differs from repo owner; flagged)
+PitchVis,platforms,,Android,,,https://github.com/heinzelotto/pitchvis,live,Android app via Google Play + F-Droid badges; desktop viewer also buildable via cargo xtask (platforms unstated)
+Playlifin,license,,Open source,GPL-3.0-or-later,,https://gitlab.com/Krafting/playlifin-gtk,live,project_license GPL-3.0-or-later per official metainfo.xml; raw LICENSE is GPL v3
+Playlifin,platforms,,Linux,,,https://gitlab.com/Krafting/playlifin-gtk,live,Flatpak GTK4 Jellyfin client (org.gnome.Platform runtime)
+pogo,license,,Open source,GPL-2.0-only,,https://github.com/jendrikseipp/pogo,live,LICENSE.txt is GPL v2; no 'or later' grant found in main module - recorded conservative
+pogo,platforms,,Linux,,,https://github.com/jendrikseipp/pogo,live,fast minimalist audio player for Linux (GTK/GStreamer); unofficial snap at snapcrafters/pogo
+Pragha,license,,Open source,GPL-3.0-or-later,,https://github.com/pragha-music-player/pragha,live,src/main.c header grants 'either version 3 ... or (at your option) any later version'
+Pragha,platforms,,Linux,,,https://github.com/pragha-music-player/pragha,live,lightweight music player for GNU/Linux
+ProTracker (pt2-clone),license,,Open source,BSD 3-Clause,,https://github.com/8bitbubsy/pt2-clone,live,BSD 3-Clause per raw LICENSE (Copyright 2010-2026 Olav Sorensen)
+ProTracker (pt2-clone),platforms,,"Windows, macOS, Linux",,,https://github.com/8bitbubsy/pt2-clone,live,per repo description: ProTracker 2 clone for Windows/macOS/Linux
+puddletag-snap,license,,Open source,GPL-3.0-or-later,,https://snapcraft.io/puddletag-snap,live,Snap Store page lists License GPL-3.0+; inofficial snap of puddletag (upstream github.com/puddletag/puddletag headers grant or-later); packaging site gitlab.com/tschlaeppi/puddletag-snap
+puddletag-snap,platforms,,Linux,,,https://snapcraft.io/puddletag-snap,live,snap package for GNU/Linux distros; described as inofficial snap; last updated April 2023
+Qabc,license,,Open source,GPL-3.0-or-later,,https://github.com/be1/qabc,live,AbcApplication.cpp header grants 'either version 3 ... or (at your option) any later version'; SPDX GPL-3.0-or-later
+Qabc,platforms,,Linux,,,https://github.com/be1/qabc,live,Qt ABC music notation editor; README documents Debian-based install
+Qdmr,license,,Open source,GPL-3.0-or-later,,https://github.com/hmatuschek/qdmr,live,"README: GPL 'either version 3 of the License, or (at your option) any later version'"
+Qdmr,platforms,,"Linux, macOS",,,https://github.com/hmatuschek/qdmr,live,README: GUI app for configuring/programming DMR radios under Linux and MacOS X
+Qmidictl,license,,Open source,GPL-2.0-or-later,,http://www.rncbc.org/drupal/,live,Author site (rncbc.org): free open-source software under GPL version 2 or later
+Qmidictl,platforms,,"Linux, Android",,,http://www.rncbc.org/drupal/,live,Desktop application plus official Android APKs (arm64-v8a and x86_64)
+Qpwgraph,license,,Open source,GPL-2.0-or-later,,https://github.com/rncbc/qpwgraph,live,Official repo README: free open-source software under GPL version 2 or later
+Quisk,platforms,,"Windows, Linux, Raspberry Pi",,,https://james.ahlstrom.name/quisk/docs.html,live,Docs give Windows + Linux install procedures; README: runs on a PC or single-board computer such as Raspberry Pi. No license row: official GitHub jimahlstrom/quisk = NOASSERTION
+R Audio,platforms,,"Raspberry Pi, BeagleBone Black, CubieBoard2",,,https://github.com/rern/rAudio,live,"README supported devices; controlled via browser, Android app, or local display. No license row: no LICENSE detected upstream"
+Redomi,license,,Open source,GPL-3.0-only,,https://github.com/acszo/Redomi,live,"GitHub detects GPL-3.0 from LICENSE; conservative -only, no or-later grant found upstream"
+Redomi,platforms,,Android,,,https://github.com/acszo/Redomi,live,Android song.link client; F-Droid and IzzyOnDroid listings plus GitHub releases
+Reson8,license,,Open source,MIT,,https://github.com/sjmcnamara/reson8,live,Reson8Hz iOS binaural beat generator; GitHub detects MIT and README confirms
+Reson8,platforms,,iOS (iPhone),,,https://github.com/sjmcnamara/reson8,live,"README: iOS 17.0 or later, iPhone portrait only"
+RiPlay,license,,Open source,GPL-3.0-only,,https://github.com/fast4x/riplay,live,"GitHub detects GPL-3.0; README says GPL3.0; conservative -only, no or-later grant found"
+RiPlay,platforms,,"Android, Windows, Linux",,,https://github.com/fast4x/riplay,live,Multiplatform: Android via F-Droid/IzzyOnDroid/Accrescent/GitHub; PC installers for Windows and Linux
+Rush,license,,Open source,GPL-3.0-only,,https://github.com/shub39/Rush,live,"GitHub detects GPL-3.0 from LICENSE file; conservative -only, no or-later grant stated"
+Rush,platforms,,"Android, Desktop, iOS",,,https://github.com/shub39/Rush,live,"Repo has androidApp, desktopApp, iosApp modules; Google Play badge on README"
+Sayonara,license,,Open source,GPL-3.0-only,,https://sayonara-player.com,live,"Official site: open source, published under GPLv3; conservative -only, no or-later grant stated"
+Sayonara,platforms,,"Linux, BSD",,,https://sayonara-player.com,live,Official site: available for Linux and BSD
+Sfxr,license,,Open source,MIT,,https://github.com/bit69tream/sfxr-sdl2/blob/HEAD/readme.md,live,"Original license text by Tomas Pettersson (DrPetter) attached as MIT, quoted verbatim in the sfxr-sdl2 port README"
+Slimserver,license,,Open source,GPL-2.0-only,,https://raw.githubusercontent.com/m000/slimserver/public/7.9/License.fr.txt,live,Project's own SLIM DEVICES LICENSE NOTICE: LMS perl code per version 2 of the GPL (no or-later grant); read from raw file in a fork of the official repo
+Sonic Pi,license,,Open source,MIT,,https://github.com/sonic-pi-net/sonic-pi/blob/dev/LICENSE.md,live,Official LICENSE.md: main source code (app/) is MIT; app/web/ is AGPL-3.0-or-later; bundled GPLv3 components require GPL compliance for GUI binary distribution
+SoundConverter,license,,Open source,GPL-3.0-only,,https://github.com/kassoulet/soundconverter,live,Official README license grant: GNU GPL version 3 with no or-later clause
+streamtuner2-dev,license,,Open source,Public domain,,https://github.com/rocus/streamtuner2,live,Author-declared Public Domain (unrestricted copying/modification); README mirrors the canonical fossil repo by the author
+Swift Radio Pro,license,,Open source,MIT,,https://github.com/analogcode/swift-radio-pro/blob/HEAD/README.md,live,Official README: open source under the MIT License
+Swift Radio Pro,platforms,,iOS,,,https://github.com/analogcode/swift-radio-pro/blob/HEAD/README.md,live,Official README: open-source iOS radio app; used by 80+ apps on the App Store
+Termusic,license,,Open source,"MIT (main code); GPL-3.0 (podcast module, from shellcaster)",,https://github.com/tramhao/termusic,live,README dual-license statement; repo root holds LICENSE_MIT and LICENSE_GPLv3
+Termusic,platforms,,"Linux, macOS, Windows",,,https://github.com/tramhao/termusic,live,README lists Linux Mac and Windows config paths and packages
+Timemachine,license,,Open source,GPL-2.0-or-later,,https://github.com/swh/timemachine,live,src/main.c header grants version 2 or any later version; COPYING is GPLv2 text
+Tomahawk,license,,Open source,GPL-3.0,,https://github.com/tomahawk-player/tomahawk,live,GitHub badge GPL-3.0; root LICENSE.txt is GPLv3 text; no or-later grant verified
+Tomahawk,platforms,,"Linux, macOS, Windows",,,https://github.com/tomahawk-player/tomahawk,live,README download table lists Mac OSX Windows Linux builds; project marked abandoned
+TTKMusic Player,license,,Open source,GPL-3.0,,https://github.com/Greedysky/TTKMusicplayer,live,README claims Licence GPL v3; LICENSE file is GPLv3 text
+TTKMusic Player,platforms,,"Linux, macOS, Windows",,,https://github.com/Greedysky/TTKMusicplayer,live,README says Qt for windows and linux; CI table also lists OS X builds
+Vanilla,license,,Open source,GPL-3.0,,https://github.com/vanilla-music/vanilla,live,GitHub badge GPL-3.0; README says GPLv3 licensed; LICENSE is GPLv3 text
+Vanilla,platforms,,Android,,,https://github.com/vanilla-music/vanilla,live,README describes it as a player for Android; F-Droid linked
+Wfview,license,,Open source,GPL-3.0,,https://github.com/wf-group/wfview,live,README states source code licensed via the GNU GPLv3; no or-later grant verified
+Wfview,platforms,,"Linux, macOS, Windows",,,https://github.com/wf-group/wfview,live,README states it runs on Linux macOS and Windows
+Xdx,license,,Open source,GPL-2.0-or-later,,https://github.com/N0NB/xdx,live,src/main.c header grants version 2 or any later version; README names N0NB/xdx as dev host
+Xdx,platforms,,Linux,,,https://github.com/N0NB/xdx,live,README says compile xdx for your linux/bsd distribution; GTK+ client
+Yoshimi,license,,Open source,GPL-2.0-or-later,,https://github.com/Yoshimi/yoshimi,live,README states GPLv2+ see COPYING
+Yoshimi,platforms,,Linux,,,https://github.com/Yoshimi/yoshimi,live,README states currently only available for Linux
