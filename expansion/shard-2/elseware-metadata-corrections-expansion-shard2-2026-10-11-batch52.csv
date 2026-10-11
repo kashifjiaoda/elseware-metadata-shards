@@ -1,0 +1,72 @@
+app_name,field,wrong_value,correct_value,license_detail,platforms,source_url,verification,notes
+Nee View,license,,Open source,MIT (GitHub API spdx_id on neelabo/NeeView),Windows,https://github.com/neelabo/NeeView,live,Image viewer that browses images in folders and archives; official site neelabo.github.io/NeeView
+Nee View,platforms,,Windows,,,https://github.com/neelabo/NeeView,live,Installer README documents Windows per-user install
+Neo Backup,license,,Open source,AGPL-3.0 (GitHub API spdx_id on NeoApplications/Neo-Backup),Android,https://github.com/NeoApplications/Neo-Backup,live,Android backup manager
+Neo Backup,platforms,,Android,,,https://github.com/NeoApplications/Neo-Backup,live,README: Android's modern backup solution
+NetXMS 5.0,license,,Open source,GPL-2.0 (official site states Open source - GPLv2; repo COPYING: mixed GPL-2.0 core and LGPL-3.0 libs),"Linux, Windows, macOS",https://www.netxms.org/,live,Version 5.0 of the NetXMS network monitoring platform
+NetXMS 5.0,platforms,,"Linux, Windows, macOS",,,https://www.netxms.org/,live,Official site schema: operatingSystem Linux Windows macOS
+NetXMS 6.1,license,,Open source,GPL-2.0 (official site states Open source - GPLv2; repo COPYING: mixed GPL-2.0 core and LGPL-3.0 libs),"Linux, Windows, macOS",https://www.netxms.org/,live,Version 6.1 of the NetXMS network monitoring platform
+NetXMS 6.1,platforms,,"Linux, Windows, macOS",,,https://www.netxms.org/,live,Official site schema: operatingSystem Linux Windows macOS
+NexNode for Linode Cloud,license,,Open source,GPL-3.0 (official site: fully open source under the GPLv3 license),Android,https://nexnode.swatian.com,live,Native Android client for Linode cloud management; source on Codeberg
+NexNode for Linode Cloud,platforms,,Android,,,https://nexnode.swatian.com,live,Official site describes a native Android app; F-Droid com.swatian.nexnode.free
+Nextcloud Deck,license,,Open source,GPL-3.0 (GitHub API spdx_id on stefan-niedermann/nextcloud-deck),Android,https://github.com/stefan-niedermann/nextcloud-deck,live,Android client for the Nextcloud Deck app
+Nextcloud Deck,platforms,,Android,,,https://github.com/stefan-niedermann/nextcloud-deck,live,README describes the Android client; published on Play Store
+Nextron,license,,Open source,MIT (GitHub API spdx_id on saltyshiomix/nextron; 4.4k stars),,https://github.com/saltyshiomix/nextron,live,Next.js + Electron framework; license row only (no end-user OS platforms)
+Nias for AnySoftKeyboard,license,,Open source,Apache License 2.0,,https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.nias,live,F-Droid package page lists Apache License 2.0 (Menny Even Danan)
+Nias for AnySoftKeyboard,platforms,,Android,,,https://f-droid.org/en/packages/com.anysoftkeyboard.languagepack.nias,live,F-Droid Android app (AnySoftKeyboard language pack)
+Nightmare,license,,Open source,MIT,,https://github.com/segment-boneyard/nightmare,live,"package.json license field MIT on segment-boneyard/nightmare (high-level browser automation library); license row only (JS library, no end-user platforms)"
+Nixwriter,license,,Open source,MIT,,https://flathub.org/apps/com.gitlab.adnan338.Nixwriter,live,Flathub app metadata lists project license MIT (Create bootable Linux images; com.gitlab.adnan338.Nixwriter)
+Nixwriter,platforms,,Linux,,,https://flathub.org/apps/com.gitlab.adnan338.Nixwriter,live,Flathub Linux app (bootable USB image writer for Linux ISOs)
+No meu Bairro!,license,,Proprietary — free,Closed source; free to install,,https://play.google.com/store/apps/details?id=com.in.my.district,live,Play Store listing JSON-LD price 0; civic issue-reporting app for Portuguese municipalities (closed source)
+No meu Bairro!,platforms,,Android,,,https://play.google.com/store/apps/details?id=com.in.my.district,live,Play Store listing (com.in.my.district)
+Node Thermal Printer,license,,Open source,MIT,,https://github.com/Klemen1337/node-thermal-printer,live,"GitHub API SPDX MIT on Klemen1337/node-thermal-printer (Node.js module for thermal printers); license row only (Node.js module, no end-user platforms)"
+Nomi,license,,Proprietary — freemium,Closed source; free download with in-app subscription plans,,https://apps.apple.com/us/app/nomi-ai-companion-with-a-soul/id6450270929,live,"App Store listing: Free with In-App Purchases (Standard Plan $15.99, Yearly $99.99); by AI GLIMPSE INC"
+Nomi,platforms,,iOS,,,https://apps.apple.com/us/app/nomi-ai-companion-with-a-soul/id6450270929,live,App Store iOS app (iPhone/iPad)
+Notejot,license,,Open source,GPL-3.0,,https://flathub.org/apps/details/io.github.lainsce.Notejot,live,Flathub project license GPL-3.0+; repo README carries License: GPL v3 badge (lainsce/notejot)
+Notejot,platforms,,Linux,,,https://flathub.org/apps/details/io.github.lainsce.Notejot,live,Flathub Linux app (io.github.lainsce.Notejot)
+NotificationLog,license,,Open source,GPL-3.0-or-later,,https://f-droid.org/en/packages/de.jl.notificationlog,live,F-Droid package page lists GNU General Public License v3.0 or later (de.jl.notificationlog)
+NotificationLog,platforms,,Android,,,https://f-droid.org/en/packages/de.jl.notificationlog,live,F-Droid Android app
+NoWakeLock,license,,Open source,GPL-3.0,,https://github.com/NoWakeLock/NoWakeLock,live,Android wakelock manager (Xposed module; requires Xposed or LSPosed framework)
+NoWakeLock,platforms,,Android,,,https://f-droid.org/packages/com.js.nowakelock/,live,F-Droid package com.js.nowakelock; also published on IzzyOnDroid
+NX Dump Client,license,,Open source,GPL-3.0,,https://github.com/v1993/nxdumpclient,live,PC companion client for dumping Switch data over USB with nxdumptool
+NX Dump Client,platforms,,Linux,,,https://github.com/v1993/nxdumpclient,live,AUR package and Flathub flatpak (org.v1993.NXDumpClient); README lists AUR and Flathub as install methods
+NymVPN,license,,Open source,GPL-3.0,,https://github.com/nymtech/nym-vpn-client,live,Open-source client; the NymVPN network service requires a paid subscription plan
+NymVPN,platforms,,"Android, iOS, Windows, macOS, Linux",,,https://support.nym.com/hc/en-us/articles/24317368960401-How-can-I-start-using-NymVPN,live,Official support page lists Android iOS Linux macOS Windows download links
+Oblivion,license,,Open source,MIT,,https://github.com/bepass-org/oblivion,live,Unofficial Cloudflare Warp client for Android
+Oblivion,platforms,,"Android, Windows, Linux",,,https://github.com/bepass-org/oblivion,live,README: runs on Android Windows and Linux from one codebase
+Obsidian Image Converter,license,,Open source,MIT,,https://github.com/xRyul/obsidian-image-converter,live,Obsidian plugin (no standalone OS platforms)
+Ocelot,license,,Open source,zlib License,,http://f-droid.org/packages/org.shirakumo.ocelot/,live,Lichat protocol chat client; F-Droid lists zlib License
+Ocelot,platforms,,Android,,,http://f-droid.org/packages/org.shirakumo.ocelot/,live,F-Droid package org.shirakumo.ocelot; requires Android 5.0+
+Octo Print,license,,Open source,AGPL-3.0,,https://github.com/OctoPrint/OctoPrint,live,Web UI for 3D printers; AGPL-3.0 confirmed via GitHub API
+Octo Print,platforms,,Web,,,https://github.com/OctoPrint/OctoPrint,live,Self-hosted browser interface (typically OctoPi on Raspberry Pi)
+Offline Web Search,license,,Open source,GPL-3.0-only,,http://f-droid.org/packages/io.github.rumcajs.offlinewebsearch/,live,Privacy-first offline web directory search
+Offline Web Search,platforms,,Android,,,http://f-droid.org/packages/io.github.rumcajs.offlinewebsearch/,live,F-Droid package io.github.rumcajs.offlinewebsearch
+Onboard,license,,Open source,GPL-3.0,Linux,https://launchpad.net/onboard,live,License: GNU GPL v3 on official Launchpad project page; on-screen keyboard for Linux desktop
+Onboard,platforms,,Linux,,,https://launchpad.net/onboard,live,On-screen keyboard designed for Linux desktop (accessibility for mobility-impaired users)
+OnePlus ARB Checker,license,,Open source,GPL-3.0-only,Android,https://f-droid.org/packages/com.bartixxx.oneplusarbchecker/,live,F-Droid lists GNU General Public License v3.0 only; GitHub API SPDX GPL-3.0 on Bartixxx32/oparbcheckapp
+OnePlus ARB Checker,platforms,,Android,,,https://f-droid.org/packages/com.bartixxx.oneplusarbchecker/,live,Android app monitoring OnePlus device Anti-Rollback (ARB) status
+Onloc,license,,Open source,GPL-3.0,Android,https://github.com/onloc-app/onloc-android,live,GitHub API spdx_id GPL-3.0; README license badge: License GPLv3
+Onloc,platforms,,Android,,,https://github.com/onloc-app/onloc-android,live,Self-hosted device location/battery tracking Android app; sends location to your own Onloc instance
+Opcode,license,,Open source,AGPL-3.0,"Windows, macOS, Linux",https://github.com/winfunc/opcode,live,GitHub API spdx_id AGPL-3.0 on winfunc/opcode
+Opcode,platforms,,"Windows, macOS, Linux",,,https://github.com/winfunc/opcode,live,"Tauri 2 desktop GUI app for Claude Code; install requirements list Windows 10/11, macOS 11+, Linux; ships .deb, .AppImage, .dmg, .exe"
+Open Calc,license,,Open source,GPL-3.0,Android,https://github.com/Darkempire78/OpenCalc,live,GitHub API spdx_id GPL-3.0; README license badge: License GPLv3; repo is Darkempire78/OpenCalc (continuation of clementwzk/OpenCalc)
+Open Calc,platforms,,Android,,,https://github.com/Darkempire78/OpenCalc,live,Simple calculator app for Android; 300k+ downloads
+Open Multi Agent,license,,Open source,MIT,,https://github.com/open-multi-agent/open-multi-agent,live,"GitHub API spdx_id MIT; README license badge: MIT License; license row only (self-hosted TypeScript agent runtime published as npm package @open-multi-agent/core, no end-user OS platforms)"
+Open Seo,license,,Open source,MIT,Web,https://github.com/every-app/open-seo,live,GitHub API spdx_id MIT on every-app/open-seo; README badge: MIT License
+Open Seo,platforms,,Web,,,https://github.com/every-app/open-seo,live,"Open source SEO tool (Semrush/Ahrefs alternative); hosted version at openseo.so free to try, $10/mo hosted subscription, BYOK DataForSEO API key"
+OpenAndroidInstaller,license,,Open source,GPL-3.0,,https://github.com/openandroidinstaller-dev/openandroidinstaller,live,Raw LICENSE is GNU General Public License v3 text; installs alternative Android distributions (e.g. LineageOS)
+OpenAndroidInstaller,platforms,,Windows; macOS; Linux,,,https://github.com/openandroidinstaller-dev/openandroidinstaller/releases,live,Desktop installer app; release assets for macOS Ubuntu and Windows
+OpenChrom,license,,Open source,EPL-2.0,,https://github.com/OpenChrom/openchrom,live,Raw LICENSE is Eclipse Public License v2.0 text (OSI-approved open source)
+OpenChrom,platforms,,Windows; macOS; Linux,,,https://www.openchrom.net,live,Chromatography and mass spectrometry analysis desktop app
+OpenDefault,license,,Open source,Apache-2.0,,https://github.com/rickymohk/OpenDefault,live,Raw LICENSE is Apache License 2.0 text
+OpenDefault,platforms,,Android,,,https://f-droid.org/packages/io.github.rickymohk.opendefault/,live,Android app that opens shared URLs in the default app; F-Droid listing
+Openlp,license,,Open source,GPL-3.0-or-later,,https://gitlab.com/openlp/openlp,live,Raw LICENSE is GNU GPL v3 text; pyproject.toml declares license GPL-3.0-or-later
+Openlp,platforms,,Windows; macOS; Linux,,,https://manual.openlp.org/,live,Church presentation and lyrics projection software; manual has Windows Mac and Linux install guides
+OpenNumismat,license,,Open source,GPL-3.0,,https://github.com/OpenNumismat/open-numismat,live,Raw COPYING is GNU General Public License v3 text
+OpenNumismat,platforms,,Windows; macOS; Linux,,,https://github.com/OpenNumismat/open-numismat,live,Coin and collectibles collection manager; README lists Windows Linux (Debian/Ubuntu) macOS builds
+Openrefine,license,,Open source,BSD-3-Clause,,https://github.com/OpenRefine/OpenRefine,live,Raw LICENSE.txt is BSD-style license text (Copyright 2010 OpenRefine contributors)
+Openrefine,platforms,,Windows; macOS; Linux,,,https://openrefine.org/download,live,Data-cleaning desktop app; downloads listed for Windows Mac OS Linux
+Opensheetmusicdisplay,license,,Open source,BSD-3-Clause,,https://github.com/opensheetmusicdisplay/opensheetmusicdisplay,live,Raw LICENSE is BSD 3-clause text (Copyright 2019 PhonicScore); JS MusicXML rendering library with no end-user platforms
+OpenTodoList,license,,Open source,GPL-3.0,,https://github.com/mhoeher/opentodolist,live,Raw COPYING is GNU General Public License v3 text; GitHub mirror of gitlab.com/rpdev/opentodolist by the same author
+OpenTodoList,platforms,,Android; iOS; Linux; macOS; Windows,,,https://github.com/mhoeher/opentodolist,live,Todo list and note-taking app; README lists Android iOS Linux macOS Windows
+Opik,license,,Open source,Apache-2.0,,https://github.com/comet-ml/opik,live,Raw LICENSE is Apache License 2.0 text (Copyright Comet ML); LLM evaluation and observability developer platform with no end-user OS platforms
