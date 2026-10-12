@@ -2,7 +2,21 @@
 
 ![Elseware logo](assets/elseware-logo.png)
 
-**Verification data pipeline for [Elseware](https://elseware.fyi)** — the software-alternatives directory, and its sister project [manuscriptOS.io](https://manuscriptos.io).
+*## Where this verified data lives
+
+Every app verified in this repo powers the live [Elseware directory](https://elseware.fyi) — a software-alternatives directory with grounded license, platform, and pricing metadata. Key sections:
+
+- [Browse all categories](https://elseware.fyi/categories) — AI Tools, Developer Tools, Productivity, Design, Security, and more
+- [AI Tools](https://elseware.fyi/category/ai-tools) · [Developer Tools](https://elseware.fyi/category/developer-tools) · [Productivity](https://elseware.fyi/category/productivity) · [Design & Graphics](https://elseware.fyi/category/design-graphics)
+- [Compare software](https://elseware.fyi/compare) — head-to-head alternatives, e.g. [Notion vs Obsidian](https://elseware.fyi/compare/notion-vs-obsidian)
+- [Discover](https://elseware.fyi/discover) — explore the catalog
+- [About Elseware](https://elseware.fyi/about) · [For developers](https://elseware.fyi/developers) · [Pricing](https://elseware.fyi/pricing)
+
+The verification methodology behind these listings is documented in this repo's playbook below.
+
+---
+
+*Verification data pipeline for [Elseware](https://elseware.fyi)** — the software-alternatives directory, and its sister project [manuscriptOS.io](https://manuscriptos.io).
 
 **If you are a Shard worker, this README is your complete instruction manual. You need nothing else — no separate brief, no extra onboarding.**
 
@@ -286,6 +300,20 @@ are already pushed — do NOT redo them.
 The repo token is scoped to this repository only (contents read+write). If it ever
 leaks, it can be revoked without affecting anything else. Worst case, junk gets
 pushed — validation rejects it before it ever reaches the master.
+
+---
+
+## Where this verified data lives
+
+Every app verified in this repo powers the live [Elseware directory](https://elseware.fyi) — a software-alternatives directory with grounded license, platform, and pricing metadata. Key sections:
+
+- [Browse all categories](https://elseware.fyi/categories) — AI Tools, Developer Tools, Productivity, Design, Security, and more
+- [AI Tools](https://elseware.fyi/category/ai-tools) · [Developer Tools](https://elseware.fyi/category/developer-tools) · [Productivity](https://elseware.fyi/category/productivity) · [Design & Graphics](https://elseware.fyi/category/design-graphics)
+- [Compare software](https://elseware.fyi/compare) — head-to-head alternatives, e.g. [Notion vs Obsidian](https://elseware.fyi/compare/notion-vs-obsidian)
+- [Discover](https://elseware.fyi/discover) — explore the catalog
+- [About Elseware](https://elseware.fyi/about) · [For developers](https://elseware.fyi/developers) · [Pricing](https://elseware.fyi/pricing)
+
+The verification methodology behind these listings is documented in this repo's playbook below.
 
 ---
 
